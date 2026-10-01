@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100277851706802469",
+    "created_at": "2026-09-16T17:37:15.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T18:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100277851706802469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "b23.tv/GAztHoB",
+          "end": 41,
+          "expanded_url": "https://b23.tv/GAztHoB",
+          "start": 18,
+          "status": 200,
+          "unwound_url": "https://www.bilibili.com/video/BV1Ysec6yEt2/?buvid=XUEBC1AEEB1A9C76CBE62CD0A82CA9300F7DA&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=a4UmCtMlGaNFeZ%2BzMsLqtX8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=933ccc26-532a-43c6-9a2e-c12b75ed98d3&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1789580227&unique_k=GAztHoB&up_id=3546611806374254",
+          "url": "https://t.co/hchwI1Kjyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100277851706802469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【琵琶曲｜爷们vs娘们-哔哩哔哩】 https://t.co/hchwI1Kjyo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100277851706802469",
+        "created_at": "2026-09-16T17:37:15.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100277851706802469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "b23.tv/GAztHoB",
+              "end": 41,
+              "expanded_url": "https://b23.tv/GAztHoB",
+              "start": 18,
+              "status": 200,
+              "unwound_url": "https://www.bilibili.com/video/BV1Ysec6yEt2/?buvid=XUEBC1AEEB1A9C76CBE62CD0A82CA9300F7DA&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=a4UmCtMlGaNFeZ%2BzMsLqtX8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=933ccc26-532a-43c6-9a2e-c12b75ed98d3&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1789580227&unique_k=GAztHoB&up_id=3546611806374254",
+              "url": "https://t.co/hchwI1Kjyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100277851706802469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【琵琶曲｜爷们vs娘们-哔哩哔哩】 https://t.co/hchwI1Kjyo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2100277851706802469",
+        "name": "windigo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099879631554027520/jep7lkPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 73,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 812
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

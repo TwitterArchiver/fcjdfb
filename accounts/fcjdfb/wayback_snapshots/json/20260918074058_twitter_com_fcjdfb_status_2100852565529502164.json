@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2100852565529502164",
+    "created_at": "2026-09-18T07:40:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T08:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100852565529502164"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2100852565529502164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "而且让我尤为愤怒的一点是，国家在现代精神健康建设问题上一点措施都没有，却同时又指责这些人。比如恋童性欲倒错障碍。社会上天天指责和歧视如恋童，虽然我自己并没有这个情况（我都还未成年）。但是有恋童的人去哪治疗？怎么干涉？别人想解决这个事情都没有一个方法，去精神科？有什么对恋童的性欲和社会功能障碍的改善药物？有什么医用器材疗效？不去精神科的话找心理咨询疏导，连一个正规的心理咨询平台和考核都没有。你要别人怎么找？哦唯一的措施就是别人实施了性行为就要关监狱，现代心理学研究早就证实了恐吓和威胁等行为无法正相关的对行为改善有帮助。甚至连行为预警和监测都没有可以在实施前制止。也就是说连这个都做不到，许多人求路无门，就是有恋童想法没有地方能倾诉或者合理的性欲宣泄，社会对他们也是三不管。只要不出来伤害别人就行，这是否😅"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "而且让我尤为愤怒的一点是，国家在现代精神健康建设问题上一点措施都没有，却同时又指责这些人。比如恋童性欲倒错障碍。社会上天天指责和歧视如恋童，虽然我自己并没有这个情况（我都还未成年）。但是有恋童的人去哪治疗？怎么干涉？别人想解决这个事情都没有一个方法，去精神科？有什么对恋童的性欲和"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2100852565529502164",
+        "created_at": "2026-09-18T07:40:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100852565529502164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100852565529502164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "而且让我尤为愤怒的一点是，国家在现代精神健康建设问题上一点措施都没有，却同时又指责这些人。比如恋童性欲倒错障碍。社会上天天指责和歧视如恋童，虽然我自己并没有这个情况（我都还未成年）。但是有恋童的人去哪治疗？怎么干涉？别人想解决这个事情都没有一个方法，去精神科？有什么对恋童的性欲和社会功能障碍的改善药物？有什么医用器材疗效？不去精神科的话找心理咨询疏导，连一个正规的心理咨询平台和考核都没有。你要别人怎么找？哦唯一的措施就是别人实施了性行为就要关监狱，现代心理学研究早就证实了恐吓和威胁等行为无法正相关的对行为改善有帮助。甚至连行为预警和监测都没有可以在实施前制止。也就是说连这个都做不到，许多人求路无门，就是有恋童想法没有地方能倾诉或者合理的性欲宣泄，社会对他们也是三不管。只要不出来伤害别人就行，这是否😅"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "而且让我尤为愤怒的一点是，国家在现代精神健康建设问题上一点措施都没有，却同时又指责这些人。比如恋童性欲倒错障碍。社会上天天指责和歧视如恋童，虽然我自己并没有这个情况（我都还未成年）。但是有恋童的人去哪治疗？怎么干涉？别人想解决这个事情都没有一个方法，去精神科？有什么对恋童的性欲和"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2100852565529502164",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 75,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 907
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

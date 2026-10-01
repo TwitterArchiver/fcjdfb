@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099004661999226880"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099004685760049589",
+    "created_at": "2026-09-13T05:18:09.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T06:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099004685760049589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pan.quark.cn/s/810611e4c3ba…",
+          "end": 37,
+          "expanded_url": "https://pan.quark.cn/s/810611e4c3ba#/list/share",
+          "start": 14,
+          "unwound_url": "https://pan.quark.cn/s/810611e4c3ba#/list/share",
+          "url": "https://t.co/UXlEWNh24X"
+        },
+        {
+          "display_url": "pic.x.com/FujuoUdEYE",
+          "end": 83,
+          "expanded_url": "https://x.com/fcjdfb/status/2099004685760049589/photo/1",
+          "media_key": "3_2099004661999226880",
+          "start": 60,
+          "url": "https://t.co/FujuoUdEYE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099004685760049589",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099004661999226880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pan.quark.cn/s/810611e4c3ba…",
+            "end": 37,
+            "expanded_url": "https://pan.quark.cn/s/810611e4c3ba#/list/share",
+            "start": 14,
+            "url": "https://t.co/oYyFPf5bFe"
+          }
+        ]
+      },
+      "text": "无限大偷跑焚决，可以上手玩\nhttps://t.co/oYyFPf5bFe\n先下载文件夹，然后安装前置环境内的两个环境\n接着下载专用客户端文件夹下的客户端，链接在文档里面下载完替换后缀然后解压，接着本地服务器文件夹下的修改版也解压。然后客户端补丁处选择解压并把dll文件复制到客户端的文件夹下和服务器文件夹下面。最终即可游玩，先启动服务器文件夹的start.cmd文件以管理员方式。然后客户端下启动pcl前缀的无限大启动器即可。进入游戏后的账号密码在启动教程指南里"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无限大偷跑焚决，可以上手玩\nhttps://t.co/UXlEWNh24X\n先下载文件夹，然后安装前置环境内的两个环境 https://t.co/FujuoUdEYE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2158,
+        "media_key": "3_2099004661999226880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSEpnnxaUAA0Uch.jpg",
+        "width": 3824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099004661999226880"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099004685760049589",
+        "created_at": "2026-09-13T05:18:09.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099004685760049589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pan.quark.cn/s/810611e4c3ba…",
+              "end": 37,
+              "expanded_url": "https://pan.quark.cn/s/810611e4c3ba#/list/share",
+              "start": 14,
+              "unwound_url": "https://pan.quark.cn/s/810611e4c3ba#/list/share",
+              "url": "https://t.co/UXlEWNh24X"
+            },
+            {
+              "display_url": "pic.x.com/FujuoUdEYE",
+              "end": 83,
+              "expanded_url": "https://x.com/fcjdfb/status/2099004685760049589/photo/1",
+              "media_key": "3_2099004661999226880",
+              "start": 60,
+              "url": "https://t.co/FujuoUdEYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099004685760049589",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099004661999226880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "pan.quark.cn/s/810611e4c3ba…",
+                "end": 37,
+                "expanded_url": "https://pan.quark.cn/s/810611e4c3ba#/list/share",
+                "start": 14,
+                "url": "https://t.co/oYyFPf5bFe"
+              }
+            ]
+          },
+          "text": "无限大偷跑焚决，可以上手玩\nhttps://t.co/oYyFPf5bFe\n先下载文件夹，然后安装前置环境内的两个环境\n接着下载专用客户端文件夹下的客户端，链接在文档里面下载完替换后缀然后解压，接着本地服务器文件夹下的修改版也解压。然后客户端补丁处选择解压并把dll文件复制到客户端的文件夹下和服务器文件夹下面。最终即可游玩，先启动服务器文件夹的start.cmd文件以管理员方式。然后客户端下启动pcl前缀的无限大启动器即可。进入游戏后的账号密码在启动教程指南里"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无限大偷跑焚决，可以上手玩\nhttps://t.co/UXlEWNh24X\n先下载文件夹，然后安装前置环境内的两个环境 https://t.co/FujuoUdEYE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099004685760049589",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 65,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 593
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

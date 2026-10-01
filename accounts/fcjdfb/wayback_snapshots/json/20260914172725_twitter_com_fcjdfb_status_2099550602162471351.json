@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099406827641299426",
+    "created_at": "2026-09-14T17:27:25.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T18:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099550602162471351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1833113523032915968",
+          "start": 0,
+          "username": "atlasurfav"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099550602162471351",
+    "in_reply_to_user_id": "1833113523032915968",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099406827641299426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@atlasurfav yes"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3320,
+        "media_key": "3_2099406734267965440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKXTTsa4AADFjM.jpg",
+        "width": 3110
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099406827641299426",
+        "created_at": "2026-09-14T17:27:25.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T18:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099550602162471351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1833113523032915968",
+              "start": 0,
+              "username": "atlasurfav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099550602162471351",
+        "in_reply_to_user_id": "1833113523032915968",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099406827641299426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@atlasurfav yes"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099406734267965440"
+          ]
+        },
+        "author_id": "1833113523032915968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Spider-Man",
+              "id": "1012672762442182657",
+              "name": "Spider-Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spider-Man",
+              "id": "1012672762442182657",
+              "name": "Spider-Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2099406827641299426",
+        "created_at": "2026-09-14T07:56:07.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099406827641299426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPkuX7zcYX",
+              "end": 173,
+              "expanded_url": "https://x.com/atlasurfav/status/2099406827641299426/photo/1",
+              "media_key": "3_2099406734267965440",
+              "start": 150,
+              "url": "https://t.co/WPkuX7zcYX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099406827641299426",
+        "lang": "ar",
+        "media_metadata": [
+          {
+            "media_key": "3_2099406734267965440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1575,
+          "impression_count": 2293616,
+          "like_count": 69726,
+          "quote_count": 349,
+          "reply_count": 324,
+          "retweet_count": 2825
+        },
+        "reply_settings": "everyone",
+        "text": "مين يحكي لليونسيف أنه احنا زهقنا اللون الازرق وشعاركم يلي اكبر من الشنتة \nالاولاد الصغار بدهم سبايدرمان لولوكاتي \nمش شعار يذكرهم لأنهم لاجئين ومساكين https://t.co/WPkuX7zcYX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099550602162471351",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 72,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 748
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-09T12:04:17.000Z",
+        "description": "أنا مقتول حتى إشعار آخر..",
+        "id": "1833113523032915968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099544807093719486",
+        "name": "Atlas",
+        "pinned_tweet_id": "1878461749013168300",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1833113523032915968/1770750456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001807928261582848/pWgOZrit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 595,
+          "like_count": 1516,
+          "listed_count": 3,
+          "media_count": 1289,
+          "tweet_count": 13509
+        },
+        "url": "",
+        "username": "atlasurfav",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

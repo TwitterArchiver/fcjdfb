@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034076843897184257"
+      ],
+      "media_source_tweet_id": [
+        "2034076847713988670"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034208069463498898",
+    "created_at": "2026-03-18T09:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T10:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034208069463498898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PrA8D1bp1f",
+          "end": 60,
+          "expanded_url": "https://x.com/amber_toffee/status/2034076847713988670/photo/1",
+          "media_key": "3_2034076843897184257",
+          "start": 37,
+          "url": "https://t.co/PrA8D1bp1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034208069463498898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034076847713988670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 你们西方跨性别/酷儿小孩不玩这个的吗 https://t.co/PrA8D1bp1f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2034076843897184257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDp-HM5W4AEmW_R.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034076843897184257"
+          ],
+          "media_source_tweet_id": [
+            "2034076847713988670"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034208069463498898",
+        "created_at": "2026-03-18T09:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034208069463498898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrA8D1bp1f",
+              "end": 60,
+              "expanded_url": "https://x.com/amber_toffee/status/2034076847713988670/photo/1",
+              "media_key": "3_2034076843897184257",
+              "start": 37,
+              "url": "https://t.co/PrA8D1bp1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034208069463498898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034076847713988670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 你们西方跨性别/酷儿小孩不玩这个的吗 https://t.co/PrA8D1bp1f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034076843897184257"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034076847713988670",
+        "created_at": "2026-03-18T01:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T02:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034076847713988670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrA8D1bp1f",
+              "end": 42,
+              "expanded_url": "https://x.com/amber_toffee/status/2034076847713988670/photo/1",
+              "media_key": "3_2034076843897184257",
+              "start": 19,
+              "url": "https://t.co/PrA8D1bp1f"
+            },
+            {
+              "display_url": "x.com/demonesschara/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/demonesschara/status/2032960667930734638",
+              "start": 43,
+              "url": "https://t.co/yKt5OURfgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034076847713988670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 47795,
+          "like_count": 1211,
+          "quote_count": 15,
+          "reply_count": 27,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032960667930734638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们西方跨性别/酷儿小孩不玩这个的吗 https://t.co/PrA8D1bp1f https://t.co/yKt5OURfgL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 57
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "🏳️‍⚧️ ⚢ / ☭ / ɪɴᴛᴘ / ᴘʜᴅ @wgsi / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 25,
+                "username": "wgsi"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22970,
+          "following_count": 2657,
+          "like_count": 38632,
+          "listed_count": 1,
+          "media_count": 522,
+          "tweet_count": 20588
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

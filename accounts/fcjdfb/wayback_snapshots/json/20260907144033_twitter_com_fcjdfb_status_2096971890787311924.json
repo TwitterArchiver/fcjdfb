@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096807307602444363",
+    "created_at": "2026-09-07T14:40:33.000Z",
+    "display_text_range": [
+      13,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096971890787311924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040032210267324416",
+          "start": 0,
+          "username": "Anle1165909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096971890787311924",
+    "in_reply_to_user_id": "2040032210267324416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096807307602444363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anle1165909 语言真的难过，天生语言天赋不太行。不然早润了人生几乎全圆满了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096807307602444363",
+        "created_at": "2026-09-07T14:40:33.000Z",
+        "display_text_range": [
+          13,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096971890787311924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040032210267324416",
+              "start": 0,
+              "username": "Anle1165909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096971890787311924",
+        "in_reply_to_user_id": "2040032210267324416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096807307602444363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anle1165909 语言真的难过，天生语言天赋不太行。不然早润了人生几乎全圆满了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040032210267324416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2096807307602444363",
+        "created_at": "2026-09-07T03:46:33.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096807307602444363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096807307602444363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 217,
+                "start": 214,
+                "tag": "出国"
+              },
+              {
+                "end": 223,
+                "start": 218,
+                "tag": "人生选择"
+              },
+              {
+                "end": 227,
+                "start": 224,
+                "tag": "认知"
+              }
+            ]
+          },
+          "text": "你为什么要出国？\n\n具备“天选出国圣体”的人，通常有这些特征：\n\n1. 成长经历较为痛苦\n2. 原生家庭极其糟糕\n3. 理工类专业毕业\n4. 超越大多数人的外语能力\n5. 喜欢或能接受白人餐\n6. 精神追求大于物质欲望\n7. 童年接触较多外文歌与电影\n8. 边界感较强，喜欢独处与思考\n9. 性少数群体\n10. 拥有超越同龄人的财富积累\n\n——\n\n不是每个人都需要出国。\n但如果以上你中了7条以上，你可能早就想过这个问题了。\n\n#出国 #人生选择 #认知"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 13010,
+          "like_count": 106,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "你为什么要出国？\n\n具备“天选出国圣体”的人，通常有这些特征：\n\n1. 成长经历较为痛苦\n2. 原生家庭极其糟糕\n3. 理工类专业毕业\n4. 超越大多数人的外语能力\n5. 喜欢或能接受白人餐\n6. 精神追求大于物质欲望\n7. 童年接触较多外文歌与电影\n8. 边界感较强，喜欢独处与思考\n9. 性少数群体\n10."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096971890787311924",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 55,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T11:42:45.000Z",
+        "description": "日常分享心理学、冷知识与成长思考\nAI直冲/代充，日抛供应\n有需要可私信交流\n飞机群：https://t.co/lm7cTbaSaI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+ezZJmgU9OiNmO…",
+                "end": 66,
+                "expanded_url": "https://t.me/+ezZJmgU9OiNmOWNl",
+                "start": 43,
+                "url": "https://t.co/lm7cTbaSaI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wzyp.cn/shop/NT390SXZ",
+                "end": 23,
+                "expanded_url": "https://wzyp.cn/shop/NT390SXZ",
+                "start": 0,
+                "url": "https://t.co/V64bK5L7Up"
+              }
+            ]
+          }
+        },
+        "id": "2040032210267324416",
+        "is_identity_verified": false,
+        "location": "卡网👉",
+        "most_recent_tweet_id": "2096941722861183120",
+        "name": "Anle",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040032210267324416/1788578427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096075958373822464/Tnx-Yj5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 2176,
+          "like_count": 335,
+          "listed_count": 4,
+          "media_count": 130,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/V64bK5L7Up",
+        "username": "Anle1165909",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

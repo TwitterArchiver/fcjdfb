@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104044609580188053",
+    "created_at": "2026-09-27T20:10:16.000Z",
+    "display_text_range": [
+      10,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T21:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104302623189021030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4373117295",
+          "start": 0,
+          "username": "XianGuiE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104302623189021030",
+    "in_reply_to_user_id": "4373117295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104044609580188053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XianGuiE 公然反对当权者是自己决定的那就自己承担啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104044609580188053",
+        "created_at": "2026-09-27T20:10:16.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T21:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104302623189021030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4373117295",
+              "start": 0,
+              "username": "XianGuiE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104302623189021030",
+        "in_reply_to_user_id": "4373117295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104044609580188053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XianGuiE 公然反对当权者是自己决定的那就自己承担啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4373117295",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2104044609580188053",
+        "created_at": "2026-09-27T03:05:00.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104044609580188053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xianguie1/stat…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/xianguie1/status/1573874805710938114",
+              "start": 125,
+              "url": "https://t.co/jyoHuyrrHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104044609580188053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10337,
+          "like_count": 327,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1573874805710938114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2017年，董瑶琼在上海闹市直播泼墨习近平画像。她因此被强迫关进精神病院，并被强制吃药人变肥胖迟钝。2021年初再度失踪被关株洲精神病院。\n期间其父为营救她被捕，2022年9月23日惨死于狱中。\n今天是泼墨女英雄董瑶琼37岁生日。请勿忘董瑶琼!🙏💐 https://t.co/jyoHuyrrHh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104302623189021030",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 67,
+          "like_count": 812,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1479
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-12-04T14:57:31.000Z",
+        "description": "五千年专制到此告一段落，个人崇拜从今可以休矣！ 我殷切的期望，中国的异议群体在未来的日子里，能夠改變目前这样的一盘散沙，各自为战，能忍则忍，不能忍也能忍的状态，能够堅定起来担当责任，勇敢的向獨裁者的監獄方向挺進，向群体的组织化方向挺进，必要的話，也應該考慮如何盡快的轉入地下。 --------------余志坚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E9%B2%9C%E4%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E9%B2%9C%E4%BA%8E%E6%A1%82%E5%A8%A5",
+                "start": 0,
+                "url": "https://t.co/O6VQEVJRGq"
+              }
+            ]
+          }
+        },
+        "id": "4373117295",
+        "is_identity_verified": false,
+        "location": "美国印地安那州",
+        "most_recent_tweet_id": "2104241514847035436",
+        "name": "鲜于桂娥（시안 유 구이에）",
+        "pinned_tweet_id": "1144605566200963072",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4373117295/1622734357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400474931566088195/OWR4fK8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25231,
+          "following_count": 1226,
+          "like_count": 204662,
+          "listed_count": 66,
+          "media_count": 4386,
+          "tweet_count": 32350
+        },
+        "url": "https://t.co/O6VQEVJRGq",
+        "username": "XianGuiE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

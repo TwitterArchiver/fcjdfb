@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2103473945953677672",
+    "created_at": "2026-09-27T16:16:00.000Z",
+    "display_text_range": [
+      26,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T17:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104243671726162066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2094381539102732289",
+          "start": 0,
+          "username": "kaffeetomas"
+        },
+        {
+          "end": 25,
+          "id": "1880979169297022976",
+          "start": 13,
+          "username": "Wesley10032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104243671726162066",
+    "in_reply_to_user_id": "2094381539102732289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103473945953677672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaffeetomas @Wesley10032 😭还能回来吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2103473945953677672",
+        "created_at": "2026-09-27T16:16:00.000Z",
+        "display_text_range": [
+          26,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104243671726162066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2094381539102732289",
+              "start": 0,
+              "username": "kaffeetomas"
+            },
+            {
+              "end": 25,
+              "id": "1880979169297022976",
+              "start": 13,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104243671726162066",
+        "in_reply_to_user_id": "2094381539102732289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103473945953677672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaffeetomas @Wesley10032 😭还能回来吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094381539102732289",
+        "conversation_id": "2103473945953677672",
+        "created_at": "2026-09-25T13:17:24.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103473945953677672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1880979169297022976",
+              "start": 8,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103473945953677672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2589,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\nWes酱 @Wesley10032\n 已经被晶了😭tg群和X账号目前被晶哥管控监视\n为了避免大家被连累或被查\n请不要相信任何说wes活了的消息或自称wes的人\n在这希望大家不要把墙外跟墙外内作关联"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104243671726162066",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 67,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1429
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T11:09:05.000Z",
+        "description": "MTX斷糖🍥|家住汪星|成年犬汪～\nDie Würde des Menschen ist unantastbar\nSOL贊助：Fp98BoTr9noCmbKvW1jG9RVsWFZ3c3iqsHwkq1ktXAa7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+9ACYS1BU-Z1mN…",
+                "end": 23,
+                "expanded_url": "http://t.me/+9ACYS1BU-Z1mNjYx",
+                "start": 0,
+                "url": "https://t.co/igPbHan8yo"
+              }
+            ]
+          }
+        },
+        "id": "2094381539102732289",
+        "is_identity_verified": false,
+        "location": "汪星（台灣）",
+        "most_recent_tweet_id": "2104226214143811714",
+        "name": "Kaffee🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2104208944004751762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094381539102732289/1788488108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095694866307252224/h79FVuBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 46,
+          "like_count": 3109,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1523
+        },
+        "url": "https://t.co/igPbHan8yo",
+        "username": "kaffeetomas",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "To be or not to be, that is a question.",
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "インターネット",
+        "most_recent_tweet_id": "2099004486316663292",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 1863,
+          "like_count": 28660,
+          "listed_count": 2,
+          "media_count": 542,
+          "tweet_count": 4194
+        },
+        "url": "",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037598013884145664"
+      ],
+      "media_source_tweet_id": [
+        "2037598021190643843"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2037810072345321660",
+    "created_at": "2026-03-28T08:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037810072345321660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1574300405026017280",
+          "start": 3,
+          "username": "yantanzhang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HRFQU4xJN3",
+          "end": 53,
+          "expanded_url": "https://x.com/yantanzhang/status/2037598021190643843/photo/1",
+          "media_key": "3_2037598013884145664",
+          "start": 30,
+          "url": "https://t.co/HRFQU4xJN3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037810072345321660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037598021190643843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yantanzhang: 这种男闺密你们能接受吗🤮 https://t.co/HRFQU4xJN3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2037598013884145664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEcAmRSbIAAuxi9.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037598013884145664"
+          ],
+          "media_source_tweet_id": [
+            "2037598021190643843"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2037810072345321660",
+        "created_at": "2026-03-28T08:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037810072345321660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1574300405026017280",
+              "start": 3,
+              "username": "yantanzhang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HRFQU4xJN3",
+              "end": 53,
+              "expanded_url": "https://x.com/yantanzhang/status/2037598021190643843/photo/1",
+              "media_key": "3_2037598013884145664",
+              "start": 30,
+              "url": "https://t.co/HRFQU4xJN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037810072345321660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037598021190643843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yantanzhang: 这种男闺密你们能接受吗🤮 https://t.co/HRFQU4xJN3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037598013884145664"
+          ]
+        },
+        "author_id": "1574300405026017280",
+        "conversation_id": "2037598021190643843",
+        "created_at": "2026-03-27T18:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037598021190643843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HRFQU4xJN3",
+              "end": 36,
+              "expanded_url": "https://x.com/yantanzhang/status/2037598021190643843/photo/1",
+              "media_key": "3_2037598013884145664",
+              "start": 13,
+              "url": "https://t.co/HRFQU4xJN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037598021190643843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 48121,
+          "like_count": 157,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "这种男闺密你们能接受吗🤮 https://t.co/HRFQU4xJN3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 119
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T07:30:49.000Z",
+        "description": "自由主义男性，拒绝宏大叙事，热爱新鲜事物，为男性发声超十年《舔狗经济学》《男性自救指南》作者",
+        "id": "1574300405026017280",
+        "name": "颜克权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097044138274817/NdI_xr1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45286,
+          "following_count": 263,
+          "like_count": 2726,
+          "listed_count": 128,
+          "media_count": 3993,
+          "tweet_count": 4832
+        },
+        "username": "yantanzhang",
+        "verified": true
+      }
+    ]
+  }
+}

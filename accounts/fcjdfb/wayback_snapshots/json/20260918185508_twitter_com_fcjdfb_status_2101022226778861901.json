@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2101019589299908848",
+    "created_at": "2026-09-18T18:55:08.000Z",
+    "display_text_range": [
+      12,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T19:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101022226778861901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975937425190113280",
+          "start": 0,
+          "username": "Tillem9810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101022226778861901",
+    "in_reply_to_user_id": "1975937425190113280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101021647352561895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tillem9810 咋睡这么早，今天去吃了一家低端日料好难吃🤮恶心到我了当时。湖南人吃辣这块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2101019589299908848",
+        "created_at": "2026-09-18T18:55:08.000Z",
+        "display_text_range": [
+          12,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T19:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101022226778861901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975937425190113280",
+              "start": 0,
+              "username": "Tillem9810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101022226778861901",
+        "in_reply_to_user_id": "1975937425190113280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101021647352561895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tillem9810 咋睡这么早，今天去吃了一家低端日料好难吃🤮恶心到我了当时。湖南人吃辣这块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975937425190113280",
+        "conversation_id": "2101019589299908848",
+        "created_at": "2026-09-18T18:52:50.000Z",
+        "display_text_range": [
+          8,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T19:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101021647352561895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101021647352561895",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101021319584432169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb 我睡完起来了，21点多睡到0点，吃太辣了肚子疼睡不着"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101022226778861901",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 76,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 958
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-08T14:52:59.000Z",
+        "description": "24/MTX/ADHD/欢迎一切友好的接触，拎不清的勿扰/话很多/半个电影爱好者/游戏文化爱好者，如果你也喜欢Ellie Williams你就是我的朋友/英语学习中",
+        "id": "1975937425190113280",
+        "is_identity_verified": false,
+        "location": "我不好说我擦",
+        "most_recent_tweet_id": "2101021731515441166",
+        "name": "Tellim",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975937425190113280/1759935887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100794101297999872/bU45RMWt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "Tillem9810",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

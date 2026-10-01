@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104188304967225823",
+    "created_at": "2026-09-27T12:36:00.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104188304967225823"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104188304967225823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "据我观察到的消息来说，目前已经可以实现移植子宫并且可以生育了。是的你没听错，国内也有成功案例，西安哪个来自。理论阶段现在手术费用几十万吧，难度好像是不算特别大。费用降下来时间问题\n不考虑自己基因单纯想生殖也可以了其实，然后男性体细胞转卵子十几年差不多也能成功了。目前小白鼠已经完全跑通，现在10后跨想完全实现也不是不可能了。可惜最大问题是伦理审查不知道啥时候能过审了"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "据我观察到的消息来说，目前已经可以实现移植子宫并且可以生育了。是的你没听错，国内也有成功案例，西安哪个来自。理论阶段现在手术费用几十万吧，难度好像是不算特别大。费用降下来时间问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104188304967225823",
+        "created_at": "2026-09-27T12:36:00.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104188304967225823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104188304967225823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "据我观察到的消息来说，目前已经可以实现移植子宫并且可以生育了。是的你没听错，国内也有成功案例，西安哪个来自。理论阶段现在手术费用几十万吧，难度好像是不算特别大。费用降下来时间问题\n不考虑自己基因单纯想生殖也可以了其实，然后男性体细胞转卵子十几年差不多也能成功了。目前小白鼠已经完全跑通，现在10后跨想完全实现也不是不可能了。可惜最大问题是伦理审查不知道啥时候能过审了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "据我观察到的消息来说，目前已经可以实现移植子宫并且可以生育了。是的你没听错，国内也有成功案例，西安哪个来自。理论阶段现在手术费用几十万吧，难度好像是不算特别大。费用降下来时间问题"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104188304967225823",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 67,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1403
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

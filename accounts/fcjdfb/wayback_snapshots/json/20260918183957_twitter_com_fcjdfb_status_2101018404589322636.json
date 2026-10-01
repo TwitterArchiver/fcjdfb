@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100918175156347359",
+    "created_at": "2026-09-18T18:39:57.000Z",
+    "display_text_range": [
+      12,
+      154
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T19:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101018404589322636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2099282103389331456",
+          "start": 0,
+          "username": "Tsukimixyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101018404589322636",
+    "in_reply_to_user_id": "2099282103389331456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "逻辑上不太能说得通，跨性别存在无法扭转也没有确切成因。相当于不管是否支持都会有那么一拨人，那存在医疗服务（而且还没法享受医保）外加让trans群体回到社会环境创造劳动价值其实是更好的。但我还是要说别人就是团队拍个小片子不代表任何政治上某位一体的发表看法了，中推跨圈一个小圈子别把自己想太大"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100918175156347359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsukimixyn 逻辑上不太能说得通，跨性别存在无法扭转也没有确切成因。相当于不管是否支持都会有那么一拨人，那存在医疗服务（而且还没法享受医保）外加让trans群体回到社会环境创造劳动价值其实是更好的。但我还是要说别人就是团队拍个小片子不代表任何政治上某位一体的发表看法了，中推跨圈一个小圈子别把自己想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100918175156347359",
+        "created_at": "2026-09-18T18:39:57.000Z",
+        "display_text_range": [
+          12,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T19:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101018404589322636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2099282103389331456",
+              "start": 0,
+              "username": "Tsukimixyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101018404589322636",
+        "in_reply_to_user_id": "2099282103389331456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "逻辑上不太能说得通，跨性别存在无法扭转也没有确切成因。相当于不管是否支持都会有那么一拨人，那存在医疗服务（而且还没法享受医保）外加让trans群体回到社会环境创造劳动价值其实是更好的。但我还是要说别人就是团队拍个小片子不代表任何政治上某位一体的发表看法了，中推跨圈一个小圈子别把自己想太大"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100918175156347359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsukimixyn 逻辑上不太能说得通，跨性别存在无法扭转也没有确切成因。相当于不管是否支持都会有那么一拨人，那存在医疗服务（而且还没法享受医保）外加让trans群体回到社会环境创造劳动价值其实是更好的。但我还是要说别人就是团队拍个小片子不代表任何政治上某位一体的发表看法了，中推跨圈一个小圈子别把自己想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2099282103389331456",
+        "conversation_id": "2100918175156347359",
+        "created_at": "2026-09-18T12:01:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100918175156347359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zza2ku/status/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/zza2ku/status/2099394294125617210",
+              "start": 141,
+              "url": "https://t.co/yvm8mfKZZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100918175156347359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 954,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099394294125617210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们真的会支持这个吗？他们作为复辟的政权，作为投向资本主义的叛徒，必然是代表资产阶级利益的。跨性别的存在意味着不能产生子嗣，不能满足资本主义的劳动力再生产。因此资本主义天然的不会去真正支持跨性别，只会作为一种政治策略来使用。比如说这个吧。招几个家长党，合着就你中有良好的环境🤣🤣🤣 https://t.co/yvm8mfKZZV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101018404589322636",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 76,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 952
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-13T23:41:40.000Z",
+        "description": "打死你喵！个人QQ： 1069616145︳xyn一只🍥︳革命平权☆︳马列毛左派🚩☭︳前基督徒✙︳可以加我QQ来群里玩♡︳Commist🚩☭︳MtF🏳‍⚧︳有证含糖，永远未术︳一起阅读︳交流用药心得🫶︳纯良㊣︳",
+        "id": "2099282103389331456",
+        "is_identity_verified": false,
+        "location": "湖北武汉",
+        "most_recent_tweet_id": "2100997465046667366",
+        "name": "🍥月見夢曉萍🍥",
+        "pinned_tweet_id": "2100772711702409497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2099282103389331456/1789361953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099362291628253184/xNWUjs-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 132,
+          "like_count": 421,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "Tsukimixyn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

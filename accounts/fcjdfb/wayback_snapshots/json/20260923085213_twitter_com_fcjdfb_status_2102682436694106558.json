@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102682414393012224"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2102682436694106558",
+    "created_at": "2026-09-23T08:52:13.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T09:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102682436694106558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8RLV2ZGtMw",
+          "end": 153,
+          "expanded_url": "https://x.com/fcjdfb/status/2102682436694106558/photo/1",
+          "media_key": "3_2102682414393012224",
+          "start": 130,
+          "url": "https://t.co/8RLV2ZGtMw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102682436694106558",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102682414393012224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的插件制作完了，在浏览器发布或引用/回复文字，图片，视频，投票，均可以自动捕获到浏览器内本地保存。（需把媒体保存到本地开启）来解决胡乱封号导致的无法抢救读取数据的问题。并且删除或编辑帖子会同时记录所有版本并标注，可以选择一键删除编辑和已删除的帖子的本地记录 https://t.co/8RLV2ZGtMw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1730,
+        "media_key": "3_2102682414393012224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS46g_FbMAA64TH.jpg",
+        "width": 1754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102682414393012224"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2102682436694106558",
+        "created_at": "2026-09-23T08:52:13.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102682436694106558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RLV2ZGtMw",
+              "end": 153,
+              "expanded_url": "https://x.com/fcjdfb/status/2102682436694106558/photo/1",
+              "media_key": "3_2102682414393012224",
+              "start": 130,
+              "url": "https://t.co/8RLV2ZGtMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102682436694106558",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102682414393012224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的插件制作完了，在浏览器发布或引用/回复文字，图片，视频，投票，均可以自动捕获到浏览器内本地保存。（需把媒体保存到本地开启）来解决胡乱封号导致的无法抢救读取数据的问题。并且删除或编辑帖子会同时记录所有版本并标注，可以选择一键删除编辑和已删除的帖子的本地记录 https://t.co/8RLV2ZGtMw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材（简介施工中）嗯对我懒得写等我写的时候吧）\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2102682436694106558",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 64,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1220
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

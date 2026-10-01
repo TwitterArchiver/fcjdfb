@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098119796076556288"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2098070014880583895",
+    "created_at": "2026-09-10T18:41:57.000Z",
+    "display_text_range": [
+      12,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T19:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098119804058210481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1vUZjNbgnp",
+          "end": 141,
+          "expanded_url": "https://x.com/fcjdfb/status/2098119804058210481/photo/1",
+          "media_key": "3_2098119796076556288",
+          "start": 118,
+          "url": "https://t.co/1vUZjNbgnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098119804058210481",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098119796076556288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "啊啊啊啊啊宿舍不让做饭吧这部分成本省不了，要不就只能方便面了。但营养不太好...7000没法过吧，如果单算吃饭可能还凑合，如果还要交水电费通话套餐费这些外加生活其他用品缺口还是不少。比如推特激励之类能补贴一点？\n另一种主食方便面，想吃牌子货，那就是今麦郎，今麦郎价格比康师傅白象便宜太多了。\n这样的120克大面块，一箱33.5元，合下来一袋1.4元。\n同样规格的康师傅，价格来到了2元一袋\n只从价格上，2袋康师傅≈3袋今麦郎。\n穷鬼肯定买今麦郎了。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098070014880583895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae 啊啊啊啊啊宿舍不让做饭吧这部分成本省不了，要不就只能方便面了。但营养不太好...7000没法过吧，如果单算吃饭可能还凑合，如果还要交水电费通话套餐费这些外加生活其他用品缺口还是不少。比如推特激励之类能补贴一点？ https://t.co/1vUZjNbgnp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1857,
+        "media_key": "3_2098119796076556288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR4E1pVbsAAhbam.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098119796076556288"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098070014880583895",
+        "created_at": "2026-09-10T18:41:57.000Z",
+        "display_text_range": [
+          12,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098119804058210481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vUZjNbgnp",
+              "end": 141,
+              "expanded_url": "https://x.com/fcjdfb/status/2098119804058210481/photo/1",
+              "media_key": "3_2098119796076556288",
+              "start": 118,
+              "url": "https://t.co/1vUZjNbgnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098119804058210481",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098119796076556288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "啊啊啊啊啊宿舍不让做饭吧这部分成本省不了，要不就只能方便面了。但营养不太好...7000没法过吧，如果单算吃饭可能还凑合，如果还要交水电费通话套餐费这些外加生活其他用品缺口还是不少。比如推特激励之类能补贴一点？\n另一种主食方便面，想吃牌子货，那就是今麦郎，今麦郎价格比康师傅白象便宜太多了。\n这样的120克大面块，一箱33.5元，合下来一袋1.4元。\n同样规格的康师傅，价格来到了2元一袋\n只从价格上，2袋康师傅≈3袋今麦郎。\n穷鬼肯定买今麦郎了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098070014880583895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae 啊啊啊啊啊宿舍不让做饭吧这部分成本省不了，要不就只能方便面了。但营养不太好...7000没法过吧，如果单算吃饭可能还凑合，如果还要交水电费通话套餐费这些外加生活其他用品缺口还是不少。比如推特激励之类能补贴一点？ https://t.co/1vUZjNbgnp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813768883540725760",
+        "conversation_id": "2098070014880583895",
+        "created_at": "2026-09-10T15:24:06.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098070014880583895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098070014880583895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挑战7000块钱广州活一年\n啊啊啊这咋过啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098119804058210481",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 63,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/8kxr0UGOJ6"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2098070014880583895",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2096629870264729980",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 1433,
+          "like_count": 13309,
+          "listed_count": 3,
+          "media_count": 662,
+          "tweet_count": 5681
+        },
+        "url": "https://t.co/8kxr0UGOJ6",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

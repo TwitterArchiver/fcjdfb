@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099225730223902811",
+    "created_at": "2026-09-13T19:56:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T20:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099225730223902811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1417564870770249729",
+          "start": 3,
+          "username": "thochg1"
+        },
+        {
+          "end": 24,
+          "id": "1778719380639014913",
+          "start": 13,
+          "username": "Ancde_1118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099225730223902811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099205028556988651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thochg1: @Ancde_1118 我小时候觉得很多人都很笨，后来学到了很多东西后觉得我的看法有些狭隘有些傲慢了，决定改掉这个问题，结果被网络上那么多蠢比的蠢比发言折磨了。现在我觉得大部分人都是真的纯傻逼，毫无思考能力又极度傲慢，似乎对它们的无知感到无比自豪。我十…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099225730223902811",
+        "created_at": "2026-09-13T19:56:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T20:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099225730223902811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1417564870770249729",
+              "start": 3,
+              "username": "thochg1"
+            },
+            {
+              "end": 24,
+              "id": "1778719380639014913",
+              "start": 13,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099225730223902811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099205028556988651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thochg1: @Ancde_1118 我小时候觉得很多人都很笨，后来学到了很多东西后觉得我的看法有些狭隘有些傲慢了，决定改掉这个问题，结果被网络上那么多蠢比的蠢比发言折磨了。现在我觉得大部分人都是真的纯傻逼，毫无思考能力又极度傲慢，似乎对它们的无知感到无比自豪。我十…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417564870770249729",
+        "conversation_id": "2098985787446755362",
+        "created_at": "2026-09-13T18:34:14.000Z",
+        "display_text_range": [
+          12,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T19:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099205028556988651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099205028556988651",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098985787446755362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 我小时候觉得很多人都很笨，后来学到了很多东西后觉得我的看法有些狭隘有些傲慢了，决定改掉这个问题，结果被网络上那么多蠢比的蠢比发言折磨了。现在我觉得大部分人都是真的纯傻逼，毫无思考能力又极度傲慢，似乎对它们的无知感到无比自豪。我十分嫉妒他们的自信和坚定。有时我也希望我能那么无知。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099225730223902811",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 66,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 648
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-20T19:19:46.000Z",
+        "description": "",
+        "id": "1417564870770249729",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099205028556988651",
+        "name": "thochg",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090350998300905472/pMOYwG41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 1658,
+          "like_count": 12036,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "thochg1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098985787446755362",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 707,
+          "like_count": 152,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 2050
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

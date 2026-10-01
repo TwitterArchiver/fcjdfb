@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100849698101944352",
+    "created_at": "2026-09-18T10:49:08.000Z",
+    "display_text_range": [
+      12,
+      152
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100899921960575218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100899921960575218",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "倒不是，人的冲动由杏仁核控制。准备实施时候冲动杏仁核先行。后面前额叶介入大脑会进行评估。背外前额叶会评估这个行为的综合考量，很多人评估就会停下了。腹外前额叶在最后还会企图刹车，功能不足就无法抑制。我觉得从生物角度来解释挺合理的，这种状态下人的前额叶无法正常工作。外部截断药物渠道后杏仁核冲动就没有地方释放激素慢慢回落前额叶就能正常工作了。但我觉得这完全没解决问题，许多自杀者不是急性自杀想法。有相当多一部分是长期有自杀想法倾向的，不关注这个没法真正干涉精神健康。自杀行为干预完全是最后兜底的方式，真正需要的是社会支持和药物干涉😇大多数人还是别想能出现了，而且这种环境下只会一直有应激源。唉"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100849698101944352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moningmeng 倒不是，人的冲动由杏仁核控制。准备实施时候冲动杏仁核先行。后面前额叶介入大脑会进行评估。背外前额叶会评估这个行为的综合考量，很多人评估就会停下了。腹外前额叶在最后还会企图刹车，功能不足就无法抑制。我觉得从生物角度来解释挺合理的，这种状态下人的前额叶无法正常工作。外部截断药物渠道后"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100849698101944352",
+        "created_at": "2026-09-18T10:49:08.000Z",
+        "display_text_range": [
+          12,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100899921960575218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100899921960575218",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "倒不是，人的冲动由杏仁核控制。准备实施时候冲动杏仁核先行。后面前额叶介入大脑会进行评估。背外前额叶会评估这个行为的综合考量，很多人评估就会停下了。腹外前额叶在最后还会企图刹车，功能不足就无法抑制。我觉得从生物角度来解释挺合理的，这种状态下人的前额叶无法正常工作。外部截断药物渠道后杏仁核冲动就没有地方释放激素慢慢回落前额叶就能正常工作了。但我觉得这完全没解决问题，许多自杀者不是急性自杀想法。有相当多一部分是长期有自杀想法倾向的，不关注这个没法真正干涉精神健康。自杀行为干预完全是最后兜底的方式，真正需要的是社会支持和药物干涉😇大多数人还是别想能出现了，而且这种环境下只会一直有应激源。唉"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100849698101944352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 倒不是，人的冲动由杏仁核控制。准备实施时候冲动杏仁核先行。后面前额叶介入大脑会进行评估。背外前额叶会评估这个行为的综合考量，很多人评估就会停下了。腹外前额叶在最后还会企图刹车，功能不足就无法抑制。我觉得从生物角度来解释挺合理的，这种状态下人的前额叶无法正常工作。外部截断药物渠道后"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2100849698101944352",
+        "created_at": "2026-09-18T07:29:34.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100849698101944352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100849698101944352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我认为明确知道他人正在面临困难，想要自杀的同时，还向别人透露如何购买亚硝酸盐等药物，应该负严重责任。我承认，一个人如果铁了心，把亚硝酸盐的路径堵死之后他还会寻找其他的方法，终究可能还是无用功，但我始终坚持，托的时间越久，就越有可能让人的精神重回理智。试想如果有一个人想要自杀，他的手边恰好有足量的亚硝酸盐，那他可能直接一口吞下，但如果一个人想要自杀的同时，还需要现购买亚硝酸盐，在搜索以及等待物流的过程中就存在很长一段时间的缓冲期，在这之前，人的精神和判断力很可能重新回到正常高度，从而重新评估当前最合理的做法"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1050,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我认为明确知道他人正在面临困难，想要自杀的同时，还向别人透露如何购买亚硝酸盐等药物，应该负严重责任。我承认，一个人如果铁了心，把亚硝酸盐的路径堵死之后他还会寻找其他的方法，终究可能还是无用功，但我始终坚持，托的时间越久，就越有可能让人的精神重回理智。试想如果有一个人想要自杀，他的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2100899921960575218",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 75,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 919
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2100849698101944352",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789398871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30434,
+          "following_count": 12159,
+          "like_count": 99572,
+          "listed_count": 104,
+          "media_count": 5889,
+          "tweet_count": 20860
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

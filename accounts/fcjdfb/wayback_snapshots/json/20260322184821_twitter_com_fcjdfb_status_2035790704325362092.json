@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2035790704325362092",
+    "created_at": "2026-03-22T18:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T19:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035790704325362092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1654332441010774019",
+          "start": 3,
+          "username": "btcbqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035790704325362092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035671854296580145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @btcbqr: 原来潜逃20余年的梅姨是这样落网的：“梅姨”谢某某之所以这么难抓，是因为她几乎没有电子痕迹：没有户籍、没有真名、没有清晰照片、没有指纹DNA，其同居多年男友称从未看到过她身份证、经常住两三天就走。且梅姨非常擅于改变自己的容貌，不断模仿、改变自己的外在特征…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035671845941469184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAowiia4AAQnyI.jpg",
+        "width": 1186
+      },
+      {
+        "height": 1275,
+        "media_key": "3_2035671845844959232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAowiLaQAAn1jY.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2035790704325362092",
+        "created_at": "2026-03-22T18:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T19:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035790704325362092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1654332441010774019",
+              "start": 3,
+              "username": "btcbqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035790704325362092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035671854296580145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @btcbqr: 原来潜逃20余年的梅姨是这样落网的：“梅姨”谢某某之所以这么难抓，是因为她几乎没有电子痕迹：没有户籍、没有真名、没有清晰照片、没有指纹DNA，其同居多年男友称从未看到过她身份证、经常住两三天就走。且梅姨非常擅于改变自己的容貌，不断模仿、改变自己的外在特征…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035671845941469184",
+            "3_2035671845844959232"
+          ]
+        },
+        "author_id": "1654332441010774019",
+        "conversation_id": "2035671854296580145",
+        "created_at": "2026-03-22T10:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T11:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035671854296580145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NkKMp7oSUs",
+              "end": 159,
+              "expanded_url": "https://x.com/btcbqr/status/2035671854296580145/photo/1",
+              "media_key": "3_2035671845941469184",
+              "start": 136,
+              "url": "https://t.co/NkKMp7oSUs"
+            },
+            {
+              "display_url": "pic.x.com/NkKMp7oSUs",
+              "end": 159,
+              "expanded_url": "https://x.com/btcbqr/status/2035671854296580145/photo/1",
+              "media_key": "3_2035671845844959232",
+              "start": 136,
+              "url": "https://t.co/NkKMp7oSUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035671854296580145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "原来潜逃20余年的梅姨是这样落网的：“梅姨”谢某某之所以这么难抓，是因为她几乎没有电子痕迹：没有户籍、没有真名、没有清晰照片、没有指纹DNA，其同居多年男友称从未看到过她身份证、经常住两三天就走。且梅姨非常擅于改变自己的容貌，不断模仿、改变自己的外在特征，也从不戴首饰。\n\n转折点在于广东的一个高明手段：曾主动释放梅姨未曾找到或本不存在的消息。最后，通过警方的不懈努力，外加梅姨的“错判”后的放松暴露，时隔20年后梅姨终于落网。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 665016,
+          "like_count": 450,
+          "quote_count": 7,
+          "reply_count": 123,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "原来潜逃20余年的梅姨是这样落网的：“梅姨”谢某某之所以这么难抓，是因为她几乎没有电子痕迹：没有户籍、没有真名、没有清晰照片、没有指纹DNA，其同居多年男友称从未看到过她身份证、经常住两三天就走。且梅姨非常擅于改变自己的容貌，不断模仿、改变自己的外在特征，也从不戴首饰。 https://t.co/NkKMp7oSUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 88
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T03:49:35.000Z",
+        "description": "全职炒币9年，20年牛市2万本金打到A7，没有套路，主打免费课程免费进群，每天分享交易知识带你穿越牛熊！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/btcbqr",
+                "end": 23,
+                "expanded_url": "https://t.me/btcbqr",
+                "start": 0,
+                "url": "https://t.co/XKZOD4pFaA"
+              }
+            ]
+          }
+        },
+        "id": "1654332441010774019",
+        "location": "唯一TG：btcbqr👉",
+        "name": "Bitcoin.不求人",
+        "pinned_tweet_id": "2033360871683162376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755778120819564544/VN-W-jMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66730,
+          "following_count": 962,
+          "like_count": 27903,
+          "listed_count": 306,
+          "media_count": 1366,
+          "tweet_count": 15887
+        },
+        "url": "https://t.co/XKZOD4pFaA",
+        "username": "btcbqr",
+        "verified": true
+      }
+    ]
+  }
+}

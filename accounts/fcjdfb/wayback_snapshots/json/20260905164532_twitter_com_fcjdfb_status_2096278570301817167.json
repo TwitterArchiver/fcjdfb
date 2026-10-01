@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096278526022582272"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096278570301817167",
+    "created_at": "2026-09-05T16:45:32.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096278570301817167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5cwtSwSEqK",
+          "end": 48,
+          "expanded_url": "https://x.com/fcjdfb/status/2096278570301817167/video/1",
+          "media_key": "13_2096278526022582272",
+          "start": 25,
+          "url": "https://t.co/5cwtSwSEqK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096278570301817167",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2096278526022582272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "xhs看到的一个视频挺有意思，进口转出口了属于是 https://t.co/5cwtSwSEqK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51766,
+        "height": 1280,
+        "media_key": "13_2096278526022582272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096278526022582272/img/uuLIWje11bf4sLE3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096278526022582272/vid/avc1/320x568/uCx245-wRWkzWccB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096278526022582272/vid/avc1/480x852/SLgK1Ncoi9jzqgVt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096278526022582272/vid/avc1/720x1280/ov6u6S-kkmWX4nrX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096278526022582272/pl/AVLRog2eDMrILqAL.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096278526022582272"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096278570301817167",
+        "created_at": "2026-09-05T16:45:32.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096278570301817167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5cwtSwSEqK",
+              "end": 48,
+              "expanded_url": "https://x.com/fcjdfb/status/2096278570301817167/video/1",
+              "media_key": "13_2096278526022582272",
+              "start": 25,
+              "url": "https://t.co/5cwtSwSEqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096278570301817167",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096278526022582272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "xhs看到的一个视频挺有意思，进口转出口了属于是 https://t.co/5cwtSwSEqK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096278570301817167",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

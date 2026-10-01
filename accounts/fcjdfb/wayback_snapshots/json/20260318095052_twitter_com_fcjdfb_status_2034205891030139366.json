@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034172564470407168"
+      ],
+      "media_source_tweet_id": [
+        "2034172583462244412"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034205891030139366",
+    "created_at": "2026-03-18T09:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T10:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034205891030139366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fOm8TcghMO",
+          "end": 76,
+          "expanded_url": "https://x.com/Rococo90933671/status/2034172583462244412/photo/1",
+          "media_key": "3_2034172564470407168",
+          "start": 53,
+          "url": "https://t.co/fOm8TcghMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034205891030139366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034172583462244412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 我们之所以不敢进入亲密关系，一大重要的原因就是把异性符号化了。… https://t.co/fOm8TcghMO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1563,
+        "media_key": "3_2034172564470407168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrVK30aoAAI9ah.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034172564470407168"
+          ],
+          "media_source_tweet_id": [
+            "2034172583462244412"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034205891030139366",
+        "created_at": "2026-03-18T09:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034205891030139366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fOm8TcghMO",
+              "end": 76,
+              "expanded_url": "https://x.com/Rococo90933671/status/2034172583462244412/photo/1",
+              "media_key": "3_2034172564470407168",
+              "start": 53,
+              "url": "https://t.co/fOm8TcghMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034205891030139366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034172583462244412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 我们之所以不敢进入亲密关系，一大重要的原因就是把异性符号化了。… https://t.co/fOm8TcghMO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034172564470407168"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034172583462244412",
+        "created_at": "2026-03-18T07:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T08:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034172583462244412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fOm8TcghMO",
+              "end": 55,
+              "expanded_url": "https://x.com/Rococo90933671/status/2034172583462244412/photo/1",
+              "media_key": "3_2034172564470407168",
+              "start": 32,
+              "url": "https://t.co/fOm8TcghMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034172583462244412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我们之所以不敢进入亲密关系，一大重要的原因就是把异性符号化了。\n\n所谓符号化，就是我们不再把对方看作一个有血有肉、有优点也有缺点、会脆弱也会坚强的活生生的人，而是将其简化为某种标签、某种角色、某种想象中的“应该”。男人应该是什么样，女人应该是什么样，这些“应该”像一层厚厚的滤镜，让我们还没真正靠近一个人，就已经在心里给他或她写好了剧本。\n\n这种符号化从很小的时候就开始了。童话里王子必须勇敢无畏，公主必须温柔善良。长大一点，偶像剧告诉我们爱情是电光火石，是有人能读懂你所有未说出口的心事。再后来，社交媒体上的情感金句铺天盖地——“真正爱你的人会为你做这十件事”“遇到这样的人就嫁了吧”。这些符号一层层叠加，最终让我们心里形成了关于异性的最终幻想。\n\n然后我们带着这个幻想走入现实，发现每一个活生生的人都不太对得上号。那个男生怎么有时候也会脆弱想哭，一点都不“男人”。那个女生怎么也会发脾气计较，一点都不“温柔”。我们不是在和眼前这个人相处，而是在和自己脑子里那个符号较劲。对方稍微偏离模板，我们就开始失望、怀疑、退缩。\n\n更麻烦的是，符号化也是双向的。我们担心自己在对方眼里也被简化成了某种符号。男人被简化成提款机和靠山，女人被简化成保姆和生育工具。我们害怕一旦进入亲密关系，自己那些不符合符号的部分就会被否定、被嫌弃。于是我们宁愿待在远处，至少在那个距离里，我们还可以是一个完整的、复杂的人。\n\n符号化还让我们对亲密关系产生了不切实际的期待。既然是符号，那它就应该是纯粹的、完美的。爱情应该只有甜蜜没有争吵，伴侣应该永远懂你永远支持你。可真实的人与人之间，哪有不磨合不冲突的？当现实与符号冲突时，很多人选择的不是调整期待，而是逃避关系。我们觉得是找错了人，却不知道是自己看人的方式出了问题。\n\n比如，我们嘴上说着渴望亲密关系，可真有人靠近时，我们挑出的毛病能写满一整页。对方回消息慢了，是“不够重视”；对方有自己的社交圈，是“不够黏我”；对方偶尔情绪不好，是“性格有问题”。我们把异性符号化成了一种服务型的角色，必须时刻满足自己的需求。可问题是，没有人是生来为了满足另一个人而存在的。\n\n符号化的另一面，是我们对自己的符号化。很多人不敢进入亲密关系，是因为觉得自己还不够符合那个符号。我还不够有钱，我还不够漂亮，我还没有稳定下来，等我把一切准备好了再去找人。他们把“值得被爱的人”也符号化成了一种必须达标的状态。可真实的情感不是招聘，不是你达到所有硬性指标就能上岗的。（我就是这样的）\n\n操蛋的是，符号化也是一种自我保护。把一个活人简化成符号，就相当于把他或她关进了一个笼子里，这样我们就不用面对真实关系里的那些不确定性了。符号是可以预测的，而真人不行。符号不会伤害我们，而真人会。我们躲在符号背后，以为自己很安全，却不知道这种安全本身就是一种孤独。\n\n破除符号化，需要一种近乎笨拙的真诚。就是不再去想“男人应该怎样”“女人应该怎样”，而是去看眼前这个人到底是怎样的。他脆弱的时候是不是也很可爱，她发脾气的时候背后藏着什么委屈。这意味着我们要放下那些幻想，去接纳一个真实的不完美的人，同时也允许自己被对方看见那些不完美的地方。\n\n比起和一个真实的、复杂的、难以预测的人相处，和头脑里的符号打交道显然轻松多了。但轻松的背后，是越来越深的孤独。因为我们终究渴望的，不是和一个符号在一起，而是被一个真实的人完整地看见、完整地接纳。\n\n那些真正美好的亲密关系，从来不是因为两个人完美地符合了彼此的符号，而是因为他们愿意在符号破碎之后，仍然选择靠近对方。\n\n当然，最后还是得哀叹一声，而不是升华主题：可是长官，这太难了！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1100,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我们之所以不敢进入亲密关系，一大重要的原因就是把异性符号化了。 https://t.co/fOm8TcghMO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9333,
+          "following_count": 2699,
+          "like_count": 31784,
+          "listed_count": 25,
+          "media_count": 3373,
+          "tweet_count": 18886
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

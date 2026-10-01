@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2036804678508593418",
+    "created_at": "2026-03-25T13:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T14:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036804678508593418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022181719835914242",
+          "start": 3,
+          "username": "N2OXYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036804678508593418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036545756413436329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N2OXYN: 弱冠当为小男娘，左嗑药，右自伤，强首妩媚，不见男儿郎。拿起键盘议国事，爱键政，好翻墙。 众叛亲离又何，顺直坏，咱喵香，后内敞开，无颜见爹娘。平均寿命二三十，下辈子，还吃糖！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2036804678508593418",
+        "created_at": "2026-03-25T13:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036804678508593418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022181719835914242",
+              "start": 3,
+              "username": "N2OXYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036804678508593418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036545756413436329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N2OXYN: 弱冠当为小男娘，左嗑药，右自伤，强首妩媚，不见男儿郎。拿起键盘议国事，爱键政，好翻墙。 众叛亲离又何，顺直坏，咱喵香，后内敞开，无颜见爹娘。平均寿命二三十，下辈子，还吃糖！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022181719835914242",
+        "conversation_id": "2036545756413436329",
+        "created_at": "2026-03-24T20:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T21:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036545756413436329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036545756413436329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2745,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "弱冠当为小男娘，左嗑药，右自伤，强首妩媚，不见男儿郎。拿起键盘议国事，爱键政，好翻墙。 众叛亲离又何，顺直坏，咱喵香，后内敞开，无颜见爹娘。平均寿命二三十，下辈子，还吃糖！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 108
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜狂躁易怒｜od｜自残｜精神不稳定",
+        "id": "2022181719835914242",
+        "name": "N₂O🍥",
+        "pinned_tweet_id": "2035725110766923968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035718879272669185/7JEo-WbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4157,
+          "following_count": 151,
+          "like_count": 119,
+          "listed_count": 6,
+          "media_count": 23,
+          "tweet_count": 145
+        },
+        "username": "N2OXYN",
+        "verified": true
+      }
+    ]
+  }
+}

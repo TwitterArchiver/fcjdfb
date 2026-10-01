@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104118938640548021",
+    "created_at": "2026-09-27T08:00:22.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104118938640548021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2085211023947296768",
+          "start": 3,
+          "username": "Rainettrdseth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104118938640548021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104083541051187620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainettrdseth: 如何成为计算机嘉豪称呼篇：\n1.给XX✌️/XX神👻了\n2.佬！求带飞！/给X佬👻了\n3.X巨/巨巨/X若/若若/本若给X巨✌️👻了\n4.闹、崩、麻\n高级嘉豪词汇补充（欢迎补充）\nAGI、token、本质、transformer、Claud…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104118938640548021",
+        "created_at": "2026-09-27T08:00:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104118938640548021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2085211023947296768",
+              "start": 3,
+              "username": "Rainettrdseth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104118938640548021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104083541051187620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rainettrdseth: 如何成为计算机嘉豪称呼篇：\n1.给XX✌️/XX神👻了\n2.佬！求带飞！/给X佬👻了\n3.X巨/巨巨/X若/若若/本若给X巨✌️👻了\n4.闹、崩、麻\n高级嘉豪词汇补充（欢迎补充）\nAGI、token、本质、transformer、Claud…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085211023947296768",
+        "conversation_id": "2104083541051187620",
+        "created_at": "2026-09-27T05:39:42.000Z",
+        "display_text_range": [
+          0,
+          171
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T06:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104083541051187620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104083541051187620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1091,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如何成为计算机嘉豪称呼篇：\n1.给XX✌️/XX神👻了\n2.佬！求带飞！/给X佬👻了\n3.X巨/巨巨/X若/若若/本若给X巨✌️👻了\n4.闹、崩、麻\n高级嘉豪词汇补充（欢迎补充）\nAGI、token、本质、transformer、Claude、GPT、家宽、steam、Mac、游戏本、显卡、图灵、蓝桥杯、电赛、ACM、秒了、基操、轻松拿捏…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104118938640548021",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 68,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1387
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T03:49:34.000Z",
+        "description": "=00/林林｜ 07 intj  \n礼貌互fo😽偶尔被吞消息🥺\n之前账号被毙掉了🥲求一键找回互关教程",
+        "id": "2085211023947296768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104115667691876540",
+        "name": "林刻雪（重生版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085211023947296768/1790412532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103876693199048704/fpNapdls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 111,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "Rainettrdseth",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

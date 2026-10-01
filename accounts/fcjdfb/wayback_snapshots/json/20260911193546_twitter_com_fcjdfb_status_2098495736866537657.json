@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098449695958069251",
+        "3_2098449795946082304"
+      ],
+      "media_source_tweet_id": [
+        "2098449834172916036",
+        "2098449834172916036"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2098495736866537657",
+    "created_at": "2026-09-11T19:35:46.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098495736866537657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2045513838850641921",
+          "start": 3,
+          "username": "intqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wOHnqxdZtT",
+          "end": 47,
+          "expanded_url": "https://x.com/intqwq/status/2098449834172916036/photo/1",
+          "media_key": "3_2098449695958069251",
+          "start": 24,
+          "url": "https://t.co/wOHnqxdZtT"
+        },
+        {
+          "display_url": "pic.x.com/wOHnqxdZtT",
+          "end": 47,
+          "expanded_url": "https://x.com/intqwq/status/2098449834172916036/photo/1",
+          "media_key": "3_2098449795946082304",
+          "start": 24,
+          "url": "https://t.co/wOHnqxdZtT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098495736866537657",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098449695958069251"
+      },
+      {
+        "media_key": "3_2098449795946082304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098449834172916036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @intqwq: 头一回见到AI被逼急了 https://t.co/wOHnqxdZtT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_2098449695958069251",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8w4WKbcAMese5.png",
+        "width": 486
+      },
+      {
+        "height": 981,
+        "media_key": "3_2098449795946082304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8w-KpbcAAykeS.jpg",
+        "width": 486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098449695958069251",
+            "3_2098449795946082304"
+          ],
+          "media_source_tweet_id": [
+            "2098449834172916036",
+            "2098449834172916036"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2098495736866537657",
+        "created_at": "2026-09-11T19:35:46.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098495736866537657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2045513838850641921",
+              "start": 3,
+              "username": "intqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOHnqxdZtT",
+              "end": 47,
+              "expanded_url": "https://x.com/intqwq/status/2098449834172916036/photo/1",
+              "media_key": "3_2098449695958069251",
+              "start": 24,
+              "url": "https://t.co/wOHnqxdZtT"
+            },
+            {
+              "display_url": "pic.x.com/wOHnqxdZtT",
+              "end": 47,
+              "expanded_url": "https://x.com/intqwq/status/2098449834172916036/photo/1",
+              "media_key": "3_2098449795946082304",
+              "start": 24,
+              "url": "https://t.co/wOHnqxdZtT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098495736866537657",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098449695958069251"
+          },
+          {
+            "media_key": "3_2098449795946082304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098449834172916036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @intqwq: 头一回见到AI被逼急了 https://t.co/wOHnqxdZtT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098449695958069251",
+            "3_2098449795946082304"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2098449834172916036",
+        "created_at": "2026-09-11T16:33:22.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098449834172916036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOHnqxdZtT",
+              "end": 35,
+              "expanded_url": "https://x.com/intqwq/status/2098449834172916036/photo/1",
+              "media_key": "3_2098449695958069251",
+              "start": 12,
+              "url": "https://t.co/wOHnqxdZtT"
+            },
+            {
+              "display_url": "pic.x.com/wOHnqxdZtT",
+              "end": 35,
+              "expanded_url": "https://x.com/intqwq/status/2098449834172916036/photo/1",
+              "media_key": "3_2098449795946082304",
+              "start": 12,
+              "url": "https://t.co/wOHnqxdZtT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098449834172916036",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098449695958069251"
+          },
+          {
+            "media_key": "3_2098449795946082304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 560,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头一回见到AI被逼急了 https://t.co/wOHnqxdZtT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098495736866537657",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 65,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 534
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra\n\ntg群: https://t.co/kPoeRnaiQW\n投稿联系: intqwq@intqwq.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Y5MFkw6bV5diY…",
+                "end": 91,
+                "expanded_url": "https://t.me/+Y5MFkw6bV5diYTk9",
+                "start": 68,
+                "url": "https://t.co/kPoeRnaiQW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQHo8o"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2098494032683147424",
+        "name": "int喵喵喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095807561278857216/tbEp3e78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 701,
+          "like_count": 3782,
+          "listed_count": 6,
+          "media_count": 579,
+          "tweet_count": 1556
+        },
+        "url": "https://t.co/xVU9kQHo8o",
+        "username": "intqwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

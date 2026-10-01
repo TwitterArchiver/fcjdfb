@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2097140106377453580",
+    "created_at": "2026-09-08T01:48:58.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T02:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097140106377453580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2021238822177210371",
+          "start": 3,
+          "username": "Nyxdmtm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097140106377453580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096997446526316995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nyxdmtm: 老实说，我所认识的大部分跨性别女性都是极其厌女的，我没有恶意，只是想问一下你们怎么想的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2097140106377453580",
+        "created_at": "2026-09-08T01:48:58.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T02:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097140106377453580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2021238822177210371",
+              "start": 3,
+              "username": "Nyxdmtm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097140106377453580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096997446526316995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nyxdmtm: 老实说，我所认识的大部分跨性别女性都是极其厌女的，我没有恶意，只是想问一下你们怎么想的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021238822177210371",
+        "conversation_id": "2096997446526316995",
+        "created_at": "2026-09-07T16:22:06.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T17:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096997446526316995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096997446526316995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老实说，我所认识的大部分跨性别女性都是极其厌女的，我没有恶意，只是想问一下你们怎么想的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097140106377453580",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 57,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-10T15:05:12.000Z",
+        "description": "🐰🐰🐰\nintj",
+        "id": "2021238822177210371",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096997446526316995",
+        "name": "𝒩𝑜𝒾𝓇𝒟𝑜𝓁𝓁​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "pinned_tweet_id": "2085529502604825031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021238822177210371/1781791248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067608419956408321/jZbtCcO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 133,
+          "like_count": 1229,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 375
+        },
+        "url": "",
+        "username": "Nyxdmtm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2098274496281256412",
+    "created_at": "2026-09-11T04:56:38.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T05:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098274496281256412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1145602627779977216",
+          "start": 3,
+          "username": "zhibudao5988"
+        },
+        {
+          "end": 32,
+          "id": "1528798633168347137",
+          "start": 18,
+          "username": "TomoriNao2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098274496281256412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098199573286277121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhibudao5988: @TomoriNao2022 一派胡言，我是事件的亲历者参与者，附上Uber收入截图证明。事实是组织罢工的人根本就没有通知华人，且只用what…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2098274496281256412",
+        "created_at": "2026-09-11T04:56:38.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098274496281256412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1145602627779977216",
+              "start": 3,
+              "username": "zhibudao5988"
+            },
+            {
+              "end": 32,
+              "id": "1528798633168347137",
+              "start": 18,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098274496281256412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098199573286277121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhibudao5988: @TomoriNao2022 一派胡言，我是事件的亲历者参与者，附上Uber收入截图证明。事实是组织罢工的人根本就没有通知华人，且只用what…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1145602627779977216",
+        "conversation_id": "2098025037957857684",
+        "created_at": "2026-09-10T23:58:55.000Z",
+        "display_text_range": [
+          15,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T00:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098199573286277121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1528798633168347137",
+              "start": 0,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098199573286277121",
+        "in_reply_to_user_id": "1528798633168347137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一派胡言，我是事件的亲历者参与者，附上Uber收入截图证明。事实是组织罢工的人根本就没有通知华人，且只用what app联系。而所谓华人趁运力空缺疯狂接单也是因为有个不明真相的司机发了一个订单收入截图，问今天什么日子为什么单子这么好，结果就被某些脏心烂肺的华人黑子利用了，转发到所谓的抗议群，影响很坏。与其说华人出了工贼，不如说华人里出汉奸更准确。还有就是华人根本不愿意参加这个罢工。别以为罢工就是正义的，那是根本不了解罢工和工会，罢工由维州交通和运输工会组织，在机场拦截Uber，不仅华人不参与，绝大部分司机都不参与，还和阻碍交通的真正的Uber工贼发生多次冲突，但由于他们有工会撑腰，都很快没事，其他司机就很倒霉。废话太多就不细说了，说说最后谁是受益者吧，Uber司机并没有争取到任何利益，受益最大的工会收到了来自Uber公司几百万的会员费，罢工结束！willsom安保公司，承包了机场Uber等待区的安保管理，谁再罢工拦车直接抓走，一年至少也几百上千万费用吧。第三墨尔本机场收到更多Uber管理费。第四组织罢工的印度工头。那个人是傻逼才会去参与这种罢工！白人不参与，中东人不参与，黑人不参与，连印度人都不参与，如果大家都参与，这几个工头还需要采取人肉堵路的策略吗？华人占Uber司机最多5%，怎么华人不参与就是工贼败类？你们这群支黑汉奸才是败类！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 892,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098025037957857684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomoriNao2022 一派胡言，我是事件的亲历者参与者，附上Uber收入截图证明。事实是组织罢工的人根本就没有通知华人，且只用what"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098274496281256412",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 63,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 493
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-01T07:58:45.000Z",
+        "description": "中文油管博主节目评论，YouTube历史时政玄学修仙双料博主，吹牛逼所得税征收处处长，阿尔兹海默症患者。 你内心最黑暗之处的镜子🪞。https://t.co/1S0wiKZrzG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@zhibudao5988",
+                "end": 89,
+                "expanded_url": "https://youtube.com/@zhibudao5988",
+                "start": 66,
+                "url": "https://t.co/1S0wiKZrzG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@zhibudao5988",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@zhibudao5988",
+                "start": 0,
+                "url": "https://t.co/1S0wiKZrzG"
+              }
+            ]
+          }
+        },
+        "id": "1145602627779977216",
+        "is_identity_verified": true,
+        "location": "Melbourne, Victoria",
+        "most_recent_tweet_id": "2098265527047307487",
+        "name": "东亚渔夫（重生在墨尔本当市长版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145602627779977216/1755611373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085679235591725056/l_6ABwTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3084,
+          "following_count": 549,
+          "like_count": 17156,
+          "listed_count": 23,
+          "media_count": 2380,
+          "tweet_count": 32179
+        },
+        "url": "https://t.co/1S0wiKZrzG",
+        "username": "zhibudao5988",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！\ntelegram：https://t.co/K8jioEkL4s\ndiscord：https://t.co/ZFHCRnHUMK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 48,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 25,
+                "url": "https://t.co/K8jioEkL4s"
+              },
+              {
+                "display_url": "discord.gg/RXmHUMUdGN",
+                "end": 80,
+                "expanded_url": "https://discord.gg/RXmHUMUdGN",
+                "start": 57,
+                "url": "https://t.co/ZFHCRnHUMK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 0,
+                "url": "https://t.co/K8jioEkL4s"
+              }
+            ]
+          }
+        },
+        "id": "1528798633168347137",
+        "is_identity_verified": false,
+        "location": "神奈川県",
+        "most_recent_tweet_id": "2098260928156573902",
+        "name": "なおNaO",
+        "pinned_tweet_id": "2073983646399365630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1528798633168347137/1653500269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22165,
+          "following_count": 4618,
+          "like_count": 12856,
+          "listed_count": 70,
+          "media_count": 3495,
+          "tweet_count": 12294
+        },
+        "url": "https://t.co/K8jioEkL4s",
+        "username": "TomoriNao2022",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

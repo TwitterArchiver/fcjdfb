@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100678834232414208"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100678852209189217",
+    "created_at": "2026-09-17T20:10:41.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T21:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100678852209189217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BN8HavmUbN",
+          "end": 111,
+          "expanded_url": "https://x.com/fcjdfb/status/2100678852209189217/photo/1",
+          "media_key": "3_2100678834232414208",
+          "start": 88,
+          "url": "https://t.co/BN8HavmUbN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100678852209189217",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100678834232414208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉这位姐姐来推特挺合适的，发xhs都没啥人看。我觉得很抽象的一点就是看她推文竟然用到了fo这个词整体简介模板和发文都很一股推特味我能说吗）但是我没找到推特的对应号，有点奇怪 https://t.co/BN8HavmUbN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2688,
+        "media_key": "3_2100678834232414208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSccRRWa0AAuNB8.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100678834232414208"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100678852209189217",
+        "created_at": "2026-09-17T20:10:41.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T21:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100678852209189217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BN8HavmUbN",
+              "end": 111,
+              "expanded_url": "https://x.com/fcjdfb/status/2100678852209189217/photo/1",
+              "media_key": "3_2100678834232414208",
+              "start": 88,
+              "url": "https://t.co/BN8HavmUbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100678852209189217",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100678834232414208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉这位姐姐来推特挺合适的，发xhs都没啥人看。我觉得很抽象的一点就是看她推文竟然用到了fo这个词整体简介模板和发文都很一股推特味我能说吗）但是我没找到推特的对应号，有点奇怪 https://t.co/BN8HavmUbN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2100678852209189217",
+        "name": "windigo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099879631554027520/jep7lkPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 74,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 886
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

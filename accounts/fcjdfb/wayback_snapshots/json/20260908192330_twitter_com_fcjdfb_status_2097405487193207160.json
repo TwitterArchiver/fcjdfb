@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2097281253347385434",
+    "created_at": "2026-09-08T19:23:30.000Z",
+    "display_text_range": [
+      28,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T20:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097405487193207160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1984260967593828353",
+          "start": 0,
+          "username": "Orion2160498232"
+        },
+        {
+          "end": 27,
+          "id": "4313176880",
+          "start": 17,
+          "username": "fake_fuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097405487193207160",
+    "in_reply_to_user_id": "1984260967593828353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097282092837294160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orion2160498232 @fake_fuji 闹钟的教育很难不结构性烟雾.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2097281253347385434",
+        "created_at": "2026-09-08T19:23:30.000Z",
+        "display_text_range": [
+          28,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T20:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097405487193207160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1984260967593828353",
+              "start": 0,
+              "username": "Orion2160498232"
+            },
+            {
+              "end": 27,
+              "id": "4313176880",
+              "start": 17,
+              "username": "fake_fuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097405487193207160",
+        "in_reply_to_user_id": "1984260967593828353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097282092837294160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orion2160498232 @fake_fuji 闹钟的教育很难不结构性烟雾.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984260967593828353",
+        "conversation_id": "2097281253347385434",
+        "created_at": "2026-09-08T11:13:11.000Z",
+        "display_text_range": [
+          11,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097282092837294160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4313176880",
+              "start": 0,
+              "username": "fake_fuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097282092837294160",
+        "in_reply_to_user_id": "4313176880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097281253347385434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fake_fuji 我是因为发自内心的抵触，结构性问题，无论我怎样旅行交朋友都无法解决的。你的梦想是什么呢？可以跟我说说吗？我很好奇？\n在此之前，我先猜一下？你想润出去？比如澳洲新西兰whv？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097405487193207160",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 59,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 420
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-31T14:07:53.000Z",
+        "description": "我上X来就是为了交不一样的朋友哒！想认识些有意思的人\n关于我：非典型open book\n20岁，什么都能聊：历史、政治、AI、互联网、旅行、游戏、人性，半夜扯淡也行。\n我比较喜欢有自己想法的人，不要求三观完全一致，但希望能认真聊东西，也能一起发疯\n如果你也觉得现实里很难遇到真正聊得来的人，可以认识一下\n互fo也行呀",
+        "id": "1984260967593828353",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097362614217281684",
+        "name": "Orion",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984261044743897088/TrueXPHe_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 83,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "Orion2160498232",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 大学独居｜只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "hoshino_fuji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/46yRJHIEfb"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "台湾，真理子怀里",
+        "most_recent_tweet_id": "2097285895452086613",
+        "name": "星野ふじ🍔VTber",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 501,
+          "like_count": 1307,
+          "listed_count": 3,
+          "media_count": 132,
+          "tweet_count": 448
+        },
+        "url": "https://t.co/46yRJHIEfb",
+        "username": "fake_fuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

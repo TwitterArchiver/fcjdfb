@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104272710193061922",
+    "created_at": "2026-09-27T18:46:38.000Z",
+    "display_text_range": [
+      33,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T19:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104281577199136943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023707996623437824",
+          "start": 0,
+          "username": "GoneAngels8964"
+        },
+        {
+          "end": 32,
+          "id": "1493601466346610712",
+          "start": 16,
+          "username": "basilbakery1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104281577199136943",
+    "in_reply_to_user_id": "2023707996623437824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104278892865556553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoneAngels8964 @basilbakery1127 唉，没有成功的不甘心真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104272710193061922",
+        "created_at": "2026-09-27T18:46:38.000Z",
+        "display_text_range": [
+          33,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104281577199136943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023707996623437824",
+              "start": 0,
+              "username": "GoneAngels8964"
+            },
+            {
+              "end": 32,
+              "id": "1493601466346610712",
+              "start": 16,
+              "username": "basilbakery1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104281577199136943",
+        "in_reply_to_user_id": "2023707996623437824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104278892865556553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoneAngels8964 @basilbakery1127 唉，没有成功的不甘心真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023707996623437824",
+        "conversation_id": "2104272710193061922",
+        "created_at": "2026-09-27T18:35:58.000Z",
+        "display_text_range": [
+          25,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104278892865556553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            },
+            {
+              "end": 24,
+              "id": "1493601466346610712",
+              "start": 8,
+              "username": "basilbakery1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104278892865556553",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104278067510452376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb @basilbakery1127 本來就是愛壓抑才產生的，沒有到非常喜歡，只是覺得不甘心"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104281577199136943",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 67,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1460
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-17T10:36:10.000Z",
+        "description": "🏳️‍⚧️Transgender/Non-binary\n經常魔怔 偶爾瞎罵",
+        "id": "2023707996623437824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104278892865556553",
+        "name": "小莎樂咪",
+        "pinned_tweet_id": "2103761120083521964",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023707996623437824/1785839737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103049224405569536/scC2hFIE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 177,
+          "like_count": 4947,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2099
+        },
+        "url": "",
+        "username": "GoneAngels8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T15:02:03.000Z",
+        "description": "擁抱重度依賴。 sub/🏳️‍⚧️MtX｜可以叫我Yui或者小唯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/basilbakery",
+                "end": 23,
+                "expanded_url": "https://ngl.link/basilbakery",
+                "start": 0,
+                "url": "https://t.co/ogMKAWtQuQ"
+              }
+            ]
+          }
+        },
+        "id": "1493601466346610712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104276807805808810",
+        "name": "Yui✝️",
+        "pinned_tweet_id": "2092913905521897846",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493601466346610712/1786082181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085605828011450368/HcZy9LBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 350,
+          "like_count": 2250,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1823
+        },
+        "url": "https://t.co/ogMKAWtQuQ",
+        "username": "basilbakery1127",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2101803545850990708",
+    "created_at": "2026-09-20T22:39:49.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T23:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101803545850990708"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BlackCrow1966/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/BlackCrow1966/status/2101355237303005226",
+          "start": 6,
+          "url": "https://t.co/abrXZCwPqS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101803545850990708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101355237303005226",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个是真的 https://t.co/abrXZCwPqS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2101803545850990708",
+        "created_at": "2026-09-20T22:39:49.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T23:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101803545850990708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BlackCrow1966/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/BlackCrow1966/status/2101355237303005226",
+              "start": 6,
+              "url": "https://t.co/abrXZCwPqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101803545850990708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101355237303005226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个是真的 https://t.co/abrXZCwPqS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069160672672546816",
+        "conversation_id": "2100496219218800753",
+        "created_at": "2026-09-19T16:58:24.000Z",
+        "display_text_range": [
+          31,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101355237303005226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1870814117675810816",
+              "start": 0,
+              "username": "shadingyu03w"
+            },
+            {
+              "end": 30,
+              "id": "2035882965671215104",
+              "start": 14,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101355237303005226",
+        "in_reply_to_user_id": "1870814117675810816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100965411068186956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shadingyu03w @amber_medusozoa 我支持扫男性当公畜肉辫器但不接受它们拥有人权，不冲突啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101803545850990708",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 64,
+          "like_count": 546,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1066
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T20:50:56.000Z",
+        "description": "何回となく転びよじれ流され\n頭から爪先まで汚れきってしまった",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/blackcrow1917",
+                "end": 23,
+                "expanded_url": "http://t.me/blackcrow1917",
+                "start": 0,
+                "url": "https://t.co/vMj4wbJjus"
+              }
+            ]
+          }
+        },
+        "id": "2069160672672546816",
+        "is_identity_verified": false,
+        "location": "沙坪坝",
+        "most_recent_tweet_id": "2101765239771709883",
+        "name": "胃烧书🍥",
+        "pinned_tweet_id": "2091424273349193934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069160672672546816/1789845935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101391930638942209/5VZ4C__l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 1117,
+          "like_count": 14872,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 2523
+        },
+        "url": "https://t.co/vMj4wbJjus",
+        "username": "BlackCrow1966",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T12:50:51.000Z",
+        "description": "",
+        "id": "1870814117675810816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100971373661429905",
+        "name": "sha",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014339734433382400/nuI5K10W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 2054,
+          "like_count": 1331,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "shadingyu03w",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

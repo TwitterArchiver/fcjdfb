@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100535416403239417",
+    "created_at": "2026-09-18T04:28:19.000Z",
+    "display_text_range": [
+      29,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T05:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100804086371364972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1248475671904436224",
+          "start": 0,
+          "username": "fuQXVbASVAQHSfA"
+        },
+        {
+          "end": 28,
+          "id": "965583779380129792",
+          "start": 17,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100804086371364972",
+    "in_reply_to_user_id": "1248475671904436224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100786869583942050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuQXVbASVAQHSfA @mario_2333 真的，希望早日放弃或者改进吧。拟人一点的词汇基本都是外来词"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100535416403239417",
+        "created_at": "2026-09-18T04:28:19.000Z",
+        "display_text_range": [
+          29,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100804086371364972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1248475671904436224",
+              "start": 0,
+              "username": "fuQXVbASVAQHSfA"
+            },
+            {
+              "end": 28,
+              "id": "965583779380129792",
+              "start": 17,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100804086371364972",
+        "in_reply_to_user_id": "1248475671904436224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100786869583942050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuQXVbASVAQHSfA @mario_2333 真的，希望早日放弃或者改进吧。拟人一点的词汇基本都是外来词"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248475671904436224",
+        "conversation_id": "2100535416403239417",
+        "created_at": "2026-09-18T03:19:55.000Z",
+        "display_text_range": [
+          20,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T04:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100786869583942050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            },
+            {
+              "end": 19,
+              "id": "965583779380129792",
+              "start": 8,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100786869583942050",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100617695163277514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb @mario_2333 词源太多，构词法不行，有规律的都是外来词。而且相关概念的词来源也不同。\n屎山，迟早被人放弃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2100804086371364972",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 75,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 895
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-10T04:59:47.000Z",
+        "description": "",
+        "id": "1248475671904436224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100796028429692959",
+        "name": "发哥看X",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 36,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 448
+        },
+        "url": "",
+        "username": "fuQXVbASVAQHSfA",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 想和大家交朋友，会温暖对待每个友善的人🥰 | 本体是一种猫🐱 | 18 y.o. forever (⁠≧⁠▽⁠≦⁠) | 可爱即正义！| 小可爱贴贴贴贴💕 | 日常和碎碎念✨ | 蓝标陌生人送的我是真人没收益😘 | 联系请戳tg⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "is_identity_verified": false,
+        "location": "UTC+2",
+        "most_recent_tweet_id": "2100684528985526274",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/965583779380129792/1778057704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4400,
+          "following_count": 283,
+          "like_count": 63077,
+          "listed_count": 19,
+          "media_count": 1288,
+          "tweet_count": 20748
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

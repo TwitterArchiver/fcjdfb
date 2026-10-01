@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099768795917332919",
+    "created_at": "2026-09-15T07:54:27.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T08:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099768795917332919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/misakicillao/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/misakicillao/status/2099725179354284083",
+          "start": 7,
+          "url": "https://t.co/9xl2VjxJEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099768795917332919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099725179354284083",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依旧每日大赛 https://t.co/9xl2VjxJEN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2099725151923564545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSO45p5bcAEmL6h.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2099725161876635648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSO46O-bQAAJT-y.jpg",
+        "width": 716
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2099725171720683523",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSO46zpbgAMqPdr.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099768795917332919",
+        "created_at": "2026-09-15T07:54:27.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099768795917332919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misakicillao/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/misakicillao/status/2099725179354284083",
+              "start": 7,
+              "url": "https://t.co/9xl2VjxJEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099768795917332919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099725179354284083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧每日大赛 https://t.co/9xl2VjxJEN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099725151923564545",
+            "3_2099725161876635648",
+            "3_2099725171720683523"
+          ]
+        },
+        "author_id": "1939968828609355776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099725179354284083",
+        "created_at": "2026-09-15T05:01:08.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099725179354284083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OD3mdrszxo",
+              "end": 31,
+              "expanded_url": "https://x.com/misakicillao/status/2099725179354284083/photo/1",
+              "media_key": "3_2099725151923564545",
+              "start": 8,
+              "url": "https://t.co/OD3mdrszxo"
+            },
+            {
+              "display_url": "pic.x.com/OD3mdrszxo",
+              "end": 31,
+              "expanded_url": "https://x.com/misakicillao/status/2099725179354284083/photo/1",
+              "media_key": "3_2099725161876635648",
+              "start": 8,
+              "url": "https://t.co/OD3mdrszxo"
+            },
+            {
+              "display_url": "pic.x.com/OD3mdrszxo",
+              "end": 31,
+              "expanded_url": "https://x.com/misakicillao/status/2099725179354284083/photo/1",
+              "media_key": "3_2099725171720683523",
+              "start": 8,
+              "url": "https://t.co/OD3mdrszxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099725179354284083",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099725151923564545"
+          },
+          {
+            "media_key": "3_2099725161876635648"
+          },
+          {
+            "media_key": "3_2099725171720683523"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2425,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被性压抑吓晕了 https://t.co/OD3mdrszxo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099768795917332919",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 72,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 764
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-01T08:46:41.000Z",
+        "description": "无💊 不约线下 纯爱好 清水（？）男娘一枚喵 私信都会回的！欢迎来找主包聊天呀\n音游/二游/单机/fps/卡牌基本什么都涉及喵",
+        "id": "1939968828609355776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099757633565786445",
+        "name": "荼靡喵",
+        "pinned_tweet_id": "2086647540951491051",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078135001619869696/UvBrUCka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 415,
+          "like_count": 905,
+          "listed_count": 9,
+          "media_count": 67,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "misakicillao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

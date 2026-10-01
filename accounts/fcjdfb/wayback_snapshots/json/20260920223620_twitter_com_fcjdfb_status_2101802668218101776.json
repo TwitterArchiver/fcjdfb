@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2101802668218101776",
+    "created_at": "2026-09-20T22:36:20.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T23:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101802668218101776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SSSY2019/statu…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/SSSY2019/status/2101470836976689287",
+          "start": 53,
+          "url": "https://t.co/ur7G58gjES"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101802668218101776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101470836976689287",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "皇帝的金锄头，一想到在这方面都是方脸你老师这种人。64接受采访的那几个也是心思不纯正的我就感觉有股无力感 https://t.co/ur7G58gjES"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2101470831259914240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSnslkMXkAASxNp.jpg",
+        "width": 1448
+      },
+      {
+        "height": 1086,
+        "media_key": "3_2101470831264018432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSnslkNWMAAVALd.jpg",
+        "width": 1448
+      },
+      {
+        "height": 1086,
+        "media_key": "3_2101470831255670784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSnslkLW0AARFNO.jpg",
+        "width": 1448
+      },
+      {
+        "height": 1086,
+        "media_key": "3_2101470831284989952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSnslkSWMAAb5Db.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2101802668218101776",
+        "created_at": "2026-09-20T22:36:20.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T23:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101802668218101776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SSSY2019/statu…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/SSSY2019/status/2101470836976689287",
+              "start": 53,
+              "url": "https://t.co/ur7G58gjES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101802668218101776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101470836976689287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "皇帝的金锄头，一想到在这方面都是方脸你老师这种人。64接受采访的那几个也是心思不纯正的我就感觉有股无力感 https://t.co/ur7G58gjES"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101470831259914240",
+            "3_2101470831264018432",
+            "3_2101470831255670784",
+            "3_2101470831284989952"
+          ]
+        },
+        "author_id": "865610342109294593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101470836976689287",
+        "created_at": "2026-09-20T00:37:45.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T01:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101470836976689287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5cqctrko1",
+              "end": 156,
+              "expanded_url": "https://x.com/SSSY2019/status/2101470836976689287/photo/1",
+              "media_key": "3_2101470831259914240",
+              "start": 133,
+              "url": "https://t.co/p5cqctrko1"
+            },
+            {
+              "display_url": "pic.x.com/p5cqctrko1",
+              "end": 156,
+              "expanded_url": "https://x.com/SSSY2019/status/2101470836976689287/photo/1",
+              "media_key": "3_2101470831264018432",
+              "start": 133,
+              "url": "https://t.co/p5cqctrko1"
+            },
+            {
+              "display_url": "pic.x.com/p5cqctrko1",
+              "end": 156,
+              "expanded_url": "https://x.com/SSSY2019/status/2101470836976689287/photo/1",
+              "media_key": "3_2101470831255670784",
+              "start": 133,
+              "url": "https://t.co/p5cqctrko1"
+            },
+            {
+              "display_url": "pic.x.com/p5cqctrko1",
+              "end": 156,
+              "expanded_url": "https://x.com/SSSY2019/status/2101470836976689287/photo/1",
+              "media_key": "3_2101470831284989952",
+              "start": 133,
+              "url": "https://t.co/p5cqctrko1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101470836976689287",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101470831259914240"
+          },
+          {
+            "media_key": "3_2101470831264018432"
+          },
+          {
+            "media_key": "3_2101470831255670784"
+          },
+          {
+            "media_key": "3_2101470831284989952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "在中国，一般中国农民工的饭盒里最大的格子是用来放米饭的，一般管控言论的中国网警的饭盒里最大的格子也是放着米饭，管理中国网警的局长的饭盒也是放着米饭，但是标准就不一样了，接下来到了中国部长级的饭盒，它们饭盒最大的格子不是用来放米饭的，一般是用来放一块芦笋煎嫩牛排的。\n当然在美国，一般默认饭盒的最大格子总是用来放牛肉，鸡肉，鱼肉的。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 78592,
+          "like_count": 60,
+          "quote_count": 10,
+          "reply_count": 112,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "在中国，一般中国农民工的饭盒里最大的格子是用来放米饭的，一般管控言论的中国网警的饭盒里最大的格子也是放着米饭，管理中国网警的局长的饭盒也是放着米饭，但是标准就不一样了，接下来到了中国部长级的饭盒，它们饭盒最大的格子不是用来放米饭的，一般是用来放一块芦笋煎嫩牛排的。 https://t.co/p5cqctrko1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101802668218101776",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 64,
+          "like_count": 542,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1065
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-19T16:49:22.000Z",
+        "description": "Shanghai Independenc/上海獨立/China Secession/中國分裂——香港警方通缉对象：「九獨」係香港警方喺港區國安法之後公告中嘅講法，指分裂中華人民共和國嘅九種地方獨立思潮，包括上海獨立、南蒙古獨立、西藏獨立、東突厥斯坦獨立、台灣獨立、巴蜀利亞獨立、閩越國獨立、大粵國獨立同埋滿洲國獨立！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shanghainationalparty.com",
+                "end": 23,
+                "expanded_url": "https://shanghainationalparty.com/",
+                "start": 0,
+                "url": "https://t.co/4cHnJi9DAL"
+              }
+            ]
+          }
+        },
+        "id": "865610342109294593",
+        "is_identity_verified": false,
+        "location": "New York, NY",
+        "most_recent_tweet_id": "2101754003960779057",
+        "name": "上海独立-YinSun孙寅",
+        "pinned_tweet_id": "2097791206826848759",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/865610342109294593/1710196604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055475008865026048/9S-LJ4Wc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8410,
+          "following_count": 1960,
+          "like_count": 31799,
+          "listed_count": 26,
+          "media_count": 4887,
+          "tweet_count": 28348
+        },
+        "url": "https://t.co/4cHnJi9DAL",
+        "username": "SSSY2019",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2101204583729229980",
+    "created_at": "2026-09-19T06:59:45.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T07:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101204583729229980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Wujizhuzhu/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Wujizhuzhu/status/2100892942088929494",
+          "start": 22,
+          "url": "https://t.co/zNt1zmTN3q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101204583729229980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100892942088929494",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这好事啊，那一堆b老师知道啥是教育吗就这样 https://t.co/zNt1zmTN3q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2101204583729229980",
+        "created_at": "2026-09-19T06:59:45.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101204583729229980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wujizhuzhu/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Wujizhuzhu/status/2100892942088929494",
+              "start": 22,
+              "url": "https://t.co/zNt1zmTN3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101204583729229980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100892942088929494",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这好事啊，那一堆b老师知道啥是教育吗就这样 https://t.co/zNt1zmTN3q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "761100642282713089",
+        "conversation_id": "2100892942088929494",
+        "created_at": "2026-09-18T10:21:24.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100892942088929494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100892942088929494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 528311,
+          "like_count": 762,
+          "quote_count": 2,
+          "reply_count": 594,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一个危险信号：\n\n老师们开始集体“不管学生”了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101204583729229980",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 77,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 979
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-04T07:25:08.000Z",
+        "description": "美股丨纳指定投指南丨人生操作系统OS | 一人公司 | 终身学习者|跑步🏃| Z-library Points北京站|利物浦球迷 |",
+        "id": "761100642282713089",
+        "is_identity_verified": false,
+        "location": "North Region, Singapore",
+        "most_recent_tweet_id": "2101200197691101571",
+        "name": "朱无忌无忌",
+        "pinned_tweet_id": "2100744573542948887",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/761100642282713089/1781860667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972613352091484160/eZq8Ek1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24499,
+          "following_count": 2813,
+          "like_count": 10708,
+          "listed_count": 129,
+          "media_count": 664,
+          "tweet_count": 12106
+        },
+        "url": "",
+        "username": "Wujizhuzhu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

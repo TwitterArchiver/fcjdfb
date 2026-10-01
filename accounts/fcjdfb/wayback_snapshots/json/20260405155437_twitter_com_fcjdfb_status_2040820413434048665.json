@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2040820413434048665",
+    "created_at": "2026-04-05T15:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T16:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040820413434048665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "705777407794352129",
+          "start": 3,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040820413434048665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040408059969958028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ServalCandle: 3月30日 深柜小药娘确诊双向，正式开启精神病人生\n\n3月31日 小药娘出柜\n\n4月1日 被父母骗了以为是家长党\n\n4月2日 在矫正机构里孤独被强奸被虐待\n\n4月4日 父母在外面生了新的小孩开始练小号\n\n4月5日 小药娘死了大家祭拜她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2040820413434048665",
+        "created_at": "2026-04-05T15:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040820413434048665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "705777407794352129",
+              "start": 3,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040820413434048665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040408059969958028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ServalCandle: 3月30日 深柜小药娘确诊双向，正式开启精神病人生\n\n3月31日 小药娘出柜\n\n4月1日 被父母骗了以为是家长党\n\n4月2日 在矫正机构里孤独被强奸被虐待\n\n4月4日 父母在外面生了新的小孩开始练小号\n\n4月5日 小药娘死了大家祭拜她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "conversation_id": "2040408059969958028",
+        "created_at": "2026-04-04T12:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:28:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040406076479397899",
+          "2040408059969958028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2040380937318649907",
+              "start": 118,
+              "url": "https://t.co/uFnpjwMzA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040408059969958028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8980,
+          "like_count": 102,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040380937318649907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3月30日 深柜小药娘确诊双向，正式开启精神病人生\n\n3月31日 小药娘出柜\n\n4月1日 被父母骗了以为是家长党\n\n4月2日 在矫正机构里孤独被强奸被虐待\n\n4月4日 父母在外面生了新的小孩开始练小号\n\n4月5日 小药娘死了大家祭拜她 https://t.co/uFnpjwMzA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 33,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 171
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 身分證性別女/ Only block who blocked me / 癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🫪",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024879161932918784/w21cnpHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33729,
+          "following_count": 413,
+          "like_count": 233519,
+          "listed_count": 104,
+          "media_count": 8996,
+          "tweet_count": 58503
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

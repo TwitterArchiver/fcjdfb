@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2101019589299908848",
+    "created_at": "2026-09-18T18:44:39.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T19:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101019589299908848"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2101019589299908848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "中推跨圈别把自己想太大了，别人潘柏林这次拍个片就是央视某个小团队的新选题题材而已拍一期。甚至档次都没确定，0个人在意这个在政治上意味着什么。甚至都是给墙内不参加小团体和trans构成社区的人拍的和看的，就好比某个人说自己上电视了去什么节目当成了自己荣誉。其实除了自己比较在意无人关心这个。你需要拿这个背书也是没点真水平，对别人拍摄团队和主持人就是日复一日中的又一个新的工作流水线中的一个而已"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中推跨圈别把自己想太大了，别人潘柏林这次拍个片就是央视某个小团队的新选题题材而已拍一期。甚至档次都没确定，0个人在意这个在政治上意味着什么。甚至都是给墙内不参加小团体和trans构成社区的人拍的和看的，就好比某个人说自己上电视了去什么节目当成了自己荣誉。其实除了自己比较在意无人关心这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2101019589299908848",
+        "created_at": "2026-09-18T18:44:39.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T19:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101019589299908848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101019589299908848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中推跨圈别把自己想太大了，别人潘柏林这次拍个片就是央视某个小团队的新选题题材而已拍一期。甚至档次都没确定，0个人在意这个在政治上意味着什么。甚至都是给墙内不参加小团体和trans构成社区的人拍的和看的，就好比某个人说自己上电视了去什么节目当成了自己荣誉。其实除了自己比较在意无人关心这个。你需要拿这个背书也是没点真水平，对别人拍摄团队和主持人就是日复一日中的又一个新的工作流水线中的一个而已"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中推跨圈别把自己想太大了，别人潘柏林这次拍个片就是央视某个小团队的新选题题材而已拍一期。甚至档次都没确定，0个人在意这个在政治上意味着什么。甚至都是给墙内不参加小团体和trans构成社区的人拍的和看的，就好比某个人说自己上电视了去什么节目当成了自己荣誉。其实除了自己比较在意无人关心这个"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101019589299908848",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 76,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 953
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

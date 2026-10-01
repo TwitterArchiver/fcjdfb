@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096520362162819130",
+    "created_at": "2026-09-06T21:41:32.000Z",
+    "display_text_range": [
+      10,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T22:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096715447236518370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1946188524472213504",
+          "start": 0,
+          "username": "ooobsess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096715447236518370",
+    "in_reply_to_user_id": "1946188524472213504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096520362162819130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooobsess 搞不明白一定一定不要买外版手机，水深分辨难。有的时候基本都是带着答案问问题，如果这两个价格差距这么大的话放一起对比。只能说你基本就是想买一千多的那个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096520362162819130",
+        "created_at": "2026-09-06T21:41:32.000Z",
+        "display_text_range": [
+          10,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T22:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096715447236518370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1946188524472213504",
+              "start": 0,
+              "username": "ooobsess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096715447236518370",
+        "in_reply_to_user_id": "1946188524472213504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096520362162819130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooobsess 搞不明白一定一定不要买外版手机，水深分辨难。有的时候基本都是带着答案问问题，如果这两个价格差距这么大的话放一起对比。只能说你基本就是想买一千多的那个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946188524472213504",
+        "conversation_id": "2096520362162819130",
+        "created_at": "2026-09-06T08:46:20.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096520362162819130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096520362162819130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 24556,
+          "like_count": 33,
+          "quote_count": 5,
+          "reply_count": 111,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在有个艰难的择决，亲爱的推油们能帮我出出主意嘛，你们都是敲专业的人：\n1，花5499买一部apple 17，说实话我很喜欢但是真的真的舍不得🫥😐\n2，花1500买一部apple13，这个在闲鱼上问了好多有个不错的姐姐我觉得还算可信最后说可以再给我便宜150，我没有在闲鱼上买过这么贵的东西有些担心翻车...🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096715447236518370",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 55,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 322
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T12:41:40.000Z",
+        "description": "˚ʚ ᕱ⑅ᕱ ɞ˚\n🆗英语┊🤖 AI ┊ 📈 美股 ┊ 🪙 比特币┊ 🍫生活\n😺🪐🐾",
+        "id": "1946188524472213504",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2096604272649453943",
+        "name": "来",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946188524472213504/1772849043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030915515820965888/3oIGkdZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 587,
+          "like_count": 14200,
+          "listed_count": 5,
+          "media_count": 4,
+          "tweet_count": 4584
+        },
+        "url": "",
+        "username": "ooobsess",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

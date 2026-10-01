@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041737534213124098"
+      ],
+      "media_source_tweet_id": [
+        "2041737538856210489"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2042112915785052604",
+    "created_at": "2026-04-09T05:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042112915785052604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1857802986837172224",
+          "start": 3,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yn9cJRbQsE",
+          "end": 49,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2041737538856210489/photo/1",
+          "media_key": "3_2041737534213124098",
+          "start": 26,
+          "url": "https://t.co/Yn9cJRbQsE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042112915785052604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041737538856210489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LingJiaXin233: 居然这么吓人 https://t.co/Yn9cJRbQsE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 416,
+        "media_key": "3_2041737534213124098",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFW1eENa8AI3thv.jpg",
+        "width": 362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041737534213124098"
+          ],
+          "media_source_tweet_id": [
+            "2041737538856210489"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2042112915785052604",
+        "created_at": "2026-04-09T05:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042112915785052604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1857802986837172224",
+              "start": 3,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yn9cJRbQsE",
+              "end": 49,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2041737538856210489/photo/1",
+              "media_key": "3_2041737534213124098",
+              "start": 26,
+              "url": "https://t.co/Yn9cJRbQsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042112915785052604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041737538856210489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LingJiaXin233: 居然这么吓人 https://t.co/Yn9cJRbQsE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041737534213124098"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2041737538856210489",
+        "created_at": "2026-04-08T04:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041737538856210489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yn9cJRbQsE",
+              "end": 30,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2041737538856210489/photo/1",
+              "media_key": "3_2041737534213124098",
+              "start": 7,
+              "url": "https://t.co/Yn9cJRbQsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041737538856210489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 9864,
+          "like_count": 332,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "居然这么吓人 https://t.co/Yn9cJRbQsE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "上个账号怎么又被封了",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 35,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 212
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2041484957026267436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3014,
+          "following_count": 756,
+          "like_count": 12542,
+          "listed_count": 8,
+          "media_count": 550,
+          "tweet_count": 3229
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

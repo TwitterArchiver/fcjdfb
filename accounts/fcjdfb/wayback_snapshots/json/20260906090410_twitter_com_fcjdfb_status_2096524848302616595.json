@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096524836315222016"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096524848302616595",
+    "created_at": "2026-09-06T09:04:10.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096524848302616595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aALAXg7vfS",
+          "end": 124,
+          "expanded_url": "https://x.com/fcjdfb/status/2096524848302616595/photo/1",
+          "media_key": "3_2096524836315222016",
+          "start": 101,
+          "url": "https://t.co/aALAXg7vfS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096524848302616595",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096524836315222016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真全面屏才是量产机中最装的，哪怕三折叠都没这个效果好。上周自从换了努比亚之后已经在医院不下被几个人从大爷到实习生问这是不是概念机万元机什么牌子什么效果了，至于三折叠？有谁不知道，真全面屏有几个见过的？ https://t.co/aALAXg7vfS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096524836315222016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhaOxNaUAAJxOd.jpg",
+        "width": 2199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096524836315222016"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096524848302616595",
+        "created_at": "2026-09-06T09:04:10.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096524848302616595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aALAXg7vfS",
+              "end": 124,
+              "expanded_url": "https://x.com/fcjdfb/status/2096524848302616595/photo/1",
+              "media_key": "3_2096524836315222016",
+              "start": 101,
+              "url": "https://t.co/aALAXg7vfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096524848302616595",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096524836315222016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真全面屏才是量产机中最装的，哪怕三折叠都没这个效果好。上周自从换了努比亚之后已经在医院不下被几个人从大爷到实习生问这是不是概念机万元机什么牌子什么效果了，至于三折叠？有谁不知道，真全面屏有几个见过的？ https://t.co/aALAXg7vfS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096524848302616595",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 49,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

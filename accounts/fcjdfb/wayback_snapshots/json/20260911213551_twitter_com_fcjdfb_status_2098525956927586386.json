@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2098525956927586386",
+    "created_at": "2026-09-11T21:35:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T22:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098525956927586386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098525956927586386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009173980771700883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 《朋友差点自杀》\n“我”和朋友集体服用死藤水。药效来了之后，集体产生幻觉。朋友却突然挥刀割喉自杀，鲜血四溅，还好被其他人阻止。\n这就是3年前的今天，Spring风死前的遭遇嘛...🥺\n今天是春风祭，Spring风剧烈变形3周年纪念日。我们一起随便找…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2008944617513996290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-E0fFxa0AI_fsP.jpg",
+        "width": 1076
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2008944617711128582",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-E0fGga0AYbsOf.jpg",
+        "width": 951
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2008944617702739975",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-E0fGea0Ac_1R5.jpg",
+        "width": 1059
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2098525956927586386",
+        "created_at": "2026-09-11T21:35:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T22:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098525956927586386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098525956927586386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009173980771700883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 《朋友差点自杀》\n“我”和朋友集体服用死藤水。药效来了之后，集体产生幻觉。朋友却突然挥刀割喉自杀，鲜血四溅，还好被其他人阻止。\n这就是3年前的今天，Spring风死前的遭遇嘛...🥺\n今天是春风祭，Spring风剧烈变形3周年纪念日。我们一起随便找…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008944617513996290",
+            "3_2008944617711128582",
+            "3_2008944617702739975"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2009173980771700883",
+        "created_at": "2026-01-08T08:03:00.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009173980771700883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xx4tRP4se4",
+              "end": 175,
+              "expanded_url": "https://x.com/SalviaSWC/status/2009173980771700883/photo/1",
+              "media_key": "3_2008944617513996290",
+              "start": 152,
+              "url": "https://t.co/xx4tRP4se4"
+            },
+            {
+              "display_url": "pic.x.com/xx4tRP4se4",
+              "end": 175,
+              "expanded_url": "https://x.com/SalviaSWC/status/2009173980771700883/photo/1",
+              "media_key": "3_2008944617711128582",
+              "start": 152,
+              "url": "https://t.co/xx4tRP4se4"
+            },
+            {
+              "display_url": "pic.x.com/xx4tRP4se4",
+              "end": 175,
+              "expanded_url": "https://x.com/SalviaSWC/status/2009173980771700883/photo/1",
+              "media_key": "3_2008944617702739975",
+              "start": 152,
+              "url": "https://t.co/xx4tRP4se4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009173980771700883",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2008944617513996290"
+          },
+          {
+            "media_key": "3_2008944617711128582"
+          },
+          {
+            "media_key": "3_2008944617702739975"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 39631,
+          "like_count": 272,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "《朋友差点自杀》\n“我”和朋友集体服用死藤水。药效来了之后，集体产生幻觉。朋友却突然挥刀割喉自杀，鲜血四溅，还好被其他人阻止。\n这就是3年前的今天，Spring风死前的遭遇嘛...🥺\n今天是春风祭，Spring风剧烈变形3周年纪念日。我们一起随便找一个精品神药溶于水中服用，就当是在喝死藤水来纪念他吧🥹 https://t.co/xx4tRP4se4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2098525956927586386",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 65,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 553
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098040971233489329",
+        "name": "鼠尾草～🌿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659962043460354050/1773318440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5519,
+          "following_count": 1026,
+          "like_count": 25712,
+          "listed_count": 10,
+          "media_count": 601,
+          "tweet_count": 8230
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

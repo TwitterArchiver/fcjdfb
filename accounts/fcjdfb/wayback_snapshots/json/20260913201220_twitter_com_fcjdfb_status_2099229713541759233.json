@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2098500266471391523",
+    "created_at": "2026-09-13T20:12:20.000Z",
+    "display_text_range": [
+      44,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T21:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099229713541759233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1033965360226041856",
+          "start": 0,
+          "username": "ambition520000"
+        },
+        {
+          "end": 28,
+          "id": "1690721268373581824",
+          "start": 16,
+          "username": "Celsius233C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099229713541759233",
+    "in_reply_to_user_id": "1033965360226041856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098797778273174001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ambition520000 @Celsius233C @mikotossd0106 这个是不是算asd特质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2098500266471391523",
+        "created_at": "2026-09-13T20:12:20.000Z",
+        "display_text_range": [
+          44,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T21:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099229713541759233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1033965360226041856",
+              "start": 0,
+              "username": "ambition520000"
+            },
+            {
+              "end": 28,
+              "id": "1690721268373581824",
+              "start": 16,
+              "username": "Celsius233C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099229713541759233",
+        "in_reply_to_user_id": "1033965360226041856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098797778273174001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ambition520000 @Celsius233C @mikotossd0106 这个是不是算asd特质"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1033965360226041856",
+        "conversation_id": "2098500266471391523",
+        "created_at": "2026-09-12T15:35:58.000Z",
+        "display_text_range": [
+          28,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098797778273174001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690721268373581824",
+              "start": 0,
+              "username": "Celsius233C"
+            },
+            {
+              "end": 27,
+              "id": "1766452473840173056",
+              "start": 13,
+              "username": "mikotossd0106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098797778273174001",
+        "in_reply_to_user_id": "1690721268373581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1268,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098500266471391523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Celsius233C @mikotossd0106 还真是，以前很多人说我思维非常活跃，说话总是会突然说到另外一个感觉没什么联系的话题。但是我每次都感觉我说的很有联系"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099229713541759233",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 67,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-08-27T06:32:06.000Z",
+        "description": "entp adhd 民主社会主义 吉他手 性格不好有冒犯请理解（不理解就拉黑吧）",
+        "id": "1033965360226041856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098797778273174001",
+        "name": "Hollow",
+        "pinned_tweet_id": "1954062283765952717",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778751763111403520/nB7owWoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 893,
+          "like_count": 46,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 1543
+        },
+        "url": "",
+        "username": "ambition520000",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "Gender undefined💛💜｜zh-CN/en-US",
+        "id": "1690721268373581824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099105557005119564",
+        "name": "233°C",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690721268373581824/1729236459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017216810953945088/bXezlZcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5228,
+          "following_count": 971,
+          "like_count": 28019,
+          "listed_count": 21,
+          "media_count": 42,
+          "tweet_count": 615
+        },
+        "url": "",
+        "username": "Celsius233C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

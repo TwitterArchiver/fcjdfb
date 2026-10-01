@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098642887294722049",
+        "3_2098642893426892800"
+      ],
+      "media_source_tweet_id": [
+        "2098642901542875239",
+        "2098642901542875239"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098859185559711866",
+    "created_at": "2026-09-12T19:39:59.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T20:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098859185559711866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1276688173750317056",
+          "start": 3,
+          "username": "cyousei6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NrsCxjW6kU",
+          "end": 64,
+          "expanded_url": "https://x.com/cyousei6/status/2098642901542875239/photo/1",
+          "media_key": "3_2098642887294722049",
+          "start": 41,
+          "url": "https://t.co/NrsCxjW6kU"
+        },
+        {
+          "display_url": "pic.x.com/NrsCxjW6kU",
+          "end": 64,
+          "expanded_url": "https://x.com/cyousei6/status/2098642901542875239/photo/1",
+          "media_key": "3_2098642893426892800",
+          "start": 41,
+          "url": "https://t.co/NrsCxjW6kU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098859185559711866",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098642887294722049"
+      },
+      {
+        "media_key": "3_2098642893426892800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098642901542875239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cyousei6: 恭喜我达成了隐藏结局，也祝你早日达成属于你的隐藏结局 https://t.co/NrsCxjW6kU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1516,
+        "media_key": "3_2098642887294722049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_glj-aIAEKxpb.jpg",
+        "width": 1084
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2098642893426892800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_gl60boAASu6M.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098642887294722049",
+            "3_2098642893426892800"
+          ],
+          "media_source_tweet_id": [
+            "2098642901542875239",
+            "2098642901542875239"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098859185559711866",
+        "created_at": "2026-09-12T19:39:59.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T20:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098859185559711866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1276688173750317056",
+              "start": 3,
+              "username": "cyousei6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrsCxjW6kU",
+              "end": 64,
+              "expanded_url": "https://x.com/cyousei6/status/2098642901542875239/photo/1",
+              "media_key": "3_2098642887294722049",
+              "start": 41,
+              "url": "https://t.co/NrsCxjW6kU"
+            },
+            {
+              "display_url": "pic.x.com/NrsCxjW6kU",
+              "end": 64,
+              "expanded_url": "https://x.com/cyousei6/status/2098642901542875239/photo/1",
+              "media_key": "3_2098642893426892800",
+              "start": 41,
+              "url": "https://t.co/NrsCxjW6kU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098859185559711866",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098642887294722049"
+          },
+          {
+            "media_key": "3_2098642893426892800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098642901542875239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cyousei6: 恭喜我达成了隐藏结局，也祝你早日达成属于你的隐藏结局 https://t.co/NrsCxjW6kU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098642887294722049",
+            "3_2098642893426892800"
+          ]
+        },
+        "author_id": "1276688173750317056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098642901542875239",
+        "created_at": "2026-09-12T05:20:33.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098642901542875239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrsCxjW6kU",
+              "end": 50,
+              "expanded_url": "https://x.com/cyousei6/status/2098642901542875239/photo/1",
+              "media_key": "3_2098642887294722049",
+              "start": 27,
+              "url": "https://t.co/NrsCxjW6kU"
+            },
+            {
+              "display_url": "pic.x.com/NrsCxjW6kU",
+              "end": 50,
+              "expanded_url": "https://x.com/cyousei6/status/2098642901542875239/photo/1",
+              "media_key": "3_2098642893426892800",
+              "start": 27,
+              "url": "https://t.co/NrsCxjW6kU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098642901542875239",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098642887294722049"
+          },
+          {
+            "media_key": "3_2098642893426892800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 349,
+          "impression_count": 209666,
+          "like_count": 3185,
+          "quote_count": 19,
+          "reply_count": 306,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜我达成了隐藏结局，也祝你早日达成属于你的隐藏结局 https://t.co/NrsCxjW6kU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2098859185559711866",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 65,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 573
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-27T01:26:08.000Z",
+        "description": "日本大阪在住🇯🇵\n非中介，拒绝闲聊❌",
+        "id": "1276688173750317056",
+        "is_identity_verified": false,
+        "location": "大阪",
+        "most_recent_tweet_id": "2098798422065349049",
+        "name": "かがり",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276688173750317056/1703401120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738816393255227392/Pdk1HP0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7114,
+          "following_count": 237,
+          "like_count": 28678,
+          "listed_count": 28,
+          "media_count": 2087,
+          "tweet_count": 16190
+        },
+        "url": "",
+        "username": "cyousei6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

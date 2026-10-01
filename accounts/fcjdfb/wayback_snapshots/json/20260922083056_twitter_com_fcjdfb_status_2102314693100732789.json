@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2102297641090527334",
+    "created_at": "2026-09-22T08:30:56.000Z",
+    "display_text_range": [
+      14,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T09:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102314693100732789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942111360420290561",
+          "start": 0,
+          "username": "credits18118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102314693100732789",
+    "in_reply_to_user_id": "1942111360420290561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102305693961240951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@credits18118 边缘群体我觉得占比高🤔，尤其周末。玩音游的本来也不太像大众能干的事情。如果跟群人群的人比那肯定高很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2102297641090527334",
+        "created_at": "2026-09-22T08:30:56.000Z",
+        "display_text_range": [
+          14,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102314693100732789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942111360420290561",
+              "start": 0,
+              "username": "credits18118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102314693100732789",
+        "in_reply_to_user_id": "1942111360420290561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102305693961240951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@credits18118 边缘群体我觉得占比高🤔，尤其周末。玩音游的本来也不太像大众能干的事情。如果跟群人群的人比那肯定高很多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942111360420290561",
+        "conversation_id": "2102297641090527334",
+        "created_at": "2026-09-22T07:55:11.000Z",
+        "display_text_range": [
+          8,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T08:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102305693961240951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102305693961240951",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102305411273805870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb 🤔🤔有可能，但是我感觉比例上还是挺高的，毕竟mtf在全人群中的占比还是很低的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材（简介施工中）\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2102314693100732789",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 65,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1121
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T06:40:56.000Z",
+        "description": "10年高中在读丨IP上海 欢迎来找我面基！丨INFP-T丨焦虑+双相二型伴混合特征治疗中丨不🚬/不🍺/不🔪/不od/不键政丨音游重度依赖丨指派性别男，性别认同探索中(或许是非二元偏女?丨萨福式取向丨人称代词所有都可丨可互fo看成分回关丨J-Speedcore享受者丨很内向但渴望能找到朋友 请私信找我聊天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/credits18118/c…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/credits18118/clo",
+                "start": 0,
+                "url": "https://t.co/iLH5PdmDfX"
+              }
+            ]
+          }
+        },
+        "id": "1942111360420290561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102313750208692301",
+        "name": "Phony",
+        "pinned_tweet_id": "2097107549623570562",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091115941690318848/bHlDpJb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 739,
+          "like_count": 6206,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 1373
+        },
+        "url": "https://t.co/iLH5PdmDfX",
+        "username": "credits18118",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

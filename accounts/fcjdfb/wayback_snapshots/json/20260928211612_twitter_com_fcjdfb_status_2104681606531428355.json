@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104605024253059200",
+    "created_at": "2026-09-28T21:16:12.000Z",
+    "display_text_range": [
+      15,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T22:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104681606531428355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1378376814389694468",
+          "start": 0,
+          "username": "McFlurry_1222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104681606531428355",
+    "in_reply_to_user_id": "1378376814389694468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104605024253059200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McFlurry_1222 我觉得咋描述合适，三好跨吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2104605015151411201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUPHFCbAAEfTjI.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104605024253059200",
+        "created_at": "2026-09-28T21:16:12.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T22:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104681606531428355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "McFlurry_1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104681606531428355",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104605024253059200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McFlurry_1222 我觉得咋描述合适，三好跨吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104605015151411201"
+          ]
+        },
+        "author_id": "1378376814389694468",
+        "conversation_id": "2104605024253059200",
+        "created_at": "2026-09-28T16:11:54.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104605024253059200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d6GyEWfKJl",
+              "end": 23,
+              "expanded_url": "https://x.com/McFlurry_1222/status/2104605024253059200/photo/1",
+              "media_key": "3_2104605015151411201",
+              "start": 0,
+              "url": "https://t.co/d6GyEWfKJl"
+            },
+            {
+              "display_url": "x.com/Aliestria/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Aliestria/status/2104143627765358803",
+              "start": 24,
+              "url": "https://t.co/HLXPVoX1dD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104605024253059200",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104605015151411201"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2056,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104143627765358803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/d6GyEWfKJl https://t.co/HLXPVoX1dD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104681606531428355",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 65,
+          "like_count": 866,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1579
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "Luta, paz e amor🍉🇵🇸\nThey/Them\nAgender Trans",
+        "id": "1378376814389694468",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104680874386325691",
+        "name": "Pie",
+        "pinned_tweet_id": "2104320714744668304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378376814389694468/1790357152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103602958378426368/_ycB3RY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 7307,
+          "like_count": 181713,
+          "listed_count": 3,
+          "media_count": 896,
+          "tweet_count": 30410
+        },
+        "url": "",
+        "username": "McFlurry_1222",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

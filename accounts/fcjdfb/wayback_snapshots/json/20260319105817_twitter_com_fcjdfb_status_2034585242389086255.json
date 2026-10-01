@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034330483950338049"
+      ],
+      "media_source_tweet_id": [
+        "2034330489423851594"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2034585242389086255",
+    "created_at": "2026-03-19T10:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034585242389086255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "OVOTVTOVO_3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vcJOvgryRj",
+          "end": 53,
+          "expanded_url": "https://x.com/OVOTVTOVO_3/status/2034330489423851594/photo/1",
+          "media_key": "3_2034330483950338049",
+          "start": 30,
+          "url": "https://t.co/vcJOvgryRj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034585242389086255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034330489423851594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OVOTVTOVO_3: 那咋啦那咋啦阿帕兹阿帕兹 https://t.co/vcJOvgryRj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_2034330483950338049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtky_ubwAEA9Jl.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034330483950338049"
+          ],
+          "media_source_tweet_id": [
+            "2034330489423851594"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2034585242389086255",
+        "created_at": "2026-03-19T10:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034585242389086255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "OVOTVTOVO_3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcJOvgryRj",
+              "end": 53,
+              "expanded_url": "https://x.com/OVOTVTOVO_3/status/2034330489423851594/photo/1",
+              "media_key": "3_2034330483950338049",
+              "start": 30,
+              "url": "https://t.co/vcJOvgryRj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034585242389086255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034330489423851594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OVOTVTOVO_3: 那咋啦那咋啦阿帕兹阿帕兹 https://t.co/vcJOvgryRj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034330483950338049"
+          ]
+        },
+        "author_id": "1829229897195368455",
+        "conversation_id": "2034330489423851594",
+        "created_at": "2026-03-18T18:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034330489423851594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcJOvgryRj",
+              "end": 36,
+              "expanded_url": "https://x.com/OVOTVTOVO_3/status/2034330489423851594/photo/1",
+              "media_key": "3_2034330483950338049",
+              "start": 13,
+              "url": "https://t.co/vcJOvgryRj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034330489423851594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6429,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "那咋啦那咋啦阿帕兹阿帕兹 https://t.co/vcJOvgryRj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 74
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "id": "1829229897195368455",
+        "name": "用户2778（祺嘉玛学长）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032517620172468227/XWboBXgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 64,
+          "like_count": 2841,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 3738
+        },
+        "username": "OVOTVTOVO_3",
+        "verified": false
+      }
+    ]
+  }
+}

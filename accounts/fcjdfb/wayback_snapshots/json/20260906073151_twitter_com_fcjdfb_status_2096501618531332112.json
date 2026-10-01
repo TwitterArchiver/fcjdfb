@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096254538906996736",
+        "3_2096254538940567553",
+        "3_2096254538743222275",
+        "3_2096254539607273475"
+      ],
+      "media_source_tweet_id": [
+        "2096254556195668271",
+        "2096254556195668271",
+        "2096254556195668271",
+        "2096254556195668271"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096501618531332112",
+    "created_at": "2026-09-06T07:31:51.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096501618531332112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1524662385554132992",
+          "start": 3,
+          "username": "IngWeilai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p1GasE7iy8",
+          "end": 114,
+          "expanded_url": "https://x.com/IngWeilai/status/2096254556195668271/photo/1",
+          "media_key": "3_2096254538906996736",
+          "start": 91,
+          "url": "https://t.co/p1GasE7iy8"
+        },
+        {
+          "display_url": "pic.x.com/p1GasE7iy8",
+          "end": 114,
+          "expanded_url": "https://x.com/IngWeilai/status/2096254556195668271/photo/1",
+          "media_key": "3_2096254538940567553",
+          "start": 91,
+          "url": "https://t.co/p1GasE7iy8"
+        },
+        {
+          "display_url": "pic.x.com/p1GasE7iy8",
+          "end": 114,
+          "expanded_url": "https://x.com/IngWeilai/status/2096254556195668271/photo/1",
+          "media_key": "3_2096254538743222275",
+          "start": 91,
+          "url": "https://t.co/p1GasE7iy8"
+        },
+        {
+          "display_url": "pic.x.com/p1GasE7iy8",
+          "end": 114,
+          "expanded_url": "https://x.com/IngWeilai/status/2096254556195668271/photo/1",
+          "media_key": "3_2096254539607273475",
+          "start": 91,
+          "url": "https://t.co/p1GasE7iy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096501618531332112",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096254538906996736"
+      },
+      {
+        "media_key": "3_2096254538940567553"
+      },
+      {
+        "media_key": "3_2096254538743222275"
+      },
+      {
+        "media_key": "3_2096254539607273475"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096254556195668271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IngWeilai: 近日，一个游戏设身处地，在抖音爆火。\n该游戏因为高度还原中国官场而备受追捧。\n该游戏让玩家扮演地方当官员，完全还原中国官场，而且最后结局基本都是被调查 https://t.co/p1GasE7iy8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1859,
+        "media_key": "3_2096254538906996736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdkZY5aEAAFBaD.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096254538940567553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdkZZBaUAE3Gak.jpg",
+        "width": 1058
+      },
+      {
+        "height": 1526,
+        "media_key": "3_2096254538743222275",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdkZYSXEAMMOqa.jpg",
+        "width": 1170
+      },
+      {
+        "height": 870,
+        "media_key": "3_2096254539607273475",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdkZbgXcAMSr0S.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096254538906996736",
+            "3_2096254538940567553",
+            "3_2096254538743222275",
+            "3_2096254539607273475"
+          ],
+          "media_source_tweet_id": [
+            "2096254556195668271",
+            "2096254556195668271",
+            "2096254556195668271",
+            "2096254556195668271"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096501618531332112",
+        "created_at": "2026-09-06T07:31:51.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096501618531332112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1524662385554132992",
+              "start": 3,
+              "username": "IngWeilai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p1GasE7iy8",
+              "end": 114,
+              "expanded_url": "https://x.com/IngWeilai/status/2096254556195668271/photo/1",
+              "media_key": "3_2096254538906996736",
+              "start": 91,
+              "url": "https://t.co/p1GasE7iy8"
+            },
+            {
+              "display_url": "pic.x.com/p1GasE7iy8",
+              "end": 114,
+              "expanded_url": "https://x.com/IngWeilai/status/2096254556195668271/photo/1",
+              "media_key": "3_2096254538940567553",
+              "start": 91,
+              "url": "https://t.co/p1GasE7iy8"
+            },
+            {
+              "display_url": "pic.x.com/p1GasE7iy8",
+              "end": 114,
+              "expanded_url": "https://x.com/IngWeilai/status/2096254556195668271/photo/1",
+              "media_key": "3_2096254538743222275",
+              "start": 91,
+              "url": "https://t.co/p1GasE7iy8"
+            },
+            {
+              "display_url": "pic.x.com/p1GasE7iy8",
+              "end": 114,
+              "expanded_url": "https://x.com/IngWeilai/status/2096254556195668271/photo/1",
+              "media_key": "3_2096254539607273475",
+              "start": 91,
+              "url": "https://t.co/p1GasE7iy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096501618531332112",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096254538906996736"
+          },
+          {
+            "media_key": "3_2096254538940567553"
+          },
+          {
+            "media_key": "3_2096254538743222275"
+          },
+          {
+            "media_key": "3_2096254539607273475"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096254556195668271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IngWeilai: 近日，一个游戏设身处地，在抖音爆火。\n该游戏因为高度还原中国官场而备受追捧。\n该游戏让玩家扮演地方当官员，完全还原中国官场，而且最后结局基本都是被调查 https://t.co/p1GasE7iy8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096254538906996736",
+            "3_2096254538940567553",
+            "3_2096254538743222275",
+            "3_2096254539607273475"
+          ]
+        },
+        "author_id": "1524662385554132992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096254556195668271",
+        "created_at": "2026-09-05T15:10:07.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096254556195668271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p1GasE7iy8",
+              "end": 99,
+              "expanded_url": "https://x.com/IngWeilai/status/2096254556195668271/photo/1",
+              "media_key": "3_2096254538906996736",
+              "start": 76,
+              "url": "https://t.co/p1GasE7iy8"
+            },
+            {
+              "display_url": "pic.x.com/p1GasE7iy8",
+              "end": 99,
+              "expanded_url": "https://x.com/IngWeilai/status/2096254556195668271/photo/1",
+              "media_key": "3_2096254538940567553",
+              "start": 76,
+              "url": "https://t.co/p1GasE7iy8"
+            },
+            {
+              "display_url": "pic.x.com/p1GasE7iy8",
+              "end": 99,
+              "expanded_url": "https://x.com/IngWeilai/status/2096254556195668271/photo/1",
+              "media_key": "3_2096254538743222275",
+              "start": 76,
+              "url": "https://t.co/p1GasE7iy8"
+            },
+            {
+              "display_url": "pic.x.com/p1GasE7iy8",
+              "end": 99,
+              "expanded_url": "https://x.com/IngWeilai/status/2096254556195668271/photo/1",
+              "media_key": "3_2096254539607273475",
+              "start": 76,
+              "url": "https://t.co/p1GasE7iy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096254556195668271",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096254538906996736"
+          },
+          {
+            "media_key": "3_2096254538940567553"
+          },
+          {
+            "media_key": "3_2096254538743222275"
+          },
+          {
+            "media_key": "3_2096254539607273475"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 262,
+          "impression_count": 82094,
+          "like_count": 572,
+          "quote_count": 0,
+          "reply_count": 77,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "近日，一个游戏设身处地，在抖音爆火。\n该游戏因为高度还原中国官场而备受追捧。\n该游戏让玩家扮演地方当官员，完全还原中国官场，而且最后结局基本都是被调查 https://t.co/p1GasE7iy8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096501618531332112",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 45,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-12T08:07:02.000Z",
+        "description": "中国社会新闻评论分析 youtube频道https://t.co/7yh73wgYTu 欢迎投稿 小号@ziyousuiwo1234",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "ziyousuiwo1234"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@ziyousuiwo",
+                "end": 43,
+                "expanded_url": "https://youtube.com/@ziyousuiwo",
+                "start": 20,
+                "url": "https://t.co/7yh73wgYTu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ziyousuiwo?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ziyousuiwo?si=qJSY2ixEdCKt95LY",
+                "start": 0,
+                "url": "https://t.co/LrTK4v7YZo"
+              }
+            ]
+          }
+        },
+        "id": "1524662385554132992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096467242816860540",
+        "name": "ziyousuiwo（随时更新中国新闻评论）",
+        "pinned_tweet_id": "2096245980186222779",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597759406800015362/aLRPPSoW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39164,
+          "following_count": 830,
+          "like_count": 2379,
+          "listed_count": 184,
+          "media_count": 10347,
+          "tweet_count": 41584
+        },
+        "url": "https://t.co/LrTK4v7YZo",
+        "username": "IngWeilai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

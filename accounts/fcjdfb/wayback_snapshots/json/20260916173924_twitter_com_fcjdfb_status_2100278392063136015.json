@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100278392063136015",
+    "created_at": "2026-09-16T17:39:24.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T18:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100278392063136015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MEMZFuHua/stat…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/MEMZFuHua/status/2100008981167271940",
+          "start": 88,
+          "url": "https://t.co/BLR9UcKBsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100278392063136015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100008981167271940",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得一个是可以参考广泛精神疾病，有先天基因分子。有部分人后天会被更容易激发跨相关\n另外一个可以说被认定为“假性”或者短期性别波动\n当然这些目前都不能学术依据站不住脚看看就好 https://t.co/BLR9UcKBsd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100278392063136015",
+        "created_at": "2026-09-16T17:39:24.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100278392063136015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MEMZFuHua/stat…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/MEMZFuHua/status/2100008981167271940",
+              "start": 88,
+              "url": "https://t.co/BLR9UcKBsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100278392063136015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100008981167271940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得一个是可以参考广泛精神疾病，有先天基因分子。有部分人后天会被更容易激发跨相关\n另外一个可以说被认定为“假性”或者短期性别波动\n当然这些目前都不能学术依据站不住脚看看就好 https://t.co/BLR9UcKBsd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060652328915701760",
+        "conversation_id": "2100008981167271940",
+        "created_at": "2026-09-15T23:48:52.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T00:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100008981167271940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100008981167271940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4665,
+          "like_count": 77,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉在不同平台已经至少十次刷到过孩子因为童年缺少父爱导致变成xnn或xyn的相关评论了，但我记得学术界普遍不认同后天论啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2100278392063136015",
+        "name": "windigo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099879631554027520/jep7lkPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 73,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 814
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T09:20:39.000Z",
+        "description": "2010.12.27崭新下线 | HRT2026.7.4 | 高一牲 | 无证含糖 | 同类互fo | 技术花粉 | 抖m | 不OD不割手 | 打舞萌︱小号@ZoquYlc5q384854",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 79,
+                "username": "ZoquYlc5q384854"
+              }
+            ]
+          }
+        },
+        "id": "2060652328915701760",
+        "is_identity_verified": false,
+        "location": "中国 安徽",
+        "most_recent_tweet_id": "2100194207403307195",
+        "name": "MEMZ-FuHua🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060652328915701760/1780555745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075471807206084610/ovf4uAvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 652,
+          "like_count": 460,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 775
+        },
+        "url": "",
+        "username": "MEMZFuHua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

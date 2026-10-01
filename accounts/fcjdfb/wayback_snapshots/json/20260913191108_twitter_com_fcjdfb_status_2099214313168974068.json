@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099214313168974068",
+    "created_at": "2026-09-13T19:11:08.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T20:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099214313168974068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SonogamiRinneT…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/SonogamiRinneTS/status/2099149269311856691",
+          "start": 145,
+          "url": "https://t.co/eb2tS4kJkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099214313168974068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我认为中国在这方面得益于三不管地带，就如楼上所说。卫健委的几条gaht药物指导和性别肯定手术规范等文件其实来来回回就那几个人，起草的时候都没政治介入和考虑。就是几波人凑一起写的一共识，是否被政治官员注意到都难说。国内就是这样一个很尴尬的地带，对于美国以及其他一些发达国家lgbtq＋性少数权益是一个社会热门话题和政治参选内容。当然川普大手肯定干扰不到apa医学者。但临床参合一脚太正常了，在未成年和成年跨性别的用药与性别肯定方案早就脱离了伦理讨论范围，已经被各派拿来当成政治炒作东西。一党执政也不是一点好处都没有。\n国内根本掀不起lgbtqia＋权益讨论话题，审查和群体根本就不允许。很多同性恋尤其男同性恋可能都因为融入生活太平常化了没意识到自己权益是有被歧视。国内各方面都是政治上右倾，一党建制就这样了。这就是国内国外核心差异点了，国内在此方面医学的高地还是属于医生们。政治上注意不到也不可能注意到并对此反应。于是国内就成了政治上和社会环境不提及，医学上就是专业人士之间的事情了。两者相互错开，于是就能看到这个神奇的现象。医生们把整个需要医学干预的都做到近乎完美了，不论开药还是手术。唯一就是这个没有纳入必修内容，可以说就是跨爱好者。普通医生不想参与给自己添麻烦毕竟不是必须要学习的东西，然后就是该死的免责了。这点我只能说医生很可怜，虽然政治没有关注跨的事情但是他关注了医学呀。于是首诊责任制和各种问责东西就出来了，只能迫不得已加上未成年需亲属同意，注意其实亲属也可以也算留了个后门。然后手术强制要求监护人同意。我觉得在这个事情上要分开来看，国内社会和政治和（跨）医学其实分开的互不交错。社会上没人讨论lgbt权益问题并且许多人存在歧视现象，政治上严防小学初中心理和性教育科普和讲述此类内容，医学上不受外界关注几个跨爱好者搞啥都没啥政治和社会干预。潘柏林又不是内分泌和专业手术相关。欧美就不太一样了，社会上会讨论lgbt话题，政治上会拿这个作为竞选内容，自然医学上受到了社会和政治的干预与阻力。之前看过一个文章，几十年前美国一位医生未退休的时候医院都还是非常开明的开具garh药物，在当时已经有许多其他需求的患者如生长发育已经长久使用并且证明是在合适的负担范围内，而退休的时候变得越来越保守。\n随着经济开始走向下行，全球可能都会掀起一股右倾浪潮吧"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099149269311856691",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我认为中国在这方面得益于三不管地带，就如楼上所说。卫健委的几条gaht药物指导和性别肯定手术规范等文件其实来来回回就那几个人，起草的时候都没政治介入和考虑。就是几波人凑一起写的一共识，是否被政治官员注意到都难说。国内就是这样一个很尴尬的地带，对于美国以及其他一些发达国家lgbtq＋性少数 https://t.co/eb2tS4kJkh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 859,
+        "media_key": "3_2099149259774001152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGtIUdagAApiwB.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099214313168974068",
+        "created_at": "2026-09-13T19:11:08.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T20:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099214313168974068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SonogamiRinneT…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/SonogamiRinneTS/status/2099149269311856691",
+              "start": 145,
+              "url": "https://t.co/eb2tS4kJkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099214313168974068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我认为中国在这方面得益于三不管地带，就如楼上所说。卫健委的几条gaht药物指导和性别肯定手术规范等文件其实来来回回就那几个人，起草的时候都没政治介入和考虑。就是几波人凑一起写的一共识，是否被政治官员注意到都难说。国内就是这样一个很尴尬的地带，对于美国以及其他一些发达国家lgbtq＋性少数权益是一个社会热门话题和政治参选内容。当然川普大手肯定干扰不到apa医学者。但临床参合一脚太正常了，在未成年和成年跨性别的用药与性别肯定方案早就脱离了伦理讨论范围，已经被各派拿来当成政治炒作东西。一党执政也不是一点好处都没有。\n国内根本掀不起lgbtqia＋权益讨论话题，审查和群体根本就不允许。很多同性恋尤其男同性恋可能都因为融入生活太平常化了没意识到自己权益是有被歧视。国内各方面都是政治上右倾，一党建制就这样了。这就是国内国外核心差异点了，国内在此方面医学的高地还是属于医生们。政治上注意不到也不可能注意到并对此反应。于是国内就成了政治上和社会环境不提及，医学上就是专业人士之间的事情了。两者相互错开，于是就能看到这个神奇的现象。医生们把整个需要医学干预的都做到近乎完美了，不论开药还是手术。唯一就是这个没有纳入必修内容，可以说就是跨爱好者。普通医生不想参与给自己添麻烦毕竟不是必须要学习的东西，然后就是该死的免责了。这点我只能说医生很可怜，虽然政治没有关注跨的事情但是他关注了医学呀。于是首诊责任制和各种问责东西就出来了，只能迫不得已加上未成年需亲属同意，注意其实亲属也可以也算留了个后门。然后手术强制要求监护人同意。我觉得在这个事情上要分开来看，国内社会和政治和（跨）医学其实分开的互不交错。社会上没人讨论lgbt权益问题并且许多人存在歧视现象，政治上严防小学初中心理和性教育科普和讲述此类内容，医学上不受外界关注几个跨爱好者搞啥都没啥政治和社会干预。潘柏林又不是内分泌和专业手术相关。欧美就不太一样了，社会上会讨论lgbt话题，政治上会拿这个作为竞选内容，自然医学上受到了社会和政治的干预与阻力。之前看过一个文章，几十年前美国一位医生未退休的时候医院都还是非常开明的开具garh药物，在当时已经有许多其他需求的患者如生长发育已经长久使用并且证明是在合适的负担范围内，而退休的时候变得越来越保守。\n随着经济开始走向下行，全球可能都会掀起一股右倾浪潮吧"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099149269311856691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认为中国在这方面得益于三不管地带，就如楼上所说。卫健委的几条gaht药物指导和性别肯定手术规范等文件其实来来回回就那几个人，起草的时候都没政治介入和考虑。就是几波人凑一起写的一共识，是否被政治官员注意到都难说。国内就是这样一个很尴尬的地带，对于美国以及其他一些发达国家lgbtq＋性少数 https://t.co/eb2tS4kJkh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099149259774001152"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2099149269311856691",
+        "created_at": "2026-09-13T14:52:40.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099149269311856691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pl8d6CaKwc",
+              "end": 166,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2099149269311856691/photo/1",
+              "media_key": "3_2099149259774001152",
+              "start": 143,
+              "url": "https://t.co/Pl8d6CaKwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099149269311856691",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099149259774001152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "有人可能不知道，中国跨性别群体的生存处境，差一点就要比现在还要糟得多。2022年，随着这个《专家共识》发表之后，国内开始向当时的国际主流标准看齐，加速推广未成年跨性别者早期医疗干预，中国自此成为迄今为止最后一个事实上允许在尚未拿到确切的诊断结果，只需要一次就诊记录即可进行青春期阻断和激素治疗的国家。然而仅仅一年后，随着2023年英国的Cass Review发布，西方各国保守势力便掀起了收紧未成年跨性别医疗干预门槛的狂潮。一旦这个《专家共识》发表再晚上一两年，我们大概率就要向新的“国际标准”对齐，那么早期医疗干预很难被允许开展，国内的未成年跨性别者们想要获取正规医疗干预的难度要比现在高无数倍\n\n截至目前，未成年跨性别者仍然可以在疑诊状态下进行医疗干预的国家，全世界只剩下不到10个。即使是人均GDP前10的国家和地区，也仅剩下一个冰岛还在实行旧的宽松标准，哪怕其他北欧四国也都不行，可见这一条的含金量远比很多人想象中的要高。然而十分讽刺的是，目前对未成年跨性别者医疗干预实行宽松管理的国家数量，实际上远少于同性恋合法化的国家，在学校开展LGBTQ科普教育的国家，以及有专门保护性少数群体法律的国家，而中国在用了最短的时间和最低的社会成本便把几乎是最高难度的一条拿下的同时，那些低难度的性少数权益保障方面，却在过去数年里停滞甚至倒退。这就像一个人做高考数学卷子，把最后两道压轴大题全都完美的解出来了，而前面的简单题却错了一大半，这种情况只有一种解释，那就是其实他是完全有能力做对，但故意往错了去做"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 2268,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "有人可能不知道，中国跨性别群体的生存处境，差一点就要比现在还要糟得多。2022年，随着这个《专家共识》发表之后，国内开始向当时的国际主流标准看齐，加速推广未成年跨性别者早期医疗干预，中国自此成为迄今为止最后一个事实上允许在尚未拿到确切的诊断结果，只需要一次就诊记录即可进行青春期阻断和 https://t.co/Pl8d6CaKwc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099214313168974068",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 66,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 635
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关",
+        "id": "1701484460250890240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099149269311856691",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701484460250890240/1747470440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5902,
+          "following_count": 4180,
+          "like_count": 1664,
+          "listed_count": 19,
+          "media_count": 323,
+          "tweet_count": 2247
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

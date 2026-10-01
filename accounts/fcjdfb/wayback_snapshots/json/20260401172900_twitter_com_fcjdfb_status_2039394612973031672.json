@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2039394612973031672",
+    "created_at": "2026-04-01T17:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T18:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039394612973031672"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 101,
+          "start": 96,
+          "tag": "雅诗自曝"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1356583549",
+          "start": 3,
+          "username": "kagurazakayashi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/uH1kP",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/uH1kP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039394612973031672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039217861122748752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kagurazakayashi: 大家好，本友跨顺男已经翻车，因为被确诊异性症 🏳️‍⚧️ ，现在是 MtF 🏳️‍⚧️ 了，已经开始日雌 HRT ，24小时女装，现在正在女装上班。 #雅诗自曝\n（推文内容有效期到发推当天结束为止） https://t.co/uH1kP…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2009,
+        "media_key": "3_2039217817711751168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzBzQxbMAA9FBC.jpg",
+        "width": 3361
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2039394612973031672",
+        "created_at": "2026-04-01T17:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T18:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039394612973031672"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "雅诗自曝"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1356583549",
+              "start": 3,
+              "username": "kagurazakayashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/uH1kP",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/uH1kP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039394612973031672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039217861122748752",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kagurazakayashi: 大家好，本友跨顺男已经翻车，因为被确诊异性症 🏳️‍⚧️ ，现在是 MtF 🏳️‍⚧️ 了，已经开始日雌 HRT ，24小时女装，现在正在女装上班。 #雅诗自曝\n（推文内容有效期到发推当天结束为止） https://t.co/uH1kP…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039217817711751168"
+          ]
+        },
+        "author_id": "1356583549",
+        "conversation_id": "2039217861122748752",
+        "created_at": "2026-04-01T05:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039217861122748752"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "雅诗自曝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uH1kP8CeZS",
+              "end": 123,
+              "expanded_url": "https://x.com/kagurazakayashi/status/2039217861122748752/photo/1",
+              "media_key": "3_2039217817711751168",
+              "start": 100,
+              "url": "https://t.co/uH1kP8CeZS"
+            },
+            {
+              "display_url": "x.com/kagurazakayash…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/kagurazakayashi/status/2038963136108298458",
+              "start": 124,
+              "url": "https://t.co/QTl44RKevE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039217861122748752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 21861,
+          "like_count": 335,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038963136108298458",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好，本友跨顺男已经翻车，因为被确诊异性症 🏳️‍⚧️ ，现在是 MtF 🏳️‍⚧️ 了，已经开始日雌 HRT ，24小时女装，现在正在女装上班。 #雅诗自曝\n（推文内容有效期到发推当天结束为止） https://t.co/uH1kP8CeZS https://t.co/QTl44RKevE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 30,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 141
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "这里是3周目账号(2023.7-)，希望认识更多同好。没头像/没推/发广告/抽象会拉黑。女装不发R18(但有擦边的)，不讨论政治。喜欢女装、COS、KIG，无性SM(Switch)。友跨顺男偶尔发跨权。G+难民。女装和kig照看账号tag #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 120,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 153,
+                "start": 137,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgqV77"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩",
+        "pinned_tweet_id": "2015424289886134737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974773629704708096/lVYzrnzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15687,
+          "following_count": 6045,
+          "like_count": 22109,
+          "listed_count": 66,
+          "media_count": 552,
+          "tweet_count": 4271
+        },
+        "url": "https://t.co/s9yovgqV77",
+        "username": "kagurazakayashi",
+        "verified": true
+      }
+    ]
+  }
+}

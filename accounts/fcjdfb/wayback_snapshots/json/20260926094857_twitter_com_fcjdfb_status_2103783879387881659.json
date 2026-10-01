@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2103783879387881659",
+    "created_at": "2026-09-26T09:48:57.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T10:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103783879387881659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061984777486344192",
+          "start": 3,
+          "username": "huisesaniao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103783879387881659",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 592
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103334909427302524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huisesaniao: eu cometeria genocídios para ter esse corpo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2103783879387881659",
+        "created_at": "2026-09-26T09:48:57.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103783879387881659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061984777486344192",
+              "start": 3,
+              "username": "huisesaniao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103783879387881659",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 592
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103334909427302524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huisesaniao: eu cometeria genocídios para ter esse corpo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061984777486344192",
+        "conversation_id": "2103334909427302524",
+        "created_at": "2026-09-25T04:04:55.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103334909427302524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/necrofagista/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/necrofagista/status/2103201431008227696",
+              "start": 44,
+              "url": "https://t.co/jqoivD2QWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103334909427302524",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1174,
+          "impression_count": 147282,
+          "like_count": 11396,
+          "quote_count": 16,
+          "reply_count": 59,
+          "retweet_count": 592
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103201431008227696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "eu cometeria genocídios para ter esse corpo https://t.co/jqoivD2QWk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2103783879387881659",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 64,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1352
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T01:36:24.000Z",
+        "description": "impossível até que se torne inevitável",
+        "id": "2061984777486344192",
+        "is_identity_verified": false,
+        "location": "elu/ela/ele",
+        "most_recent_tweet_id": "2103715741446893681",
+        "name": "aliche guevara",
+        "pinned_tweet_id": "2062330959064682530",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061984777486344192/1780451883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061989311327703040/LehD5bV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 409,
+          "like_count": 8242,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 3179
+        },
+        "url": "",
+        "username": "huisesaniao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

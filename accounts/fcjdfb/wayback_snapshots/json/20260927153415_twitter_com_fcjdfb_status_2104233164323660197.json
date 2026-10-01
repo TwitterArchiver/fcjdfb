@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2103700896681267606",
+    "created_at": "2026-09-27T15:34:15.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T16:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104233164323660197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1924185917646110720",
+          "start": 0,
+          "username": "I_loveuforever4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104233164323660197",
+    "in_reply_to_user_id": "1924185917646110720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103700896681267606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I_loveuforever4 那就别亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2103700896681267606",
+        "created_at": "2026-09-27T15:34:15.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104233164323660197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1924185917646110720",
+              "start": 0,
+              "username": "I_loveuforever4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104233164323660197",
+        "in_reply_to_user_id": "1924185917646110720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103700896681267606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I_loveuforever4 那就别亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924185917646110720",
+        "conversation_id": "2103700896681267606",
+        "created_at": "2026-09-26T04:19:13.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T05:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103700896681267606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103700896681267606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "崩溃啊我一想到和人亲密我就崩溃啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104233164323660197",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 67,
+          "like_count": 784,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1417
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-18T19:30:58.000Z",
+        "description": "我要让你的脑海因我而再无杂音",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nullzt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nullzt",
+                "start": 0,
+                "url": "https://t.co/sqe4BXCjVd"
+              }
+            ]
+          }
+        },
+        "id": "1924185917646110720",
+        "is_identity_verified": false,
+        "location": "📮👉",
+        "most_recent_tweet_id": "2104188198213857382",
+        "name": "Nullzt",
+        "pinned_tweet_id": "2101825204041511156",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1924185917646110720/1789923195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101817017036926976/8r4FDqNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 54,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/sqe4BXCjVd",
+        "username": "I_loveuforever4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

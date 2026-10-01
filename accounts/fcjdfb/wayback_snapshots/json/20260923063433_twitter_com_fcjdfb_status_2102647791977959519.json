@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102646447963619329",
+        "3_2102646480922394624",
+        "3_2102646514485186560",
+        "13_2102646563017461760"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102647791977959519",
+    "created_at": "2026-09-23T06:34:33.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T07:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102647791977959519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TWODpi9n3q",
+          "end": 165,
+          "expanded_url": "https://x.com/fcjdfb/status/2102647791977959519/video/1",
+          "media_key": "3_2102646447963619329",
+          "start": 142,
+          "url": "https://t.co/TWODpi9n3q"
+        },
+        {
+          "display_url": "pic.x.com/TWODpi9n3q",
+          "end": 165,
+          "expanded_url": "https://x.com/fcjdfb/status/2102647791977959519/video/1",
+          "media_key": "3_2102646480922394624",
+          "start": 142,
+          "url": "https://t.co/TWODpi9n3q"
+        },
+        {
+          "display_url": "pic.x.com/TWODpi9n3q",
+          "end": 165,
+          "expanded_url": "https://x.com/fcjdfb/status/2102647791977959519/video/1",
+          "media_key": "3_2102646514485186560",
+          "start": 142,
+          "url": "https://t.co/TWODpi9n3q"
+        },
+        {
+          "display_url": "pic.x.com/TWODpi9n3q",
+          "end": 165,
+          "expanded_url": "https://x.com/fcjdfb/status/2102647791977959519/video/1",
+          "media_key": "13_2102646563017461760",
+          "start": 142,
+          "url": "https://t.co/TWODpi9n3q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102647791977959519",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102646447963619329"
+      },
+      {
+        "media_key": "3_2102646480922394624"
+      },
+      {
+        "media_key": "3_2102646514485186560"
+      },
+      {
+        "media_key": "13_2102646563017461760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "想要啥自己填了，数据现在是全都能保存。发帖时候会自动劫持在本地保存。那就编辑一下保存格式然后搓一下ui就行了，但是定时发布应该是无法解决这个方式下的保存。因为走的x服务器，逻辑上来说不太能。手机应该是无法无风险情况下实现了，不能走浏览器操作空间大。如果搞第三方客户端风险太大了，就不考虑是否可行了"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "想要啥自己填了，数据现在是全都能保存。发帖时候会自动劫持在本地保存。那就编辑一下保存格式然后搓一下ui就行了，但是定时发布应该是无法解决这个方式下的保存。因为走的x服务器，逻辑上来说不太能。手机应该是无法无风险情况下实现了，不能走浏览器操作空间大。如果搞第三方客户端风险太大了，就不 https://t.co/TWODpi9n3q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1636,
+        "media_key": "3_2102646447963619329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4ZzdsbwAEUs9c.jpg",
+        "width": 1160
+      },
+      {
+        "height": 1172,
+        "media_key": "3_2102646480922394624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4Z1YeawAAUrZl.jpg",
+        "width": 2010
+      },
+      {
+        "height": 1640,
+        "media_key": "3_2102646514485186560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4Z3VgaUAA6sK3.jpg",
+        "width": 3138
+      },
+      {
+        "duration_ms": 11563,
+        "height": 1088,
+        "media_key": "13_2102646563017461760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102646563017461760/img/8vn8ZldKZ6eSKS7G.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102646563017461760/vid/avc1/1056x1088/aMQaxPHaD3MUKNgZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102646563017461760/vid/avc1/480x494/_j3XYCWdVv_1Jv7q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102646563017461760/pl/sE5_OavqststucYg.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102646563017461760/vid/avc1/720x740/KcSUB91SyX6-Co1j.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102646563017461760/vid/avc1/320x328/zgUKd2jf1vjNgnBx.mp4"
+          }
+        ],
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102646447963619329",
+            "3_2102646480922394624",
+            "3_2102646514485186560",
+            "13_2102646563017461760"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102647791977959519",
+        "created_at": "2026-09-23T06:34:33.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102647791977959519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWODpi9n3q",
+              "end": 165,
+              "expanded_url": "https://x.com/fcjdfb/status/2102647791977959519/video/1",
+              "media_key": "3_2102646447963619329",
+              "start": 142,
+              "url": "https://t.co/TWODpi9n3q"
+            },
+            {
+              "display_url": "pic.x.com/TWODpi9n3q",
+              "end": 165,
+              "expanded_url": "https://x.com/fcjdfb/status/2102647791977959519/video/1",
+              "media_key": "3_2102646480922394624",
+              "start": 142,
+              "url": "https://t.co/TWODpi9n3q"
+            },
+            {
+              "display_url": "pic.x.com/TWODpi9n3q",
+              "end": 165,
+              "expanded_url": "https://x.com/fcjdfb/status/2102647791977959519/video/1",
+              "media_key": "3_2102646514485186560",
+              "start": 142,
+              "url": "https://t.co/TWODpi9n3q"
+            },
+            {
+              "display_url": "pic.x.com/TWODpi9n3q",
+              "end": 165,
+              "expanded_url": "https://x.com/fcjdfb/status/2102647791977959519/video/1",
+              "media_key": "13_2102646563017461760",
+              "start": 142,
+              "url": "https://t.co/TWODpi9n3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102647791977959519",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102646447963619329"
+          },
+          {
+            "media_key": "3_2102646480922394624"
+          },
+          {
+            "media_key": "3_2102646514485186560"
+          },
+          {
+            "media_key": "13_2102646563017461760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "想要啥自己填了，数据现在是全都能保存。发帖时候会自动劫持在本地保存。那就编辑一下保存格式然后搓一下ui就行了，但是定时发布应该是无法解决这个方式下的保存。因为走的x服务器，逻辑上来说不太能。手机应该是无法无风险情况下实现了，不能走浏览器操作空间大。如果搞第三方客户端风险太大了，就不考虑是否可行了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想要啥自己填了，数据现在是全都能保存。发帖时候会自动劫持在本地保存。那就编辑一下保存格式然后搓一下ui就行了，但是定时发布应该是无法解决这个方式下的保存。因为走的x服务器，逻辑上来说不太能。手机应该是无法无风险情况下实现了，不能走浏览器操作空间大。如果搞第三方客户端风险太大了，就不 https://t.co/TWODpi9n3q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材（简介施工中）嗯对我懒得写等我写的时候吧）\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2102647807484231931",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 64,
+          "like_count": 641,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1201
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

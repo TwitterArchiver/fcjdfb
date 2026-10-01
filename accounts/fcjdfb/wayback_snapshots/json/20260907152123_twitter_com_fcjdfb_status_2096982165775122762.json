@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096982165775122762",
+    "created_at": "2026-09-07T15:21:23.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096982165775122762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2092788164234821632",
+          "start": 3,
+          "username": "Yuki1161_IC26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096982165775122762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096756840331624931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki1161_IC26: 讲一件黑料，其实我以前也是一个畜生，不是好人来的，以前我看见一个互关生活很伤心难过，我看不下去了就给他邮寄了一部分我的pr和一些精二类药物还教他怎么吃叫他别难过了，但是不多起效舒适6次的量，令人欣慰的是在他用完以后也没有去依赖药物，选择拥抱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096982165775122762",
+        "created_at": "2026-09-07T15:21:23.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096982165775122762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2092788164234821632",
+              "start": 3,
+              "username": "Yuki1161_IC26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096982165775122762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096756840331624931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki1161_IC26: 讲一件黑料，其实我以前也是一个畜生，不是好人来的，以前我看见一个互关生活很伤心难过，我看不下去了就给他邮寄了一部分我的pr和一些精二类药物还教他怎么吃叫他别难过了，但是不多起效舒适6次的量，令人欣慰的是在他用完以后也没有去依赖药物，选择拥抱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092788164234821632",
+        "conversation_id": "2096756840331624931",
+        "created_at": "2026-09-07T00:26:01.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096756840331624931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiu_yokki/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/jiu_yokki/status/2096193278752268680",
+              "start": 142,
+              "url": "https://t.co/kUoo7zQZrm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096756840331624931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "讲一件黑料，其实我以前也是一个畜生，不是好人来的，以前我看见一个互关生活很伤心难过，我看不下去了就给他邮寄了一部分我的pr和一些精二类药物还教他怎么吃叫他别难过了，但是不多起效舒适6次的量，令人欣慰的是在他用完以后也没有去依赖药物，选择拥抱生活，我们没有再联系，可能他知道引导用药来逃避现实的我是什么人，也可能是因为我出于愧疚感没敢再和他说话，后来我再也没有过给未接触过药物的人寄过物质\n\n像我这种人早就毁了，竟然还想拖别人下水，在水库岸边淹死的人会在斜坡上发现手指拼命想要抓住什么但却抓不住的血痕，od不会给你带来什么实际性的好处，现实最终会成为你的归宿"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2482,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096193278752268680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讲一件黑料，其实我以前也是一个畜生，不是好人来的，以前我看见一个互关生活很伤心难过，我看不下去了就给他邮寄了一部分我的pr和一些精二类药物还教他怎么吃叫他别难过了，但是不多起效舒适6次的量，令人欣慰的是在他用完以后也没有去依赖药物，选择拥抱生活，我们没有再联系，可能他知道引导用药来 https://t.co/kUoo7zQZrm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096982165775122762",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 55,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 380
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "🚪8.9/6.4 用于给习主席买包子吃/岐哥第六世\n一具白骨晒太阳 在某种药物铺满的地毯上\n早已逝去之人 早已宽恕之罪\n属于我的姐姐@Cecey33 ⁺共号\n直fo喜歡的人/喜欢🐱/逃生仓 @Yuki3Mepcpy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 66,
+                "username": "Cecey33"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yuki3Mepcpy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki3mepcpy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki3mepcpy",
+                "start": 0,
+                "url": "https://t.co/d3QOTu2Gty"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2096975237250154766",
+        "name": "岐#心宿二",
+        "pinned_tweet_id": "2096973497364820238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1788035697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096464883303010304/XZtwCCUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 312,
+          "like_count": 887,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/d3QOTu2Gty",
+        "username": "Yuki1161_IC26",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

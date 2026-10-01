@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2042112822931566854",
+    "created_at": "2026-04-09T05:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042112822931566854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1243558241377718274",
+          "start": 3,
+          "username": "thisis_an_apple"
+        },
+        {
+          "end": 30,
+          "id": "2012631283898187776",
+          "start": 21,
+          "username": "youy1qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042112822931566854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041788349783142707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thisis_an_apple: @youy1qwq 我决定以后开一个戒同所，先和父母收钱，然后在里面和同性恋收钱，给钱就让他们自己相处，变成相亲所。不给钱就打，但我不自己打，我买“打人权”给那些想要打人发泄情绪，或者不忍心看他们被打而替他们付钱的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2042112822931566854",
+        "created_at": "2026-04-09T05:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042112822931566854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1243558241377718274",
+              "start": 3,
+              "username": "thisis_an_apple"
+            },
+            {
+              "end": 30,
+              "id": "2012631283898187776",
+              "start": 21,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042112822931566854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041788349783142707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thisis_an_apple: @youy1qwq 我决定以后开一个戒同所，先和父母收钱，然后在里面和同性恋收钱，给钱就让他们自己相处，变成相亲所。不给钱就打，但我不自己打，我买“打人权”给那些想要打人发泄情绪，或者不忍心看他们被打而替他们付钱的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243558241377718274",
+        "conversation_id": "2041682441341899204",
+        "created_at": "2026-04-08T08:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041788349783142707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041788349783142707",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14713,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041682441341899204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我决定以后开一个戒同所，先和父母收钱，然后在里面和同性恋收钱，给钱就让他们自己相处，变成相亲所。不给钱就打，但我不自己打，我买“打人权”给那些想要打人发泄情绪，或者不忍心看他们被打而替他们付钱的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "上个账号怎么又被封了",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 35,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 211
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T15:19:43.000Z",
+        "description": "MtF，HRT 2024/09/25。\n我已经不知道要做什么了。\n脾气很好，请不要惹我生气或者和我辩论，我会哭。 要互粉可以私信。",
+        "id": "1243558241377718274",
+        "name": "风油精灵🏳️‍⚧️",
+        "pinned_tweet_id": "2003413981206344169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011439245832212480/TCSPknLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 44,
+          "like_count": 67,
+          "listed_count": 5,
+          "media_count": 530,
+          "tweet_count": 11665
+        },
+        "username": "thisis_an_apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9834,
+          "following_count": 1500,
+          "like_count": 3581,
+          "listed_count": 13,
+          "media_count": 1280,
+          "tweet_count": 1717
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

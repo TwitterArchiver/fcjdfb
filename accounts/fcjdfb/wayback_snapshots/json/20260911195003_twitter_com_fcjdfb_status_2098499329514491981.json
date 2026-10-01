@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2098499329514491981",
+    "created_at": "2026-09-11T19:50:03.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098499329514491981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1431699715163262978",
+          "start": 3,
+          "username": "LittleYue04551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098499329514491981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098455762012078302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LittleYue04551: 我在武汉的庇护所住了接近三年，中间跟随庇护所搬过很多次家，经历过很多事情，我经常在庇护所给大家做饭，到今天也还在送外卖。我无法忍受 X 平台上一个名叫胡琴的人长期以来对寒涟漪的造谣，这些都是最恶劣的污蔑…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2098499329514491981",
+        "created_at": "2026-09-11T19:50:03.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098499329514491981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1431699715163262978",
+              "start": 3,
+              "username": "LittleYue04551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098499329514491981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098455762012078302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LittleYue04551: 我在武汉的庇护所住了接近三年，中间跟随庇护所搬过很多次家，经历过很多事情，我经常在庇护所给大家做饭，到今天也还在送外卖。我无法忍受 X 平台上一个名叫胡琴的人长期以来对寒涟漪的造谣，这些都是最恶劣的污蔑…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431699715163262978",
+        "conversation_id": "2098455762012078302",
+        "created_at": "2026-09-11T16:56:55.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098455762012078302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hu_qin_/status…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/hu_qin_/status/2098111132217057736",
+              "start": 102,
+              "url": "https://t.co/GxgrMpklOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098455762012078302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我在武汉的庇护所住了接近三年，中间跟随庇护所搬过很多次家，经历过很多事情，我经常在庇护所给大家做饭，到今天也还在送外卖。我无法忍受 X 平台上一个名叫胡琴的人长期以来对寒涟漪的造谣，这些都是最恶劣的污蔑\n\n我不认识这个叫胡琴的人，只是几个月前偶然看到了这个人，我也不知道胡琴老师的一些谣言信息是从哪编造的\n\n这些谣言信息，和我长期亲身经历到的真实情况完全不是一回事\n\n我从炸柜，大学辍学，就遭受到家长逼我剪头，断药，逼婚，辱骂和抢夺设备。三年前，在我自杀的时候，寒涟漪拦下我，把我拉到了庇护所，后来又替我拦住了想把我抢回去的家长。直到今天。我家长也仍然反对我跨性别的一切。如果不是涟漪姐，我早已消失在这个世界上\n\n而关于胡琴老师的这段“寒涟漪会性侵来寻求家暴庇护的小药娘…每天给人压力让人跟她做爱，性骚扰同事和住户”\n\n我是喜欢涟漪姐的，庇护所床位最紧张的时候和涟漪姐一起睡过大通铺，关系熟络以后还开过黄色玩笑。我自认为我颜值也不差，那么如果按照胡琴老师的说法，我一定经常被寒涟漪性侵，经常被迫和涟漪姐发生性关系吧？？\n\n但是事实上是，寒涟漪哪怕一次性关系都没有和我发生过\n\n最让我感到荒谬的，是胡琴老师这段：“在寒的庇护所里面，你有没有跟寒涟漪做过爱，这就是阶级的划分。你有你就可以排挤别人，你就有地位。”\n\n…嗯？胡琴老师你是在写什么小黄文吗？\n\n姑且先不提连我这个住了快三年的人都不知道谁跟涟漪姐做过爱，庇护所每个月的人员流动量这么庞大，涟漪姐真的不会猝死在床上吗…？\n\n我见到的更多情况反而是，某些人更想上涟漪姐…或者对涟漪姐直接上手摸哦？\n\n如果是多数正常人，经常要报警称自己被性侵的…应该是才100斤的涟漪姐吧？\n\n再看看胡琴老师的这段“对寒来说，运营庇护所除了获取性资源…这一点非常可怕，所有的捐助或公共资源都垄断在寒手里…”\n\n涟漪姐真的需要性资源？我怎么觉得涟漪姐自己就是那个性资源呢…？\n\n胡琴老师您真的有详细了解过庇护所的经济情况吗？真的了解过一共几个房子，每个月要交多少租金吗？\n\n辍学的没工作的不少吧？交得上房租的有几个？所谓的“捐助或公共资源”，每个月又能捐多少钱？有一个月三万吗？\n\n有的话可能勉强交得起房租…但是没有吧，大部分不都是涟漪姐自己在贴钱吗？\n\n还有胡琴老师的这段“…寒从来拒绝公私分账…有人给寒捐了十万，转手寒把这些钱拿给她的“亲密关系”做生意并且全部亏光。实际寒有好几处“庇护所”里面住的都是她的亲密关系…”\n\n……胡琴老师，我还是想问问，是谁捐了这十万，你吗？\n\n武汉人多的时候，经常能到四五十人。涟漪姐的亲密关系，现在还在武汉的只有f菌一个，之前一直和我们挤大通铺，而且f菌也是一直在给庇护所出了几十万哦\n\n如果要谈公私分账，是不是首先捐助的钱起码能覆盖起码一半开销？而不是只有一点点？\n\n而且据我所知，有不少所谓的捐款，要么是涟漪姐的老同学，老熟人，或者涟漪姐多年前帮过的人，原来这些也都是“公共资源”吗？\n\n而且，分了之后能怎么样呢，涟漪姐每个月把自己的钱转给公账，被银行检测大额流水风控，然后被天天上门的晶一锅端吗？涟漪姐和涟漪姐身边的人被晶的次数还少吗？\n\n“不知道你有没有看到过寒涟漪在武汉地铁以及其他地方街头露阴的图片，那些全都是真的”……胡琴老师，看到这里，我是真的觉得你的信息辨识能力低的令人发指了，原来早就被锤烂的AI图也能被拿来说吗？\n\n我只说说这三年来，我线下长期接触到的涟漪姐的情况\n\n首先，公共场合，从来没有过，至少我没见过，也没听说过\n\n庇护所里，涟漪姐每次洗完澡，偶尔会裸着从卫生间出来，然后在大厅拿衣服穿\n\n庇护所人很多，几乎每个人都没有什么私人空间。当然胡琴老师你可以说涟漪姐应该出去租房子住。但是涟漪姐已经把自己的钱都拿来交庇护所的房租了，很长一段时间连f菌都和涟漪姐连个单独的房间都没有，谁来替涟漪姐交租房子的钱呢？\n\n你吗？胡琴老师？\n\n再看看胡琴老师您截图里面举例的那些人，那都是些什么人？\n\n三崎，小鱼干，迟渊……这些人在庇护所偷东西，聚众吸毒，卖药，在医院打护士，半途把f菌弄伤，让寒姐半夜去处理烂摊子，还要跑到派出所报警，最后这些人引诱浅羽悠月od，卖药，因为od的事情带着浅羽悠月和涟漪姐反目，离开后还用od害死浅羽悠月，还拿悠月吃人血馒头……\n\n这些事情胡琴老师您是完全不知道吗？\n\n浅羽悠月刚来的时候天天闹自杀，还说要把所有遗产全部送给涟漪姐，后来涟漪姐把浅羽悠月从长江大桥自杀的时候救下来，还住了一趟医院，再后来她还喜欢上f菌之后，状态已经完全好转了\n\n然后三崎和小鱼干就来了，然后这群神人就开始一起od了\n\n举着个大摄像头走进涟漪姐的房间，还嚷嚷着赶紧坐上去，这群神人的各种神迹已经成段子了，胡琴老师不知道吗？\n\n“坐呀，走呀，趁着她在睡觉，你快坐上去呀”\n\n这群神人，互相在QQ上密谋陷害寒涟漪的聊天记录传的整个庇护所到处都是，他们编排的剧本有一个标点符号能信吗？\n\n那谁信了这些剧本呢？\n\n你吗？胡琴老师？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2478,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098111132217057736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在武汉的庇护所住了接近三年，中间跟随庇护所搬过很多次家，经历过很多事情，我经常在庇护所给大家做饭，到今天也还在送外卖。我无法忍受 X 平台上一个名叫胡琴的人长期以来对寒涟漪的造谣，这些都是最恶劣的污蔑 https://t.co/GxgrMpklOl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098499329514491981",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 65,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 539
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-28T19:26:35.000Z",
+        "description": "mtf 158cm/45kg 持证含糖 同好可互fo贴贴咪 常驻武汉 高强度刷推 转发代表认同 扩列可以私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LittleYueqwq",
+                "end": 23,
+                "expanded_url": "https://t.me/LittleYueqwq",
+                "start": 0,
+                "url": "https://t.co/N5GSmLngYb"
+              }
+            ]
+          }
+        },
+        "id": "1431699715163262978",
+        "is_identity_verified": false,
+        "location": "月光把天空照亮 洒下一点光芒点缀海洋",
+        "most_recent_tweet_id": "2098493201145635308",
+        "name": "间月🍥",
+        "pinned_tweet_id": "2002684986550624309",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431699715163262978/1760809771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074021189673226240/roivMmKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3088,
+          "following_count": 601,
+          "like_count": 12959,
+          "listed_count": 12,
+          "media_count": 264,
+          "tweet_count": 2437
+        },
+        "url": "https://t.co/N5GSmLngYb",
+        "username": "LittleYue04551",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

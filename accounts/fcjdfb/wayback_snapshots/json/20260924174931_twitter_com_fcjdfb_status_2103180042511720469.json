@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2102788085704794409",
+    "created_at": "2026-09-24T17:49:31.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T18:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103180042511720469"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2103180042511720469",
+    "in_reply_to_user_id": "2032037309219315712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102788085704794409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "测试均使用hy2协议，除了hy2和tuic都连接失败的时候"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2102787780518744064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6aWGfaEAAF5vr.jpg",
+        "width": 866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2102788085704794409",
+        "created_at": "2026-09-24T17:49:31.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T18:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103180042511720469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103180042511720469",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102788085704794409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "测试均使用hy2协议，除了hy2和tuic都连接失败的时候"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102787780518744064"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2102788085704794409",
+        "created_at": "2026-09-23T15:52:02.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102788085704794409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGQkWLh1l7",
+              "end": 138,
+              "expanded_url": "https://x.com/fcjdfb/status/2102788085704794409/photo/1",
+              "media_key": "3_2102787780518744064",
+              "start": 115,
+              "url": "https://t.co/nGQkWLh1l7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102788085704794409",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102787780518744064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "t.co",
+                "end": 206,
+                "expanded_url": "https://t.co",
+                "start": 183,
+                "url": "https://t.co/4UNIfp4gVa"
+              },
+              {
+                "display_url": "microsoftedge.microsoft.com/addons/detail/…",
+                "end": 239,
+                "expanded_url": "https://microsoftedge.microsoft.com/addons/detail/x-tweet-local-backup/cgomddpedljmgbdcmiiemiaanejaaohe",
+                "start": 216,
+                "url": "https://t.co/hFKx6VgY5r"
+              }
+            ]
+          },
+          "text": "程序在edge浏览器插件商店过深了喵，作用就是在浏览器上使用推特时候可以自动捕获自己原创推文、回复、引用、长文、图片、视频、gif、投票的选项和截止时间（可选把文件本体缓存到本地）    并且也可以自动保存其他设备发布的以上相关\n编辑帖子也会将每个版本单独留档并互相标注，旧版本不会被覆盖，删帖也会同步本地记录保留并标注「已删除」，不会同步消失\n链接的真实目标地址（https://t.co/4UNIfp4gVa 短链失效后仍可查）https://t.co/hFKx6VgY5r"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "程序在edge浏览器插件商店过深了喵，作用就是在浏览器上使用推特时候可以自动捕获自己原创推文、回复、引用、长文、图片、视频、gif、投票的选项和截止时间（可选把文件本体缓存到本地）    并且也可以自动保存其他设备发布的以上相关 https://t.co/nGQkWLh1l7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2103180042511720469",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 64,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1325
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2095891222514786746",
+    "created_at": "2026-09-06T13:51:50.000Z",
+    "display_text_range": [
+      11,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096597244241961021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096597244241961021",
+    "in_reply_to_user_id": "2032037309219315712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "社区常见的adhd神经多样性药物托莫西汀的印度瑞迪博士实验室仿制药进入临床后引发广泛抗议，大量患者反馈换药后出现剧烈恶心、干呕、胃痛、眩晕等严重胃肠及神经反应，且药效波动极大。  2024 年 8 月 30 日，国家药监局与国家医保局发布联合公告，指出该企业在原料药管理、工艺验证、质量控制等方面存在严重缺陷，直接取消其中选资格，暂停其产品的进口、销售和使用，并列入违规名单。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096596756004008385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan 社区常见的adhd神经多样性药物托莫西汀的印度瑞迪博士实验室仿制药进入临床后引发广泛抗议，大量患者反馈换药后出现剧烈恶心、干呕、胃痛、眩晕等严重胃肠及神经反应，且药效波动极大。  2024 年 8 月 30"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2095891222514786746",
+        "created_at": "2026-09-06T13:51:50.000Z",
+        "display_text_range": [
+          11,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096597244241961021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096597244241961021",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "社区常见的adhd神经多样性药物托莫西汀的印度瑞迪博士实验室仿制药进入临床后引发广泛抗议，大量患者反馈换药后出现剧烈恶心、干呕、胃痛、眩晕等严重胃肠及神经反应，且药效波动极大。  2024 年 8 月 30 日，国家药监局与国家医保局发布联合公告，指出该企业在原料药管理、工艺验证、质量控制等方面存在严重缺陷，直接取消其中选资格，暂停其产品的进口、销售和使用，并列入违规名单。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096596756004008385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 社区常见的adhd神经多样性药物托莫西汀的印度瑞迪博士实验室仿制药进入临床后引发广泛抗议，大量患者反馈换药后出现剧烈恶心、干呕、胃痛、眩晕等严重胃肠及神经反应，且药效波动极大。  2024 年 8 月 30"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2095891222514786746",
+        "created_at": "2026-09-06T13:49:54.000Z",
+        "display_text_range": [
+          11,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096596756004008385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096596756004008385",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095891222514786746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 印度药没区别在哪？药商别害人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096597244241961021",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 53,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 307
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "印雌10mg/ml 10支 20＄\n\n印黄体酮 19＄ 50t*400mg 28＄100t*400mg\n\n印度替西帕肽600mcg注射四次2.4mg 56＄\n\n印补 2mg*28片 7.5＄\n\n印度雌二醇凝胶（爱斯妥同浓度） 15＄\n\n混车五人发，背后涉及的东西太多我只能说为了保障海关通关率利润很低。\n\n要的私聊我",
+        "id": "1639816523190763521",
+        "is_identity_verified": false,
+        "location": "距离你2km",
+        "most_recent_tweet_id": "2096362036276101148",
+        "name": "乖乖哒二小姐(蓝v互关)",
+        "pinned_tweet_id": "2095484126598205836",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639816523190763521/1706021227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090504060596367360/8Fy0O0CT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18110,
+          "following_count": 532,
+          "like_count": 38194,
+          "listed_count": 34,
+          "media_count": 3910,
+          "tweet_count": 12080
+        },
+        "url": "",
+        "username": "ggdxfulan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

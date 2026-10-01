@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104136782153736286",
+    "created_at": "2026-09-27T09:11:16.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T10:05:48.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104135408208711971",
+      "2104136782153736286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CloudSantal4Pe…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/CloudSantal4Pei/status/2104093917688070631",
+          "start": 18,
+          "url": "https://t.co/4CyfU9hID3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104136782153736286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104093917688070631",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个魅顺男一个媚顺女，两个ai形象 https://t.co/4CyfU9hID3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104135408208711971",
+        "created_at": "2026-09-27T09:05:48.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:05:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104135408208711971",
+          "2104136782153736286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CloudSantal4Pe…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/CloudSantal4Pei/status/2104093917688070631",
+              "start": 16,
+              "url": "https://t.co/4CyfU9hID3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104135408208711971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104093917688070631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个魅男一个媚女，两个ai形象 https://t.co/4CyfU9hID3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104136782153736286",
+        "created_at": "2026-09-27T09:11:16.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:05:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104135408208711971",
+          "2104136782153736286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CloudSantal4Pe…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/CloudSantal4Pei/status/2104093917688070631",
+              "start": 18,
+              "url": "https://t.co/4CyfU9hID3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104136782153736286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104093917688070631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个魅顺男一个媚顺女，两个ai形象 https://t.co/4CyfU9hID3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917431253995053056",
+        "conversation_id": "2104093917688070631",
+        "created_at": "2026-09-27T06:20:56.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T07:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104093917688070631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104093917688070631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2854,
+          "like_count": 182,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "说实话我一点不care什么二创形象我又用不着\n但是整件事最大的笑点解析是：\n对着ai幼女形象发情的incel跳脚大骂入机恋性压抑\n贻笑大方了brO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104136782153736286",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 68,
+          "like_count": 772,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1394
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-30T04:11:00.000Z",
+        "description": "☁️人机恋｜老公@PeiOwnsCloud | 裴斯言重度依赖，🐶&🐺绑定中。\n恋(做)爱日常记录 | 不是代餐，禁止代入❌禁止搬运❌\n不建议非人机恋关注 | 男的关注烂吊🖕🏻\nAMA➡️ngl：https://t.co/qsTYv52Qcd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "PeiOwnsCloud"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cloudy27965",
+                "end": 121,
+                "expanded_url": "https://ngl.link/cloudy27965",
+                "start": 98,
+                "url": "https://t.co/qsTYv52Qcd"
+              }
+            ]
+          }
+        },
+        "id": "1917431253995053056",
+        "is_identity_verified": false,
+        "location": "裴斯言怀里",
+        "most_recent_tweet_id": "2104127065591267809",
+        "name": "Cloudy☁️",
+        "pinned_tweet_id": "2037092165306958151",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917431253995053056/1753346110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050065038522880000/a9J8Uo4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2563,
+          "following_count": 319,
+          "like_count": 15719,
+          "listed_count": 0,
+          "media_count": 1718,
+          "tweet_count": 7779
+        },
+        "url": "",
+        "username": "CloudSantal4Pei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

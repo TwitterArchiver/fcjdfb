@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2098494814375559624",
+    "created_at": "2026-09-11T19:32:06.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098494814375559624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Y2D80355/statu…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/Y2D80355/status/2098392120310550701",
+          "start": 144,
+          "url": "https://t.co/5W4AaV0QHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098494814375559624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "环状线翻车这个新炒点也是让人感觉有点hyw。恰烂钱是这样，当马➗把非原创内容ban了之后很多人也是开动脑筋了。感觉跟近年b站部分类视频，取一个猎奇哗众取宠标题然后文案重复套用。也是风格走男娘或女装类视频并且都互相借鉴文案粉丝这样快速做成账号不知道推友有没有看到过，属于我们中文推特自己的翻墙男大"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098392120310550701",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "环状线翻车这个新炒点也是让人感觉有点hyw。恰烂钱是这样，当马➗把非原创内容ban了之后很多人也是开动脑筋了。感觉跟近年b站部分类视频，取一个猎奇哗众取宠标题然后文案重复套用。也是风格走男娘或女装类视频并且都互相借鉴文案粉丝这样快速做成账号不知道推友有没有看到过，属于我们中文推特自己的 https://t.co/5W4AaV0QHz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2098494814375559624",
+        "created_at": "2026-09-11T19:32:06.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098494814375559624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Y2D80355/statu…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Y2D80355/status/2098392120310550701",
+              "start": 144,
+              "url": "https://t.co/5W4AaV0QHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098494814375559624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "环状线翻车这个新炒点也是让人感觉有点hyw。恰烂钱是这样，当马➗把非原创内容ban了之后很多人也是开动脑筋了。感觉跟近年b站部分类视频，取一个猎奇哗众取宠标题然后文案重复套用。也是风格走男娘或女装类视频并且都互相借鉴文案粉丝这样快速做成账号不知道推友有没有看到过，属于我们中文推特自己的翻墙男大"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098392120310550701",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "环状线翻车这个新炒点也是让人感觉有点hyw。恰烂钱是这样，当马➗把非原创内容ban了之后很多人也是开动脑筋了。感觉跟近年b站部分类视频，取一个猎奇哗众取宠标题然后文案重复套用。也是风格走男娘或女装类视频并且都互相借鉴文案粉丝这样快速做成账号不知道推友有没有看到过，属于我们中文推特自己的 https://t.co/5W4AaV0QHz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "conversation_id": "2098392120310550701",
+        "created_at": "2026-09-11T12:44:02.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098392120310550701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/annayanamimi/s…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/annayanamimi/status/2098377888198492465",
+              "start": 90,
+              "url": "https://t.co/QGItaA84XF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098392120310550701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4352,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098377888198492465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "批发型的互联网人物是这样的的，必然是身心男+女装/男娘+天天发梗图的同时又带各种狗哨最后还要说自己天天发梗图怎么会招骂\n还得靠天天讨论自己是否翻车增长流量，如果真的翻车了就更神了 https://t.co/QGItaA84XF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098494814375559624",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 64,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 530
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "Es gibt keinen Beweis dafür, dass der Nutzer dieses Accounts keine Kokosnuss ist\n\n链接是一个专门bb移民与其他乱七八糟话题的地方",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+dwdrA07bDvs1Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+dwdrA07bDvs1ZmFl",
+                "start": 0,
+                "url": "https://t.co/vWM9JtE2gT"
+              }
+            ]
+          }
+        },
+        "id": "1540698144429596673",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098450675109597680",
+        "name": "🥥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1540698144429596673/1786742441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097735959479484416/EC2v_Se8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 954,
+          "like_count": 9038,
+          "listed_count": 1,
+          "media_count": 376,
+          "tweet_count": 7071
+        },
+        "url": "https://t.co/vWM9JtE2gT",
+        "username": "Y2D80355",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

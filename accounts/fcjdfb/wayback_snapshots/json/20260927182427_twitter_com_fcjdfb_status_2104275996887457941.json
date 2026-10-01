@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104200745491042507",
+    "created_at": "2026-09-27T18:24:27.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T19:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104275996887457941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2068882973902991361",
+          "start": 0,
+          "username": "hoshino994"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104275996887457941",
+    "in_reply_to_user_id": "2068882973902991361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104200745491042507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshino994 吃吃吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104200745491042507",
+        "created_at": "2026-09-27T18:24:27.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104275996887457941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2068882973902991361",
+              "start": 0,
+              "username": "hoshino994"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104275996887457941",
+        "in_reply_to_user_id": "2068882973902991361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104200745491042507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshino994 吃吃吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068882973902991361",
+        "conversation_id": "2104200745491042507",
+        "created_at": "2026-09-27T13:25:26.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104200745491042507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104200745491042507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想吃糖啊喵\n断糖好久了呜呜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104275996887457941",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 67,
+          "like_count": 798,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1452
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T02:26:20.000Z",
+        "description": "🏳️‍⚧️MTF一只/身高172cm/生产日期:2012/产地:滇A/🍥泛性恋/已炸柜/家长党\n无证含糖:2026_06_29（断糖中）/不od/📍滇A\n匿名提问:https://t.co/pm8kuZLtxn\n防失联小号:https://t.co/OsH0ansnuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoshinoh944",
+                "end": 105,
+                "expanded_url": "https://ngl.link/hoshinoh944",
+                "start": 82,
+                "url": "https://t.co/pm8kuZLtxn"
+              },
+              {
+                "display_url": "x.com/alineth944",
+                "end": 135,
+                "expanded_url": "https://x.com/alineth944",
+                "start": 112,
+                "url": "https://t.co/OsH0ansnuV"
+              }
+            ]
+          }
+        },
+        "id": "2068882973902991361",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104202673755230569",
+        "name": "ホシノ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2085238759696859267",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068882973902991361/1784746665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099509399576571904/dbeLpXQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 318,
+          "like_count": 1549,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "hoshino994",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

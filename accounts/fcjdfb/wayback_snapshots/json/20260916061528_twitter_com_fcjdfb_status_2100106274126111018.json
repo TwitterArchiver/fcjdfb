@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100106274126111018",
+    "created_at": "2026-09-16T06:15:28.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T07:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100106274126111018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2099759789651759597",
+          "start": 10,
+          "url": "https://t.co/x7NZ1iKZN2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100106274126111018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099759789651759597",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我能说有点像柯洁吗 https://t.co/x7NZ1iKZN2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2258,
+        "media_key": "3_2099759778977243137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPYZNuXYAEBPEb.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2099759783523868672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPYZeqXYAAUJmY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2099759786765991936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPYZqvWQAAucwO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100106274126111018",
+        "created_at": "2026-09-16T06:15:28.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100106274126111018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2099759789651759597",
+              "start": 10,
+              "url": "https://t.co/x7NZ1iKZN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100106274126111018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099759789651759597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我能说有点像柯洁吗 https://t.co/x7NZ1iKZN2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099759778977243137",
+            "3_2099759783523868672",
+            "3_2099759786765991936"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2099759789651759597",
+        "created_at": "2026-09-15T07:18:40.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099759789651759597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEtG4viMEj",
+              "end": 89,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2099759789651759597/photo/1",
+              "media_key": "3_2099759778977243137",
+              "start": 66,
+              "url": "https://t.co/fEtG4viMEj"
+            },
+            {
+              "display_url": "pic.x.com/fEtG4viMEj",
+              "end": 89,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2099759789651759597/photo/1",
+              "media_key": "3_2099759783523868672",
+              "start": 66,
+              "url": "https://t.co/fEtG4viMEj"
+            },
+            {
+              "display_url": "pic.x.com/fEtG4viMEj",
+              "end": 89,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2099759789651759597/photo/1",
+              "media_key": "3_2099759786765991936",
+              "start": 66,
+              "url": "https://t.co/fEtG4viMEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099759789651759597",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099759778977243137"
+          },
+          {
+            "media_key": "3_2099759783523868672"
+          },
+          {
+            "media_key": "3_2099759786765991936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3175,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谷歌相册这个新功能好酷，它扫描我的照片把我平时的穿搭全都整理出来了，还可以自行搭配AI试穿（虽然这个AI小人长得和我没什么关系吧） https://t.co/fEtG4viMEj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2100106274126111018",
+        "name": "windigo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099879631554027520/jep7lkPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 72,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 791
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️⚢☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2100102706526314994",
+        "name": "amber水母🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10954,
+          "following_count": 1333,
+          "like_count": 10220,
+          "listed_count": 15,
+          "media_count": 480,
+          "tweet_count": 6133
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

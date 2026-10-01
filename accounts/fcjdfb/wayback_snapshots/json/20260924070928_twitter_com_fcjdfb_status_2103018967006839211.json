@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2103000128097534334",
+    "created_at": "2026-09-24T07:09:28.000Z",
+    "display_text_range": [
+      22,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T08:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103018967006839211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559445629004300290",
+          "start": 0,
+          "username": "nomi9724"
+        },
+        {
+          "end": 21,
+          "id": "1921866254979383296",
+          "start": 10,
+          "username": "koanleeggq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103018967006839211",
+    "in_reply_to_user_id": "2032037309219315712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103018636189552855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomi9724 @koanleeggq 你让我来严谨描述其实只是你有对于女性特质/生理女的满足感，但又不对于自身的男性部分有厌烦感。分开看就好很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2103000128097534334",
+        "created_at": "2026-09-24T07:09:28.000Z",
+        "display_text_range": [
+          22,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103018967006839211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559445629004300290",
+              "start": 0,
+              "username": "nomi9724"
+            },
+            {
+              "end": 21,
+              "id": "1921866254979383296",
+              "start": 10,
+              "username": "koanleeggq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103018967006839211",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103018636189552855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomi9724 @koanleeggq 你让我来严谨描述其实只是你有对于女性特质/生理女的满足感，但又不对于自身的男性部分有厌烦感。分开看就好很多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2103000128097534334",
+        "created_at": "2026-09-24T07:08:09.000Z",
+        "display_text_range": [
+          22,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103018636189552855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559445629004300290",
+              "start": 0,
+              "username": "nomi9724"
+            },
+            {
+              "end": 21,
+              "id": "1921866254979383296",
+              "start": 10,
+              "username": "koanleeggq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103018636189552855",
+        "in_reply_to_user_id": "1559445629004300290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103000128097534334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomi9724 @koanleeggq 我感觉是一种内心渴望有人替自己选择：当mtf或顺女的一种感受吧。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影录像（简介施工中）嗯对我懒得写等我写的时候吧）09\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2103018967006839211",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 64,
+          "like_count": 692,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1291
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-16T07:43:26.000Z",
+        "description": "05年生/任意代词/功能健全/希望自己是MTF/立志成为中文跨圈第一repper/疑似AuDHD/INFJ/不墙内不线下/碎片化n手哲学受众/擅长妥协拖延和逃避/坚持一致的不一致/前进！/\n\n天堂必须是倒置的\n夹缝之中，有资格和机会获得幸福与位置\n\n匿名信箱：https://t.co/sjR6C4qPyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nomi9742",
+                "end": 153,
+                "expanded_url": "https://ngl.link/nomi9742",
+                "start": 130,
+                "url": "https://t.co/sjR6C4qPyb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/wrSlQRG6DK"
+              }
+            ]
+          }
+        },
+        "id": "1559445629004300290",
+        "is_identity_verified": false,
+        "location": "墙内",
+        "most_recent_tweet_id": "2103018350523888072",
+        "name": "Nomi9724🏳️",
+        "pinned_tweet_id": "2102778878318231682",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100686683297771520/EtUHwGp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 774,
+          "like_count": 3316,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/wrSlQRG6DK",
+        "username": "nomi9724",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-12T09:53:23.000Z",
+        "description": "",
+        "id": "1921866254979383296",
+        "is_identity_verified": false,
+        "location": "新西兰",
+        "most_recent_tweet_id": "2102831725911167036",
+        "name": "koan lee",
+        "pinned_tweet_id": "1943991515552133570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921866254979383296/1789195710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045657393237999616/ZWYy1RQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "koanleeggq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

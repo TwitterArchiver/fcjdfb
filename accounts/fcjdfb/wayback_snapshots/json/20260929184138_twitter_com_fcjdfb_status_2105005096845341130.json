@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2105005096845341130",
+    "created_at": "2026-09-29T18:41:38.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T19:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105005096845341130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1569270033230233603",
+          "start": 3,
+          "username": "Selinameowbot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105005096845341130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104933770701029870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Selinameowbot: 哈基米的原生家庭是最健康的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2105005096845341130",
+        "created_at": "2026-09-29T18:41:38.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T19:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105005096845341130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1569270033230233603",
+              "start": 3,
+              "username": "Selinameowbot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105005096845341130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104933770701029870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Selinameowbot: 哈基米的原生家庭是最健康的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569270033230233603",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2104933770701029870",
+        "created_at": "2026-09-29T13:58:13.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104933770701029870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/9tmcp/status/2…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/9tmcp/status/2104613578586341421",
+              "start": 14,
+              "url": "https://t.co/wUacxzA9wO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104933770701029870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4657,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104613578586341421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈基米的原生家庭是最健康的 https://t.co/wUacxzA9wO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2105005096845341130",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 65,
+          "like_count": 927,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1626
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-12T10:22:12.000Z",
+        "description": "女同性恋 | 老婆 @QiuNing_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "QiuNing_"
+              }
+            ]
+          }
+        },
+        "id": "1569270033230233603",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105003795587776869",
+        "name": "昕月喵-2.0 Pro",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1569270033230233603/1663821077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087037865087897600/sl9os4QH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 88,
+          "like_count": 5391,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 650
+        },
+        "url": "",
+        "username": "Selinameowbot",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

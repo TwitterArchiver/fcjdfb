@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099227350185758720",
+        "3_2099227358230384640",
+        "3_2099227363641036800"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099227369987084332",
+    "created_at": "2026-09-13T20:03:01.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T21:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099227369987084332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ZY0Avzp1q",
+          "end": 129,
+          "expanded_url": "https://x.com/fcjdfb/status/2099227369987084332/photo/1",
+          "media_key": "3_2099227350185758720",
+          "start": 106,
+          "url": "https://t.co/2ZY0Avzp1q"
+        },
+        {
+          "display_url": "pic.x.com/2ZY0Avzp1q",
+          "end": 129,
+          "expanded_url": "https://x.com/fcjdfb/status/2099227369987084332/photo/1",
+          "media_key": "3_2099227358230384640",
+          "start": 106,
+          "url": "https://t.co/2ZY0Avzp1q"
+        },
+        {
+          "display_url": "pic.x.com/2ZY0Avzp1q",
+          "end": 129,
+          "expanded_url": "https://x.com/fcjdfb/status/2099227369987084332/photo/1",
+          "media_key": "3_2099227363641036800",
+          "start": 106,
+          "url": "https://t.co/2ZY0Avzp1q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099227369987084332",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099227350185758720"
+      },
+      {
+        "media_key": "3_2099227358230384640"
+      },
+      {
+        "media_key": "3_2099227363641036800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看了下xt2，感觉真挺好的性能完全体了。依旧老用户与狗这一块，性能终于能打游戏了，xt稍微太阳热一点或者性能要求大一点就稳定掉帧。这回应该解决了，另外就是续航问题，xt续航太短了。仅适合几个小时出门或者在家待着 https://t.co/2ZY0Avzp1q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2099227350185758720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSH0Jx6bUAAH-Kw.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1369,
+        "media_key": "3_2099227358230384640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSH0KP4akAARz4L.jpg",
+        "width": 1016
+      },
+      {
+        "height": 1377,
+        "media_key": "3_2099227363641036800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSH0KkCakAAoRdF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099227350185758720",
+            "3_2099227358230384640",
+            "3_2099227363641036800"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099227369987084332",
+        "created_at": "2026-09-13T20:03:01.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T21:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099227369987084332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZY0Avzp1q",
+              "end": 129,
+              "expanded_url": "https://x.com/fcjdfb/status/2099227369987084332/photo/1",
+              "media_key": "3_2099227350185758720",
+              "start": 106,
+              "url": "https://t.co/2ZY0Avzp1q"
+            },
+            {
+              "display_url": "pic.x.com/2ZY0Avzp1q",
+              "end": 129,
+              "expanded_url": "https://x.com/fcjdfb/status/2099227369987084332/photo/1",
+              "media_key": "3_2099227358230384640",
+              "start": 106,
+              "url": "https://t.co/2ZY0Avzp1q"
+            },
+            {
+              "display_url": "pic.x.com/2ZY0Avzp1q",
+              "end": 129,
+              "expanded_url": "https://x.com/fcjdfb/status/2099227369987084332/photo/1",
+              "media_key": "3_2099227363641036800",
+              "start": 106,
+              "url": "https://t.co/2ZY0Avzp1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099227369987084332",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099227350185758720"
+          },
+          {
+            "media_key": "3_2099227358230384640"
+          },
+          {
+            "media_key": "3_2099227363641036800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看了下xt2，感觉真挺好的性能完全体了。依旧老用户与狗这一块，性能终于能打游戏了，xt稍微太阳热一点或者性能要求大一点就稳定掉帧。这回应该解决了，另外就是续航问题，xt续航太短了。仅适合几个小时出门或者在家待着 https://t.co/2ZY0Avzp1q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099227369987084332",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 66,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 652
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

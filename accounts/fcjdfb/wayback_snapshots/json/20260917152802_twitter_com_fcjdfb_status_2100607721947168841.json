@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100549221703401967",
+    "created_at": "2026-09-17T15:28:02.000Z",
+    "display_text_range": [
+      29,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100607721947168841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942111360420290561",
+          "start": 0,
+          "username": "credits18118"
+        },
+        {
+          "end": 28,
+          "id": "1952561951911079936",
+          "start": 14,
+          "username": "Kirisame_Sat0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100607721947168841",
+    "in_reply_to_user_id": "1942111360420290561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100561713007583460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@credits18118 @Kirisame_Sat0 健全b是这样的，净开一些这种玩笑。估计都意识不到这是什么，没有概念"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100549221703401967",
+        "created_at": "2026-09-17T15:28:02.000Z",
+        "display_text_range": [
+          29,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100607721947168841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942111360420290561",
+              "start": 0,
+              "username": "credits18118"
+            },
+            {
+              "end": 28,
+              "id": "1952561951911079936",
+              "start": 14,
+              "username": "Kirisame_Sat0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100607721947168841",
+        "in_reply_to_user_id": "1942111360420290561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100561713007583460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@credits18118 @Kirisame_Sat0 健全b是这样的，净开一些这种玩笑。估计都意识不到这是什么，没有概念"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942111360420290561",
+        "conversation_id": "2100549221703401967",
+        "created_at": "2026-09-17T12:25:13.000Z",
+        "display_text_range": [
+          15,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100561713007583460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952561951911079936",
+              "start": 0,
+              "username": "Kirisame_Sat0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100561713007583460",
+        "in_reply_to_user_id": "1952561951911079936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100549221703401967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirisame_Sat0 …？这是人类能说出的话吗\n完全就是霸凌和犯罪意图吧。\n我觉得关系多好都不应该说这种话(这种就不是玩笑啊！(而且你们关系也并不好这就更恶心了\n我觉得这都已经不是健不健全的问题了，正常健全逼也不会这样，这种个人问题太大了。恶心。\n\n总之抱抱你呀😭遇到这种傻逼感觉如果不好翻脸 也只能刻意疏远了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2100607721947168841",
+        "name": "windigo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099879631554027520/jep7lkPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 74,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 843
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T06:40:56.000Z",
+        "description": "10年高中在读丨INFP-T丨焦虑+双相混合型治疗中丨不🚬/不🍺/不🔪/不od/不键政丨音游重度依赖丨指派性别男，性别认同探索中(或许是非二元偏女?丨萨福式取向丨人称代词所有都可丨可互fo看成分回关丨很内向但渴望能找到朋友 请私信找我聊天！",
+        "id": "1942111360420290561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100589460455129599",
+        "name": "Phony",
+        "pinned_tweet_id": "2097107549623570562",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091115941690318848/bHlDpJb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 668,
+          "like_count": 5041,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 1219
+        },
+        "url": "",
+        "username": "credits18118",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-05T02:47:10.000Z",
+        "description": "=尸蜡\n生理心理女｜精神病网蛆脑残🩸🚬｜很温良^ω^/看到都会回/同类可以来和我玩｜直fo就是喜欢你🫶💕好感互fo我爱你们呀🩷",
+        "id": "1952561951911079936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100606907270783426",
+        "name": "尸蜡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1952561951911079936/1788586365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100564851357868032/R8rIBpkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 442,
+          "like_count": 5546,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1020
+        },
+        "url": "",
+        "username": "Kirisame_Sat0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

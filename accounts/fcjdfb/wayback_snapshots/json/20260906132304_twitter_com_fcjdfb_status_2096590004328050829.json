@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088816901220888576"
+      ],
+      "media_source_tweet_id": [
+        "2088816907776598214"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096590004328050829",
+    "created_at": "2026-09-06T13:23:04.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096590004328050829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863319222765428736",
+          "start": 3,
+          "username": "Re_ZaoTon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ibfEtwK7lE",
+          "end": 114,
+          "expanded_url": "https://x.com/Re_ZaoTon/status/2088816907776598214/photo/1",
+          "media_key": "3_2088816901220888576",
+          "start": 91,
+          "url": "https://t.co/ibfEtwK7lE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096590004328050829",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088816901220888576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088816907776598214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Re_ZaoTon: 大家真的不要盲目友跨，小时候的枣桐在群里问问题被温柔大姐姐私信鉴跨，还直白地说我是不是想吃药，当时的枣桐什么都不懂就觉得这是洗脑，并产生了严重的恐跨🥺 https://t.co/ibfEtwK7lE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_2088816901220888576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPz355YacAA0FVi.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088816901220888576"
+          ],
+          "media_source_tweet_id": [
+            "2088816907776598214"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096590004328050829",
+        "created_at": "2026-09-06T13:23:04.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096590004328050829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863319222765428736",
+              "start": 3,
+              "username": "Re_ZaoTon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibfEtwK7lE",
+              "end": 114,
+              "expanded_url": "https://x.com/Re_ZaoTon/status/2088816907776598214/photo/1",
+              "media_key": "3_2088816901220888576",
+              "start": 91,
+              "url": "https://t.co/ibfEtwK7lE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096590004328050829",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088816901220888576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088816907776598214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Re_ZaoTon: 大家真的不要盲目友跨，小时候的枣桐在群里问问题被温柔大姐姐私信鉴跨，还直白地说我是不是想吃药，当时的枣桐什么都不懂就觉得这是洗脑，并产生了严重的恐跨🥺 https://t.co/ibfEtwK7lE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088816901220888576"
+          ]
+        },
+        "author_id": "1863319222765428736",
+        "conversation_id": "2088816907776598214",
+        "created_at": "2026-08-16T02:35:33.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088816907776598214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibfEtwK7lE",
+              "end": 99,
+              "expanded_url": "https://x.com/Re_ZaoTon/status/2088816907776598214/photo/1",
+              "media_key": "3_2088816901220888576",
+              "start": 76,
+              "url": "https://t.co/ibfEtwK7lE"
+            },
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/xiey57828/status/2088519570055376977",
+              "start": 100,
+              "url": "https://t.co/ujOLMoDQiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088816907776598214",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088816901220888576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3665,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088519570055376977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家真的不要盲目友跨，小时候的枣桐在群里问问题被温柔大姐姐私信鉴跨，还直白地说我是不是想吃药，当时的枣桐什么都不懂就觉得这是洗脑，并产生了严重的恐跨🥺 https://t.co/ibfEtwK7lE https://t.co/ujOLMoDQiK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096590004328050829",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 52,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21🍥｜小证含糖🍬｜家长不管党🍃｜性格良好✨｜河南农村小跨🌾｜生产日期09 06 01🥳｜账号用于分享日常，发表自己的见解📝｜建议私信回fo｜查询跨性别相关资料请前往https://t.co/6l43xOCIK5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 117,
+                "expanded_url": "http://2345.lgbt",
+                "start": 94,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yQ-rQYyB3x7ycmzj",
+                "start": 0,
+                "url": "https://t.co/Ch5dpQ3i0Q"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "is_identity_verified": false,
+        "location": "埃迪卡拉纪",
+        "most_recent_tweet_id": "2096516906815819895",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2089210712610795949",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863319222765428736/1787493431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091519816440176640/lzogbhRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 389,
+          "like_count": 18416,
+          "listed_count": 6,
+          "media_count": 147,
+          "tweet_count": 1906
+        },
+        "url": "https://t.co/Ch5dpQ3i0Q",
+        "username": "Re_ZaoTon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

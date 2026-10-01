@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096763348603834876",
+    "created_at": "2026-09-07T15:41:04.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096987122809045003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1741984081141805056",
+          "start": 0,
+          "username": "GamerdresAlter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096987122809045003",
+    "in_reply_to_user_id": "1741984081141805056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096763348603834876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GamerdresAlter 那投胎技术很好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2096763340110336002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkzJhFWkAI4bbT.jpg",
+        "width": 1847
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096763348603834876",
+        "created_at": "2026-09-07T15:41:04.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096987122809045003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1741984081141805056",
+              "start": 0,
+              "username": "GamerdresAlter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096987122809045003",
+        "in_reply_to_user_id": "1741984081141805056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096763348603834876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GamerdresAlter 那投胎技术很好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096763340110336002"
+          ]
+        },
+        "author_id": "1741984081141805056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096763348603834876",
+        "created_at": "2026-09-07T00:51:52.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096763348603834876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBbQYaEUW9",
+              "end": 112,
+              "expanded_url": "https://x.com/GamerdresAlter/status/2096763348603834876/photo/1",
+              "media_key": "3_2096763340110336002",
+              "start": 89,
+              "url": "https://t.co/XBbQYaEUW9"
+            },
+            {
+              "display_url": "x.com/remxxing/statu…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/remxxing/status/2096654307370410190",
+              "start": 113,
+              "url": "https://t.co/gXHn7WbUAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096763348603834876",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2096763340110336002"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 970,
+          "impression_count": 118960,
+          "like_count": 6847,
+          "quote_count": 12,
+          "reply_count": 24,
+          "retweet_count": 513
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096654307370410190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gracias a Twitter ahora me imagino las relaciones de las chinas lesbianas de esta forma: https://t.co/XBbQYaEUW9 https://t.co/gXHn7WbUAX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096987122809045003",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 55,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-02T00:45:55.000Z",
+        "description": "Hater #1 del yuri (aunque solo odio como 3)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anilist.co/user/Gamerdres/",
+                "end": 23,
+                "expanded_url": "https://anilist.co/user/Gamerdres/",
+                "start": 0,
+                "url": "https://t.co/nmE3Tez630"
+              }
+            ]
+          }
+        },
+        "id": "1741984081141805056",
+        "is_identity_verified": false,
+        "location": "Ciudad Academia",
+        "most_recent_tweet_id": "2096953041261920405",
+        "name": "Gamerdres Le Fanu",
+        "pinned_tweet_id": "2046301578211307599",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741984081141805056/1787974152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093540117830942720/cYLXcGHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 165,
+          "like_count": 84245,
+          "listed_count": 7,
+          "media_count": 8788,
+          "tweet_count": 44587
+        },
+        "url": "https://t.co/nmE3Tez630",
+        "username": "GamerdresAlter",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

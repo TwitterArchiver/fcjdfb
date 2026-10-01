@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2101289505625985212",
+    "created_at": "2026-09-19T19:34:38.000Z",
+    "display_text_range": [
+      23,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T20:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101394553043575210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1918898482045480960",
+          "start": 0,
+          "username": "skdky_0xzero"
+        },
+        {
+          "end": 22,
+          "id": "1285129912207077378",
+          "start": 14,
+          "username": "yuuhuia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101394553043575210",
+    "in_reply_to_user_id": "1918898482045480960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101289505625985212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skdky_0xzero @yuuhuia 这b脸的跟女鬼一样还有人看我是没想到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2101289479826821120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlHphdX0AA0YV-.jpg",
+        "width": 883
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2101289505625985212",
+        "created_at": "2026-09-19T19:34:38.000Z",
+        "display_text_range": [
+          23,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T20:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101394553043575210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918898482045480960",
+              "start": 0,
+              "username": "skdky_0xzero"
+            },
+            {
+              "end": 22,
+              "id": "1285129912207077378",
+              "start": 14,
+              "username": "yuuhuia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101394553043575210",
+        "in_reply_to_user_id": "1918898482045480960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101289505625985212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skdky_0xzero @yuuhuia 这b脸的跟女鬼一样还有人看我是没想到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101289479826821120"
+          ]
+        },
+        "author_id": "1918898482045480960",
+        "conversation_id": "2101289505625985212",
+        "created_at": "2026-09-19T12:37:12.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101289505625985212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1285129912207077378",
+              "start": 10,
+              "username": "yuuhuia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Opni5wJbAP",
+              "end": 42,
+              "expanded_url": "https://x.com/skdky_0xzero/status/2101289505625985212/photo/1",
+              "media_key": "3_2101289479826821120",
+              "start": 19,
+              "url": "https://t.co/Opni5wJbAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101289505625985212",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101289479826821120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1468,
+          "impression_count": 739025,
+          "like_count": 4736,
+          "quote_count": 7,
+          "reply_count": 295,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "X上会说你女菩萨\n\n@yuuhuia https://t.co/Opni5wJbAP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101394553043575210",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 65,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1030
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-04T05:20:36.000Z",
+        "description": "FUTURE｜MONEY｜FREEDOM｜商务合作⬇️\n\n戒赌群：https://t.co/ieDQ0IGjen\n\n推文内容不构成投资建议",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/skdky_group",
+                "end": 56,
+                "expanded_url": "https://t.me/skdky_group",
+                "start": 33,
+                "url": "https://t.co/ieDQ0IGjen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kaoyu_0xzero",
+                "end": 23,
+                "expanded_url": "https://t.me/kaoyu_0xzero",
+                "start": 0,
+                "url": "https://t.co/QzSk0p2hlg"
+              }
+            ]
+          }
+        },
+        "id": "1918898482045480960",
+        "is_identity_verified": true,
+        "location": "尼伯龙根",
+        "most_recent_tweet_id": "2101388289898869208",
+        "name": "社恐大烤鱼",
+        "pinned_tweet_id": "2100976849589592252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918898482045480960/1785168678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093382885805854720/jqtWKiS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9213,
+          "following_count": 4672,
+          "like_count": 19497,
+          "listed_count": 10,
+          "media_count": 842,
+          "tweet_count": 9819
+        },
+        "url": "https://t.co/QzSk0p2hlg",
+        "username": "skdky_0xzero",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-20T08:30:38.000Z",
+        "description": "🇨🇳写真模特、Coser 感谢你的喜欢💗 二号机：@yuuhuiaa 🛒会员制订阅：https://t.co/e2pLDNAhxt 🛒海外写真购买：https://t.co/EEmhSNpuYu 国内写真购买：https://t.co/hdHms3jNgR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "yuuhuiaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/yuuhuia",
+                "end": 65,
+                "expanded_url": "http://patreon.com/yuuhuia",
+                "start": 42,
+                "url": "https://t.co/e2pLDNAhxt"
+              },
+              {
+                "display_url": "shop.kokuhui.com",
+                "end": 97,
+                "expanded_url": "http://shop.kokuhui.com",
+                "start": 74,
+                "url": "https://t.co/EEmhSNpuYu"
+              },
+              {
+                "display_url": "yuhuishop.com",
+                "end": 128,
+                "expanded_url": "http://yuhuishop.com",
+                "start": 105,
+                "url": "https://t.co/hdHms3jNgR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokuhui.com",
+                "end": 23,
+                "expanded_url": "http://kokuhui.com",
+                "start": 0,
+                "url": "https://t.co/TJ06JWBlwU"
+              }
+            ]
+          }
+        },
+        "id": "1285129912207077378",
+        "is_identity_verified": false,
+        "location": "写真店铺：yuhuishop.com",
+        "most_recent_tweet_id": "2101378383271841925",
+        "name": "Kokuhui",
+        "pinned_tweet_id": "2096271324784230719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285129912207077378/1600190637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1366916833471651844/9NWg6cNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671444,
+          "following_count": 321,
+          "like_count": 781,
+          "listed_count": 2642,
+          "media_count": 1184,
+          "tweet_count": 1787
+        },
+        "url": "https://t.co/TJ06JWBlwU",
+        "username": "yuuhuia",
+        "verified": true,
+        "verified_type": "blue",
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2035952612357632510",
+    "created_at": "2026-03-23T05:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T06:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035952612357632510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1038388973670789120",
+          "start": 3,
+          "username": "MinamiyaNagiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035952612357632510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972935586580472039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MinamiyaNagiya: 昨天外卖点了个黑金牛肉堡，第二天起来蹲厕所发现那玩意也变成黑金色的了，所以我在想，去华莱士吃了丁真的堡皮之后，拉出来的会不会就变成粉色的了？这样在外面就可以说男娘不仅牛牛和pyz是粉粉嫩嫩的，就连拉出来的💩都是粉粉嫩嫩的了 https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3888,
+        "media_key": "3_1972935390861701120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2FGSPEbsAAoN64.jpg",
+        "width": 3144
+      },
+      {
+        "height": 3772,
+        "media_key": "3_1972935390886825984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2FGSPKbEAAt-g-.jpg",
+        "width": 2663
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2035952612357632510",
+        "created_at": "2026-03-23T05:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035952612357632510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1038388973670789120",
+              "start": 3,
+              "username": "MinamiyaNagiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035952612357632510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972935586580472039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MinamiyaNagiya: 昨天外卖点了个黑金牛肉堡，第二天起来蹲厕所发现那玩意也变成黑金色的了，所以我在想，去华莱士吃了丁真的堡皮之后，拉出来的会不会就变成粉色的了？这样在外面就可以说男娘不仅牛牛和pyz是粉粉嫩嫩的，就连拉出来的💩都是粉粉嫩嫩的了 https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972935390861701120",
+            "3_1972935390886825984"
+          ]
+        },
+        "author_id": "1038388973670789120",
+        "conversation_id": "1972935586580472039",
+        "created_at": "2025-09-30T08:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T09:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972935586580472039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9oYQroo9pQ",
+              "end": 135,
+              "expanded_url": "https://x.com/MinamiyaNagiya/status/1972935586580472039/photo/1",
+              "media_key": "3_1972935390861701120",
+              "start": 112,
+              "url": "https://t.co/9oYQroo9pQ"
+            },
+            {
+              "display_url": "pic.x.com/9oYQroo9pQ",
+              "end": 135,
+              "expanded_url": "https://x.com/MinamiyaNagiya/status/1972935586580472039/photo/1",
+              "media_key": "3_1972935390886825984",
+              "start": 112,
+              "url": "https://t.co/9oYQroo9pQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972935586580472039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 69860,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "昨天外卖点了个黑金牛肉堡，第二天起来蹲厕所发现那玩意也变成黑金色的了，所以我在想，去华莱士吃了丁真的堡皮之后，拉出来的会不会就变成粉色的了？这样在外面就可以说男娘不仅牛牛和pyz是粉粉嫩嫩的，就连拉出来的💩都是粉粉嫩嫩的了 https://t.co/9oYQroo9pQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 97
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-08T11:29:58.000Z",
+        "description": "不含糖不线下不互推不接诈骗推广丨十分记仇，不友跨也不反跨，只雷低龄傻逼等非正常人，只要能正常聊天的我都愿意认识接触丨梦想和所有遇到的美少女互fo丨🚪25送两个图包2选1丨最爱的妹妹@cici20120712，小号@Nagiya_Nya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 90,
+                "username": "cici20120712"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "Nagiya_Nya"
+              }
+            ]
+          }
+        },
+        "id": "1038388973670789120",
+        "location": "China",
+        "name": "凪夜Nagiya",
+        "pinned_tweet_id": "1847737690156065079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976204541663358976/l4zL1pRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31755,
+          "following_count": 3427,
+          "like_count": 50299,
+          "listed_count": 117,
+          "media_count": 680,
+          "tweet_count": 19882
+        },
+        "username": "MinamiyaNagiya",
+        "verified": false
+      }
+    ]
+  }
+}

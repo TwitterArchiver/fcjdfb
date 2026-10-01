@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104183785642393882",
+    "created_at": "2026-09-27T15:59:44.000Z",
+    "display_text_range": [
+      8,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T16:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104239575766110428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1794306281572118528",
+          "start": 0,
+          "username": "xynrui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104239575766110428",
+    "in_reply_to_user_id": "1794306281572118528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104183785642393882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynrui 还有消息吗..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104183785642393882",
+        "created_at": "2026-09-27T15:59:44.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104239575766110428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1794306281572118528",
+              "start": 0,
+              "username": "xynrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104239575766110428",
+        "in_reply_to_user_id": "1794306281572118528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104183785642393882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynrui 还有消息吗..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794306281572118528",
+        "conversation_id": "2104183785642393882",
+        "created_at": "2026-09-27T12:18:02.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104183785642393882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104183785642393882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1254,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没有对象了…我对象吃盐了…该死的世界，还我对象来！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104239575766110428",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 67,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1423
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-25T09:55:49.000Z",
+        "description": "独立思考，明辨是非",
+        "id": "1794306281572118528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104183785642393882",
+        "name": "药娘鑫蕊🍥",
+        "pinned_tweet_id": "2095890884730757256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794306281572118528/1790076276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101083229831016448/C8krKHuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 154,
+          "like_count": 188,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "xynrui",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

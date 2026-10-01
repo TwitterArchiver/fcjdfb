@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104202922439671843",
+    "created_at": "2026-09-27T18:42:50.000Z",
+    "display_text_range": [
+      26,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T19:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104280622646927750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 25,
+          "id": "1822559175232364544",
+          "start": 16,
+          "username": "Isla_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104280622646927750",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104279185703440415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 @Isla_qwq 我比较懒又没带袜子所以就这样出来了）hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104202922439671843",
+        "created_at": "2026-09-27T18:42:50.000Z",
+        "display_text_range": [
+          26,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104280622646927750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 25,
+              "id": "1822559175232364544",
+              "start": 16,
+              "username": "Isla_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104280622646927750",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104279185703440415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @Isla_qwq 我比较懒又没带袜子所以就这样出来了）hh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2104202922439671843",
+        "created_at": "2026-09-27T18:37:08.000Z",
+        "display_text_range": [
+          18,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104279185703440415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            },
+            {
+              "end": 17,
+              "id": "1822559175232364544",
+              "start": 8,
+              "username": "Isla_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104279185703440415",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104271734304362597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb @Isla_qwq 咕，咱都没注意到鞋子）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104280622646927750",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 67,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1459
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2104279468508676271",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5395,
+          "following_count": 7340,
+          "like_count": 22841,
+          "listed_count": 12,
+          "media_count": 504,
+          "tweet_count": 6932
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-11T09:02:32.000Z",
+        "description": "MtF/家长党/退役CChOer/ADHD/大证含糖/对所有善良包容的人友好/目标是成为互联网小天使！/出厂日期2009.04.10/HRT 2026.05.03/烤批/mzk&knd厨/画糖99/音游吃/25时团推/杂食猫猫一只/粥批/热爱看番\n雷：恐跨恐同/角色黑/无端攻击\n姐姐❤️@HydrusMelomanie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 144,
+                "username": "HydrusMelomanie"
+              }
+            ]
+          }
+        },
+        "id": "1822559175232364544",
+        "is_identity_verified": false,
+        "location": "Putuo, Shanghai, PRC",
+        "most_recent_tweet_id": "2104233490040668594",
+        "name": "Isla_qwq",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822559175232364544/1773845837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034282866079916033/tcICzQeQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 108,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "Isla_qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

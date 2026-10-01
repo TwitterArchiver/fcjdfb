@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2039156339759567156",
+    "created_at": "2026-04-01T01:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T02:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039156339759567156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "164224930",
+          "start": 3,
+          "username": "MinakoOikawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039156339759567156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039050657882378417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MinakoOikawa: 没人觉得这张探监照有种不可言说的美感吗。。。美好而又真实的友谊。。乐观但又直面惨淡的困境。。更别说玻璃门产生的奇妙隐喻。。。。。（拉一踩一的说不比你们搞得朗诵会、和那篇实际一看就不怎么了解烤的八股文要震撼、有力的多？）... 说这么多，其实只…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2039156339759567156",
+        "created_at": "2026-04-01T01:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T02:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039156339759567156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "164224930",
+              "start": 3,
+              "username": "MinakoOikawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039156339759567156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039050657882378417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MinakoOikawa: 没人觉得这张探监照有种不可言说的美感吗。。。美好而又真实的友谊。。乐观但又直面惨淡的困境。。更别说玻璃门产生的奇妙隐喻。。。。。（拉一踩一的说不比你们搞得朗诵会、和那篇实际一看就不怎么了解烤的八股文要震撼、有力的多？）... 说这么多，其实只…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "164224930",
+        "conversation_id": "2039050657882378417",
+        "created_at": "2026-03-31T18:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T19:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039050657882378417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyoukaatsuinya…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/hyoukaatsuinya/status/2038892414665134349",
+              "start": 143,
+              "url": "https://t.co/nruX66SRzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039050657882378417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4410,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038892414665134349",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没人觉得这张探监照有种不可言说的美感吗。。。美好而又真实的友谊。。乐观但又直面惨淡的困境。。更别说玻璃门产生的奇妙隐喻。。。。。（拉一踩一的说不比你们搞得朗诵会、和那篇实际一看就不怎么了解烤的八股文要震撼、有力的多？）... 说这么多，其实只是我希望我被关起来的时候也有小伙伴来探监。 https://t.co/nruX66SRzW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 29,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 133
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-08T10:19:29.000Z",
+        "description": "Yet another Dev Rel / 空手道應酬 / Xoogler / OIer / Cosplay / My views / HRT since 2022.11.12",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shuizilong.com",
+                "end": 23,
+                "expanded_url": "http://www.shuizilong.com/",
+                "start": 0,
+                "url": "https://t.co/jcBGh2T5SX"
+              }
+            ]
+          }
+        },
+        "id": "164224930",
+        "location": "Shanghai, China",
+        "name": "小島みなこ 🏳️‍⚧️",
+        "pinned_tweet_id": "1228093781280354304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596711607845130240/1y4atMYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9409,
+          "following_count": 6131,
+          "like_count": 86313,
+          "listed_count": 115,
+          "media_count": 2815,
+          "tweet_count": 58547
+        },
+        "url": "https://t.co/jcBGh2T5SX",
+        "username": "MinakoOikawa",
+        "verified": false
+      }
+    ]
+  }
+}

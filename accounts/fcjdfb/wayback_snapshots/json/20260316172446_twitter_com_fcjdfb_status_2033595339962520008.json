@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2033595339962520008",
+    "created_at": "2026-03-16T17:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T18:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033595339962520008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4848269835",
+          "start": 3,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033595339962520008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032661220621422835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_FORAB: 有美国区的博主，已经收到 X 平台发的实体借记卡了，根据视频显示，用户在 X 上名称和 ID 会刻在卡片上，然后刷卡消费，会有 3% 的现金返现。\n\n此前马斯克表示，预计下个月 X Money 功能会在部分地区上线，然后到扩大到更多地区。\n\n该功能，可实…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27500,
+        "height": 2560,
+        "media_key": "13_2032222426440888320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032222426440888320/img/dqP-9ayWicnY3qgM.jpg",
+        "public_metrics": {
+          "view_count": 252065
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032222426440888320/vid/avc1/720x1280/3Gd-mBtjDJ34bE3n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032222426440888320/vid/avc1/480x852/aYtT4xP1pUaII-V_.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032222426440888320/vid/avc1/320x568/EazmXB2QYQMmjWSF.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032222426440888320/vid/avc1/1440x2560/9YGJg7v0e5JKg0PZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032222426440888320/pl/Tdn0F2nC4u3Ec4Re.m3u8?v=976"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2033595339962520008",
+        "created_at": "2026-03-16T17:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T18:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033595339962520008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4848269835",
+              "start": 3,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033595339962520008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032661220621422835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_FORAB: 有美国区的博主，已经收到 X 平台发的实体借记卡了，根据视频显示，用户在 X 上名称和 ID 会刻在卡片上，然后刷卡消费，会有 3% 的现金返现。\n\n此前马斯克表示，预计下个月 X Money 功能会在部分地区上线，然后到扩大到更多地区。\n\n该功能，可实…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032222426440888320"
+          ],
+          "media_source_tweet_id": [
+            "2032222786635121083"
+          ]
+        },
+        "author_id": "4848269835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032661220621422835",
+        "created_at": "2026-03-14T03:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T04:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032661220621422835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jl1rtXiG9X",
+              "end": 162,
+              "expanded_url": "https://x.com/joshwoodtx/status/2032222786635121083/video/1",
+              "media_key": "13_2032222426440888320",
+              "start": 139,
+              "url": "https://t.co/Jl1rtXiG9X"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "594fa6c6bc5b5ba9"
+        },
+        "id": "2032661220621422835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 267,
+          "impression_count": 242401,
+          "like_count": 814,
+          "quote_count": 20,
+          "reply_count": 128,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "有美国区的博主，已经收到 X 平台发的实体借记卡了，根据视频显示，用户在 X 上名称和 ID 会刻在卡片上，然后刷卡消费，会有 3% 的现金返现。\n\n此前马斯克表示，预计下个月 X Money 功能会在部分地区上线，然后到扩大到更多地区。\n\n该功能，可实现 6% 存款年化。\n\nhttps://t.co/Jl1rtXiG9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111888,
+          "following_count": 584,
+          "like_count": 9831,
+          "listed_count": 1882,
+          "media_count": 2798,
+          "tweet_count": 13421
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

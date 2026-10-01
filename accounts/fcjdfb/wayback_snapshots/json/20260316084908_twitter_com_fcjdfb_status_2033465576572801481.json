@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033171073957765121"
+      ],
+      "media_source_tweet_id": [
+        "2033171171546730692"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2033465576572801481",
+    "created_at": "2026-03-16T08:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T09:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033465576572801481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1363090571397451778",
+          "start": 3,
+          "username": "MinusZeroQwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YJRMMMFgjz",
+          "end": 60,
+          "expanded_url": "https://x.com/MinusZeroQwQ/status/2033171171546730692/photo/1",
+          "media_key": "3_2033171073957765121",
+          "start": 37,
+          "url": "https://t.co/YJRMMMFgjz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033465576572801481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033171171546730692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MinusZeroQwQ: 何意味\n是不是有什么表演型人格之类的 https://t.co/YJRMMMFgjz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_2033171073957765121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdGUc7aIAEFa3a.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033171073957765121"
+          ],
+          "media_source_tweet_id": [
+            "2033171171546730692"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2033465576572801481",
+        "created_at": "2026-03-16T08:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033465576572801481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1363090571397451778",
+              "start": 3,
+              "username": "MinusZeroQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJRMMMFgjz",
+              "end": 60,
+              "expanded_url": "https://x.com/MinusZeroQwQ/status/2033171171546730692/photo/1",
+              "media_key": "3_2033171073957765121",
+              "start": 37,
+              "url": "https://t.co/YJRMMMFgjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033465576572801481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033171171546730692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MinusZeroQwQ: 何意味\n是不是有什么表演型人格之类的 https://t.co/YJRMMMFgjz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033171073957765121"
+          ]
+        },
+        "author_id": "1363090571397451778",
+        "conversation_id": "2033171171546730692",
+        "created_at": "2026-03-15T13:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033171171546730692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJRMMMFgjz",
+              "end": 42,
+              "expanded_url": "https://x.com/MinusZeroQwQ/status/2033171171546730692/photo/1",
+              "media_key": "3_2033171073957765121",
+              "start": 19,
+              "url": "https://t.co/YJRMMMFgjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033171171546730692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9893,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味\n是不是有什么表演型人格之类的 https://t.co/YJRMMMFgjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T11:38:20.000Z",
+        "description": "再见 只为再见\n| 04mtx(f) 🏳️‍⚧️|she/her |不约不卖不线下 看黄的不要私信了\n//❤️Love：@orange44333 @BG5CZD @xixue_1 @WSGM233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "orange44333"
+              },
+              {
+                "end": 80,
+                "start": 73,
+                "username": "BG5CZD"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "username": "xixue_1"
+              },
+              {
+                "end": 98,
+                "start": 90,
+                "username": "WSGM233"
+              }
+            ]
+          }
+        },
+        "id": "1363090571397451778",
+        "name": "Yuluoxk",
+        "pinned_tweet_id": "2005935708394143880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004345508941156352/3B2CrP08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 354,
+          "like_count": 10774,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 1190
+        },
+        "username": "MinusZeroQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

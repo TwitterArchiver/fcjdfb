@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100499466923196634",
+    "created_at": "2026-09-17T15:02:45.000Z",
+    "display_text_range": [
+      15,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100601359179579893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759598042704207872",
+          "start": 0,
+          "username": "Oyama_Tsuimei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100601359179579893",
+    "in_reply_to_user_id": "1759598042704207872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100499466923196634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Oyama_Tsuimei 我觉得他妈已经不管他了，现在就只要不撕了就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100499466923196634",
+        "created_at": "2026-09-17T15:02:45.000Z",
+        "display_text_range": [
+          15,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100601359179579893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759598042704207872",
+              "start": 0,
+              "username": "Oyama_Tsuimei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100601359179579893",
+        "in_reply_to_user_id": "1759598042704207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100499466923196634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Oyama_Tsuimei 我觉得他妈已经不管他了，现在就只要不撕了就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759598042704207872",
+        "conversation_id": "2100499466923196634",
+        "created_at": "2026-09-17T08:17:52.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100499466923196634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/bghtnya/status/2100495285306925473",
+              "start": 144,
+              "url": "https://t.co/Il22KjDQ6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100499466923196634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2586,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100495285306925473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我说这个n55家里真是恶搞之家有懂的吗\n无奖竞猜一下\n（多选题）作为家长，你会防止你的孩子……\nA：od\nB：mygo\nC：闯进以前的学校耍起\nD：滥交\nE：在ABCD作为任务清单被完成之后禁止结算界面分享\n\n哦对了，别说什么她妈已经努力防止n55整活了\n防止不完全等于完全不防止啊我看 https://t.co/Il22KjDQ6Z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2100601359179579893",
+        "name": "windigo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099879631554027520/jep7lkPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 74,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 830
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-19T15:17:38.000Z",
+        "description": "我是坠明｜挚友：@ceptyphe｜没有牺牲大到不能接受，没有背叛小到可以忍受｜成分复杂，交友随意，回关看成分，欢迎私信互动",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "ceptyphe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsu1me1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsu1me1",
+                "start": 0,
+                "url": "https://t.co/AghfCSrk4K"
+              }
+            ]
+          }
+        },
+        "id": "1759598042704207872",
+        "is_identity_verified": false,
+        "location": "距你头顶514米的热熔跳帮舱中",
+        "most_recent_tweet_id": "2100599178628042959",
+        "name": "Tsu1me1,the Leviathan",
+        "pinned_tweet_id": "2037089987309818231",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759598042704207872/1782399268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096159110349873152/AMK7Tfxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 1061,
+          "like_count": 1337,
+          "listed_count": 3,
+          "media_count": 476,
+          "tweet_count": 5191
+        },
+        "url": "https://t.co/AghfCSrk4K",
+        "username": "Oyama_Tsuimei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

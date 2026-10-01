@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2101711299629719980",
+    "created_at": "2026-09-20T23:21:13.000Z",
+    "display_text_range": [
+      12,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T00:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101813964250489274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101813964250489274",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101711299629719980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae 唉是的，过度适应吧。甚至很难去回到那个健康的心理状态下，这就是说的要花一生去治愈吧。习惯并且难以改变"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2101711299629719980",
+        "created_at": "2026-09-20T23:21:13.000Z",
+        "display_text_range": [
+          12,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T00:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101813964250489274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101813964250489274",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101711299629719980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae 唉是的，过度适应吧。甚至很难去回到那个健康的心理状态下，这就是说的要花一生去治愈吧。习惯并且难以改变"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813768883540725760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2101711299629719980",
+        "created_at": "2026-09-20T16:33:16.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101711299629719980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101711299629719980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「太坚强」本身不是 DSM 里的一个病名，但它经常是某些心理问题的外壳，而不是健康的韧性。\n心理学里更常讨论的是这些东西：\n•  高功能抑郁 / 隐匿性抑郁 外表能上学、能办事、能安慰别人，甚至看起来比一般人更靠谱；里面长期低落、空虚、对事情提不起真正的兴趣。功能还在，情绪已经在透支。 ￼\n•  情绪压抑（emotional suppression） 不是「不会哭」，而是习惯性地把难过、害怕、委屈压下去。短期能撑场面，长期会让人越来越麻、越来越累，身体也容易用失眠、胃痛、胸闷来「替你说话」。\n•  过度功能化（overfunctioning） 永远当那个「能扛的人」：别人的事你先管，自己的需求往后放。自我价值绑在「我还能撑」上，一旦停下来就觉得自己没用。\n•  毒性韧性（toxic resilience） 该休息还在撑、该求助还在说「我没事」。这不是强大，是把自己当消耗品用。\n还有一种相关但不完全一样的情况叫述情障碍：不是没情绪，而是很难认出、很难说出自己到底是委屈、怕、空，还是怒。表现出来就像「特别能忍、特别冷静」。\n所以：\n能扛事 ≠ 心理一定健康。\n真正比较健康的韧性，是还能感觉到自己的情绪，知道什么时候该停、什么时候可以靠别人一下。永远不倒、永远不示弱，更像一种早就学会的生存策略——很多时候来自「哭没用 / 别给人添麻烦 / 你要懂事」这类环境。\n如果「太坚强」已经变成下面这样，就值得认真对待，而不是继续夸自己抗压：\n•  只有一个人的时候才想哭，或者哭不出来、只觉得空\n•  对以前喜欢的事提不起劲，但还是能把该做的做完\n•  休息会有罪恶感\n•  很难对任何人说「我其实不太行」"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「太坚强」本身不是 DSM 里的一个病名，但它经常是某些心理问题的外壳，而不是健康的韧性。\n心理学里更常讨论的是这些东西：\n•  高功能抑郁 / 隐匿性抑郁 外表能上学、能办事、能安慰别人，甚至看起来比一般人更靠谱；里面长期低落、空虚、对事情提不起真正的兴趣。功能还在，情绪已经在透支。 ￼\n•"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101813964250489274",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 64,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1076
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "0126\n170/55\n不可爱的男娘\n啥也不会画的画家\n不懂航天的星舰爱好者\n一句日语也不会说的日语学习者\n最最最最最好的朋友 @guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/cd2rHaLqOI"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2101713135585595687",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2099339418234736908",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 1504,
+          "like_count": 13959,
+          "listed_count": 3,
+          "media_count": 726,
+          "tweet_count": 5915
+        },
+        "url": "https://t.co/cd2rHaLqOI",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

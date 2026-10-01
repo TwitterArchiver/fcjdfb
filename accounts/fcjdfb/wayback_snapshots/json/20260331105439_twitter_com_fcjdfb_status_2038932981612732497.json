@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2038932981612732497",
+    "created_at": "2026-03-31T10:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038932981612732497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "961832160377282560",
+          "start": 3,
+          "username": "iMoeAya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/NewsWire_US/st…",
+          "end": 103,
+          "expanded_url": "https://x.com/NewsWire_US/status/2037999569263333761",
+          "start": 80,
+          "url": "https://t.co/ewWjijMF7J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038932981612732497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038791787289194634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iMoeAya: 还敢开证么？ 随便一个行政命令就给你拉清单了。\n美国田纳西州众议院通过一项追踪跨性别者的法案,要求医院像政府提供已登记的跨性别者名单\nhttps://t.co/ewWjijMF7J"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2038932981612732497",
+        "created_at": "2026-03-31T10:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038932981612732497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "961832160377282560",
+              "start": 3,
+              "username": "iMoeAya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/NewsWire_US/st…",
+              "end": 103,
+              "expanded_url": "https://x.com/NewsWire_US/status/2037999569263333761",
+              "start": 80,
+              "url": "https://t.co/ewWjijMF7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038932981612732497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038791787289194634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iMoeAya: 还敢开证么？ 随便一个行政命令就给你拉清单了。\n美国田纳西州众议院通过一项追踪跨性别者的法案,要求医院像政府提供已登记的跨性别者名单\nhttps://t.co/ewWjijMF7J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961832160377282560",
+        "conversation_id": "2038791787289194634",
+        "created_at": "2026-03-31T01:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038791787289194634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewsWire_US/st…",
+              "end": 90,
+              "expanded_url": "https://x.com/NewsWire_US/status/2037999569263333761",
+              "start": 67,
+              "url": "https://t.co/ewWjijMF7J"
+            },
+            {
+              "display_url": "x.com/iMoeAya/status…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/iMoeAya/status/1745442794469048553",
+              "start": 91,
+              "url": "https://t.co/McLwelhKvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038791787289194634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5739,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1745442794469048553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还敢开证么？ 随便一个行政命令就给你拉清单了。\n美国田纳西州众议院通过一项追踪跨性别者的法案,要求医院像政府提供已登记的跨性别者名单\nhttps://t.co/ewWjijMF7J https://t.co/McLwelhKvF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 29,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 125
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974770448509595648/kkt3Z048_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41114,
+          "following_count": 4837,
+          "like_count": 180788,
+          "listed_count": 154,
+          "media_count": 1168,
+          "tweet_count": 35766
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

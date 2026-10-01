@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040934895946702848"
+      ],
+      "media_source_tweet_id": [
+        "2040934905065214359"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2041321347213844950",
+    "created_at": "2026-04-07T01:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T02:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041321347213844950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1857802986837172224",
+          "start": 3,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fEowsk94Yu",
+          "end": 49,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2040934905065214359/photo/1",
+          "media_key": "3_2040934895946702848",
+          "start": 26,
+          "url": "https://t.co/fEowsk94Yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041321347213844950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040934905065214359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LingJiaXin233: 避雷这个游戏 https://t.co/fEowsk94Yu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1117,
+        "media_key": "3_2040934895946702848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFLbeXqaIAAeat0.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040934895946702848"
+          ],
+          "media_source_tweet_id": [
+            "2040934905065214359"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2041321347213844950",
+        "created_at": "2026-04-07T01:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041321347213844950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1857802986837172224",
+              "start": 3,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEowsk94Yu",
+              "end": 49,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2040934905065214359/photo/1",
+              "media_key": "3_2040934895946702848",
+              "start": 26,
+              "url": "https://t.co/fEowsk94Yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041321347213844950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040934905065214359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LingJiaXin233: 避雷这个游戏 https://t.co/fEowsk94Yu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040934895946702848"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2040934905065214359",
+        "created_at": "2026-04-05T23:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T00:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040934905065214359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEowsk94Yu",
+              "end": 30,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2040934905065214359/photo/1",
+              "media_key": "3_2040934895946702848",
+              "start": 7,
+              "url": "https://t.co/fEowsk94Yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040934905065214359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 373,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "避雷这个游戏 https://t.co/fEowsk94Yu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 34,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 196
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/侵删/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2976,
+          "following_count": 730,
+          "like_count": 12045,
+          "listed_count": 8,
+          "media_count": 510,
+          "tweet_count": 3140
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

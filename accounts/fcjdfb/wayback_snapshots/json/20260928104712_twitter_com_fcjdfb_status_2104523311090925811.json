@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104523301905436672"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104523311090925811",
+    "created_at": "2026-09-28T10:47:12.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104523311090925811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wY3BH9xoqU",
+          "end": 90,
+          "expanded_url": "https://x.com/fcjdfb/status/2104523311090925811/photo/1",
+          "media_key": "3_2104523301905436672",
+          "start": 67,
+          "url": "https://t.co/wY3BH9xoqU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104523311090925811",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104523301905436672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "你们疯了吧，适乐肤450ml都110。这b玩意450ml70快你们真敢买啊，适乐肤这种都已经是最底价了。还不如清水洗脸呢至少没啥伤害\n这维生素c排在柠檬酸之后人工香精之前也就是正好卡0.1%过线。国家规定不含0.1%需标准其他微量添加不能单独添加，那神经酰胺没标出已经很说明了。这采购的几个原料肯定是劣质原料啊\n还有这个添加氯化钠来增稠，别告诉我你们不懂化学，氯化钠就是食用盐"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们疯了吧，适乐肤450ml都110。这b玩意450ml70快你们真敢买啊，适乐肤这种都已经是最底价了。还不如清水洗脸呢至少没啥伤害 https://t.co/wY3BH9xoqU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_2104523301905436672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTEyvebEAA34Yl.jpg",
+        "width": 713
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104523301905436672"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104523311090925811",
+        "created_at": "2026-09-28T10:47:12.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104523311090925811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wY3BH9xoqU",
+              "end": 90,
+              "expanded_url": "https://x.com/fcjdfb/status/2104523311090925811/photo/1",
+              "media_key": "3_2104523301905436672",
+              "start": 67,
+              "url": "https://t.co/wY3BH9xoqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104523311090925811",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104523301905436672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "你们疯了吧，适乐肤450ml都110。这b玩意450ml70快你们真敢买啊，适乐肤这种都已经是最底价了。还不如清水洗脸呢至少没啥伤害\n这维生素c排在柠檬酸之后人工香精之前也就是正好卡0.1%过线。国家规定不含0.1%需标准其他微量添加不能单独添加，那神经酰胺没标出已经很说明了。这采购的几个原料肯定是劣质原料啊\n还有这个添加氯化钠来增稠，别告诉我你们不懂化学，氯化钠就是食用盐"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们疯了吧，适乐肤450ml都110。这b玩意450ml70快你们真敢买啊，适乐肤这种都已经是最底价了。还不如清水洗脸呢至少没啥伤害 https://t.co/wY3BH9xoqU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104523311090925811",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 65,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1531
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100604106834624927",
+    "created_at": "2026-09-17T15:13:41.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100604106834624927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1763034943599607808",
+          "start": 3,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100604106834624927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100566701972828229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moonlight_ruri: 加拿大男娘数学家招募学生的宣传广告\n这很不西方\n大意为\n\n 主打辅导 微积分、线性代数、离散数学、数学分析等。\n有 300+ 小时数学竞赛和大学数学辅导经验。\n自称在专业方向的线性代数、微积分课程中取得过 4.0 GPA。\n可以通过短信联…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2100566679847845888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSa2RBtaQAAwMic.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100604106834624927",
+        "created_at": "2026-09-17T15:13:41.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100604106834624927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1763034943599607808",
+              "start": 3,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100604106834624927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100566701972828229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moonlight_ruri: 加拿大男娘数学家招募学生的宣传广告\n这很不西方\n大意为\n\n 主打辅导 微积分、线性代数、离散数学、数学分析等。\n有 300+ 小时数学竞赛和大学数学辅导经验。\n自称在专业方向的线性代数、微积分课程中取得过 4.0 GPA。\n可以通过短信联…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100566679847845888"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2100566701972828229",
+        "created_at": "2026-09-17T12:45:03.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100566701972828229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jnRXPyUmdo",
+              "end": 163,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2100566701972828229/photo/1",
+              "media_key": "3_2100566679847845888",
+              "start": 140,
+              "url": "https://t.co/jnRXPyUmdo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100566701972828229",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100566679847845888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "加拿大男娘数学家招募学生的宣传广告\n这很不西方\n大意为\n\n 主打辅导 微积分、线性代数、离散数学、数学分析等。\n有 300+ 小时数学竞赛和大学数学辅导经验。\n自称在专业方向的线性代数、微积分课程中取得过 4.0 GPA。\n可以通过短信联系预约辅导。\n会说普通话，但不会写中文。\n为了吸引眼球，广告特别强调自己是 Femboy（男娘），还说自己有一套 Astolfo（阿斯托尔福）cos服，有时可能会穿着上课。\n上面的另一张海报则是推广免费的数学学习资源、视频和辅导社群。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 4018,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "加拿大男娘数学家招募学生的宣传广告\n这很不西方\n大意为\n\n 主打辅导 微积分、线性代数、离散数学、数学分析等。\n有 300+ 小时数学竞赛和大学数学辅导经验。\n自称在专业方向的线性代数、微积分课程中取得过 4.0 GPA。\n可以通过短信联系预约辅导。\n会说普通话，但不会写中文。 https://t.co/jnRXPyUmdo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2100604106834624927",
+        "name": "windigo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099879631554027520/jep7lkPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 74,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 837
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "is_identity_verified": true,
+        "location": "鄂｜🉑✈️｜🚪59｜私信｜蓝v必回请耐心等待",
+        "most_recent_tweet_id": "2100566701972828229",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763034943599607808/1786895939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16198,
+          "following_count": 1223,
+          "like_count": 1107,
+          "listed_count": 35,
+          "media_count": 529,
+          "tweet_count": 2731
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

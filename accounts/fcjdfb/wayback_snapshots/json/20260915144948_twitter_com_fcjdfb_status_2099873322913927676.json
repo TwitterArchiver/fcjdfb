@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068682070013140992"
+      ],
+      "media_source_tweet_id": [
+        "2068682084500300017"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099873322913927676",
+    "created_at": "2026-09-15T14:49:48.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099873322913927676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1844375866278805513",
+          "start": 3,
+          "username": "mag2998114315"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OqgmQaWAhX",
+          "end": 45,
+          "expanded_url": "https://x.com/mag2998114315/status/2068682084500300017/photo/1",
+          "media_key": "3_2068682070013140992",
+          "start": 22,
+          "url": "https://t.co/OqgmQaWAhX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099873322913927676",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2068682070013140992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068682084500300017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mag2998114315: 白刃 https://t.co/OqgmQaWAhX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068682070013140992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVvYeBaYAAfuzV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068682070013140992"
+          ],
+          "media_source_tweet_id": [
+            "2068682084500300017"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099873322913927676",
+        "created_at": "2026-09-15T14:49:48.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099873322913927676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1844375866278805513",
+              "start": 3,
+              "username": "mag2998114315"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqgmQaWAhX",
+              "end": 45,
+              "expanded_url": "https://x.com/mag2998114315/status/2068682084500300017/photo/1",
+              "media_key": "3_2068682070013140992",
+              "start": 22,
+              "url": "https://t.co/OqgmQaWAhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099873322913927676",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2068682070013140992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068682084500300017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mag2998114315: 白刃 https://t.co/OqgmQaWAhX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068682070013140992"
+          ]
+        },
+        "author_id": "1844375866278805513",
+        "conversation_id": "2068682084500300017",
+        "created_at": "2026-06-21T13:06:57.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068682084500300017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqgmQaWAhX",
+              "end": 26,
+              "expanded_url": "https://x.com/mag2998114315/status/2068682084500300017/photo/1",
+              "media_key": "3_2068682070013140992",
+              "start": 3,
+              "url": "https://t.co/OqgmQaWAhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068682084500300017",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2068682070013140992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 13536,
+          "like_count": 894,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "白刃 https://t.co/OqgmQaWAhX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099873322913927676",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 72,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 775
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-10T13:55:32.000Z",
+        "description": "絵の練習その他雑多な日常：メタ🦷多し：王子殿下狂い：地雷なし：幻想強めです自衛は各自お願いしやす:絵の無断転載・AI学習禁止:ウェブボhttps://t.co/fyUZ2Igspw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/a30d0a1ea…",
+                "end": 90,
+                "expanded_url": "https://wavebox.me/wave/a30d0a1eabbk9sbm/",
+                "start": 67,
+                "url": "https://t.co/fyUZ2Igspw"
+              }
+            ]
+          }
+        },
+        "id": "1844375866278805513",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099658888404738135",
+        "name": "mag",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844375866278805513/1743081329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896922453705736192/V97rQYsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 48,
+          "like_count": 8007,
+          "listed_count": 2,
+          "media_count": 387,
+          "tweet_count": 6081
+        },
+        "url": "",
+        "username": "mag2998114315",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

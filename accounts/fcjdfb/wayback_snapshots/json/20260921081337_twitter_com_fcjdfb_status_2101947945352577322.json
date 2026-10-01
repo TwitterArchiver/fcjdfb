@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2101947945352577322",
+    "created_at": "2026-09-21T08:13:37.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T09:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101947945352577322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/garrulous_abys…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/garrulous_abyss/status/2101933036128338167",
+          "start": 31,
+          "url": "https://t.co/AXaxET6jk0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101947945352577322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101933036128338167",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "数学确实是个发散的东西，llm只适合解决问题。不适合发展问题 https://t.co/AXaxET6jk0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101933030637993984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuQ9HDWgAAX1Hn.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101933030243729409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuQ9FlWgAEsEym.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101933030260514816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuQ9FpWoAA-VN7.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101933030247968768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuQ9FmXMAAUljx.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2101947945352577322",
+        "created_at": "2026-09-21T08:13:37.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101947945352577322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/2101933036128338167",
+              "start": 31,
+              "url": "https://t.co/AXaxET6jk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101947945352577322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101933036128338167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "数学确实是个发散的东西，llm只适合解决问题。不适合发展问题 https://t.co/AXaxET6jk0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101933030637993984",
+            "3_2101933030243729409",
+            "3_2101933030260514816",
+            "3_2101933030247968768"
+          ]
+        },
+        "author_id": "4752010152",
+        "conversation_id": "2101933036128338167",
+        "created_at": "2026-09-21T07:14:22.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T08:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101933036128338167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMzB8lY9w9",
+              "end": 170,
+              "expanded_url": "https://x.com/garrulous_abyss/status/2101933036128338167/photo/1",
+              "media_key": "3_2101933030637993984",
+              "start": 147,
+              "url": "https://t.co/ZMzB8lY9w9"
+            },
+            {
+              "display_url": "pic.x.com/ZMzB8lY9w9",
+              "end": 170,
+              "expanded_url": "https://x.com/garrulous_abyss/status/2101933036128338167/photo/1",
+              "media_key": "3_2101933030243729409",
+              "start": 147,
+              "url": "https://t.co/ZMzB8lY9w9"
+            },
+            {
+              "display_url": "pic.x.com/ZMzB8lY9w9",
+              "end": 170,
+              "expanded_url": "https://x.com/garrulous_abyss/status/2101933036128338167/photo/1",
+              "media_key": "3_2101933030260514816",
+              "start": 147,
+              "url": "https://t.co/ZMzB8lY9w9"
+            },
+            {
+              "display_url": "pic.x.com/ZMzB8lY9w9",
+              "end": 170,
+              "expanded_url": "https://x.com/garrulous_abyss/status/2101933036128338167/photo/1",
+              "media_key": "3_2101933030247968768",
+              "start": 147,
+              "url": "https://t.co/ZMzB8lY9w9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101933036128338167",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101933030637993984"
+          },
+          {
+            "media_key": "3_2101933030243729409"
+          },
+          {
+            "media_key": "3_2101933030260514816"
+          },
+          {
+            "media_key": "3_2101933030247968768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1192,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "啊，我现在大概清楚的知道，我和一些“AI鼓吹者”的区别是什么了。\n\n他们总觉得，只要（看上去）技术进步，就可以不管不顾一切；他们坚信，只要科学技术进步，人类就一定有更好的未来。\n\n显然不是。核技术当然可以是核能，但更可能是核武器。社媒看起来让世界更小，实则算法传播了更多的偏见和歧视(1/2) https://t.co/ZMzB8lY9w9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材（简介施工中）\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101947945352577322",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 64,
+          "like_count": 562,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1093
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuEa4Up",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 125,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 102,
+                "url": "https://t.co/KZBQuEa4Up"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "is_identity_verified": false,
+        "location": "Paris, France",
+        "most_recent_tweet_id": "2101947217216954614",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4752010152/1667913861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32654,
+          "following_count": 3677,
+          "like_count": 198388,
+          "listed_count": 109,
+          "media_count": 4123,
+          "tweet_count": 72860
+        },
+        "url": "",
+        "username": "garrulous_abyss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

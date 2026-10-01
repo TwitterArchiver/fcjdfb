@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096694300645961994",
+    "created_at": "2026-09-06T22:02:53.000Z",
+    "display_text_range": [
+      41,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T23:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096720819204555164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1720819011057840128",
+          "start": 0,
+          "username": "Pissenlit_AH"
+        },
+        {
+          "end": 30,
+          "id": "2035882965671215104",
+          "start": 14,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 40,
+          "id": "1388165242740371457",
+          "start": 31,
+          "username": "Lee65535"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096720819204555164",
+    "in_reply_to_user_id": "1720819011057840128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096703819103277497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pissenlit_AH @amber_medusozoa @Lee65535 神了，直接这样盗用吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096694300645961994",
+        "created_at": "2026-09-06T22:02:53.000Z",
+        "display_text_range": [
+          41,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096720819204555164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720819011057840128",
+              "start": 0,
+              "username": "Pissenlit_AH"
+            },
+            {
+              "end": 30,
+              "id": "2035882965671215104",
+              "start": 14,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 40,
+              "id": "1388165242740371457",
+              "start": 31,
+              "username": "Lee65535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096720819204555164",
+        "in_reply_to_user_id": "1720819011057840128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096703819103277497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pissenlit_AH @amber_medusozoa @Lee65535 神了，直接这样盗用吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720819011057840128",
+        "conversation_id": "2096694300645961994",
+        "created_at": "2026-09-06T20:55:20.000Z",
+        "display_text_range": [
+          27,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T21:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096703819103277497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 26,
+              "id": "1388165242740371457",
+              "start": 17,
+              "username": "Lee65535"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Yumesame10086/…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Yumesame10086/status/2087093159172186454",
+              "start": 56,
+              "url": "https://t.co/XeYLIlDyZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096703819103277497",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087093159172186454",
+            "type": "quoted"
+          },
+          {
+            "id": "2096696417850978573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @Lee65535 看了他发的那个所谓的自拍...确实是另外一个人的。原主： https://t.co/XeYLIlDyZm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096720819204555164",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 55,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-04T15:03:25.000Z",
+        "description": "祂、她、他、它🐀/Ace/未明子梦女",
+        "id": "1720819011057840128",
+        "is_identity_verified": false,
+        "location": "？",
+        "most_recent_tweet_id": "2096703819103277497",
+        "name": "未明是我苦笑却未停",
+        "pinned_tweet_id": "1949385212015571222",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720819011057840128/1787809467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092850324289847296/wU7bmc1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 372,
+          "like_count": 42826,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 3982
+        },
+        "url": "",
+        "username": "Pissenlit_AH",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2096708619949490547",
+        "name": "amber 水母",
+        "pinned_tweet_id": "2087096982267432968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8380,
+          "following_count": 1180,
+          "like_count": 8573,
+          "listed_count": 12,
+          "media_count": 420,
+          "tweet_count": 5010
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-30T16:16:05.000Z",
+        "description": "中文/English | 🏳️‍⚧️🏳️‍🌈 | she/her | Proud owner of Blåhaj | 你觉得我是什么成分我就是什么成分🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lee65536",
+                "end": 23,
+                "expanded_url": "https://t.me/lee65536",
+                "start": 0,
+                "url": "https://t.co/MYXiDVxB7g"
+              }
+            ]
+          }
+        },
+        "id": "1388165242740371457",
+        "is_identity_verified": false,
+        "location": "Santa Clara, CA",
+        "most_recent_tweet_id": "2096695840727605748",
+        "name": "Lee",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1388165242740371457/1666329263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583326483300306947/YpbDhzim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4135,
+          "following_count": 596,
+          "like_count": 175580,
+          "listed_count": 2,
+          "media_count": 763,
+          "tweet_count": 11163
+        },
+        "url": "https://t.co/MYXiDVxB7g",
+        "username": "Lee65535",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

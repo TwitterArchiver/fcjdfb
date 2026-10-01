@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2034208879836627178",
+    "created_at": "2026-03-18T10:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T11:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034208879836627178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915756432747810816",
+          "start": 3,
+          "username": "SHUIYINSHUI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034208879836627178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033895370267496598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SHUIYINSHUI: 我草鸡煲一个电流相生给我电的直接到处乱射了。。别用电球链接郊狼mod..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2034208879836627178",
+        "created_at": "2026-03-18T10:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034208879836627178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915756432747810816",
+              "start": 3,
+              "username": "SHUIYINSHUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034208879836627178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033895370267496598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SHUIYINSHUI: 我草鸡煲一个电流相生给我电的直接到处乱射了。。别用电球链接郊狼mod..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915756432747810816",
+        "conversation_id": "2033895370267496598",
+        "created_at": "2026-03-17T13:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033895370267496598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033895370267496598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 50245,
+          "like_count": 357,
+          "quote_count": 4,
+          "reply_count": 49,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我草鸡煲一个电流相生给我电的直接到处乱射了。。别用电球链接郊狼mod..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 59
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T13:15:14.000Z",
+        "description": "萍水相逢",
+        "id": "1915756432747810816",
+        "location": "/gamemode 0",
+        "name": "水银水",
+        "pinned_tweet_id": "2028988541305536833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024722255641706496/oXBv1F4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 119,
+          "like_count": 309,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 234
+        },
+        "username": "SHUIYINSHUI",
+        "verified": false
+      }
+    ]
+  }
+}

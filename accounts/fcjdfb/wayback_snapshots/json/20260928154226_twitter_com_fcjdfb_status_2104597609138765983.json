@@ -1,0 +1,138 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104597609138765983",
+    "created_at": "2026-09-28T15:42:26.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T16:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104597609138765983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "⚠ 光敏警告：本视频含强烈闪烁与高速切镜，光敏性癫痫患者及易感人群请谨慎观看。【音乐】Mili「world.execute (me) ;」，词曲与录音的版权归﻿@ProjectMili 及原权利人所有。本视频是非营利的个人二次创作，不用于任何商业用途，也不是官方作品。依据 Mili 官方版权规约（Copyright Guidelines）制作并标注 AI 生成：https://projectmi, 视频播放量 53717、弹幕量 261、点赞数 4030、投硬币枚数 2369、收藏人数 2850、转发人数 1425, 视频作者 穆阿蒂布, 作者简介 ，相关视频：Opus 5.5 生成的最好的短片，没有之一，GPT6-Astra眼中的world.execute(me)，Opus 5.5、GPT-6 Sol首发实测，Claude再次统治世界？！，【DeepSeekV4.1Flash】world.execute (me) ;，吓哭了Opus5.5 AGI概念MV，gpt6降智前后对比视频，[整活]燃烧120000000token, GPT-6 Astra的智商到底有多高?，琵琶曲 | ChatGPT 大战 Claude （AI生成），Claude Opus 5.5 用代码亲手画出了这段动画，已吓哭 opus5.5真神降临 群论之美宣传片",
+          "display_url": "bilibili.com/video/BV1SgaY6…",
+          "end": 86,
+          "expanded_url": "https://www.bilibili.com/video/BV1SgaY64EG5/?share_source=copy_web&vd_source=940869b21314f1b8e37bccb048e5e177",
+          "start": 63,
+          "status": 200,
+          "title": "Claude用代码搓了13015帧4K视频然后吃了你13亿Token_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1SgaY64EG5/?share_source=copy_web&vd_source=940869b21314f1b8e37bccb048e5e177",
+          "url": "https://t.co/OwriQ21Roa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104597609138765983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然知道是llm，但看到还是有点恐惧\n震惊眩晕瘫坐\n【Claude用代码搓了13015帧4K视频然后吃了你13亿Token】 https://t.co/OwriQ21Roa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104597609138765983",
+        "created_at": "2026-09-28T15:42:26.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T16:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104597609138765983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "⚠ 光敏警告：本视频含强烈闪烁与高速切镜，光敏性癫痫患者及易感人群请谨慎观看。【音乐】Mili「world.execute (me) ;」，词曲与录音的版权归﻿@ProjectMili 及原权利人所有。本视频是非营利的个人二次创作，不用于任何商业用途，也不是官方作品。依据 Mili 官方版权规约（Copyright Guidelines）制作并标注 AI 生成：https://projectmi, 视频播放量 53717、弹幕量 261、点赞数 4030、投硬币枚数 2369、收藏人数 2850、转发人数 1425, 视频作者 穆阿蒂布, 作者简介 ，相关视频：Opus 5.5 生成的最好的短片，没有之一，GPT6-Astra眼中的world.execute(me)，Opus 5.5、GPT-6 Sol首发实测，Claude再次统治世界？！，【DeepSeekV4.1Flash】world.execute (me) ;，吓哭了Opus5.5 AGI概念MV，gpt6降智前后对比视频，[整活]燃烧120000000token, GPT-6 Astra的智商到底有多高?，琵琶曲 | ChatGPT 大战 Claude （AI生成），Claude Opus 5.5 用代码亲手画出了这段动画，已吓哭 opus5.5真神降临 群论之美宣传片",
+              "display_url": "bilibili.com/video/BV1SgaY6…",
+              "end": 86,
+              "expanded_url": "https://www.bilibili.com/video/BV1SgaY64EG5/?share_source=copy_web&vd_source=940869b21314f1b8e37bccb048e5e177",
+              "start": 63,
+              "status": 200,
+              "title": "Claude用代码搓了13015帧4K视频然后吃了你13亿Token_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1SgaY64EG5/?share_source=copy_web&vd_source=940869b21314f1b8e37bccb048e5e177",
+              "url": "https://t.co/OwriQ21Roa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104597609138765983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然知道是llm，但看到还是有点恐惧\n震惊眩晕瘫坐\n【Claude用代码搓了13015帧4K视频然后吃了你13亿Token】 https://t.co/OwriQ21Roa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104597609138765983",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 65,
+          "like_count": 855,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1553
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2038143708638629959",
+    "created_at": "2026-03-29T06:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T07:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038143708638629959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735801660717318146",
+          "start": 3,
+          "username": "qingge369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038143708638629959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037938809409827049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qingge369: 浙江一个12岁的女生不小心掉进了\n通风口，消防员救援的过程中;\n女生一边哭一边说对不起，\n对不起……哽咽地解释说：\n“我是不小心掉下来的，\n真的太给你们添麻烦了，对不起……\n\n最后还问消防员，\n我上去了你怎么办?\n你能上去吗”?\n用网友的一句话：就…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2038143708638629959",
+        "created_at": "2026-03-29T06:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038143708638629959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735801660717318146",
+              "start": 3,
+              "username": "qingge369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038143708638629959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037938809409827049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qingge369: 浙江一个12岁的女生不小心掉进了\n通风口，消防员救援的过程中;\n女生一边哭一边说对不起，\n对不起……哽咽地解释说：\n“我是不小心掉下来的，\n真的太给你们添麻烦了，对不起……\n\n最后还问消防员，\n我上去了你怎么办?\n你能上去吗”?\n用网友的一句话：就…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735801660717318146",
+        "conversation_id": "2037938809409827049",
+        "created_at": "2026-03-28T17:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T18:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037938809409827049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037938809409827049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 110505,
+          "like_count": 1135,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "浙江一个12岁的女生不小心掉进了\n通风口，消防员救援的过程中;\n女生一边哭一边说对不起，\n对不起……哽咽地解释说：\n“我是不小心掉下来的，\n真的太给你们添麻烦了，对不起……\n\n最后还问消防员，\n我上去了你怎么办?\n你能上去吗”?\n用网友的一句话：就小妹妹这个说话的态度，我死也得把她救出来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 122
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T23:19:15.000Z",
+        "description": "看人之短，天下无可交之人。看人之长世间万物皆为吾师。路是自己选的，没有输赢。只有值不值得，任何经历过的事不是学到就是得到。💰",
+        "id": "1735801660717318146",
+        "location": "距离你12公里",
+        "name": "映清歌",
+        "pinned_tweet_id": "2027587478060995063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020730349563826176/RWXrWk0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3723,
+          "following_count": 2157,
+          "like_count": 820,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1616
+        },
+        "username": "qingge369",
+        "verified": true
+      }
+    ]
+  }
+}

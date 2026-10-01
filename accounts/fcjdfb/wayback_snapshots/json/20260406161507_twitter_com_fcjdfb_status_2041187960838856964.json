@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040767980683010048"
+      ],
+      "media_source_tweet_id": [
+        "2040768082894065866"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2041187960838856964",
+    "created_at": "2026-04-06T16:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041187960838856964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1182158764419403776",
+          "start": 3,
+          "username": "SilenceGvq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X5YwXUFHDi",
+          "end": 52,
+          "expanded_url": "https://x.com/SilenceGvq/status/2040768082894065866/photo/1",
+          "media_key": "3_2040767980683010048",
+          "start": 29,
+          "url": "https://t.co/X5YwXUFHDi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041187960838856964",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040768082894065866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SilenceGvq: 這幅圖看了好多遍才看明白 https://t.co/X5YwXUFHDi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_2040767980683010048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJDqn2aIAA0ur4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040767980683010048"
+          ],
+          "media_source_tweet_id": [
+            "2040768082894065866"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2041187960838856964",
+        "created_at": "2026-04-06T16:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041187960838856964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1182158764419403776",
+              "start": 3,
+              "username": "SilenceGvq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5YwXUFHDi",
+              "end": 52,
+              "expanded_url": "https://x.com/SilenceGvq/status/2040768082894065866/photo/1",
+              "media_key": "3_2040767980683010048",
+              "start": 29,
+              "url": "https://t.co/X5YwXUFHDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041187960838856964",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040768082894065866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SilenceGvq: 這幅圖看了好多遍才看明白 https://t.co/X5YwXUFHDi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040767980683010048"
+          ]
+        },
+        "author_id": "1182158764419403776",
+        "conversation_id": "2040768082894065866",
+        "created_at": "2026-04-05T12:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040768082894065866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5YwXUFHDi",
+              "end": 36,
+              "expanded_url": "https://x.com/SilenceGvq/status/2040768082894065866/photo/1",
+              "media_key": "3_2040767980683010048",
+              "start": 13,
+              "url": "https://t.co/X5YwXUFHDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040768082894065866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 176,
+          "impression_count": 643392,
+          "like_count": 2528,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "這幅圖看了好多遍才看明白 https://t.co/X5YwXUFHDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 34,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 183
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-10T05:00:30.000Z",
+        "description": "TO     ERR    IS     HUMAN\nTO     FORGIVE      DIVINE",
+        "id": "1182158764419403776",
+        "name": "Silent Bird",
+        "pinned_tweet_id": "1766130988709744839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838472412981268481/IOjA7oTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124994,
+          "following_count": 516,
+          "like_count": 166909,
+          "listed_count": 395,
+          "media_count": 10729,
+          "tweet_count": 27869
+        },
+        "username": "SilenceGvq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096296258600382464",
+        "3_2096296269962739712",
+        "3_2096296278225453057",
+        "3_2096296285716529152"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096296296705642621",
+    "created_at": "2026-09-05T17:55:59.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T18:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096296296705642621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mKXi6Ww3Bg",
+          "end": 170,
+          "expanded_url": "https://x.com/fcjdfb/status/2096296296705642621/photo/1",
+          "media_key": "3_2096296258600382464",
+          "start": 147,
+          "url": "https://t.co/mKXi6Ww3Bg"
+        },
+        {
+          "display_url": "pic.x.com/mKXi6Ww3Bg",
+          "end": 170,
+          "expanded_url": "https://x.com/fcjdfb/status/2096296296705642621/photo/1",
+          "media_key": "3_2096296269962739712",
+          "start": 147,
+          "url": "https://t.co/mKXi6Ww3Bg"
+        },
+        {
+          "display_url": "pic.x.com/mKXi6Ww3Bg",
+          "end": 170,
+          "expanded_url": "https://x.com/fcjdfb/status/2096296296705642621/photo/1",
+          "media_key": "3_2096296278225453057",
+          "start": 147,
+          "url": "https://t.co/mKXi6Ww3Bg"
+        },
+        {
+          "display_url": "pic.x.com/mKXi6Ww3Bg",
+          "end": 170,
+          "expanded_url": "https://x.com/fcjdfb/status/2096296296705642621/photo/1",
+          "media_key": "3_2096296285716529152",
+          "start": 147,
+          "url": "https://t.co/mKXi6Ww3Bg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096296296705642621",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096296258600382464"
+      },
+      {
+        "media_key": "3_2096296269962739712"
+      },
+      {
+        "media_key": "3_2096296278225453057"
+      },
+      {
+        "media_key": "3_2096296285716529152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "你索尼电视研究多少年的东西了，到头来被英伟达吹成了伟大发明，新节省算力技术。摘桃子这块，很多用显示器的似乎根本意识不到在世界的另一端有一群工程师几十年的技术积淀一步步探索分辨率的处理极限。早在1995年索尼就开创性的将drc功能作为了c端商用。反看英伟达此时呢？dlss5的画面处理本质也是电视的味精功能拉伸对比度和色彩深度强行营造一种画面真实的感觉,可现实呢？既不贴合素材，也没有人长久观看。只有部分人强行拉高所谓色彩觉得画面很真实截图。至于新出的凭空捏造细节，为什么以往电视都不处理这个。因为大家都遵守一个最基本细节，在保存创作者意图之上对画面进行处理来让观众的观看体验进行提升。dlss5完全凭空捏造细节根本就不遵守创作者，因此才从来没有人这么搞过。你黄狗呢，把以往显示技术多少人的努力吹成了自己的发明创造，现在没有卖点还要强行创造卖点打破大家一直遵守创作者这个最基本的画面处理原则"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你索尼电视研究多少年的东西了，到头来被英伟达吹成了伟大发明，新节省算力技术。摘桃子这块，很多用显示器的似乎根本意识不到在世界的另一端有一群工程师几十年的技术积淀一步步探索分辨率的处理极限。早在1995年索尼就开创性的将drc功能作为了c端商用。反看英伟达此时呢？dlss5的画面处理本质也是电 https://t.co/mKXi6Ww3Bg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2840,
+        "media_key": "3_2096296258600382464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HReKVy3bMAATrs6.jpg",
+        "width": 1853
+      },
+      {
+        "height": 3148,
+        "media_key": "3_2096296269962739712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HReKWdMbAAASQFX.jpg",
+        "width": 1853
+      },
+      {
+        "height": 3097,
+        "media_key": "3_2096296278225453057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HReKW7-aAAE4EaG.jpg",
+        "width": 1853
+      },
+      {
+        "height": 501,
+        "media_key": "3_2096296285716529152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HReKXX4awAAG8Vg.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096296258600382464",
+            "3_2096296269962739712",
+            "3_2096296278225453057",
+            "3_2096296285716529152"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096296296705642621",
+        "created_at": "2026-09-05T17:55:59.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096296296705642621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mKXi6Ww3Bg",
+              "end": 170,
+              "expanded_url": "https://x.com/fcjdfb/status/2096296296705642621/photo/1",
+              "media_key": "3_2096296258600382464",
+              "start": 147,
+              "url": "https://t.co/mKXi6Ww3Bg"
+            },
+            {
+              "display_url": "pic.x.com/mKXi6Ww3Bg",
+              "end": 170,
+              "expanded_url": "https://x.com/fcjdfb/status/2096296296705642621/photo/1",
+              "media_key": "3_2096296269962739712",
+              "start": 147,
+              "url": "https://t.co/mKXi6Ww3Bg"
+            },
+            {
+              "display_url": "pic.x.com/mKXi6Ww3Bg",
+              "end": 170,
+              "expanded_url": "https://x.com/fcjdfb/status/2096296296705642621/photo/1",
+              "media_key": "3_2096296278225453057",
+              "start": 147,
+              "url": "https://t.co/mKXi6Ww3Bg"
+            },
+            {
+              "display_url": "pic.x.com/mKXi6Ww3Bg",
+              "end": 170,
+              "expanded_url": "https://x.com/fcjdfb/status/2096296296705642621/photo/1",
+              "media_key": "3_2096296285716529152",
+              "start": 147,
+              "url": "https://t.co/mKXi6Ww3Bg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096296296705642621",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096296258600382464"
+          },
+          {
+            "media_key": "3_2096296269962739712"
+          },
+          {
+            "media_key": "3_2096296278225453057"
+          },
+          {
+            "media_key": "3_2096296285716529152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "你索尼电视研究多少年的东西了，到头来被英伟达吹成了伟大发明，新节省算力技术。摘桃子这块，很多用显示器的似乎根本意识不到在世界的另一端有一群工程师几十年的技术积淀一步步探索分辨率的处理极限。早在1995年索尼就开创性的将drc功能作为了c端商用。反看英伟达此时呢？dlss5的画面处理本质也是电视的味精功能拉伸对比度和色彩深度强行营造一种画面真实的感觉,可现实呢？既不贴合素材，也没有人长久观看。只有部分人强行拉高所谓色彩觉得画面很真实截图。至于新出的凭空捏造细节，为什么以往电视都不处理这个。因为大家都遵守一个最基本细节，在保存创作者意图之上对画面进行处理来让观众的观看体验进行提升。dlss5完全凭空捏造细节根本就不遵守创作者，因此才从来没有人这么搞过。你黄狗呢，把以往显示技术多少人的努力吹成了自己的发明创造，现在没有卖点还要强行创造卖点打破大家一直遵守创作者这个最基本的画面处理原则"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你索尼电视研究多少年的东西了，到头来被英伟达吹成了伟大发明，新节省算力技术。摘桃子这块，很多用显示器的似乎根本意识不到在世界的另一端有一群工程师几十年的技术积淀一步步探索分辨率的处理极限。早在1995年索尼就开创性的将drc功能作为了c端商用。反看英伟达此时呢？dlss5的画面处理本质也是电 https://t.co/mKXi6Ww3Bg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096296296705642621",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 43,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

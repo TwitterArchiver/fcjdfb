@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099899069632295281",
+    "created_at": "2026-09-15T16:32:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099899069632295281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "866092386694217728",
+          "start": 3,
+          "username": "dungeon_lab_toy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099899069632295281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099760811040215394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dungeon_lab_toy: 【役次元，请管好你的老板】\n\n9月12号周六晚上11点，当我正在用3号位骷髅王对线小黑疯狂坐牢的时候，友商直接发来微信，开口就指责我们盗了他们的域名，因为他们的域名跳转到了我们的官网。\n\n这已经是第三次了，\n前两次也是这样，友商服务器一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099899069632295281",
+        "created_at": "2026-09-15T16:32:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099899069632295281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "866092386694217728",
+              "start": 3,
+              "username": "dungeon_lab_toy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099899069632295281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099760811040215394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dungeon_lab_toy: 【役次元，请管好你的老板】\n\n9月12号周六晚上11点，当我正在用3号位骷髅王对线小黑疯狂坐牢的时候，友商直接发来微信，开口就指责我们盗了他们的域名，因为他们的域名跳转到了我们的官网。\n\n这已经是第三次了，\n前两次也是这样，友商服务器一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "866092386694217728",
+        "conversation_id": "2099760811040215394",
+        "created_at": "2026-09-15T07:22:43.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099760811040215394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099760811040215394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【役次元，请管好你的老板】\n\n9月12号周六晚上11点，当我正在用3号位骷髅王对线小黑疯狂坐牢的时候，友商直接发来微信，开口就指责我们盗了他们的域名，因为他们的域名跳转到了我们的官网。\n\n这已经是第三次了，\n前两次也是这样，友商服务器一被攻击，第一想到的就是：\"同行干的\"。\n\n这次我实在忍不了，主要是线上被人点烂了压了两级，憋了一肚子气，所以就直接打电话过去回怼了。\n\n我觉得一个有判断力的成年人应该能想明白：没有哪个公司攻击完友商服务器，会直接让页面跳转到自己官网。这太蠢了。\n\n【适才相戏耳】\n接下来，友商运营抢过了老板的手机一直在找补，说了非常多离谱的借口，包括但不限于：\n\n“开玩笑的呀”\n“老板语音转文字转错了”\n“我们老板是提醒你们呀”\n\n我能感受到运营已经非常努力了。\n真的很离谱，上一个连自家运营都按不住的还是贾老板。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 43908,
+          "like_count": 343,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "【役次元，请管好你的老板】\n\n9月12号周六晚上11点，当我正在用3号位骷髅王对线小黑疯狂坐牢的时候，友商直接发来微信，开口就指责我们盗了他们的域名，因为他们的域名跳转到了我们的官网。\n\n这已经是第三次了，\n前两次也是这样，友商服务器一被攻击，第一想到的就是：\"同行干的\"。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099899069632295281",
+        "name": "windigo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099879631554027520/jep7lkPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 72,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 784
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-21T00:44:51.000Z",
+        "description": "Realise your wildest fantasies \nContact Email：service@dungeon-lab.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dungeon-lab.com",
+                "end": 23,
+                "expanded_url": "http://dungeon-lab.com",
+                "start": 0,
+                "url": "https://t.co/iTHP4GErdz"
+              }
+            ]
+          }
+        },
+        "id": "866092386694217728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099799920614224199",
+        "name": "DG-LAB 地牢实验室",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/866092386694217728/1755671590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1271694986044518403/z3pTfOsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30624,
+          "following_count": 163,
+          "like_count": 211,
+          "listed_count": 42,
+          "media_count": 56,
+          "tweet_count": 571
+        },
+        "url": "https://t.co/iTHP4GErdz",
+        "username": "dungeon_lab_toy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

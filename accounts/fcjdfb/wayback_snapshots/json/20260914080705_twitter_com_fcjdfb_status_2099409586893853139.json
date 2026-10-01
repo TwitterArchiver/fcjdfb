@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098740792865230848",
+        "3_2098740792718245897",
+        "3_2098740792709857281",
+        "3_2098740792714047489"
+      ],
+      "media_source_tweet_id": [
+        "2098740850800968047",
+        "2098740850800968047",
+        "2098740850800968047",
+        "2098740850800968047"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099409586893853139",
+    "created_at": "2026-09-14T08:07:05.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T09:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099409586893853139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1529360610387181568",
+          "start": 3,
+          "username": "litianranfish"
+        },
+        {
+          "end": 31,
+          "id": "1574516663935901696",
+          "start": 19,
+          "username": "wangjupaian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uhYYtlSJfv",
+          "end": 72,
+          "expanded_url": "https://x.com/litianranfish/status/2098740850800968047/photo/1",
+          "media_key": "3_2098740792865230848",
+          "start": 49,
+          "url": "https://t.co/uhYYtlSJfv"
+        },
+        {
+          "display_url": "pic.x.com/uhYYtlSJfv",
+          "end": 72,
+          "expanded_url": "https://x.com/litianranfish/status/2098740850800968047/photo/1",
+          "media_key": "3_2098740792718245897",
+          "start": 49,
+          "url": "https://t.co/uhYYtlSJfv"
+        },
+        {
+          "display_url": "pic.x.com/uhYYtlSJfv",
+          "end": 72,
+          "expanded_url": "https://x.com/litianranfish/status/2098740850800968047/photo/1",
+          "media_key": "3_2098740792709857281",
+          "start": 49,
+          "url": "https://t.co/uhYYtlSJfv"
+        },
+        {
+          "display_url": "pic.x.com/uhYYtlSJfv",
+          "end": 72,
+          "expanded_url": "https://x.com/litianranfish/status/2098740850800968047/photo/1",
+          "media_key": "3_2098740792714047489",
+          "start": 49,
+          "url": "https://t.co/uhYYtlSJfv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099409586893853139",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098740792865230848"
+      },
+      {
+        "media_key": "3_2098740792718245897"
+      },
+      {
+        "media_key": "3_2098740792709857281"
+      },
+      {
+        "media_key": "3_2098740792714047489"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098740850800968047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @litianranfish: @wangjupaian 公安办案的内部逻辑都在这篇文章里 https://t.co/uhYYtlSJfv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098740792865230848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSA5oapakAAr7F5.jpg",
+        "width": 1583
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098740792718245897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSA5oaGXwAk0jBR.jpg",
+        "width": 1583
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098740792709857281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSA5oaEXwAEerwM.jpg",
+        "width": 1583
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2098740792714047489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSA5oaFXsAEH2Az.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098740792865230848",
+            "3_2098740792718245897",
+            "3_2098740792709857281",
+            "3_2098740792714047489"
+          ],
+          "media_source_tweet_id": [
+            "2098740850800968047",
+            "2098740850800968047",
+            "2098740850800968047",
+            "2098740850800968047"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099409586893853139",
+        "created_at": "2026-09-14T08:07:05.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T09:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099409586893853139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1529360610387181568",
+              "start": 3,
+              "username": "litianranfish"
+            },
+            {
+              "end": 31,
+              "id": "1574516663935901696",
+              "start": 19,
+              "username": "wangjupaian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uhYYtlSJfv",
+              "end": 72,
+              "expanded_url": "https://x.com/litianranfish/status/2098740850800968047/photo/1",
+              "media_key": "3_2098740792865230848",
+              "start": 49,
+              "url": "https://t.co/uhYYtlSJfv"
+            },
+            {
+              "display_url": "pic.x.com/uhYYtlSJfv",
+              "end": 72,
+              "expanded_url": "https://x.com/litianranfish/status/2098740850800968047/photo/1",
+              "media_key": "3_2098740792718245897",
+              "start": 49,
+              "url": "https://t.co/uhYYtlSJfv"
+            },
+            {
+              "display_url": "pic.x.com/uhYYtlSJfv",
+              "end": 72,
+              "expanded_url": "https://x.com/litianranfish/status/2098740850800968047/photo/1",
+              "media_key": "3_2098740792709857281",
+              "start": 49,
+              "url": "https://t.co/uhYYtlSJfv"
+            },
+            {
+              "display_url": "pic.x.com/uhYYtlSJfv",
+              "end": 72,
+              "expanded_url": "https://x.com/litianranfish/status/2098740850800968047/photo/1",
+              "media_key": "3_2098740792714047489",
+              "start": 49,
+              "url": "https://t.co/uhYYtlSJfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099409586893853139",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098740792865230848"
+          },
+          {
+            "media_key": "3_2098740792718245897"
+          },
+          {
+            "media_key": "3_2098740792709857281"
+          },
+          {
+            "media_key": "3_2098740792714047489"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098740850800968047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @litianranfish: @wangjupaian 公安办案的内部逻辑都在这篇文章里 https://t.co/uhYYtlSJfv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098740792865230848",
+            "3_2098740792718245897",
+            "3_2098740792709857281",
+            "3_2098740792714047489"
+          ]
+        },
+        "author_id": "1529360610387181568",
+        "conversation_id": "2098696869618532531",
+        "created_at": "2026-09-12T11:49:46.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098740850800968047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574516663935901696",
+              "start": 0,
+              "username": "wangjupaian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uhYYtlSJfv",
+              "end": 53,
+              "expanded_url": "https://x.com/litianranfish/status/2098740850800968047/photo/1",
+              "media_key": "3_2098740792865230848",
+              "start": 30,
+              "url": "https://t.co/uhYYtlSJfv"
+            },
+            {
+              "display_url": "pic.x.com/uhYYtlSJfv",
+              "end": 53,
+              "expanded_url": "https://x.com/litianranfish/status/2098740850800968047/photo/1",
+              "media_key": "3_2098740792718245897",
+              "start": 30,
+              "url": "https://t.co/uhYYtlSJfv"
+            },
+            {
+              "display_url": "pic.x.com/uhYYtlSJfv",
+              "end": 53,
+              "expanded_url": "https://x.com/litianranfish/status/2098740850800968047/photo/1",
+              "media_key": "3_2098740792709857281",
+              "start": 30,
+              "url": "https://t.co/uhYYtlSJfv"
+            },
+            {
+              "display_url": "pic.x.com/uhYYtlSJfv",
+              "end": 53,
+              "expanded_url": "https://x.com/litianranfish/status/2098740850800968047/photo/1",
+              "media_key": "3_2098740792714047489",
+              "start": 30,
+              "url": "https://t.co/uhYYtlSJfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098740850800968047",
+        "in_reply_to_user_id": "1574516663935901696",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098740792865230848"
+          },
+          {
+            "media_key": "3_2098740792718245897"
+          },
+          {
+            "media_key": "3_2098740792709857281"
+          },
+          {
+            "media_key": "3_2098740792714047489"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1006,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098696869618532531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangjupaian 公安办案的内部逻辑都在这篇文章里 https://t.co/uhYYtlSJfv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099409586893853139",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 69,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 711
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-25T07:16:11.000Z",
+        "description": "哲学家、计算机硕士、商业爱好者",
+        "id": "1529360610387181568",
+        "is_identity_verified": false,
+        "location": "Americana, Brasil",
+        "most_recent_tweet_id": "2099404827855925367",
+        "name": "哲学家李天然",
+        "pinned_tweet_id": "1542756905827057664",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529360610387181568/1653463501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093179533180407808/dOTG47FA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 14,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "litianranfish",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jXuer"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099363764009156995",
+        "name": "王局拍案",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1574516663935901696/1682210101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173043,
+          "following_count": 378,
+          "like_count": 797,
+          "listed_count": 471,
+          "media_count": 10151,
+          "tweet_count": 11080
+        },
+        "url": "https://t.co/FWdZ3jXuer",
+        "username": "wangjupaian",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

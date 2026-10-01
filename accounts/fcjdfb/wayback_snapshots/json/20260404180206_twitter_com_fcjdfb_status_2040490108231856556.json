@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040430062638665728"
+      ],
+      "media_source_tweet_id": [
+        "2040430065042010492"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040490108231856556",
+    "created_at": "2026-04-04T18:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T19:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040490108231856556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1321270556717584384",
+          "start": 3,
+          "username": "TianCi_Club"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/alABLEWT9o",
+          "end": 73,
+          "expanded_url": "https://x.com/TianCi_Club/status/2040430065042010492/photo/1",
+          "media_key": "3_2040430062638665728",
+          "start": 50,
+          "url": "https://t.co/alABLEWT9o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040490108231856556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040430065042010492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TianCi_Club: 这这这这\n\n都这么绿茶吗？\n\n她俩要是跳进黄河，全国都能喝上龙井 https://t.co/alABLEWT9o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1215,
+        "media_key": "3_2040430062638665728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEQVNCbEAAERce.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040430062638665728"
+          ],
+          "media_source_tweet_id": [
+            "2040430065042010492"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040490108231856556",
+        "created_at": "2026-04-04T18:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T19:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040490108231856556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1321270556717584384",
+              "start": 3,
+              "username": "TianCi_Club"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/alABLEWT9o",
+              "end": 73,
+              "expanded_url": "https://x.com/TianCi_Club/status/2040430065042010492/photo/1",
+              "media_key": "3_2040430062638665728",
+              "start": 50,
+              "url": "https://t.co/alABLEWT9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040490108231856556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040430065042010492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TianCi_Club: 这这这这\n\n都这么绿茶吗？\n\n她俩要是跳进黄河，全国都能喝上龙井 https://t.co/alABLEWT9o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040430062638665728"
+          ]
+        },
+        "author_id": "1321270556717584384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040430065042010492",
+        "created_at": "2026-04-04T14:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T15:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040430065042010492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/alABLEWT9o",
+              "end": 56,
+              "expanded_url": "https://x.com/TianCi_Club/status/2040430065042010492/photo/1",
+              "media_key": "3_2040430062638665728",
+              "start": 33,
+              "url": "https://t.co/alABLEWT9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040430065042010492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 61464,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这这这这\n\n都这么绿茶吗？\n\n她俩要是跳进黄河，全国都能喝上龙井 https://t.co/alABLEWT9o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 33,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 159
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-28T02:00:31.000Z",
+        "description": "🔥顶级段子手(好段子可以投稿) /   JoinSapien 大使 ｜Weex全球大使:6zgg/biyapay宣发大使:29219299/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sunaixing521",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sunaixing521",
+                "start": 0,
+                "url": "https://t.co/VBufmwxwt9"
+              }
+            ]
+          }
+        },
+        "id": "1321270556717584384",
+        "location": "Cooperation in 👉 ",
+        "name": "天赐🌊",
+        "pinned_tweet_id": "2027648034759471507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659376648536588288/JlVhP1Q7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37950,
+          "following_count": 5868,
+          "like_count": 75463,
+          "listed_count": 65,
+          "media_count": 961,
+          "tweet_count": 55454
+        },
+        "url": "https://t.co/VBufmwxwt9",
+        "username": "TianCi_Club",
+        "verified": true
+      }
+    ]
+  }
+}

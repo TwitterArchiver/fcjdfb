@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104512876543140282",
+    "created_at": "2026-09-28T10:20:55.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104516699659878795"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104516699659878795",
+    "in_reply_to_user_id": "2032037309219315712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104512876543140282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我说男的尤其是笔电男大一点脑子都没有买这种垃圾网红玩意，一点护肤基础估计都没有\n灵康药业控股股东及实际控制人非经营性占用资金、信息披露严重违法违规，被中国证监会正式立案调查并处以行政处罚，股票亦一度被实施 ST 风险警示。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2104512865281712128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTS7TQBbIAAuBaZ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104512876543140282",
+        "created_at": "2026-09-28T10:20:55.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104516699659878795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104516699659878795",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104512876543140282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说男的尤其是笔电男大一点脑子都没有买这种垃圾网红玩意，一点护肤基础估计都没有\n灵康药业控股股东及实际控制人非经营性占用资金、信息披露严重违法违规，被中国证监会正式立案调查并处以行政处罚，股票亦一度被实施 ST 风险警示。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104512865281712128"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104512876543140282",
+        "created_at": "2026-09-28T10:05:44.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104512876543140282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jx1QFCn3Pt",
+              "end": 99,
+              "expanded_url": "https://x.com/fcjdfb/status/2104512876543140282/photo/1",
+              "media_key": "3_2104512865281712128",
+              "start": 76,
+              "url": "https://t.co/jx1QFCn3Pt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104512876543140282",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104512865281712128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都来用适乐肤好不好为什么要用猫娘这种借名字的炒作狗玩意成分还不咋地会不会伤肤我都不好说\n顺带一提这个公司爆过雷你在b站搜猫娘洗面奶公司名都有瓜视频 https://t.co/jx1QFCn3Pt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104516699659878795",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 65,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1526
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

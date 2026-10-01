@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2098496270856044907",
+    "created_at": "2026-09-11T19:37:53.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098496270856044907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998063108217286656",
+          "start": 3,
+          "username": "JIAkebc5986"
+        },
+        {
+          "end": 33,
+          "id": "1992506703678705664",
+          "start": 17,
+          "username": "jingqngyng64121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098496270856044907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098429596773527718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JIAkebc5986: @jingqngyng64121 某些16岁以下尤其12-14岁居多的抑郁症就这样 确实生病了 但又爱在网上发自残博关注同情 又炫耀自己有病吃抑郁药 不知道是什么虚荣心 抑郁症有什么好虚荣的 以前看得我犯恶心 一个二个拿自己的病当起号工具呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2098496270856044907",
+        "created_at": "2026-09-11T19:37:53.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098496270856044907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998063108217286656",
+              "start": 3,
+              "username": "JIAkebc5986"
+            },
+            {
+              "end": 33,
+              "id": "1992506703678705664",
+              "start": 17,
+              "username": "jingqngyng64121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098496270856044907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098429596773527718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JIAkebc5986: @jingqngyng64121 某些16岁以下尤其12-14岁居多的抑郁症就这样 确实生病了 但又爱在网上发自残博关注同情 又炫耀自己有病吃抑郁药 不知道是什么虚荣心 抑郁症有什么好虚荣的 以前看得我犯恶心 一个二个拿自己的病当起号工具呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998063108217286656",
+        "conversation_id": "2098370541690445938",
+        "created_at": "2026-09-11T15:12:57.000Z",
+        "display_text_range": [
+          17,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T16:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098429596773527718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992506703678705664",
+              "start": 0,
+              "username": "jingqngyng64121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098429596773527718",
+        "in_reply_to_user_id": "1992506703678705664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098370541690445938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingqngyng64121 某些16岁以下尤其12-14岁居多的抑郁症就这样 确实生病了 但又爱在网上发自残博关注同情 又炫耀自己有病吃抑郁药 不知道是什么虚荣心 抑郁症有什么好虚荣的 以前看得我犯恶心 一个二个拿自己的病当起号工具呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098496270856044907",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 65,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 536
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-08T16:12:45.000Z",
+        "description": "没骂你骂我干啥 一群生活不顺的蠢货 天天就知道骂人 我没惹任何人\n看点键政 站中间串两边（被两头骂得体无完肤 但是我不爱吵架 我什么都不懂你说不是就不是你都对 你们别他妈来惹我 ）\n在推特上完全展示不为人知的阴暗面 。其实是个很阳光明媚的的小女孩。\n修养称呼我小k，就叫我小k吧。",
+        "id": "1998063108217286656",
+        "is_identity_verified": false,
+        "location": "Tokyo",
+        "most_recent_tweet_id": "2098458675275005981",
+        "name": "kynnsfq ·_·",
+        "pinned_tweet_id": "2093196431150776537",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998063108217286656/1787257313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086832438760943616/HTnctHDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 3539,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 676
+        },
+        "url": "",
+        "username": "JIAkebc5986",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2098433966642749482",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 475,
+          "like_count": 8786,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

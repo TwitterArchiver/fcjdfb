@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096103026771825087",
+    "created_at": "2026-09-05T16:33:37.000Z",
+    "display_text_range": [
+      18,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096275570841825783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1952043317094694912",
+          "start": 0,
+          "username": "kyvole"
+        },
+        {
+          "end": 17,
+          "id": "1768309380108406784",
+          "start": 8,
+          "username": "abaablon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096275570841825783",
+    "in_reply_to_user_id": "1952043317094694912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096198935090286971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyvole @abaablon 其实差不多，当动物看只是因为lgbt没有真正活跃在他们身边。都不说现实了你随便找个qq群进去说自己是跨/同试试呢。活不过30跟类固醇一样已经是一种批斗了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096103026771825087",
+        "created_at": "2026-09-05T16:33:37.000Z",
+        "display_text_range": [
+          18,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096275570841825783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1952043317094694912",
+              "start": 0,
+              "username": "kyvole"
+            },
+            {
+              "end": 17,
+              "id": "1768309380108406784",
+              "start": 8,
+              "username": "abaablon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096275570841825783",
+        "in_reply_to_user_id": "1952043317094694912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096198935090286971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyvole @abaablon 其实差不多，当动物看只是因为lgbt没有真正活跃在他们身边。都不说现实了你随便找个qq群进去说自己是跨/同试试呢。活不过30跟类固醇一样已经是一种批斗了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952043317094694912",
+        "conversation_id": "2096103026771825087",
+        "created_at": "2026-09-05T11:29:06.000Z",
+        "display_text_range": [
+          10,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096198935090286971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768309380108406784",
+              "start": 0,
+              "username": "abaablon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096198935090286971",
+        "in_reply_to_user_id": "1768309380108406784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096197618393366612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abaablon 大家都只是看珍奇动物一样看跨女，从把雌二醇和类固醇相提并论就看得出来了，也没几个人真是要到处皮豆"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096275570841825783",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 37,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-03T16:26:35.000Z",
+        "description": "不知道写什么\n\n友跨顺男，一度翻过车但是又放弃了\n偶尔读点书的看番死宅\n微见证预警",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kyvole",
+                "end": 23,
+                "expanded_url": "http://t.me/kyvole",
+                "start": 0,
+                "url": "https://t.co/KmXaeAJu84"
+              }
+            ]
+          }
+        },
+        "id": "1952043317094694912",
+        "is_identity_verified": false,
+        "location": "中文推特",
+        "most_recent_tweet_id": "2096269492729090387",
+        "name": "言鬻凡心",
+        "pinned_tweet_id": "1999900698218287286",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1952043317094694912/1765645557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999885236277252096/pmXG0Sot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 310,
+          "like_count": 2509,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 590
+        },
+        "url": "https://t.co/KmXaeAJu84",
+        "username": "kyvole",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-14T16:13:15.000Z",
+        "description": "❤️平等 科学 自由☀️\n激进(顺)男(同)权 坚决反对剥夺童权",
+        "id": "1768309380108406784",
+        "is_identity_verified": false,
+        "location": "kuishuu",
+        "most_recent_tweet_id": "2096197618393366612",
+        "name": "Abaablon🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "1981677439614087425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768309380108406784/1758065748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002788092428836865/obEOgkd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 459,
+          "like_count": 33319,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 2040
+        },
+        "url": "",
+        "username": "abaablon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

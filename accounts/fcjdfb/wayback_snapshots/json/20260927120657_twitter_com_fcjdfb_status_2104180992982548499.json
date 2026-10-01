@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104180963819532288",
+        "3_2104180981683171328"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104180992982548499",
+    "created_at": "2026-09-27T12:06:57.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:02:39.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104179910957027452",
+      "2104180992982548499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X3iACIiowj",
+          "end": 107,
+          "expanded_url": "https://x.com/fcjdfb/status/2104180992982548499/photo/1",
+          "media_key": "3_2104180963819532288",
+          "start": 84,
+          "url": "https://t.co/X3iACIiowj"
+        },
+        {
+          "display_url": "pic.x.com/X3iACIiowj",
+          "end": 107,
+          "expanded_url": "https://x.com/fcjdfb/status/2104180992982548499/photo/1",
+          "media_key": "3_2104180981683171328",
+          "start": 84,
+          "url": "https://t.co/X3iACIiowj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104180992982548499",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104180963819532288"
+      },
+      {
+        "media_key": "3_2104180981683171328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟推友出来玩捏 本来还说打一把舞萌的，结果人太多那就不玩了。看了下展很...风景照特色吧\n图二是今天自拍和穿着，考虑到有些推友不很喜欢突然出个人脸。比如我，就开隐藏了 https://t.co/X3iACIiowj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3064,
+        "media_key": "3_2104179874693083136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOMcpabcAAd2XM.jpg",
+        "width": 3064
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2104179897925308416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOMd_9bEAAPfWh.jpg",
+        "width": 2835
+      },
+      {
+        "height": 3064,
+        "media_key": "3_2104180963819532288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTONcCuaMAAR_R2.jpg",
+        "width": 3064
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2104180981683171328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTONdFRbsAAxKaA.jpg",
+        "width": 2835
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104179874693083136",
+            "3_2104179897925308416"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104179910957027452",
+        "created_at": "2026-09-27T12:02:39.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:02:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104179910957027452",
+          "2104180992982548499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0WucuiJWJT",
+              "end": 107,
+              "expanded_url": "https://x.com/fcjdfb/status/2104179910957027452/photo/1",
+              "media_key": "3_2104179874693083136",
+              "start": 84,
+              "url": "https://t.co/0WucuiJWJT"
+            },
+            {
+              "display_url": "pic.x.com/0WucuiJWJT",
+              "end": 107,
+              "expanded_url": "https://x.com/fcjdfb/status/2104179910957027452/photo/1",
+              "media_key": "3_2104179897925308416",
+              "start": 84,
+              "url": "https://t.co/0WucuiJWJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104179910957027452",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104179874693083136"
+          },
+          {
+            "media_key": "3_2104179897925308416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟推友出来玩捏 本来还说打一把舞萌的，结果人太多那就不玩了。看了下展很...风景照特色吧\n图二是今天自拍和穿着，考虑到有些推友不很喜欢突然出个人脸。比如我，就开隐藏了 https://t.co/0WucuiJWJT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104180963819532288",
+            "3_2104180981683171328"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104180992982548499",
+        "created_at": "2026-09-27T12:06:57.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:02:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104179910957027452",
+          "2104180992982548499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3iACIiowj",
+              "end": 107,
+              "expanded_url": "https://x.com/fcjdfb/status/2104180992982548499/photo/1",
+              "media_key": "3_2104180963819532288",
+              "start": 84,
+              "url": "https://t.co/X3iACIiowj"
+            },
+            {
+              "display_url": "pic.x.com/X3iACIiowj",
+              "end": 107,
+              "expanded_url": "https://x.com/fcjdfb/status/2104180992982548499/photo/1",
+              "media_key": "3_2104180981683171328",
+              "start": 84,
+              "url": "https://t.co/X3iACIiowj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104180992982548499",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104180963819532288"
+          },
+          {
+            "media_key": "3_2104180981683171328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟推友出来玩捏 本来还说打一把舞萌的，结果人太多那就不玩了。看了下展很...风景照特色吧\n图二是今天自拍和穿着，考虑到有些推友不很喜欢突然出个人脸。比如我，就开隐藏了 https://t.co/X3iACIiowj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104180992982548499",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 67,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1402
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

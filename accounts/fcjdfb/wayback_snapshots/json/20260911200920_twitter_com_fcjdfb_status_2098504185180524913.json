@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098504155849752576",
+        "3_2098504164733333504",
+        "3_2098504171301552128",
+        "3_2098504178675179520"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098504185180524913",
+    "created_at": "2026-09-11T20:09:20.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T21:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098504185180524913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uEjoVJW7iC",
+          "end": 139,
+          "expanded_url": "https://x.com/fcjdfb/status/2098504185180524913/photo/1",
+          "media_key": "3_2098504155849752576",
+          "start": 116,
+          "url": "https://t.co/uEjoVJW7iC"
+        },
+        {
+          "display_url": "pic.x.com/uEjoVJW7iC",
+          "end": 139,
+          "expanded_url": "https://x.com/fcjdfb/status/2098504185180524913/photo/1",
+          "media_key": "3_2098504164733333504",
+          "start": 116,
+          "url": "https://t.co/uEjoVJW7iC"
+        },
+        {
+          "display_url": "pic.x.com/uEjoVJW7iC",
+          "end": 139,
+          "expanded_url": "https://x.com/fcjdfb/status/2098504185180524913/photo/1",
+          "media_key": "3_2098504171301552128",
+          "start": 116,
+          "url": "https://t.co/uEjoVJW7iC"
+        },
+        {
+          "display_url": "pic.x.com/uEjoVJW7iC",
+          "end": 139,
+          "expanded_url": "https://x.com/fcjdfb/status/2098504185180524913/photo/1",
+          "media_key": "3_2098504178675179520",
+          "start": 116,
+          "url": "https://t.co/uEjoVJW7iC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098504185180524913",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098504155849752576"
+      },
+      {
+        "media_key": "3_2098504164733333504"
+      },
+      {
+        "media_key": "3_2098504171301552128"
+      },
+      {
+        "media_key": "3_2098504178675179520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "炒作的最后都是暴雷，虽然自己对于某人不是很感兴趣。但有点想到云飞此前直播的一个切片了\n与其去校验这个东西是不是对的，一开始的时候就不要去碰他。\n云飞举的这个例子，分辨出世界地图究竟是不是对的极其困难。那在选择素材的时候就不要引用它\n搞清楚自己的受众和界限是什么，某些人真的是被欲望吞噬了。初心是为了激励真正值得被激励的那部分人，而不是为了给低质量无意义甚至重复搬运的东西薅羊毛变现。墙内的或者b站以前的低质视频，后续呢？激励规则变得越来难以触发和严格。完全就是在挤占真正的中小型创作者的空间，我不知道是否有人会把搬运和发表争议言论称作创造。不该碰的别碰，制造争议真有点学新闻学的了。自己要搬出这些就等着被反嗜吧，为了赚钱想疯了"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "炒作的最后都是暴雷，虽然自己对于某人不是很感兴趣。但有点想到云飞此前直播的一个切片了\n与其去校验这个东西是不是对的，一开始的时候就不要去碰他。\n云飞举的这个例子，分辨出世界地图究竟是不是对的极其困难。那在选择素材的时候就不要引用它 https://t.co/uEjoVJW7iC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2098504155849752576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9iaVEbAAAu34e.jpg",
+        "width": 2688
+      },
+      {
+        "height": 1216,
+        "media_key": "3_2098504164733333504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9ia2KbsAAkOLy.jpg",
+        "width": 2688
+      },
+      {
+        "height": 1216,
+        "media_key": "3_2098504171301552128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9ibOoawAAtwL-.jpg",
+        "width": 2688
+      },
+      {
+        "height": 1216,
+        "media_key": "3_2098504178675179520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9ibqGbYAAwvri.jpg",
+        "width": 2688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098504155849752576",
+            "3_2098504164733333504",
+            "3_2098504171301552128",
+            "3_2098504178675179520"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098504185180524913",
+        "created_at": "2026-09-11T20:09:20.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T21:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098504185180524913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uEjoVJW7iC",
+              "end": 139,
+              "expanded_url": "https://x.com/fcjdfb/status/2098504185180524913/photo/1",
+              "media_key": "3_2098504155849752576",
+              "start": 116,
+              "url": "https://t.co/uEjoVJW7iC"
+            },
+            {
+              "display_url": "pic.x.com/uEjoVJW7iC",
+              "end": 139,
+              "expanded_url": "https://x.com/fcjdfb/status/2098504185180524913/photo/1",
+              "media_key": "3_2098504164733333504",
+              "start": 116,
+              "url": "https://t.co/uEjoVJW7iC"
+            },
+            {
+              "display_url": "pic.x.com/uEjoVJW7iC",
+              "end": 139,
+              "expanded_url": "https://x.com/fcjdfb/status/2098504185180524913/photo/1",
+              "media_key": "3_2098504171301552128",
+              "start": 116,
+              "url": "https://t.co/uEjoVJW7iC"
+            },
+            {
+              "display_url": "pic.x.com/uEjoVJW7iC",
+              "end": 139,
+              "expanded_url": "https://x.com/fcjdfb/status/2098504185180524913/photo/1",
+              "media_key": "3_2098504178675179520",
+              "start": 116,
+              "url": "https://t.co/uEjoVJW7iC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098504185180524913",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098504155849752576"
+          },
+          {
+            "media_key": "3_2098504164733333504"
+          },
+          {
+            "media_key": "3_2098504171301552128"
+          },
+          {
+            "media_key": "3_2098504178675179520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "炒作的最后都是暴雷，虽然自己对于某人不是很感兴趣。但有点想到云飞此前直播的一个切片了\n与其去校验这个东西是不是对的，一开始的时候就不要去碰他。\n云飞举的这个例子，分辨出世界地图究竟是不是对的极其困难。那在选择素材的时候就不要引用它\n搞清楚自己的受众和界限是什么，某些人真的是被欲望吞噬了。初心是为了激励真正值得被激励的那部分人，而不是为了给低质量无意义甚至重复搬运的东西薅羊毛变现。墙内的或者b站以前的低质视频，后续呢？激励规则变得越来难以触发和严格。完全就是在挤占真正的中小型创作者的空间，我不知道是否有人会把搬运和发表争议言论称作创造。不该碰的别碰，制造争议真有点学新闻学的了。自己要搬出这些就等着被反嗜吧，为了赚钱想疯了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炒作的最后都是暴雷，虽然自己对于某人不是很感兴趣。但有点想到云飞此前直播的一个切片了\n与其去校验这个东西是不是对的，一开始的时候就不要去碰他。\n云飞举的这个例子，分辨出世界地图究竟是不是对的极其困难。那在选择素材的时候就不要引用它 https://t.co/uEjoVJW7iC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2098504185180524913",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 65,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 542
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

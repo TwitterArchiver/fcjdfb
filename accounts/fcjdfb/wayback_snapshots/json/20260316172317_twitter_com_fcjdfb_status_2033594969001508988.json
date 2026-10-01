@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2033594969001508988",
+    "created_at": "2026-03-16T17:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T18:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033594969001508988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935176310663401472",
+          "start": 3,
+          "username": "S_Hyoscine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033594969001508988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032380273716015223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @S_Hyoscine: 大学为啥不取消校园跑，改成校园雌堕。\n开学每人发一盒雌二醇，血药谷值300pg/ml以上才不挂科，一学期奶子长一个罩杯以上加综素。\n毕竟跑步对身体不一定好，但不雌堕是真不行。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2033594969001508988",
+        "created_at": "2026-03-16T17:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T18:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033594969001508988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935176310663401472",
+              "start": 3,
+              "username": "S_Hyoscine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033594969001508988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032380273716015223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @S_Hyoscine: 大学为啥不取消校园跑，改成校园雌堕。\n开学每人发一盒雌二醇，血药谷值300pg/ml以上才不挂科，一学期奶子长一个罩杯以上加综素。\n毕竟跑步对身体不一定好，但不雌堕是真不行。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935176310663401472",
+        "conversation_id": "2032380273716015223",
+        "created_at": "2026-03-13T08:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T09:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032380273716015223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cldgeo/status/…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/cldgeo/status/2032084389589631270",
+              "start": 88,
+              "url": "https://t.co/qa5OJzX9Ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032380273716015223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7622,
+          "like_count": 107,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032084389589631270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大学为啥不取消校园跑，改成校园雌堕。\n开学每人发一盒雌二醇，血药谷值300pg/ml以上才不挂科，一学期奶子长一个罩杯以上加综素。\n毕竟跑步对身体不一定好，但不雌堕是真不行。 https://t.co/qa5OJzX9Ka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "小药娘//爱人@hood438371//陪聊门槛50喵，能给你提供情绪价值//风俗娘//重度抖M，sub//大家都可以来私信我喵//生活——是无边无际的、浮满各种漂流物的、变幻无常的、暴力的，但总是一片澄澈而湛蓝的海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "hood438371"
+              }
+            ]
+          }
+        },
+        "id": "1935176310663401472",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "家养宠物春雪狐🍥",
+        "pinned_tweet_id": "2028922217715909008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028447229040812032/QJB4InPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 864,
+          "like_count": 22749,
+          "listed_count": 3,
+          "media_count": 397,
+          "tweet_count": 6671
+        },
+        "username": "S_Hyoscine",
+        "verified": true
+      }
+    ]
+  }
+}

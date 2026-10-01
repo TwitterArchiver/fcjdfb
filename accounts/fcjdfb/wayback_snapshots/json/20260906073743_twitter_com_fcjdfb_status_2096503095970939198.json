@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096503095970939198",
+    "created_at": "2026-09-06T07:37:43.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096503095970939198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684572167860801536",
+          "start": 3,
+          "username": "kukmoon97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096503095970939198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096446561332994186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kukmoon97: 你问我同不同意作者的观点，我当然是同意的。\n\n作者首先提出一个假设：寸头女比寸头男丑。\n然后推论，很多男人不丑，而是不会打扮，只要打扮一下就会有质的改变。\n作者在第一个假设的基础上进一步推论，男人对女人必须袪魅，因为女人的美是包装出来的，女人的高配…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1837,
+        "media_key": "3_2096446542534397952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgTBeJb0AA4Wib.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096503095970939198",
+        "created_at": "2026-09-06T07:37:43.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096503095970939198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684572167860801536",
+              "start": 3,
+              "username": "kukmoon97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096503095970939198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096446561332994186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kukmoon97: 你问我同不同意作者的观点，我当然是同意的。\n\n作者首先提出一个假设：寸头女比寸头男丑。\n然后推论，很多男人不丑，而是不会打扮，只要打扮一下就会有质的改变。\n作者在第一个假设的基础上进一步推论，男人对女人必须袪魅，因为女人的美是包装出来的，女人的高配…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096446542534397952"
+          ]
+        },
+        "author_id": "1684572167860801536",
+        "conversation_id": "2096446561332994186",
+        "created_at": "2026-09-06T03:53:04.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096446561332994186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pVwE8e1v8U",
+              "end": 163,
+              "expanded_url": "https://x.com/kukmoon97/status/2096446561332994186/photo/1",
+              "media_key": "3_2096446542534397952",
+              "start": 140,
+              "url": "https://t.co/pVwE8e1v8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096446561332994186",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096446542534397952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 435,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你问我同不同意作者的观点，我当然是同意的。\n\n作者首先提出一个假设：寸头女比寸头男丑。\n然后推论，很多男人不丑，而是不会打扮，只要打扮一下就会有质的改变。\n作者在第一个假设的基础上进一步推论，男人对女人必须袪魅，因为女人的美是包装出来的，女人的高配得感来自装饰+美颜+外部暗示。 https://t.co/pVwE8e1v8U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096503095970939198",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 47,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 282
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T14:32:20.000Z",
+        "description": "🌸 前 #伪娘｜现 #跨性别 女 ｜#AI + #Office 初心者 🌸 Fmr #crossdresser #CD｜Curr #MtF #transgender #TS｜AI+Office beginner 🌸 元 #女装子｜今や #ニューハーフ ｜AI+Office 初心者 🌸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "伪娘"
+              },
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "跨性别"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "AI"
+              },
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "Office"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "tag": "crossdresser"
+              },
+              {
+                "end": 59,
+                "start": 56,
+                "tag": "CD"
+              },
+              {
+                "end": 69,
+                "start": 65,
+                "tag": "MtF"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "tag": "transgender"
+              },
+              {
+                "end": 86,
+                "start": 83,
+                "tag": "TS"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "女装子"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "tag": "ニューハーフ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kukmoon",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kukmoon",
+                "start": 0,
+                "url": "https://t.co/RJj82hjUIU"
+              }
+            ]
+          }
+        },
+        "id": "1684572167860801536",
+        "is_identity_verified": false,
+        "location": "距离你 0.15 km",
+        "most_recent_tweet_id": "2096483365969072611",
+        "name": "神楽坂谷月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2091028627303621079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684572167860801536/1743662841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907686329288437760/qxwXzNcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8396,
+          "following_count": 5855,
+          "like_count": 109741,
+          "listed_count": 9,
+          "media_count": 2148,
+          "tweet_count": 21610
+        },
+        "url": "https://t.co/RJj82hjUIU",
+        "username": "kukmoon97",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

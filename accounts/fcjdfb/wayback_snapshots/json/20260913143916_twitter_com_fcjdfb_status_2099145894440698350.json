@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099145885951369216"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099145894440698350",
+    "created_at": "2026-09-13T14:39:16.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T15:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099145894440698350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lblUAQULwZ",
+          "end": 84,
+          "expanded_url": "https://x.com/fcjdfb/status/2099145894440698350/photo/1",
+          "media_key": "3_2099145885951369216",
+          "start": 61,
+          "url": "https://t.co/lblUAQULwZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099145894440698350",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099145885951369216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "气死我了，对象想吃个糖。然后看了下网上都太贵了，老活动百亿补贴国补啥时候返场。 这个现在可以选易性症了，也不算是超限使用\n跑了三四家药房，第一家问我是不是给爱人吃（还真是）。我说我自己吃，医生突然一顿问我有没有处方，我说有的结果到柜台卖完了。我真的啊米诺斯了最后跑了好几家终于有一家，结果不让线上问诊？？？？柜台又说拿处方必须三天之内，我都三天之内了我怎么不去药房拿药啊😅\n初生这些政治人员，自己不懂能不能不要参合医学的事情。为了那点执政爽感患者受罪是吧。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "气死我了，对象想吃个糖。然后看了下网上都太贵了，老活动百亿补贴国补啥时候返场。 这个现在可以选易性症了，也不算是超限使用 https://t.co/lblUAQULwZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2692,
+        "media_key": "3_2099145885951369216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGqD7_aoAAwpgs.jpg",
+        "width": 1853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099145885951369216"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099145894440698350",
+        "created_at": "2026-09-13T14:39:16.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099145894440698350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lblUAQULwZ",
+              "end": 84,
+              "expanded_url": "https://x.com/fcjdfb/status/2099145894440698350/photo/1",
+              "media_key": "3_2099145885951369216",
+              "start": 61,
+              "url": "https://t.co/lblUAQULwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099145894440698350",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099145885951369216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "气死我了，对象想吃个糖。然后看了下网上都太贵了，老活动百亿补贴国补啥时候返场。 这个现在可以选易性症了，也不算是超限使用\n跑了三四家药房，第一家问我是不是给爱人吃（还真是）。我说我自己吃，医生突然一顿问我有没有处方，我说有的结果到柜台卖完了。我真的啊米诺斯了最后跑了好几家终于有一家，结果不让线上问诊？？？？柜台又说拿处方必须三天之内，我都三天之内了我怎么不去药房拿药啊😅\n初生这些政治人员，自己不懂能不能不要参合医学的事情。为了那点执政爽感患者受罪是吧。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气死我了，对象想吃个糖。然后看了下网上都太贵了，老活动百亿补贴国补啥时候返场。 这个现在可以选易性症了，也不算是超限使用 https://t.co/lblUAQULwZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099145894440698350",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 66,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 627
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2102011229136949646",
+    "created_at": "2026-09-21T18:38:38.000Z",
+    "display_text_range": [
+      28,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T19:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102105238354461171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2087009800257449984",
+          "start": 0,
+          "username": "star_lk_yoanna"
+        },
+        {
+          "end": 27,
+          "id": "1072534840312913920",
+          "start": 16,
+          "username": "mizuame_t2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102105238354461171",
+    "in_reply_to_user_id": "2087009800257449984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102089871737442338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@star_lk_yoanna @mizuame_t2 这个在中国太侮辱人了，词被用坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2102011229136949646",
+        "created_at": "2026-09-21T18:38:38.000Z",
+        "display_text_range": [
+          28,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T19:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102105238354461171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2087009800257449984",
+              "start": 0,
+              "username": "star_lk_yoanna"
+            },
+            {
+              "end": 27,
+              "id": "1072534840312913920",
+              "start": 16,
+              "username": "mizuame_t2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102105238354461171",
+        "in_reply_to_user_id": "2087009800257449984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102089871737442338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@star_lk_yoanna @mizuame_t2 这个在中国太侮辱人了，词被用坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087009800257449984",
+        "conversation_id": "2102011229136949646",
+        "created_at": "2026-09-21T17:37:35.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T18:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102089871737442338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1072534840312913920",
+              "start": 0,
+              "username": "mizuame_t2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102089871737442338",
+        "in_reply_to_user_id": "1072534840312913920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102011229136949646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuame_t2 应该填TS才合适"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材（简介施工中）\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2102105238354461171",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 65,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1107
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-11T02:57:03.000Z",
+        "description": "|无证含糖|hrt:2026.6.18|同类互fo|MTF|\n|出厂:2007.09.23|欢迎私信骚扰|里百合|\n|喜欢和同类贴贴uwu|坐标随机刷新|寻找金主|\n|江苏|165/104|身高缩水ing|\n|tg:https://t.co/wTdsd4faEe|\n|❤️:@Yoanna_lk_star|匿名提问↓|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "Yoanna_lk_star"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/star_nagging",
+                "end": 131,
+                "expanded_url": "http://t.me/star_nagging",
+                "start": 108,
+                "url": "https://t.co/wTdsd4faEe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/star_lk_yoanna",
+                "end": 23,
+                "expanded_url": "https://ngl.link/star_lk_yoanna",
+                "start": 0,
+                "url": "https://t.co/xk4L9naKjK"
+              }
+            ]
+          }
+        },
+        "id": "2087009800257449984",
+        "is_identity_verified": false,
+        "location": "距你0.9178km",
+        "most_recent_tweet_id": "2102089871737442338",
+        "name": "星尘🏳‍⚧织邤🍥",
+        "pinned_tweet_id": "2101453528434929688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087009800257449984/1786417247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089558954569347072/yMD6Nbrj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 83,
+          "like_count": 161,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 165
+        },
+        "url": "https://t.co/xk4L9naKjK",
+        "username": "star_lk_yoanna",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-11T16:53:27.000Z",
+        "description": "大龄天残？党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、爱抓小孩症.jpg，同类欢迎互fo🥺\n马斯克你再封我号试试呢😡",
+        "id": "1072534840312913920",
+        "is_identity_verified": false,
+        "location": "β Cygni",
+        "most_recent_tweet_id": "2102049640267026776",
+        "name": "水母雨🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072534840312913920/1787807333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092834520789860352/hr9YENoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 197,
+          "like_count": 1144,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "mizuame_t2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

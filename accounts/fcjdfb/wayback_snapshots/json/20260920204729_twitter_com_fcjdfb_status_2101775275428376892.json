@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2101659293871374638",
+    "created_at": "2026-09-20T20:47:29.000Z",
+    "display_text_range": [
+      23,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T21:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101775275428376892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2090778954445819904",
+          "start": 0,
+          "username": "ycck94"
+        },
+        {
+          "end": 22,
+          "id": "1908894436169502720",
+          "start": 8,
+          "username": "Magkyusejinki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101775275428376892",
+    "in_reply_to_user_id": "2090778954445819904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101662483669024772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ycck94 @Magkyusejinki 也挺好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2101662477327224832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqa41bbUAAVqay.jpg",
+        "width": 2800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2101659293871374638",
+        "created_at": "2026-09-20T20:47:29.000Z",
+        "display_text_range": [
+          23,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T21:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101775275428376892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2090778954445819904",
+              "start": 0,
+              "username": "ycck94"
+            },
+            {
+              "end": 22,
+              "id": "1908894436169502720",
+              "start": 8,
+              "username": "Magkyusejinki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101775275428376892",
+        "in_reply_to_user_id": "2090778954445819904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101662483669024772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ycck94 @Magkyusejinki 也挺好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101662477327224832"
+          ]
+        },
+        "author_id": "2090778954445819904",
+        "conversation_id": "2101659293871374638",
+        "created_at": "2026-09-20T13:19:17.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101662483669024772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1908894436169502720",
+              "start": 0,
+              "username": "Magkyusejinki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqaSnn9xr3",
+              "end": 47,
+              "expanded_url": "https://x.com/ycck94/status/2101662483669024772/photo/1",
+              "media_key": "3_2101662477327224832",
+              "start": 24,
+              "url": "https://t.co/dqaSnn9xr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101662483669024772",
+        "in_reply_to_user_id": "1908894436169502720",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101662477327224832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101659293871374638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magkyusejinki 我的只有两个人😢 https://t.co/dqaSnn9xr3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101775275428376892",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 64,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1062
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T12:37:22.000Z",
+        "description": "一个身怀猪咪与罪恶的🐖\n爱猪 猪士🐖\n13年小猪🐖/家长党/已含糖🏳️‍⚧️/1米57以下/80斤以下/半素食者\n因爱而活，因爱而死",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/w7BlniP",
+                "end": 23,
+                "expanded_url": "https://b23.tv/w7BlniP",
+                "start": 0,
+                "url": "https://t.co/KiJg45KXBJ"
+              }
+            ]
+          }
+        },
+        "id": "2090778954445819904",
+        "is_identity_verified": false,
+        "location": "胎土迷宫",
+        "most_recent_tweet_id": "2101662483669024772",
+        "name": "迷猪的小猪🐖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090778954445819904/1788443464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101637172948537344/DoZIf1Ge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 58,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/KiJg45KXBJ",
+        "username": "ycck94",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T14:48:27.000Z",
+        "description": "｜出生:2009.04.16｜HRT：——｜无证含糖(已中断)｜喜欢听音乐，喜欢养植物，喜欢Undertale&AUs｜od｜头像来源：@suisei_1121｜闺蜜：@ansiyao520｜姐姐：@KanoYumoe｜QQ：3783134292｜咱有时候会发一些莫名其妙的东西，无视掉就好喵｜咱的私信用不了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "suisei_1121"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "ansiyao520"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "KanoYumoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Magkyusejinki",
+                "end": 23,
+                "expanded_url": "http://t.me/Magkyusejinki",
+                "start": 0,
+                "url": "https://t.co/GrGm5xzoxk"
+              }
+            ]
+          }
+        },
+        "id": "1908894436169502720",
+        "is_identity_verified": false,
+        "location": "索科特拉岛",
+        "most_recent_tweet_id": "2101701807903015378",
+        "name": "枫糖MapleSugar🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2092929377764098311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908894436169502720/1777559950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067853075789086720/EIVz5v3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 780,
+          "like_count": 10061,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/GrGm5xzoxk",
+        "username": "Magkyusejinki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

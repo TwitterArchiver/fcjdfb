@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096928773648290065",
+    "created_at": "2026-09-10T12:28:55.000Z",
+    "display_text_range": [
+      30,
+      174
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T13:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098025928202793297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942111360420290561",
+          "start": 0,
+          "username": "credits18118"
+        },
+        {
+          "end": 29,
+          "id": "1378376814389694468",
+          "start": 14,
+          "username": "Aoki_Asuka2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098025928202793297",
+    "in_reply_to_user_id": "1942111360420290561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "他怎么开锁推了🤔，非二元主要是每个个体诉求和烦躁程度都不太一样。国内好想只有潘柏林懂一点，刘烨貌似只懂mtf，暨南大学高律芬可能也懂。她是内分泌医生并且在研究出一份国内跨的用药指南，现在应该在数据整理出结论阶段可能要等几年，但我不清楚有无研究mtx药物。mtx能用的药物几乎也就上面两个类，gnrh类似药一个月一千。用得起的推友可以考虑，还不伤身还能做mtf的抗雄药物"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098022466581070038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@credits18118 @Aoki_Asuka2000 他怎么开锁推了🤔，非二元主要是每个个体诉求和烦躁程度都不太一样。国内好想只有潘柏林懂一点，刘烨貌似只懂mtf，暨南大学高律芬可能也懂。她是内分泌医生并且在研究出一份国内跨的用药指南，现在应该在数据整理出结论阶段可能要等几年，但我不清楚有无研究mtx药物。mtx能用的药物几乎也就上面两个类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096928773648290065",
+        "created_at": "2026-09-10T12:28:55.000Z",
+        "display_text_range": [
+          30,
+          174
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098025928202793297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942111360420290561",
+              "start": 0,
+              "username": "credits18118"
+            },
+            {
+              "end": 29,
+              "id": "1378376814389694468",
+              "start": 14,
+              "username": "Aoki_Asuka2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098025928202793297",
+        "in_reply_to_user_id": "1942111360420290561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "他怎么开锁推了🤔，非二元主要是每个个体诉求和烦躁程度都不太一样。国内好想只有潘柏林懂一点，刘烨貌似只懂mtf，暨南大学高律芬可能也懂。她是内分泌医生并且在研究出一份国内跨的用药指南，现在应该在数据整理出结论阶段可能要等几年，但我不清楚有无研究mtx药物。mtx能用的药物几乎也就上面两个类，gnrh类似药一个月一千。用得起的推友可以考虑，还不伤身还能做mtf的抗雄药物"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098022466581070038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@credits18118 @Aoki_Asuka2000 他怎么开锁推了🤔，非二元主要是每个个体诉求和烦躁程度都不太一样。国内好想只有潘柏林懂一点，刘烨貌似只懂mtf，暨南大学高律芬可能也懂。她是内分泌医生并且在研究出一份国内跨的用药指南，现在应该在数据整理出结论阶段可能要等几年，但我不清楚有无研究mtx药物。mtx能用的药物几乎也就上面两个类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942111360420290561",
+        "conversation_id": "2096928773648290065",
+        "created_at": "2026-09-10T12:15:10.000Z",
+        "display_text_range": [
+          24,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098022466581070038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "Aoki_Asuka2000"
+            },
+            {
+              "end": 23,
+              "id": "2032037309219315712",
+              "start": 16,
+              "username": "fcjdfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098022466581070038",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098020811978465285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aoki_Asuka2000 @fcjdfb 对的，无性别和非二元的激素用药指导都太少了……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098025928202793297",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 62,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 475
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T06:40:56.000Z",
+        "description": "10年高中在读丨INFP-T丨重抑中焦+双相二型治疗中丨不🚬/🍺/🔪/od/键政丨音游重度依赖丨指派性别男，性别认同探索中(或许是非二元偏女?丨萨福式取向丨人称代词所有都可丨可互fo看成分回关丨很内向但渴望能找到朋友 请私信找我聊天！",
+        "id": "1942111360420290561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098022466581070038",
+        "name": "Phony",
+        "pinned_tweet_id": "2097107549623570562",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091115941690318848/bHlDpJb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 550,
+          "like_count": 3479,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 926
+        },
+        "url": "",
+        "username": "credits18118",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "Agender Trans/Aroace/唯一目标是SRS",
+        "id": "1378376814389694468",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098013212486795277",
+        "name": "Pie",
+        "pinned_tweet_id": "2097350027538735133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378376814389694468/1784865215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097688654584188928/VLlnjyzO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 7344,
+          "like_count": 176369,
+          "listed_count": 3,
+          "media_count": 903,
+          "tweet_count": 29688
+        },
+        "url": "",
+        "username": "Aoki_Asuka2000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2101212459944333504",
+    "created_at": "2026-09-19T07:31:03.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101212459944333504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_FORAB/status/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/_FORAB/status/2101195426015924501",
+          "start": 53,
+          "url": "https://t.co/cNTSuoJNjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101212459944333504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101195426015924501",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太注重眼前利益了，这样搞其实不太符合现在大体方针优化营商环境。罗永浩的怒喷还是规范营商出发，网信办昏头了 https://t.co/cNTSuoJNjx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1577,
+        "media_key": "3_2101194672257576960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjxa_vbMAAbSlb.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1421,
+        "media_key": "3_2101194704998236160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjxc5taAAAmEQb.jpg",
+        "width": 1114
+      },
+      {
+        "height": 1452,
+        "media_key": "3_2101195169140002817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjx36xbUAEO7qN.jpg",
+        "width": 1141
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2101212459944333504",
+        "created_at": "2026-09-19T07:31:03.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101212459944333504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/_FORAB/status/2101195426015924501",
+              "start": 53,
+              "url": "https://t.co/cNTSuoJNjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101212459944333504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101195426015924501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太注重眼前利益了，这样搞其实不太符合现在大体方针优化营商环境。罗永浩的怒喷还是规范营商出发，网信办昏头了 https://t.co/cNTSuoJNjx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101194672257576960",
+            "3_2101194704998236160",
+            "3_2101195169140002817"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2101195426015924501",
+        "created_at": "2026-09-19T06:23:22.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101195426015924501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxlLvRn35f",
+              "end": 131,
+              "expanded_url": "https://x.com/_FORAB/status/2101195426015924501/photo/1",
+              "media_key": "3_2101194672257576960",
+              "start": 108,
+              "url": "https://t.co/jxlLvRn35f"
+            },
+            {
+              "display_url": "pic.x.com/jxlLvRn35f",
+              "end": 131,
+              "expanded_url": "https://x.com/_FORAB/status/2101195426015924501/photo/1",
+              "media_key": "3_2101194704998236160",
+              "start": 108,
+              "url": "https://t.co/jxlLvRn35f"
+            },
+            {
+              "display_url": "pic.x.com/jxlLvRn35f",
+              "end": 131,
+              "expanded_url": "https://x.com/_FORAB/status/2101195426015924501/photo/1",
+              "media_key": "3_2101195169140002817",
+              "start": 108,
+              "url": "https://t.co/jxlLvRn35f"
+            },
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/_FORAB/status/2100918737335701510",
+              "start": 132,
+              "url": "https://t.co/mAYW2APPIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101195426015924501",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101194672257576960"
+          },
+          {
+            "media_key": "3_2101194704998236160"
+          },
+          {
+            "media_key": "3_2101195169140002817"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 24213,
+          "like_count": 45,
+          "quote_count": 3,
+          "reply_count": 30,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100918737335701510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有不少观点认为，昨天网信办定调发文，案例是罗永浩。\n\n因为同一时间，政府媒体人民网直接发了篇首页文章，对罗永浩近期攻击餐饮企业的事情，进行了批评。\n\n而今天又传出他上次连续攻击的西贝，因负面影响，造成了上万人失业。 https://t.co/jxlLvRn35f https://t.co/mAYW2APPIw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101212459944333504",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 77,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 983
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "is_identity_verified": true,
+        "location": "🇯🇵 Tokyo , Japan",
+        "most_recent_tweet_id": "2101195426015924501",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4848269835/1778770582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144244,
+          "following_count": 662,
+          "like_count": 10649,
+          "listed_count": 2123,
+          "media_count": 4757,
+          "tweet_count": 16488
+        },
+        "url": "",
+        "username": "_FORAB",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

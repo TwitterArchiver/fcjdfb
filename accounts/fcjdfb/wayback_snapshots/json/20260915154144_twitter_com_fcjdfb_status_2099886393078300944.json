@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2099886393078300944",
+    "created_at": "2026-09-15T15:41:44.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099886393078300944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realsinya/stat…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/realsinya/status/2099824545964478532",
+          "start": 139,
+          "url": "https://t.co/j8DtHr5apk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099886393078300944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099824545964478532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男人要成功，一定要解决性欲问题。一是像我一样性转女同，二是吃糖化学阉割。当然还有一条路，就是o到精卫，自残有精神疾病到永远是精卫住院。性欲是男人的诅咒，而国女之所以能这么吸血，就是靠利用男人的生理不足之处进行剥削。用安全的方式解决性欲，才能不被国女吃干抹净，才能有自己的人生。 https://t.co/j8DtHr5apk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2099886393078300944",
+        "created_at": "2026-09-15T15:41:44.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099886393078300944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realsinya/stat…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/realsinya/status/2099824545964478532",
+              "start": 139,
+              "url": "https://t.co/j8DtHr5apk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099886393078300944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099824545964478532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男人要成功，一定要解决性欲问题。一是像我一样性转女同，二是吃糖化学阉割。当然还有一条路，就是o到精卫，自残有精神疾病到永远是精卫住院。性欲是男人的诅咒，而国女之所以能这么吸血，就是靠利用男人的生理不足之处进行剥削。用安全的方式解决性欲，才能不被国女吃干抹净，才能有自己的人生。 https://t.co/j8DtHr5apk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093893004222402560",
+        "conversation_id": "2099823845691768957",
+        "created_at": "2026-09-15T11:35:59.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099824545964478532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099824545964478532",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8892,
+          "like_count": 138,
+          "quote_count": 10,
+          "reply_count": 14,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099823845691768957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 我是性转女同性恋。我们都是MTF。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099886393078300944",
+        "name": "windigo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099879631554027520/jep7lkPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 72,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 777
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T02:49:35.000Z",
+        "description": "李新野本人。盗号死全家，举报死全族。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sinyalee.com",
+                "end": 23,
+                "expanded_url": "https://sinyalee.com",
+                "start": 0,
+                "url": "https://t.co/5vDp5BOUKt"
+              }
+            ]
+          }
+        },
+        "id": "2093893004222402560",
+        "is_identity_verified": true,
+        "location": "Fifth Avenue, New York",
+        "most_recent_tweet_id": "2099886362443108764",
+        "name": "Sinya 李新野",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093893004222402560/1788790562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093894280461123584/b-za7uR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46753,
+          "following_count": 23,
+          "like_count": 426,
+          "listed_count": 88,
+          "media_count": 9,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/5vDp5BOUKt",
+        "username": "realsinya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "AI画师｜独立的社会观察员｜一个怀着理想主义的跨性别小说家，也是一个成长在地狱般原生家庭的抑郁症患者 🍥hrt 2026.9.4\n付费1对1聊天100RMB/h，需要请私信备注\n生活号@yexinstory \nYouTube频道：https://t.co/obHINacrGO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "yexinstory"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 138,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 115,
+                "url": "https://t.co/obHINacrGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/konekoutena",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/konekoutena",
+                "start": 0,
+                "url": "https://t.co/hP17kdZFez"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "is_identity_verified": true,
+        "location": "喵星",
+        "most_recent_tweet_id": "2099875718230671489",
+        "name": "枫糖小猫🏳️‍⚧️",
+        "pinned_tweet_id": "2098785277741584670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844025283676094464/1788451323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095475881162702849/jpuFM3oE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18365,
+          "following_count": 1819,
+          "like_count": 16075,
+          "listed_count": 12,
+          "media_count": 7852,
+          "tweet_count": 30529
+        },
+        "url": "https://t.co/hP17kdZFez",
+        "username": "Konekoutena",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

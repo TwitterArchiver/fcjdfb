@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100251672794783744"
+      ],
+      "media_source_tweet_id": [
+        "2100251675525251089"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100613088567500847",
+    "created_at": "2026-09-17T15:49:22.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100613088567500847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "85875473",
+          "start": 3,
+          "username": "CDTChinese"
+        }
+      ],
+      "urls": [
+        {
+          "description": "【历史上的404】我们终于习惯了学生自杀（2023年9月16日）该文章于2023年9月16日被中国数字时代收录，原文已被删除。",
+          "display_url": "dlvr.it/TVW6Rn",
+          "end": 103,
+          "expanded_url": "https://dlvr.it/TVW6Rn",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/2100251679589597184/BrJhic7W?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2100251679589597184/BrJhic7W?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 80,
+          "status": 200,
+          "title": "【历史上的404】我们终于习惯了学生自杀（2023年9月16日）",
+          "unwound_url": "https://chinadigitaltimes.net/chinese/731848.html?utm_source=dlvr.it&utm_medium=twitter",
+          "url": "https://t.co/EAdszcrKKl"
+        },
+        {
+          "display_url": "pic.x.com/FW8Rtztyx0",
+          "end": 127,
+          "expanded_url": "https://x.com/CDTChinese/status/2100251675525251089/photo/1",
+          "media_key": "3_2100251672794783744",
+          "start": 104,
+          "url": "https://t.co/FW8Rtztyx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100613088567500847",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100251672794783744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100251675525251089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CDTChinese: 【历史上的404】我们终于习惯了学生自杀（2023年9月16日）该文章于2023年9月16日被中国数字时代收录，原文已被删除。 https://t.co/EAdszcrKKl https://t.co/FW8Rtztyx0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2100251672794783744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWXxM_aYAAoofp.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100251672794783744"
+          ],
+          "media_source_tweet_id": [
+            "2100251675525251089"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100613088567500847",
+        "created_at": "2026-09-17T15:49:22.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100613088567500847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "85875473",
+              "start": 3,
+              "username": "CDTChinese"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【历史上的404】我们终于习惯了学生自杀（2023年9月16日）该文章于2023年9月16日被中国数字时代收录，原文已被删除。",
+              "display_url": "dlvr.it/TVW6Rn",
+              "end": 103,
+              "expanded_url": "https://dlvr.it/TVW6Rn",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2100251679589597184/BrJhic7W?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2100251679589597184/BrJhic7W?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "【历史上的404】我们终于习惯了学生自杀（2023年9月16日）",
+              "unwound_url": "https://chinadigitaltimes.net/chinese/731848.html?utm_source=dlvr.it&utm_medium=twitter",
+              "url": "https://t.co/EAdszcrKKl"
+            },
+            {
+              "display_url": "pic.x.com/FW8Rtztyx0",
+              "end": 127,
+              "expanded_url": "https://x.com/CDTChinese/status/2100251675525251089/photo/1",
+              "media_key": "3_2100251672794783744",
+              "start": 104,
+              "url": "https://t.co/FW8Rtztyx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100613088567500847",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100251672794783744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100251675525251089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CDTChinese: 【历史上的404】我们终于习惯了学生自杀（2023年9月16日）该文章于2023年9月16日被中国数字时代收录，原文已被删除。 https://t.co/EAdszcrKKl https://t.co/FW8Rtztyx0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100251672794783744"
+          ]
+        },
+        "author_id": "85875473",
+        "conversation_id": "2100251675525251089",
+        "created_at": "2026-09-16T15:53:14.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100251675525251089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "【历史上的404】我们终于习惯了学生自杀（2023年9月16日）该文章于2023年9月16日被中国数字时代收录，原文已被删除。",
+              "display_url": "dlvr.it/TVW6Rn",
+              "end": 87,
+              "expanded_url": "https://dlvr.it/TVW6Rn",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2100251679589597184/BrJhic7W?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2100251679589597184/BrJhic7W?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 64,
+              "status": 200,
+              "title": "【历史上的404】我们终于习惯了学生自杀（2023年9月16日）",
+              "unwound_url": "https://chinadigitaltimes.net/chinese/731848.html?utm_source=dlvr.it&utm_medium=twitter",
+              "url": "https://t.co/EAdszcrKKl"
+            },
+            {
+              "display_url": "pic.x.com/FW8Rtztyx0",
+              "end": 111,
+              "expanded_url": "https://x.com/CDTChinese/status/2100251675525251089/photo/1",
+              "media_key": "3_2100251672794783744",
+              "start": 88,
+              "url": "https://t.co/FW8Rtztyx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100251675525251089",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100251672794783744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 36094,
+          "like_count": 682,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "【历史上的404】我们终于习惯了学生自杀（2023年9月16日）该文章于2023年9月16日被中国数字时代收录，原文已被删除。 https://t.co/EAdszcrKKl https://t.co/FW8Rtztyx0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2100613088567500847",
+        "name": "windigo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099879631554027520/jep7lkPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 74,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 853
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-10-28T18:13:55.000Z",
+        "description": "中国数字时代（China Digital Times, CDT）中文官方推特账号。英文账号：@CDT\n中国数字时代致力于记录和传播中文互联网上被审查的信息，以及人们对抗政治压迫的努力。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 46,
+                "username": "CDT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinadigitaltimes.net/chinese",
+                "end": 23,
+                "expanded_url": "http://chinadigitaltimes.net/chinese",
+                "start": 0,
+                "url": "https://t.co/cgrUsoB7iE"
+              }
+            ]
+          }
+        },
+        "id": "85875473",
+        "is_identity_verified": false,
+        "location": "UC Berkeley",
+        "most_recent_tweet_id": "2100591326169538627",
+        "name": "中国数字时代",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85875473/1778051512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051920953727442944/Zctm3m-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444873,
+          "following_count": 325,
+          "like_count": 109,
+          "listed_count": 1924,
+          "media_count": 5499,
+          "tweet_count": 67533
+        },
+        "url": "https://t.co/cgrUsoB7iE",
+        "username": "CDTChinese",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

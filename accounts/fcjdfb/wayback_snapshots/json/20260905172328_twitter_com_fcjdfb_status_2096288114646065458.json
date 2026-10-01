@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096288114646065458",
+    "created_at": "2026-09-05T17:23:28.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T18:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096288114646065458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1876613242887282688",
+          "start": 3,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096288114646065458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096075361687577087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liujiayi1111: 如果有人在我擅长的领域问我东西，我会倾囊相授，我其实并不担心“教会徒弟，饿死师傅”这种观点。\n\n现在都 2026 年了，想学什么东西，在网上都能搜到大量的资料，在视频平台也可以搜索到很多博主做的教学视频，而且还有 AI…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096288114646065458",
+        "created_at": "2026-09-05T17:23:28.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096288114646065458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1876613242887282688",
+              "start": 3,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096288114646065458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096075361687577087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liujiayi1111: 如果有人在我擅长的领域问我东西，我会倾囊相授，我其实并不担心“教会徒弟，饿死师傅”这种观点。\n\n现在都 2026 年了，想学什么东西，在网上都能搜到大量的资料，在视频平台也可以搜索到很多博主做的教学视频，而且还有 AI…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2096075361687577087",
+        "created_at": "2026-09-05T03:18:04.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096075361687577087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096075361687577087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果有人在我擅长的领域问我东西，我会倾囊相授，我其实并不担心“教会徒弟，饿死师傅”这种观点。\n\n现在都 2026 年了，想学什么东西，在网上都能搜到大量的资料，在视频平台也可以搜索到很多博主做的教学视频，而且还有 AI 可以问可以学，所以我觉得知识在现在这个时代不算是什么稀有的东西了，反而是想学就能找到大把的有资料，甚至能在闲鱼找到“贱”卖教程的，几块钱就能买到人家打包整理好的盗版资料（不建议）。\n\n而且我也不怕别人学会了业务会比我更卷，能把我卷垮。因为我身边的朋友们人都很 nice，互相交流学习，共享资源合作，相处就很愉快。这种恶意竞争本身人品就不好，人品不好的人不值得信赖，喜欢算计人，很难会有人愿意长期合作，资源共享，做到后期就没人愿意跟他玩了。\n\n相比这种观点，反而我更喜欢无偿的和别人一起分享交流，大家一起互相学习，共同进步。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 8698,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 108,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "如果有人在我擅长的领域问我东西，我会倾囊相授，我其实并不担心“教会徒弟，饿死师傅”这种观点。\n\n现在都 2026 年了，想学什么东西，在网上都能搜到大量的资料，在视频平台也可以搜索到很多博主做的教学视频，而且还有 AI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096288114646065458",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 43,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi2",
+                "start": 0,
+                "url": "https://t.co/pDPmLWjxRk"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096285036479717712",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876613242887282688/1780369791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11745,
+          "following_count": 138,
+          "like_count": 17482,
+          "listed_count": 30,
+          "media_count": 402,
+          "tweet_count": 5097
+        },
+        "url": "https://t.co/pDPmLWjxRk",
+        "username": "liujiayi1111",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

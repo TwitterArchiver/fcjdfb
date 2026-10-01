@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2102831009008071071",
+    "created_at": "2026-09-24T18:17:51.000Z",
+    "display_text_range": [
+      32,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T19:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103187169993183732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962340449043324928",
+          "start": 0,
+          "username": "XiaoYiXianYuing"
+        },
+        {
+          "end": 31,
+          "id": "1884745808605818880",
+          "start": 17,
+          "username": "Bunbohue40037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103187169993183732",
+    "in_reply_to_user_id": "1962340449043324928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103169691355406364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoYiXianYuing @Bunbohue40037 你能懂我测试时候看到香港服务器能跑到30ms延迟时的感受吗（而且应该不是走的转出口ip）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2102831009008071071",
+        "created_at": "2026-09-24T18:17:51.000Z",
+        "display_text_range": [
+          32,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T19:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103187169993183732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962340449043324928",
+              "start": 0,
+              "username": "XiaoYiXianYuing"
+            },
+            {
+              "end": 31,
+              "id": "1884745808605818880",
+              "start": 17,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103187169993183732",
+        "in_reply_to_user_id": "1962340449043324928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103169691355406364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoYiXianYuing @Bunbohue40037 你能懂我测试时候看到香港服务器能跑到30ms延迟时的感受吗（而且应该不是走的转出口ip）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962340449043324928",
+        "conversation_id": "2102831009008071071",
+        "created_at": "2026-09-24T17:08:24.000Z",
+        "display_text_range": [
+          23,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T18:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103169691355406364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            },
+            {
+              "end": 22,
+              "id": "1884745808605818880",
+              "start": 8,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103169691355406364",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103014665517449521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb @Bunbohue40037 但是她如果有钱到部署无甲ds或者glm 那就是另外一回事了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2103187169993183732",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 64,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1334
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T02:23:28.000Z",
+        "description": "",
+        "id": "1962340449043324928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103181817453097465",
+        "name": "清宁",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061883635834175488/zHRQruMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 113,
+          "like_count": 4039,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "XiaoYiXianYuing",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103185457475625350",
+        "name": "Bún bò Huế 🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884745808605818880/1759586488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 655,
+          "like_count": 214831,
+          "listed_count": 6,
+          "media_count": 1680,
+          "tweet_count": 23931
+        },
+        "url": "",
+        "username": "Bunbohue40037",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

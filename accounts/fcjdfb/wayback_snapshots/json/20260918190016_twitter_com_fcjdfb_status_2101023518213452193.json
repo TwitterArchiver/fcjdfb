@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100837910173937720",
+    "created_at": "2026-09-18T19:00:16.000Z",
+    "display_text_range": [
+      8,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T20:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101023518213452193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092971438521077760",
+          "start": 0,
+          "username": "zza2ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101023518213452193",
+    "in_reply_to_user_id": "2092971438521077760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100837910173937720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zza2ku 台湾不知道，大陆是首诊陪诊就行。另外好的医生会制止父母参与问诊流程，这个最好还是加两个门槛吧。先做量表能证明某些达到成年人无需父母监护人伴诊或者社区有人负责可以选择由社区伴诊，唉妇联干什么吃的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1983,
+        "media_key": "3_2100837898224386049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSes8A5XwAEGDBv.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100837910173937720",
+        "created_at": "2026-09-18T19:00:16.000Z",
+        "display_text_range": [
+          8,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T20:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101023518213452193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092971438521077760",
+              "start": 0,
+              "username": "zza2ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101023518213452193",
+        "in_reply_to_user_id": "2092971438521077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100837910173937720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zza2ku 台湾不知道，大陆是首诊陪诊就行。另外好的医生会制止父母参与问诊流程，这个最好还是加两个门槛吧。先做量表能证明某些达到成年人无需父母监护人伴诊或者社区有人负责可以选择由社区伴诊，唉妇联干什么吃的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100837898224386049"
+          ]
+        },
+        "author_id": "2092971438521077760",
+        "conversation_id": "2100837910173937720",
+        "created_at": "2026-09-18T06:42:44.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100837910173937720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "已附議 726 (尚餘18日) 檢核通過，自次日進入附議階段 目前未成年人就診身心科時，許多醫療院所要求家長陪同或法定代理人同意。然而，部分青少年的心理困擾、憂鬱、焦慮、創傷或其他精神健康問題，可能與家庭衝突、控制、忽視、暴力或其他家庭因素有關。在這種情況下，要求家長陪同或同意，可能使當事人因害怕被責備、處罰、否定或洩露隱私，而不敢尋求醫療協助。",
+              "display_url": "join.gov.tw/idea/detail/c3…",
+              "end": 131,
+              "expanded_url": "https://join.gov.tw/idea/detail/c339671b-1d62-4737-b361-2100a1921cc7",
+              "start": 108,
+              "status": 200,
+              "title": "建議檢討未成年人身心科就醫需家長陪同或同意之規定，建立青少年心理健康就醫的彈性制度。- 提點子 -公共政策網路參與平臺",
+              "unwound_url": "https://join.gov.tw/idea/detail/c339671b-1d62-4737-b361-2100a1921cc7",
+              "url": "https://t.co/QJPgKi4ee7"
+            },
+            {
+              "display_url": "pic.x.com/mVQ9AWHTrL",
+              "end": 155,
+              "expanded_url": "https://x.com/zza2ku/status/2100837910173937720/photo/1",
+              "media_key": "3_2100837898224386049",
+              "start": 132,
+              "url": "https://t.co/mVQ9AWHTrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100837910173937720",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100837898224386049"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 597,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一个在大陆没什么讨论，在台湾我不知道的议题\n在大陆与台湾未成年人去看精神科都需要父母陪伴\n但很多情况下孩子的精神问题就是父母造成的，所以这属于看病还把病源体给带过来了\n最后贴上联署链接，如果有台湾人看到就联署一下吧\nhttps://t.co/QJPgKi4ee7 https://t.co/mVQ9AWHTrL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101023518213452193",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 76,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 960
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "民主社会主义",
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100975795585818963",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2092974029145886789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1787838823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 113,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 641
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

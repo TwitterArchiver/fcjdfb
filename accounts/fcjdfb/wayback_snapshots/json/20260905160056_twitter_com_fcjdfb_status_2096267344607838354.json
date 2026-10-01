@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096267235291734016",
+        "3_2096267297661083648",
+        "3_2096267311472926720",
+        "3_2096267329604833280"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096267344607838354",
+    "created_at": "2026-09-05T16:00:56.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096267344607838354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/94syht5g8A",
+          "end": 143,
+          "expanded_url": "https://x.com/fcjdfb/status/2096267344607838354/video/1",
+          "media_key": "13_2096267235291734016",
+          "start": 120,
+          "url": "https://t.co/94syht5g8A"
+        },
+        {
+          "display_url": "pic.x.com/94syht5g8A",
+          "end": 143,
+          "expanded_url": "https://x.com/fcjdfb/status/2096267344607838354/video/1",
+          "media_key": "3_2096267297661083648",
+          "start": 120,
+          "url": "https://t.co/94syht5g8A"
+        },
+        {
+          "display_url": "pic.x.com/94syht5g8A",
+          "end": 143,
+          "expanded_url": "https://x.com/fcjdfb/status/2096267344607838354/video/1",
+          "media_key": "3_2096267311472926720",
+          "start": 120,
+          "url": "https://t.co/94syht5g8A"
+        },
+        {
+          "display_url": "pic.x.com/94syht5g8A",
+          "end": 143,
+          "expanded_url": "https://x.com/fcjdfb/status/2096267344607838354/video/1",
+          "media_key": "3_2096267329604833280",
+          "start": 120,
+          "url": "https://t.co/94syht5g8A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096267344607838354",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2096267235291734016"
+      },
+      {
+        "media_key": "3_2096267297661083648"
+      },
+      {
+        "media_key": "3_2096267311472926720"
+      },
+      {
+        "media_key": "3_2096267329604833280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己在如是书院拍的一点视频和图片\n上个月警察找我来做笔录，然后不出意外的。当时跑出来时候直接去了当地派出所报警，结果民警还辱骂我威胁逼我出去。上个月做完笔录就被“威胁”了当时在派出所的时候有录音，不要随意的发出来尤其是给媒体不然有好果子吃 https://t.co/94syht5g8A"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40554,
+        "height": 1280,
+        "media_key": "13_2096267235291734016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096267235291734016/img/5-UkqswToJHVevBm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096267235291734016/vid/avc1/320x568/alwx1wad0Hcb_btc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096267235291734016/vid/avc1/480x852/4ASwmDjeAqW2GAyK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096267235291734016/vid/avc1/720x1280/6LFk2BYH5kTdzcjR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096267235291734016/pl/FG1U0AB4gTXGVOYf.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2688,
+        "media_key": "3_2096267297661083648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdwAC9bYAAO-Ql.jpg",
+        "width": 1216
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2096267311472926720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdwA2abYAAYMv-.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2096267329604833280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdwB59aUAA5VgO.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096267235291734016",
+            "3_2096267297661083648",
+            "3_2096267311472926720",
+            "3_2096267329604833280"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096267344607838354",
+        "created_at": "2026-09-05T16:00:56.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096267344607838354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/94syht5g8A",
+              "end": 143,
+              "expanded_url": "https://x.com/fcjdfb/status/2096267344607838354/video/1",
+              "media_key": "13_2096267235291734016",
+              "start": 120,
+              "url": "https://t.co/94syht5g8A"
+            },
+            {
+              "display_url": "pic.x.com/94syht5g8A",
+              "end": 143,
+              "expanded_url": "https://x.com/fcjdfb/status/2096267344607838354/video/1",
+              "media_key": "3_2096267297661083648",
+              "start": 120,
+              "url": "https://t.co/94syht5g8A"
+            },
+            {
+              "display_url": "pic.x.com/94syht5g8A",
+              "end": 143,
+              "expanded_url": "https://x.com/fcjdfb/status/2096267344607838354/video/1",
+              "media_key": "3_2096267311472926720",
+              "start": 120,
+              "url": "https://t.co/94syht5g8A"
+            },
+            {
+              "display_url": "pic.x.com/94syht5g8A",
+              "end": 143,
+              "expanded_url": "https://x.com/fcjdfb/status/2096267344607838354/video/1",
+              "media_key": "3_2096267329604833280",
+              "start": 120,
+              "url": "https://t.co/94syht5g8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096267344607838354",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096267235291734016"
+          },
+          {
+            "media_key": "3_2096267297661083648"
+          },
+          {
+            "media_key": "3_2096267311472926720"
+          },
+          {
+            "media_key": "3_2096267329604833280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己在如是书院拍的一点视频和图片\n上个月警察找我来做笔录，然后不出意外的。当时跑出来时候直接去了当地派出所报警，结果民警还辱骂我威胁逼我出去。上个月做完笔录就被“威胁”了当时在派出所的时候有录音，不要随意的发出来尤其是给媒体不然有好果子吃 https://t.co/94syht5g8A"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096267344607838354",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

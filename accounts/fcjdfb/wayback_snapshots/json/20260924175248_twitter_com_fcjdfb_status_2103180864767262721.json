@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103180852570288128"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103179680505634894",
+    "created_at": "2026-09-24T17:52:48.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T18:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103180864767262721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LQWudE8NQZ",
+          "end": 32,
+          "expanded_url": "https://x.com/fcjdfb/status/2103180864767262721/photo/1",
+          "media_key": "3_2103180852570288128",
+          "start": 9,
+          "url": "https://t.co/LQWudE8NQZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103180864767262721",
+    "in_reply_to_user_id": "2032037309219315712",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103180852570288128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103179680505634894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日本双isp节点 https://t.co/LQWudE8NQZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3133,
+        "media_key": "3_2103180852570288128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS__15_a8AAI-gT.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1658,
+        "media_key": "3_2103179626629701632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_-ujAaIAAWMp0.jpg",
+        "width": 2004
+      },
+      {
+        "height": 3057,
+        "media_key": "3_2103179637350395904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_-vK8a8AAObVH.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3154,
+        "media_key": "3_2103179654064726016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_-wJNbYAArOJA.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2977,
+        "media_key": "3_2103179667448688640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_-w7EacAAUcf-.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103180852570288128"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103179680505634894",
+        "created_at": "2026-09-24T17:52:48.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T18:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103180864767262721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQWudE8NQZ",
+              "end": 32,
+              "expanded_url": "https://x.com/fcjdfb/status/2103180864767262721/photo/1",
+              "media_key": "3_2103180852570288128",
+              "start": 9,
+              "url": "https://t.co/LQWudE8NQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103180864767262721",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103180852570288128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103179680505634894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本双isp节点 https://t.co/LQWudE8NQZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103179626629701632",
+            "3_2103179637350395904",
+            "3_2103179654064726016",
+            "3_2103179667448688640"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103179680505634894",
+        "created_at": "2026-09-24T17:48:05.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T18:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103179680505634894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJMP8AIhJ7",
+              "end": 162,
+              "expanded_url": "https://x.com/fcjdfb/status/2103179680505634894/photo/1",
+              "media_key": "3_2103179626629701632",
+              "start": 139,
+              "url": "https://t.co/bJMP8AIhJ7"
+            },
+            {
+              "display_url": "pic.x.com/bJMP8AIhJ7",
+              "end": 162,
+              "expanded_url": "https://x.com/fcjdfb/status/2103179680505634894/photo/1",
+              "media_key": "3_2103179637350395904",
+              "start": 139,
+              "url": "https://t.co/bJMP8AIhJ7"
+            },
+            {
+              "display_url": "pic.x.com/bJMP8AIhJ7",
+              "end": 162,
+              "expanded_url": "https://x.com/fcjdfb/status/2103179680505634894/photo/1",
+              "media_key": "3_2103179654064726016",
+              "start": 139,
+              "url": "https://t.co/bJMP8AIhJ7"
+            },
+            {
+              "display_url": "pic.x.com/bJMP8AIhJ7",
+              "end": 162,
+              "expanded_url": "https://x.com/fcjdfb/status/2103179680505634894/photo/1",
+              "media_key": "3_2103179667448688640",
+              "start": 139,
+              "url": "https://t.co/bJMP8AIhJ7"
+            },
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2102448321499635859",
+              "start": 163,
+              "url": "https://t.co/q9sEcTX9x6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103179680505634894",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103179626629701632"
+          },
+          {
+            "media_key": "3_2103179637350395904"
+          },
+          {
+            "media_key": "3_2103179654064726016"
+          },
+          {
+            "media_key": "3_2103179667448688640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "王烟洛mtf机场评测\n我用最直白最不饶弯子的方式告诉你\n王烟洛机场安全和权重很高，均为真实家宽。但数据波动很大网络延迟极高，明显能看出没有做数据优化。我并不推荐日常使用，家宽未对上行做优化，所以会很拥堵。最推荐的线路是美国cm节点，其次便宜计算流量的日本普通1平常   或者2\n具体协议选择vless加密强但流量较小，tuic加密弱一点更抗不稳定更适合高峰期使用。hy2类似\n日本原生节点比较严重避雷\n香港两个线路都很烂，回传回来延迟是300ms没发挥优势，ping过去就25ms左右问题。应该是服务器的问题，合理推测是王烟洛没做数据优化全挤占然后延迟跑高了\n日本cn2节点仅适合平常晚高峰期优势才会出来，而且波动不稳定问题还是很大\n美国cn2是最稳定，速度也最合适的。测试全程基本没发现不稳定现象，这个其实才是最基础应该确保的。平常我只能说推荐这个"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102448321499635859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "王烟洛mtf机场评测\n我用最直白最不饶弯子的方式告诉你\n王烟洛机场安全和权重很高，均为真实家宽。但数据波动很大网络延迟极高，明显能看出没有做数据优化。我并不推荐日常使用，家宽未对上行做优化，所以会很拥堵。最推荐的线路是美国cm节点，其次便宜计算流量的日本普通1平常   或者2 https://t.co/bJMP8AIhJ7 https://t.co/q9sEcTX9x6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2103180864767262721",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 64,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1327
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

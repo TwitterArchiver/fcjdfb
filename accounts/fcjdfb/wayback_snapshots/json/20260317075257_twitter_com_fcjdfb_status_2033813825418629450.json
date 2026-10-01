@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2033813825418629450",
+    "created_at": "2026-03-17T07:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T08:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033813825418629450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "569189962",
+          "start": 3,
+          "username": "Techbruneth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033813825418629450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 440
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033364889868304484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Techbruneth: 牛津大学一名博士生，\n因为提交的论文“太像 AI 写的”，差点被抓。\n\n但真相是：\n\n他根本没让 AI 替他写。\n他只是用 AI，逼自己想得更深。\n\n这套流程，后来被导师评价为：\n\n“我20年来见过最复杂、最严谨的研究工作流之一。”\n\n他每次写…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2033364881525936128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDf2liYbkAA0gAK.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2033813825418629450",
+        "created_at": "2026-03-17T07:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033813825418629450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "569189962",
+              "start": 3,
+              "username": "Techbruneth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033813825418629450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 440
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033364889868304484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Techbruneth: 牛津大学一名博士生，\n因为提交的论文“太像 AI 写的”，差点被抓。\n\n但真相是：\n\n他根本没让 AI 替他写。\n他只是用 AI，逼自己想得更深。\n\n这套流程，后来被导师评价为：\n\n“我20年来见过最复杂、最严谨的研究工作流之一。”\n\n他每次写…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033364881525936128"
+          ]
+        },
+        "author_id": "569189962",
+        "conversation_id": "2033364889868304484",
+        "created_at": "2026-03-16T02:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033364889868304484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOnhqqKDr4",
+              "end": 166,
+              "expanded_url": "https://x.com/Techbruneth/status/2033364889868304484/photo/1",
+              "media_key": "3_2033364881525936128",
+              "start": 143,
+              "url": "https://t.co/XOnhqqKDr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033364889868304484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "牛津大学一名博士生，\n因为提交的论文“太像 AI 写的”，差点被抓。\n\n但真相是：\n\n他根本没让 AI 替他写。\n他只是用 AI，逼自己想得更深。\n\n这套流程，后来被导师评价为：\n\n“我20年来见过最复杂、最严谨的研究工作流之一。”\n\n他每次写论文，不是先让 Claude 帮他润色，\n而是先把自己的粗糙论证丢进去，直接问：\n\n“这套推理里最弱的 3 个逻辑跳跃是什么？”\n“一个敌对的考官，最先会攻击哪里？”\n\nAI 不负责替他写论文。\nAI 负责先把他的草稿摧毁一遍。\n\n然后，他再自己重建。\n\n但真正把他和大多数“用 AI 生成段落”的学生拉开差距的，\n是下一步：\n\n他会上传这个领域最关键的 5 篇论文，接着问：\n\n“我的哪些主张，和这些作者的真实发现相冲突？”\n“我哪里在过度简化，或者误读了他们的结论？”\n\n很多学生是在“引用自己大概看过的论文”。\n而他是在用 AI 逼自己真正理解文献。\n\n最后一步，更狠。\n\n提交前，\n他会把自己的结论单独贴进去，再问一句：\n\n“如果一个科学哲学家来挑刺，这个论证缺了什么？”\n“我有哪些未经辩护的前提假设？”\n\n最后，这篇论文收到的评价是：\n\n“异常严谨”\n“展现出罕见的批判深度”\n\n所以问题从来不是：\n你有没有用 AI。\n\n真正的问题是：\n\n你是用 AI 替你思考，\n还是用 AI 逼你更深地思考？\n\n工具没变。\n变的是工作流。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2088,
+          "impression_count": 274054,
+          "like_count": 2466,
+          "quote_count": 17,
+          "reply_count": 45,
+          "retweet_count": 440
+        },
+        "reply_settings": "everyone",
+        "text": "牛津大学一名博士生，\n因为提交的论文“太像 AI 写的”，差点被抓。\n\n但真相是：\n\n他根本没让 AI 替他写。\n他只是用 AI，逼自己想得更深。\n\n这套流程，后来被导师评价为：\n\n“我20年来见过最复杂、最严谨的研究工作流之一。”\n\n他每次写论文，不是先让 Claude 帮他润色， https://t.co/XOnhqqKDr4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 35
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-02T15:25:03.000Z",
+        "description": "跨领域知识分享者🎓 \n\n英语学习📝｜金融思维🧠｜科技前沿🤖\n\n历史趣事📚｜冷知识｜深度思考💭\n\n让好奇心永远在线💪🏻～",
+        "id": "569189962",
+        "name": "杂学大师✨",
+        "pinned_tweet_id": "2015723139368698217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933097007503314944/1nqKDcY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27804,
+          "following_count": 66,
+          "like_count": 12170,
+          "listed_count": 128,
+          "media_count": 1883,
+          "tweet_count": 2733
+        },
+        "username": "Techbruneth",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099513451379146834",
+    "created_at": "2026-09-14T14:59:48.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T15:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099513451379146834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1426766587",
+          "start": 3,
+          "username": "nedenacba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099513451379146834",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 321
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099401504473923712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nedenacba: LGBTQI+ olanları tutuklayan, işkence eden, baskılayan ve zulüm uygulayan Türkiye bir mühendis kaybetti, Avrupa 2 diploamalı,…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1734,
+        "media_key": "3_2099401497339428872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKSienXAAgmKVA.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099513451379146834",
+        "created_at": "2026-09-14T14:59:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099513451379146834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1426766587",
+              "start": 3,
+              "username": "nedenacba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099513451379146834",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 321
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099401504473923712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nedenacba: LGBTQI+ olanları tutuklayan, işkence eden, baskılayan ve zulüm uygulayan Türkiye bir mühendis kaybetti, Avrupa 2 diploamalı,…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099401497339428872"
+          ]
+        },
+        "author_id": "1426766587",
+        "conversation_id": "2099401504473923712",
+        "created_at": "2026-09-14T07:34:58.000Z",
+        "display_text_range": [
+          0,
+          166
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099401504473923712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ck9yva0ymm",
+              "end": 190,
+              "expanded_url": "https://x.com/artcorebb/status/2099401504473923712/photo/1",
+              "media_key": "3_2099401497339428872",
+              "start": 167,
+              "url": "https://t.co/ck9yva0ymm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099401504473923712",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "3_2099401497339428872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 372,
+          "impression_count": 163393,
+          "like_count": 10077,
+          "quote_count": 82,
+          "reply_count": 534,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "LGBTQI+ olanları tutuklayan, işkence eden, baskılayan ve zulüm uygulayan Türkiye bir mühendis kaybetti, Avrupa 2 diploamalı, 3 dil bilen LGBTQI+ bir mühendis kazandı. https://t.co/ck9yva0ymm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099513451379146834",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 70,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 721
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-05-14T01:18:44.000Z",
+        "description": "",
+        "id": "1426766587",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099502660084797793",
+        "name": "PRO Artyom",
+        "pinned_tweet_id": "1946595569230663892",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071601615421706240/VdYolD7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 291,
+          "like_count": 25200,
+          "listed_count": 6,
+          "media_count": 670,
+          "tweet_count": 5571
+        },
+        "url": "",
+        "username": "nedenacba",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

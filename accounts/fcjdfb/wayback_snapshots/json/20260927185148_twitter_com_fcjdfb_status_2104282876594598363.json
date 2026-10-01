@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104248234038505546",
+    "created_at": "2026-09-27T18:51:48.000Z",
+    "display_text_range": [
+      7,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T19:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104282876594598363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2094352159894601728",
+          "start": 0,
+          "username": "nygcm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104282876594598363",
+    "in_reply_to_user_id": "2094352159894601728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104248234038505546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nygcm 好看的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2104248212970196992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPKmdVW0AAFMao.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104248234038505546",
+        "created_at": "2026-09-27T18:51:48.000Z",
+        "display_text_range": [
+          7,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104282876594598363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2094352159894601728",
+              "start": 0,
+              "username": "nygcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104282876594598363",
+        "in_reply_to_user_id": "2094352159894601728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104248234038505546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nygcm 好看的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104248212970196992"
+          ]
+        },
+        "author_id": "2094352159894601728",
+        "conversation_id": "2104248234038505546",
+        "created_at": "2026-09-27T16:34:08.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104248234038505546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TyG6x35vFW",
+              "end": 31,
+              "expanded_url": "https://x.com/nygcm/status/2104248234038505546/photo/1",
+              "media_key": "3_2104248212970196992",
+              "start": 8,
+              "url": "https://t.co/TyG6x35vFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104248234038505546",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104248212970196992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此女高一清纯时 https://t.co/TyG6x35vFW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104282876594598363",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 67,
+          "like_count": 805,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1462
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T09:11:08.000Z",
+        "description": "世界会下小猫雨吗",
+        "id": "2094352159894601728",
+        "is_identity_verified": false,
+        "location": "天鹰座裂隙之外",
+        "most_recent_tweet_id": "2104282810504897006",
+        "name": "此情可待",
+        "pinned_tweet_id": "2096401028421701988",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094352159894601728/1789913609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100149977712390144/862Efrn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 113,
+          "like_count": 1250,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "nygcm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

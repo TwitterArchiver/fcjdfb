@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2102814428848857428",
+    "created_at": "2026-09-23T17:36:42.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T18:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102814428848857428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1987885638038036480",
+          "start": 3,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102814428848857428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102665650976231470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizorewww: 哈工程20位同学翻墙违规被处分\n\n部分原文：\n\n我院部分学生存在“翻墙”的行为。现将有关情况通报如下:\n\n在2026年9月18日至19日期问，使用个人校园网账号通过 VPN等非正规渠道访问境外网络,相关行为被网络安全监测系统记录留存。上述同学的行为…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_2102665642562457600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4rQvJakAA5Rx8.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2102814428848857428",
+        "created_at": "2026-09-23T17:36:42.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T18:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102814428848857428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1987885638038036480",
+              "start": 3,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102814428848857428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102665650976231470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizorewww: 哈工程20位同学翻墙违规被处分\n\n部分原文：\n\n我院部分学生存在“翻墙”的行为。现将有关情况通报如下:\n\n在2026年9月18日至19日期问，使用个人校园网账号通过 VPN等非正规渠道访问境外网络,相关行为被网络安全监测系统记录留存。上述同学的行为…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102665642562457600"
+          ]
+        },
+        "author_id": "1987885638038036480",
+        "conversation_id": "2102665650976231470",
+        "created_at": "2026-09-23T07:45:31.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102665650976231470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9lM0ssdZk9",
+              "end": 155,
+              "expanded_url": "https://x.com/mizorewww/status/2102665650976231470/photo/1",
+              "media_key": "3_2102665642562457600",
+              "start": 132,
+              "url": "https://t.co/9lM0ssdZk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102665650976231470",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102665642562457600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "哈工程20位同学翻墙违规被处分\n\n部分原文：\n\n我院部分学生存在“翻墙”的行为。现将有关情况通报如下:\n\n在2026年9月18日至19日期问，使用个人校园网账号通过 VPN等非正规渠道访问境外网络,相关行为被网络安全监测系统记录留存。上述同学的行为违反了相关规定\n\n鉴于上述同学系首次违规，未发现传播有害信息，未获利或其他严重危害后果，经学院研究决定,给予以上20名同学警告处分。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9409,
+          "like_count": 68,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈工程20位同学翻墙违规被处分\n\n部分原文：\n\n我院部分学生存在“翻墙”的行为。现将有关情况通报如下:\n\n在2026年9月18日至19日期问，使用个人校园网账号通过 VPN等非正规渠道访问境外网络,相关行为被网络安全监测系统记录留存。上述同学的行为违反了相关规定 https://t.co/9lM0ssdZk9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材（简介施工中）嗯对我懒得写等我写的时候吧）\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2102814428848857428",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 65,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1240
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\ntelegram: @aac6fef\n\ndonate me: 0xea169FFfF00034DB719107A2d7F02C427E8BBaE3 (BSC)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "aac6fef"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "is_identity_verified": false,
+        "location": "Crazy Universe ",
+        "most_recent_tweet_id": "2102780223892938769",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2082711443598971203",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5829,
+          "following_count": 1197,
+          "like_count": 38938,
+          "listed_count": 32,
+          "media_count": 1480,
+          "tweet_count": 7138
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

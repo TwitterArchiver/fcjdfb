@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098972932269821952"
+      ],
+      "media_source_tweet_id": [
+        "2098973355823313202"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2099073828186210505",
+    "created_at": "2026-09-13T09:52:54.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T10:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099073828186210505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        },
+        {
+          "end": 62,
+          "id": "2063957681984225280",
+          "start": 52,
+          "username": "YuwenMewo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FkF4MPgzuO",
+          "end": 105,
+          "expanded_url": "https://x.com/bghtnya/status/2098973355823313202/video/1",
+          "media_key": "13_2098972932269821952",
+          "start": 82,
+          "url": "https://t.co/FkF4MPgzuO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099073828186210505",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2098972932269821952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098973355823313202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: 【唐毓文】忘睾牛肉面\n​原作：忘情牛肉面\n​参考：找不到了喵\n​参演：唐毓文 @YuwenMewo \n​调教：冰棍好烫啊\n​演唱：洛天依 https://t.co/FkF4MPgzuO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30066,
+        "height": 1280,
+        "media_key": "13_2098972932269821952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098972932269821952/img/1BR8C5IQGQDdlMmM.jpg",
+        "public_metrics": {
+          "view_count": 1051
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098972932269821952/vid/avc1/320x568/asRJyHY8vfWwnZff.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098972932269821952/vid/avc1/480x852/d46NIm3p4N4BMp-x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098972932269821952/vid/avc1/720x1280/6lfMsl73edXXLxQQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098972932269821952/pl/mXS69UAaKxjB3Mox.m3u8?v=820"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098972932269821952"
+          ],
+          "media_source_tweet_id": [
+            "2098973355823313202"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2099073828186210505",
+        "created_at": "2026-09-13T09:52:54.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099073828186210505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            },
+            {
+              "end": 62,
+              "id": "2063957681984225280",
+              "start": 52,
+              "username": "YuwenMewo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkF4MPgzuO",
+              "end": 105,
+              "expanded_url": "https://x.com/bghtnya/status/2098973355823313202/video/1",
+              "media_key": "13_2098972932269821952",
+              "start": 82,
+              "url": "https://t.co/FkF4MPgzuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099073828186210505",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098972932269821952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098973355823313202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: 【唐毓文】忘睾牛肉面\n​原作：忘情牛肉面\n​参考：找不到了喵\n​参演：唐毓文 @YuwenMewo \n​调教：冰棍好烫啊\n​演唱：洛天依 https://t.co/FkF4MPgzuO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098972932269821952"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2098973355823313202",
+        "created_at": "2026-09-13T03:13:39.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T04:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098973355823313202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "2063957681984225280",
+              "start": 39,
+              "username": "YuwenMewo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkF4MPgzuO",
+              "end": 92,
+              "expanded_url": "https://x.com/bghtnya/status/2098973355823313202/video/1",
+              "media_key": "13_2098972932269821952",
+              "start": 69,
+              "url": "https://t.co/FkF4MPgzuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098973355823313202",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098972932269821952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1758,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "【唐毓文】忘睾牛肉面\n​原作：忘情牛肉面\n​参考：找不到了喵\n​参演：唐毓文 @YuwenMewo \n​调教：冰棍好烫啊\n​演唱：洛天依 https://t.co/FkF4MPgzuO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099073828186210505",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 65,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2099069785942434069",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11002,
+          "following_count": 2349,
+          "like_count": 186033,
+          "listed_count": 21,
+          "media_count": 4225,
+          "tweet_count": 51138
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己\n我的telegram群：https://t.co/7n12aPlryP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+UFtO_LPe9vA0O…",
+                "end": 101,
+                "expanded_url": "https://t.me/+UFtO_LPe9vA0OTJk",
+                "start": 78,
+                "url": "https://t.co/7n12aPlryP"
+              }
+            ]
+          }
+        },
+        "id": "2063957681984225280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098999552691052858",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2097900990750167415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063957681984225280/1781144220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2647,
+          "following_count": 98,
+          "like_count": 210,
+          "listed_count": 8,
+          "media_count": 805,
+          "tweet_count": 3178
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

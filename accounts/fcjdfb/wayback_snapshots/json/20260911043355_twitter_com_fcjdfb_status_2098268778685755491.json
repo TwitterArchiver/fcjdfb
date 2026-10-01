@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2098168380834668974",
+    "created_at": "2026-09-11T04:33:55.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T05:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098268778685755491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2002576775872983041",
+          "start": 0,
+          "username": "kb0715hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098268778685755491",
+    "in_reply_to_user_id": "2002576775872983041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098168380834668974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kb0715hh 理的呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2098168380834668974",
+        "created_at": "2026-09-11T04:33:55.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098268778685755491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2002576775872983041",
+              "start": 0,
+              "username": "kb0715hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098268778685755491",
+        "in_reply_to_user_id": "2002576775872983041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098168380834668974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kb0715hh 理的呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002576775872983041",
+        "conversation_id": "2098168380834668974",
+        "created_at": "2026-09-10T21:54:58.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T22:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098168380834668974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098168380834668974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天呐，现在都没人理我了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098268778685755491",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 63,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T03:10:09.000Z",
+        "description": "另一个我@kbkb0715",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "kbkb0715"
+              }
+            ]
+          }
+        },
+        "id": "2002576775872983041",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098169932555182403",
+        "name": "空白",
+        "pinned_tweet_id": "2096919274510328300",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002576775872983041/1787974043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096374848494931968/gPs1CQ18_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 182,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "kb0715hh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

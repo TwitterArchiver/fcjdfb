@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035652030245834752"
+      ],
+      "media_source_tweet_id": [
+        "2035652048558174414"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "2035911459868491921",
+    "created_at": "2026-03-23T02:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T03:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035911459868491921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620328547847110656",
+          "start": 3,
+          "username": "NPC888666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vQnXcLlcRL",
+          "end": 59,
+          "expanded_url": "https://x.com/NPC888666/status/2035652048558174414/photo/1",
+          "media_key": "3_2035652030245834752",
+          "start": 36,
+          "url": "https://t.co/vQnXcLlcRL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035911459868491921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035652048558174414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NPC888666: CPU烧了也没想明白，为什么赢的是妈妈？ https://t.co/vQnXcLlcRL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1543,
+        "media_key": "3_2035652030245834752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAWvHUbEAA9sqf.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035652030245834752"
+          ],
+          "media_source_tweet_id": [
+            "2035652048558174414"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2035911459868491921",
+        "created_at": "2026-03-23T02:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035911459868491921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620328547847110656",
+              "start": 3,
+              "username": "NPC888666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQnXcLlcRL",
+              "end": 59,
+              "expanded_url": "https://x.com/NPC888666/status/2035652048558174414/photo/1",
+              "media_key": "3_2035652030245834752",
+              "start": 36,
+              "url": "https://t.co/vQnXcLlcRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035911459868491921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035652048558174414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NPC888666: CPU烧了也没想明白，为什么赢的是妈妈？ https://t.co/vQnXcLlcRL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035652030245834752"
+          ]
+        },
+        "author_id": "1620328547847110656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2035652048558174414",
+        "created_at": "2026-03-22T09:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T10:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035652048558174414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQnXcLlcRL",
+              "end": 44,
+              "expanded_url": "https://x.com/NPC888666/status/2035652048558174414/photo/1",
+              "media_key": "3_2035652030245834752",
+              "start": 21,
+              "url": "https://t.co/vQnXcLlcRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035652048558174414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 645056,
+          "like_count": 1380,
+          "quote_count": 2,
+          "reply_count": 378,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "CPU烧了也没想明白，为什么赢的是妈妈？ https://t.co/vQnXcLlcRL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 92
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:50:10.000Z",
+        "description": "我喜欢讲故事和分享一些感悟，主打一个真实，不虚伪。 一个普通散户 不是KOL。",
+        "id": "1620328547847110656",
+        "name": "有故事的NPC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897867547439251457/CcDVFS1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40294,
+          "following_count": 1320,
+          "like_count": 7244,
+          "listed_count": 242,
+          "media_count": 788,
+          "tweet_count": 7175
+        },
+        "username": "NPC888666",
+        "verified": true
+      }
+    ]
+  }
+}

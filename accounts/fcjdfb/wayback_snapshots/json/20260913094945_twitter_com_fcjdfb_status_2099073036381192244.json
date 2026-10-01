@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098746273457471488"
+      ],
+      "media_source_tweet_id": [
+        "2098747160917647460"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2099073036381192244",
+    "created_at": "2026-09-13T09:49:45.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T10:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099073036381192244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1788530078412132352",
+          "start": 3,
+          "username": "zane_os"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GTyV2pcojG",
+          "end": 132,
+          "expanded_url": "https://x.com/zane_os/status/2098747160917647460/photo/1",
+          "media_key": "3_2098746273457471488",
+          "start": 109,
+          "url": "https://t.co/GTyV2pcojG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099073036381192244",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098746273457471488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098747160917647460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zane_os: 就在前几天  Proton VPN 推出了中国节点 可以帮助海外用户在国外访问B站等中国流媒体平台\n\n很幽默的一点，因为谷歌的广告服务在中国没有受众\n\n使用这个节点看Youtube没有广告😆 https://t.co/GTyV2pcojG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_2098746273457471488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSA-nbcbgAABD3J.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098746273457471488"
+          ],
+          "media_source_tweet_id": [
+            "2098747160917647460"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2099073036381192244",
+        "created_at": "2026-09-13T09:49:45.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099073036381192244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788530078412132352",
+              "start": 3,
+              "username": "zane_os"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTyV2pcojG",
+              "end": 132,
+              "expanded_url": "https://x.com/zane_os/status/2098747160917647460/photo/1",
+              "media_key": "3_2098746273457471488",
+              "start": 109,
+              "url": "https://t.co/GTyV2pcojG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099073036381192244",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098746273457471488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098747160917647460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zane_os: 就在前几天  Proton VPN 推出了中国节点 可以帮助海外用户在国外访问B站等中国流媒体平台\n\n很幽默的一点，因为谷歌的广告服务在中国没有受众\n\n使用这个节点看Youtube没有广告😆 https://t.co/GTyV2pcojG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098746273457471488"
+          ]
+        },
+        "author_id": "1788530078412132352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2098747160917647460",
+        "created_at": "2026-09-12T12:14:50.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098747160917647460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTyV2pcojG",
+              "end": 119,
+              "expanded_url": "https://x.com/zane_os/status/2098747160917647460/photo/1",
+              "media_key": "3_2098746273457471488",
+              "start": 96,
+              "url": "https://t.co/GTyV2pcojG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098747160917647460",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098746273457471488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 451,
+          "impression_count": 200397,
+          "like_count": 1625,
+          "quote_count": 7,
+          "reply_count": 116,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "就在前几天  Proton VPN 推出了中国节点 可以帮助海外用户在国外访问B站等中国流媒体平台\n\n很幽默的一点，因为谷歌的广告服务在中国没有受众\n\n使用这个节点看Youtube没有广告😆 https://t.co/GTyV2pcojG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099073036381192244",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 65,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T11:23:03.000Z",
+        "description": "你好，我是Zane!\n喜欢体验各种AI大模型和开发工具\n平常会发一些AI和Web3的新闻\n主要研究方向为TelegramBot生态开发",
+        "id": "1788530078412132352",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2099053763902484635",
+        "name": "Zane",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788530078412132352/1759422876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805084052514594816/LDNa5TLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 491,
+          "like_count": 4565,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 2915
+        },
+        "url": "",
+        "username": "zane_os",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

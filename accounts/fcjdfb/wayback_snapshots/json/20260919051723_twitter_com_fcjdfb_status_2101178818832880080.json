@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100849698101944352",
+    "created_at": "2026-09-19T05:17:23.000Z",
+    "display_text_range": [
+      37,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T06:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101178818832880080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2038748247754162176",
+          "start": 0,
+          "username": "0xA672"
+        },
+        {
+          "end": 24,
+          "id": "1930852263708487680",
+          "start": 8,
+          "username": "April0424444444"
+        },
+        {
+          "end": 36,
+          "id": "1684788633797287936",
+          "start": 25,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101178818832880080",
+    "in_reply_to_user_id": "2038748247754162176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101155926590075200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xA672 @April0424444444 @Moningmeng 随便找个群体都有这种情况，这人想攻击就直接说。扯那么多正当理由是干嘛，顺男顺女跨男跨女男同女同谁没有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100849698101944352",
+        "created_at": "2026-09-19T05:17:23.000Z",
+        "display_text_range": [
+          37,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T06:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101178818832880080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2038748247754162176",
+              "start": 0,
+              "username": "0xA672"
+            },
+            {
+              "end": 24,
+              "id": "1930852263708487680",
+              "start": 8,
+              "username": "April0424444444"
+            },
+            {
+              "end": 36,
+              "id": "1684788633797287936",
+              "start": 25,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101178818832880080",
+        "in_reply_to_user_id": "2038748247754162176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101155926590075200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xA672 @April0424444444 @Moningmeng 随便找个群体都有这种情况，这人想攻击就直接说。扯那么多正当理由是干嘛，顺男顺女跨男跨女男同女同谁没有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038748247754162176",
+        "conversation_id": "2100849698101944352",
+        "created_at": "2026-09-19T03:46:25.000Z",
+        "display_text_range": [
+          37,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101155926590075200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1930852263708487680",
+              "start": 0,
+              "username": "April0424444444"
+            },
+            {
+              "end": 24,
+              "id": "2032037309219315712",
+              "start": 17,
+              "username": "fcjdfb"
+            },
+            {
+              "end": 36,
+              "id": "1684788633797287936",
+              "start": 25,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101155926590075200",
+        "in_reply_to_user_id": "1930852263708487680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100928138452914589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@April0424444444 @fcjdfb @Moningmeng 以及就算是顺女 也是会有控诉原生家庭又用着家里的钱的例子 实际上我认为这并不能成为一个攻击面 因为\n可以考虑一种情况 被家暴者 她们的生命可以存续 不应该归功于家里的资源吗 然而他们的家庭确实对她们做了极为不合理的事\n受益于某人 不等于未受害于某人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101178818832880080",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 77,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 968
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-30T22:40:45.000Z",
+        "description": "Type-checking failure only means the program isn’t typable in that system—it may be a real type error or a limitation of the system’s expressiveness/proof power",
+        "id": "2038748247754162176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101175394888237157",
+        "name": "0xA672🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038748247754162176/1788612978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096220873003065344/uGCFC8X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 682,
+          "like_count": 3760,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "0xA672",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-06T05:00:35.000Z",
+        "description": "其实世界很温柔",
+        "id": "1930852263708487680",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101060162429788203",
+        "name": "勺女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1930852263708487680/1787692013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092358071624642560/hxxTciip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "April0424444444",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2100962499788964080",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789398871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30435,
+          "following_count": 12157,
+          "like_count": 99558,
+          "listed_count": 104,
+          "media_count": 5891,
+          "tweet_count": 20860
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

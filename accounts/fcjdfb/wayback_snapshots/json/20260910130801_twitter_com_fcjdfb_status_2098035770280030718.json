@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096928773648290065",
+    "created_at": "2026-09-10T13:08:01.000Z",
+    "display_text_range": [
+      30,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T14:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098035770280030718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1378376814389694468",
+          "start": 0,
+          "username": "Aoki_Asuka2000"
+        },
+        {
+          "end": 29,
+          "id": "1942111360420290561",
+          "start": 16,
+          "username": "credits18118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098035770280030718",
+    "in_reply_to_user_id": "1378376814389694468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098033374246183268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aoki_Asuka2000 @credits18118 剂量低于常规或者双中这样能行吗🤔感觉区别不会太大。按理来说只要激活了受体剂量高低差距不是会太大，手术选项那个我是真希望能有，快快端上来罢。国内估计几年内不会有了，希望国外能快点出这种手术方案。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096928773648290065",
+        "created_at": "2026-09-10T13:08:01.000Z",
+        "display_text_range": [
+          30,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098035770280030718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "Aoki_Asuka2000"
+            },
+            {
+              "end": 29,
+              "id": "1942111360420290561",
+              "start": 16,
+              "username": "credits18118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098035770280030718",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098033374246183268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aoki_Asuka2000 @credits18118 剂量低于常规或者双中这样能行吗🤔感觉区别不会太大。按理来说只要激活了受体剂量高低差距不是会太大，手术选项那个我是真希望能有，快快端上来罢。国内估计几年内不会有了，希望国外能快点出这种手术方案。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378376814389694468",
+        "conversation_id": "2096928773648290065",
+        "created_at": "2026-09-10T12:58:30.000Z",
+        "display_text_range": [
+          22,
+          172
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098033374246183268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            },
+            {
+              "end": 21,
+              "id": "1942111360420290561",
+              "start": 8,
+              "username": "credits18118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098033374246183268",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098025928202793297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb @credits18118 之前看ASRM 2026年委员会意见（美国生殖医学学会发布的《跨性别与性别多元照护》):\n1.激素治疗目标可以不是二元的，剂量可以低于常规\n2.非二元人群的睾酮和雌二醇目标范围可以更灵活，不必追求标准的男性或女性范围。\n3.手术选项也可以是非二元的（如保留阴茎的阴道成形术、生殖器成形术/无效化手术）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098035770280030718",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 62,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "Agender Trans/Aroace/唯一目标是SRS",
+        "id": "1378376814389694468",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098035241697034529",
+        "name": "Pie",
+        "pinned_tweet_id": "2097350027538735133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378376814389694468/1784865215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097688654584188928/VLlnjyzO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 7344,
+          "like_count": 176374,
+          "listed_count": 3,
+          "media_count": 903,
+          "tweet_count": 29691
+        },
+        "url": "",
+        "username": "Aoki_Asuka2000",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T06:40:56.000Z",
+        "description": "10年高中在读丨INFP-T丨重抑中焦+双相二型治疗中丨不🚬/🍺/🔪/od/键政丨音游重度依赖丨指派性别男，性别认同探索中(或许是非二元偏女?丨萨福式取向丨人称代词所有都可丨可互fo看成分回关丨很内向但渴望能找到朋友 请私信找我聊天！",
+        "id": "1942111360420290561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098022466581070038",
+        "name": "Phony",
+        "pinned_tweet_id": "2097107549623570562",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091115941690318848/bHlDpJb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 550,
+          "like_count": 3477,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 925
+        },
+        "url": "",
+        "username": "credits18118",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

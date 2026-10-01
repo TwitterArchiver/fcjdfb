@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096509032542716206",
+    "created_at": "2026-09-06T14:39:18.000Z",
+    "display_text_range": [
+      8,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096609187841384561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4848269835",
+          "start": 0,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096609187841384561",
+    "in_reply_to_user_id": "4848269835",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096509032542716206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FORAB 🤣🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_2096508789004681216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhLosUbwAA2Ne4.jpg",
+        "width": 888
+      },
+      {
+        "height": 1014,
+        "media_key": "3_2096508805165305856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhLpohbUAAAJJm.jpg",
+        "width": 890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096509032542716206",
+        "created_at": "2026-09-06T14:39:18.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096609187841384561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096609187841384561",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096509032542716206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096508789004681216",
+            "3_2096508805165305856"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2096509032542716206",
+        "created_at": "2026-09-06T08:01:19.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096509032542716206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SoLqp7Fm1K",
+              "end": 163,
+              "expanded_url": "https://x.com/_FORAB/status/2096509032542716206/photo/1",
+              "media_key": "3_2096508789004681216",
+              "start": 140,
+              "url": "https://t.co/SoLqp7Fm1K"
+            },
+            {
+              "display_url": "pic.x.com/SoLqp7Fm1K",
+              "end": 163,
+              "expanded_url": "https://x.com/_FORAB/status/2096509032542716206/photo/1",
+              "media_key": "3_2096508805165305856",
+              "start": 140,
+              "url": "https://t.co/SoLqp7Fm1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096509032542716206",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096508789004681216"
+          },
+          {
+            "media_key": "3_2096508805165305856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "全网 18 万粉丝，年仅 43 岁的有钱网红 Tiny，被确认在泰国接受鸡鸡增大手术后去世。\n\n他今年 3 月跟老婆去泰国玩，顺路在曼谷一家诊所，打针做阴茎增大。而就在手术后不久，他在酒店按摩时出现胸痛并两次昏厥。\n\n虽紧急抢救超过 100 分钟进行心肺复苏，但仍于 3 月 6 日凌晨去世，而死因确认为阴茎填充手术，引发的肺栓塞，相当于填充物跑进血管，把肺的血管堵住了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 243813,
+          "like_count": 512,
+          "quote_count": 18,
+          "reply_count": 234,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "全网 18 万粉丝，年仅 43 岁的有钱网红 Tiny，被确认在泰国接受鸡鸡增大手术后去世。\n\n他今年 3 月跟老婆去泰国玩，顺路在曼谷一家诊所，打针做阴茎增大。而就在手术后不久，他在酒店按摩时出现胸痛并两次昏厥。\n\n虽紧急抢救超过 100 分钟进行心肺复苏，但仍于 3 月 6 https://t.co/SoLqp7Fm1K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096609187841384561",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 53,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 310
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "is_identity_verified": true,
+        "location": "🇯🇵 Tokyo , Japan",
+        "most_recent_tweet_id": "2096579823900762493",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4848269835/1778770582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142362,
+          "following_count": 658,
+          "like_count": 10556,
+          "listed_count": 2117,
+          "media_count": 4634,
+          "tweet_count": 16319
+        },
+        "url": "",
+        "username": "_FORAB",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

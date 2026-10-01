@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "2102661305958322286",
+    "created_at": "2026-09-23T07:28:15.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T08:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102661305958322286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2032037309219315712",
+          "start": 3,
+          "username": "fcjdfb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102661305958322286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102644651996148043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fcjdfb: 将 Chrome 设置为默认浏览器\n将 Chrome 设为默认浏览器后，链接会自动在 Chrome 中打开。\n\n在某些国家/地区，系统可能会要求您选择默认浏览器。您可以随时更改默认浏览器。\n\n计算机 AndroidiPhone 和 iPad\n将 Chro…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11563,
+        "height": 1088,
+        "media_key": "13_2102644481065631744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102644481065631744/img/KTLlkA9kPfoYkFXu.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102644481065631744/vid/avc1/480x494/MzvLd4vca979MZP4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102644481065631744/pl/iTN0AMeSP3E1xblb.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102644481065631744/vid/avc1/1056x1088/W1xTW6XyhnEKeejH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102644481065631744/vid/avc1/720x740/vHZ-qwTs8Y5j19Ay.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102644481065631744/vid/avc1/320x328/nWOiX0wb9EL67GQN.mp4"
+          }
+        ],
+        "width": 1056
+      },
+      {
+        "height": 1640,
+        "media_key": "3_2102644593632440320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4YHhxbcAAZqBN.jpg",
+        "width": 3138
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2102644593632370688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4YHhxaYAAis7j.jpg",
+        "width": 3018
+      },
+      {
+        "height": 1172,
+        "media_key": "3_2102644593615605760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4YHhtakAA5fWD.jpg",
+        "width": 2010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2102661305958322286",
+        "created_at": "2026-09-23T07:28:15.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102661305958322286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2032037309219315712",
+              "start": 3,
+              "username": "fcjdfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102661305958322286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102644651996148043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fcjdfb: 将 Chrome 设置为默认浏览器\n将 Chrome 设为默认浏览器后，链接会自动在 Chrome 中打开。\n\n在某些国家/地区，系统可能会要求您选择默认浏览器。您可以随时更改默认浏览器。\n\n计算机 AndroidiPhone 和 iPad\n将 Chro…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102644481065631744",
+            "3_2102644593632440320",
+            "3_2102644593632370688",
+            "3_2102644593615605760"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Chrome",
+              "id": "10052778493",
+              "name": "Google Chrome"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2102644651996148043",
+        "created_at": "2026-09-23T06:22:04.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102644651996148043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bTOX9Rsw09",
+              "end": 187,
+              "expanded_url": "https://x.com/fcjdfb/status/2102644651996148043/video/1",
+              "media_key": "13_2102644481065631744",
+              "start": 164,
+              "url": "https://t.co/bTOX9Rsw09"
+            },
+            {
+              "display_url": "pic.x.com/bTOX9Rsw09",
+              "end": 187,
+              "expanded_url": "https://x.com/fcjdfb/status/2102644651996148043/video/1",
+              "media_key": "3_2102644593632440320",
+              "start": 164,
+              "url": "https://t.co/bTOX9Rsw09"
+            },
+            {
+              "display_url": "pic.x.com/bTOX9Rsw09",
+              "end": 187,
+              "expanded_url": "https://x.com/fcjdfb/status/2102644651996148043/video/1",
+              "media_key": "3_2102644593632370688",
+              "start": 164,
+              "url": "https://t.co/bTOX9Rsw09"
+            },
+            {
+              "display_url": "pic.x.com/bTOX9Rsw09",
+              "end": 187,
+              "expanded_url": "https://x.com/fcjdfb/status/2102644651996148043/video/1",
+              "media_key": "3_2102644593615605760",
+              "start": 164,
+              "url": "https://t.co/bTOX9Rsw09"
+            },
+            {
+              "display_url": "x.com/fcjdfb/status/…",
+              "end": 211,
+              "expanded_url": "https://twitter.com/fcjdfb/status/2102631066658087045",
+              "start": 188,
+              "url": "https://t.co/ec0OjQy43L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102644651996148043",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102644481065631744"
+          },
+          {
+            "media_key": "3_2102644593632440320"
+          },
+          {
+            "media_key": "3_2102644593632370688"
+          },
+          {
+            "media_key": "3_2102644593615605760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "将 Chrome 设置为默认浏览器\n将 Chrome 设为默认浏览器后，链接会自动在 Chrome 中打开。\n\n在某些国家/地区，系统可能会要求您选择默认浏览器。您可以随时更改默认浏览器。\n\n计算机 AndroidiPhone 和 iPad\n将 Chrome 设为默认网络浏览器\n重要提示：如果您尚未在电脑上安装 Google Chrome，请先下载并安装 Chrome。\n\nWindows 11\nWindows 10\nMac\nLinux\n相关资源\n设置默认搜索引擎\n在 Chrome 中登录并同步\n下载和安装 Chrome\n将 Gmail 设为默认邮件应用"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102631066658087045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "将 Chrome 设置为默认浏览器\n将 Chrome 设为默认浏览器后，链接会自动在 Chrome 中打开。\n\n在某些国家/地区，系统可能会要求您选择默认浏览器。您可以随时更改默认浏览器。\n\n计算机 AndroidiPhone 和 iPad\n将 Chrome 设为默认网络浏览器\n重要提示：如果您尚未在电脑上安装 Google https://t.co/bTOX9Rsw09 https://t.co/ec0OjQy43L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材（简介施工中）嗯对我懒得写等我写的时候吧）\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2102661305958322286",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 64,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1205
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

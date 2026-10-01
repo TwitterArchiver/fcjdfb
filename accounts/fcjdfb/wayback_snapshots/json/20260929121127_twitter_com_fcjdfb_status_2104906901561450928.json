@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104856133496365425",
+    "created_at": "2026-09-29T12:11:27.000Z",
+    "display_text_range": [
+      38,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T13:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104906901561450928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595655567623831552",
+          "start": 0,
+          "username": "aaaamingming"
+        },
+        {
+          "end": 26,
+          "id": "1643126722760679424",
+          "start": 14,
+          "username": "AnnieChorly"
+        },
+        {
+          "end": 37,
+          "id": "1337428792663547905",
+          "start": 27,
+          "username": "9ine_Rong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104906901561450928",
+    "in_reply_to_user_id": "1595655567623831552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104891396138356786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaamingming @AnnieChorly @9ine_Rong 仅仅是他们团队做的一个心理调查"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104856133496365425",
+        "created_at": "2026-09-29T12:11:27.000Z",
+        "display_text_range": [
+          38,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104906901561450928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595655567623831552",
+              "start": 0,
+              "username": "aaaamingming"
+            },
+            {
+              "end": 26,
+              "id": "1643126722760679424",
+              "start": 14,
+              "username": "AnnieChorly"
+            },
+            {
+              "end": 37,
+              "id": "1337428792663547905",
+              "start": 27,
+              "username": "9ine_Rong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104906901561450928",
+        "in_reply_to_user_id": "1595655567623831552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104891396138356786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaamingming @AnnieChorly @9ine_Rong 仅仅是他们团队做的一个心理调查"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595655567623831552",
+        "conversation_id": "2104856133496365425",
+        "created_at": "2026-09-29T11:09:50.000Z",
+        "display_text_range": [
+          24,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T12:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104891396138356786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643126722760679424",
+              "start": 0,
+              "username": "AnnieChorly"
+            },
+            {
+              "end": 23,
+              "id": "1337428792663547905",
+              "start": 13,
+              "username": "9ine_Rong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104891396138356786",
+        "in_reply_to_user_id": "1643126722760679424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104880077498617877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnnieChorly @9ine_Rong 所以这几个题如果全想填非常同意是正常的吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104906901561450928",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 65,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1623
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-24T05:48:36.000Z",
+        "description": "武汉 任务型理性mtf /声音和外貌pass/直接强制爱索要微信🚪99/接sm约调/碎碎念：@Happ1Mmm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Happ1Mmm"
+              }
+            ]
+          }
+        },
+        "id": "1595655567623831552",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2104895058751504416",
+        "name": "明明快要睡着了",
+        "pinned_tweet_id": "2080897384025063777",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1595655567623831552/1733286882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960740118777749509/v1DRZq85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5650,
+          "following_count": 235,
+          "like_count": 858,
+          "listed_count": 31,
+          "media_count": 146,
+          "tweet_count": 651
+        },
+        "url": "",
+        "username": "aaaamingming",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-04T05:42:03.000Z",
+        "description": "做好自己手上的事，好好生活",
+        "id": "1643126722760679424",
+        "is_identity_verified": false,
+        "location": "Gangdong, PRC",
+        "most_recent_tweet_id": "2104903674917228875",
+        "name": "是小酥子呀🍢🍰",
+        "pinned_tweet_id": "2099546207811207557",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643126722760679424/1725548472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815608698984710144/IjSAp-oA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 158,
+          "like_count": 4036,
+          "listed_count": 1,
+          "media_count": 963,
+          "tweet_count": 3294
+        },
+        "url": "",
+        "username": "AnnieChorly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-11T16:07:42.000Z",
+        "description": "大龄未术MTF🏳️‍⚧️HRT2019🍥等死老药娘🍬绝望老跨妹💣躁郁天残大骨架🤮日常外貌身材身高年龄性别焦虑自我厌恶精神崩溃💊作息紊乱💤榕的养老发癫群669063999✨顺直勿扰",
+        "id": "1337428792663547905",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104872342740463706",
+        "name": "榕",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337428792663547905/1671439460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094884682731249664/U4wzPQN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4189,
+          "following_count": 1576,
+          "like_count": 1915,
+          "listed_count": 9,
+          "media_count": 248,
+          "tweet_count": 831
+        },
+        "url": "",
+        "username": "9ine_Rong",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

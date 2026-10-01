@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100805742228111390",
+    "created_at": "2026-09-18T04:34:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T05:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100805742228111390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1748064252521545731",
+          "start": 3,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100805742228111390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100538644582805602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mihuanhuanhuan: 讲几个有自杀倾向的人爱听的笑话：\n\n1抑郁症患者和刚变成蜘蛛侠的彼得帕克有什么共同点？\n他们都试着把自己吊起来双脚离地\n\n2我真的希望我家院子里的草能得抑郁症，这样他们就会自己割自己。\n\n3有一个人喝农药自杀了，他家人把他送到西藏天葬，因…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2100538591466213376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSacuEVX0AAtKFb.jpg",
+        "width": 2695
+      },
+      {
+        "height": 1737,
+        "media_key": "3_2100538610806132736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSacvMYXkAAOyFP.jpg",
+        "width": 3223
+      },
+      {
+        "height": 1729,
+        "media_key": "3_2100538630833860608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSacwW_WcAAhsy0.jpg",
+        "width": 2909
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100805742228111390",
+        "created_at": "2026-09-18T04:34:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100805742228111390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1748064252521545731",
+              "start": 3,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100805742228111390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100538644582805602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mihuanhuanhuan: 讲几个有自杀倾向的人爱听的笑话：\n\n1抑郁症患者和刚变成蜘蛛侠的彼得帕克有什么共同点？\n他们都试着把自己吊起来双脚离地\n\n2我真的希望我家院子里的草能得抑郁症，这样他们就会自己割自己。\n\n3有一个人喝农药自杀了，他家人把他送到西藏天葬，因…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100538591466213376",
+            "3_2100538610806132736",
+            "3_2100538630833860608"
+          ]
+        },
+        "author_id": "1748064252521545731",
+        "conversation_id": "2100538644582805602",
+        "created_at": "2026-09-17T10:53:33.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100538644582805602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TNGgT9LtzK",
+              "end": 169,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2100538644582805602/photo/1",
+              "media_key": "3_2100538591466213376",
+              "start": 146,
+              "url": "https://t.co/TNGgT9LtzK"
+            },
+            {
+              "display_url": "pic.x.com/TNGgT9LtzK",
+              "end": 169,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2100538644582805602/photo/1",
+              "media_key": "3_2100538610806132736",
+              "start": 146,
+              "url": "https://t.co/TNGgT9LtzK"
+            },
+            {
+              "display_url": "pic.x.com/TNGgT9LtzK",
+              "end": 169,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2100538644582805602/photo/1",
+              "media_key": "3_2100538630833860608",
+              "start": 146,
+              "url": "https://t.co/TNGgT9LtzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100538644582805602",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100538591466213376"
+          },
+          {
+            "media_key": "3_2100538610806132736"
+          },
+          {
+            "media_key": "3_2100538630833860608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "讲几个有自杀倾向的人爱听的笑话：\n\n1抑郁症患者和刚变成蜘蛛侠的彼得帕克有什么共同点？\n他们都试着把自己吊起来双脚离地\n\n2我真的希望我家院子里的草能得抑郁症，这样他们就会自己割自己。\n\n3有一个人喝农药自杀了，他家人把他送到西藏天葬，因为他家谎报死因，所以执行天葬的秃鹫全被毒死了[笑哭]\n\n4入殓师笑话：在某一时刻，肉会烤的刚刚好\n\n5之前有一次早上太阳巨亮\n朋友：啊，那个东西是什么啊（捂眼\n我：是别人的未来（无慈悲\n\n6“你是怎么死的？吃安眠药自杀”\n“你为什么想自杀？”\n“因为睡不着”\n\n注：这些笑话来自真正的抑郁症和自杀意向的人（而且不是我）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 859,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "讲几个有自杀倾向的人爱听的笑话：\n\n1抑郁症患者和刚变成蜘蛛侠的彼得帕克有什么共同点？\n他们都试着把自己吊起来双脚离地\n\n2我真的希望我家院子里的草能得抑郁症，这样他们就会自己割自己。\n\n3有一个人喝农药自杀了，他家人把他送到西藏天葬，因为他家谎报死因，所以执行天葬的秃鹫全被毒死了[笑哭] https://t.co/TNGgT9LtzK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2100805742228111390",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 75,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 897
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "杭州拍摄剪辑编导/闲下来会画画写点东西/mtx/intp/18+guro/绝赞减重中（哭）\n懂一点点心理学哲学和商业 蓝标互关我想拿钱\n对象@junxi_dai/永远的好妹妹@danshuishuimu\n他俩有情况请及时告知我………\n如果你有自杀风险或者od失控风险请远离我 我很累了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "junxi_dai"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "danshuishuimu"
+              }
+            ]
+          }
+        },
+        "id": "1748064252521545731",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2100780614748340651",
+        "name": "迷幻章鱼🍥",
+        "pinned_tweet_id": "2091558616121958440",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748064252521545731/1778921642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092188322512896000/m_DQ8lX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 579,
+          "like_count": 4706,
+          "listed_count": 4,
+          "media_count": 671,
+          "tweet_count": 4742
+        },
+        "url": "",
+        "username": "mihuanhuanhuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2101819703476044225",
+    "created_at": "2026-09-20T23:44:01.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T00:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101819703476044225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2037909112055300096",
+          "start": 3,
+          "username": "QueerLawWatchCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101819703476044225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101594951268143616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QueerLawWatchCN: 波兰议会未能推翻总统对同性伴侣关系登记法案的否决🇵🇱🏳️‍🌈\n\n波兰众议院（Sejm）2026年9月17日就推翻总统卡罗尔·纳夫罗茨基（Karol Nawrocki）对民事伴侣关系登记法案的否决进行表决。表决结果未达到宪法规定的五分之三…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2101819703476044225",
+        "created_at": "2026-09-20T23:44:01.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T00:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101819703476044225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2037909112055300096",
+              "start": 3,
+              "username": "QueerLawWatchCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101819703476044225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101594951268143616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QueerLawWatchCN: 波兰议会未能推翻总统对同性伴侣关系登记法案的否决🇵🇱🏳️‍🌈\n\n波兰众议院（Sejm）2026年9月17日就推翻总统卡罗尔·纳夫罗茨基（Karol Nawrocki）对民事伴侣关系登记法案的否决进行表决。表决结果未达到宪法规定的五分之三…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037909112055300096",
+        "conversation_id": "2101594951268143616",
+        "created_at": "2026-09-20T08:50:56.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T09:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101594951268143616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101594951268143616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "tvpworld.com/95443922/polan…",
+                "end": 1034,
+                "expanded_url": "https://tvpworld.com/95443922/polands-parliament-falls-27-votes-short-of-overturning-presidential-veto-on-partnership-bill",
+                "start": 1011,
+                "url": "https://t.co/YOB5atHzUm"
+              },
+              {
+                "display_url": "notesfrompoland.com/2026/07/17/pre…",
+                "end": 1058,
+                "expanded_url": "https://notesfrompoland.com/2026/07/17/president-vetoes-legal-rights-for-same-sex-couples-in-poland/",
+                "start": 1035,
+                "url": "https://t.co/ug00NG5OSN"
+              },
+              {
+                "display_url": "notesfrompoland.com/2026/05/29/pol…",
+                "end": 1082,
+                "expanded_url": "https://notesfrompoland.com/2026/05/29/polish-parliament-approves-rights-for-same-sex-couples-but-president-pledges-veto/",
+                "start": 1059,
+                "url": "https://t.co/dHrp701eS9"
+              },
+              {
+                "display_url": "euronews.com/my-europe/2026…",
+                "end": 1106,
+                "expanded_url": "https://www.euronews.com/my-europe/2026/07/17/polish-president-karol-nawrocki-vetoes-civil-partnerships-bill",
+                "start": 1083,
+                "url": "https://t.co/Lmmi2Yjv0T"
+              }
+            ]
+          },
+          "text": "波兰议会未能推翻总统对同性伴侣关系登记法案的否决🇵🇱🏳️‍🌈\n\n波兰众议院（Sejm）2026年9月17日就推翻总统卡罗尔·纳夫罗茨基（Karol Nawrocki）对民事伴侣关系登记法案的否决进行表决。表决结果未达到宪法规定的五分之三多数（众议院460席，需276票），差27票，未能成功推翻否决。\n\n该法案是由议会两院通过的民事伴侣关系登记法案，总统在7月否决了这一法案，目前议会未能推翻总统的否决，最终该法案未能成为法律。\n\n这项法案最初由总理图斯克（Donald Tusk）领导的执政联盟推动，2025年12月提交议会，2026年5月29日以230票赞成、200票反对在众议院通过，随后在参议院获得多数支持。法案允许未婚伴侣（包括同性伴侣）通过公证人签署协议，获得\"最亲近人\"（status of the closest person）地位，享有共同财产权、医疗信息知情权、遗产和赠与税豁免以及丧葬事务决定权。执政联盟强调，这一制度并非婚姻替代品，也不限于浪漫关系——邻居或家庭成员之间同样可以签署。\n\n纳夫罗茨基于2026年7月17日否决该法案。他援引宪法第18条——该条将婚姻界定为\"一名女性与一名男性的结合\"——认为法案将\"通过后门引入民事伴侣关系\"，动摇婚姻的宪法特殊地位，并指出这类协议的终止比婚姻更为便捷，实质上构成了\"婚姻的替代方案\"。总理图斯克则称否决是\"对人民及其追求幸福权利的蔑视\"。政府平等事务专员卡塔日娜·科图拉（Katarzyna Kotula）指责纳夫罗茨基\"背弃了生活在非正式关系中的两百万波兰人\"，并表示否决不会阻止进步。\n\n波兰宪法规定，众议院须以五分之三多数方可推翻总统否决，这在波兰政治中极为罕见。此次表决中，法律与公正党（Prawo i Sprawiedliwość, PiS）和极右翼联盟党（Konfederacja）继续投下反对票，执政联盟内部亦有少数议员倒戈——此前5月的首轮表决中，联盟伙伴波兰人民党（Polskie Stronnictwo Ludowe）已有五名议员投了反对票。最近的民调显示，62%的波兰民众支持同性民事伴侣关系，为历史最高水平，但这一民意未能转化为足够的议会票数。\n\n波兰是欧盟中少数几个既不承认同性婚姻、也不提供同性伴侣关系法律登记的成员国之一。此次表决意味着，至少在本届总统任期内，波兰的同性伴侣仍将处于法律保护的真空之中。\n\n参考来源：\nhttps://t.co/YOB5atHzUm\nhttps://t.co/ug00NG5OSN\nhttps://t.co/dHrp701eS9\nhttps://t.co/Lmmi2Yjv0T"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1679,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "波兰议会未能推翻总统对同性伴侣关系登记法案的否决🇵🇱🏳️‍🌈\n\n波兰众议院（Sejm）2026年9月17日就推翻总统卡罗尔·纳夫罗茨基（Karol Nawrocki）对民事伴侣关系登记法案的否决进行表决。表决结果未达到宪法规定的五分之三多数（众议院460席，需276票），差27票，未能成功推翻否决。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101819703476044225",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 64,
+          "like_count": 554,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1084
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:08:39.000Z",
+        "description": "这里是阿冬。\n联系/投稿请私信或邮箱📮queerlawwatchcn@gmail.com\n关注全球LGBTQ运动经验和法律实践🏳️‍🌈🏳️‍⚧️，为关注中国的LGBTQ行动者提供他山之石。\ntracking queer law & policy globally | personal",
+        "id": "2037909112055300096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101594951268143616",
+        "name": "阿冬的酷儿法律观察",
+        "pinned_tweet_id": "2068670204628910335",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037909112055300096/1774712007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360437906182144/TuWas3GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2600,
+          "following_count": 1415,
+          "like_count": 1470,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "QueerLawWatchCN",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

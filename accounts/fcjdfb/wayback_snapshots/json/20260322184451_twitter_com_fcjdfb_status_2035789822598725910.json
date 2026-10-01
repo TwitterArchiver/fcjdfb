@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2035789822598725910",
+    "created_at": "2026-03-22T18:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T19:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035789822598725910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935176310663401472",
+          "start": 3,
+          "username": "S_Hyoscine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/HUHXOFxb",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/HUHXOFxb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035789822598725910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035764744297308480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @S_Hyoscine: 求助！\n\n我和我老婆的性别认同和性取向都正常，是跨女还喜欢女孩子，\n一个女儿小时候明明很乖很懂事，\n但是都十四了还不开始吃雌二醇也不穿裙子，还交了男朋友🥲\n\n请问我们应该怎么办，送她去信萨满能转回过来吗 https://t.co/HUHXOFxb…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1389,
+        "media_key": "3_2035764732905607169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEB9PRcbUAEPg9u.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2035789822598725910",
+        "created_at": "2026-03-22T18:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T19:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035789822598725910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935176310663401472",
+              "start": 3,
+              "username": "S_Hyoscine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/HUHXOFxb",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/HUHXOFxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035789822598725910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035764744297308480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @S_Hyoscine: 求助！\n\n我和我老婆的性别认同和性取向都正常，是跨女还喜欢女孩子，\n一个女儿小时候明明很乖很懂事，\n但是都十四了还不开始吃雌二醇也不穿裙子，还交了男朋友🥲\n\n请问我们应该怎么办，送她去信萨满能转回过来吗 https://t.co/HUHXOFxb…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035764732905607169"
+          ]
+        },
+        "author_id": "1935176310663401472",
+        "conversation_id": "2035764744297308480",
+        "created_at": "2026-03-22T17:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035764744297308480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HUHXOFxbjO",
+              "end": 125,
+              "expanded_url": "https://x.com/S_Hyoscine/status/2035764744297308480/photo/1",
+              "media_key": "3_2035764732905607169",
+              "start": 102,
+              "url": "https://t.co/HUHXOFxbjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035764744297308480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 806,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "求助！\n\n我和我老婆的性别认同和性取向都正常，是跨女还喜欢女孩子，\n一个女儿小时候明明很乖很懂事，\n但是都十四了还不开始吃雌二醇也不穿裙子，还交了男朋友🥲\n\n请问我们应该怎么办，送她去信萨满能转回过来吗 https://t.co/HUHXOFxbjO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 85
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "小药娘//爱人@hood438371//陪聊门槛50喵，能给你提供情绪价值//风俗娘//重度抖M，sub//大家都可以来私信我喵//生活——是无边无际的、浮满各种漂流物的、变幻无常的、暴力的，但总是一片澄澈而湛蓝的海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "hood438371"
+              }
+            ]
+          }
+        },
+        "id": "1935176310663401472",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "家养宠物春雪狐🍥",
+        "pinned_tweet_id": "2028922217715909008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028447229040812032/QJB4InPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 869,
+          "like_count": 22836,
+          "listed_count": 3,
+          "media_count": 406,
+          "tweet_count": 6740
+        },
+        "username": "S_Hyoscine",
+        "verified": true
+      }
+    ]
+  }
+}

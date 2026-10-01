@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101073141460000768"
+      ],
+      "media_source_tweet_id": [
+        "2101073149362364522"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2101400966809760221",
+    "created_at": "2026-09-19T20:00:07.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T21:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101400966809760221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1489351129448083463",
+          "start": 3,
+          "username": "craspyyyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zSKv8vJiUQ",
+          "end": 100,
+          "expanded_url": "https://x.com/craspyyyy/status/2101073149362364522/photo/1",
+          "media_key": "3_2101073141460000768",
+          "start": 77,
+          "url": "https://t.co/zSKv8vJiUQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101400966809760221",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2101073141460000768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3852
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101073149362364522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @craspyyyy: te odio elon musk ahora parece que tengo una aplicacion porno https://t.co/zSKv8vJiUQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2101073141460000768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSiC4-PWYAAXT9E.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101073141460000768"
+          ],
+          "media_source_tweet_id": [
+            "2101073149362364522"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2101400966809760221",
+        "created_at": "2026-09-19T20:00:07.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T21:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101400966809760221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1489351129448083463",
+              "start": 3,
+              "username": "craspyyyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zSKv8vJiUQ",
+              "end": 100,
+              "expanded_url": "https://x.com/craspyyyy/status/2101073149362364522/photo/1",
+              "media_key": "3_2101073141460000768",
+              "start": 77,
+              "url": "https://t.co/zSKv8vJiUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101400966809760221",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2101073141460000768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3852
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101073149362364522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @craspyyyy: te odio elon musk ahora parece que tengo una aplicacion porno https://t.co/zSKv8vJiUQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101073141460000768"
+          ]
+        },
+        "author_id": "1489351129448083463",
+        "conversation_id": "2101073149362364522",
+        "created_at": "2026-09-18T22:17:29.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T23:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101073149362364522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zSKv8vJiUQ",
+              "end": 85,
+              "expanded_url": "https://x.com/craspyyyy/status/2101073149362364522/photo/1",
+              "media_key": "3_2101073141460000768",
+              "start": 62,
+              "url": "https://t.co/zSKv8vJiUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101073149362364522",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2101073141460000768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2469,
+          "impression_count": 2556860,
+          "like_count": 75862,
+          "quote_count": 121,
+          "reply_count": 494,
+          "retweet_count": 3852
+        },
+        "reply_settings": "everyone",
+        "text": "te odio elon musk ahora parece que tengo una aplicacion porno https://t.co/zSKv8vJiUQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101400966809760221",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 65,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1032
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-03T21:32:50.000Z",
+        "description": "listo que capo que soy\nsponsor: @RoobetES",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "RoobetES"
+              }
+            ]
+          }
+        },
+        "id": "1489351129448083463",
+        "is_identity_verified": false,
+        "location": "rosario",
+        "most_recent_tweet_id": "2101399495380553932",
+        "name": "craspi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489351129448083463/1775670804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036148119356719105/_vHOtuzw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41509,
+          "following_count": 130,
+          "like_count": 19133,
+          "listed_count": 24,
+          "media_count": 2401,
+          "tweet_count": 9384
+        },
+        "url": "",
+        "username": "craspyyyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

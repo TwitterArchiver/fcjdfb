@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2100849698101944352",
+    "created_at": "2026-09-19T11:27:31.000Z",
+    "display_text_range": [
+      37,
+      177
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T12:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101271967274050014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1930852263708487680",
+          "start": 0,
+          "username": "April0424444444"
+        },
+        {
+          "end": 24,
+          "id": "2038748247754162176",
+          "start": 17,
+          "username": "0xA672"
+        },
+        {
+          "end": 36,
+          "id": "1684788633797287936",
+          "start": 25,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101271967274050014",
+    "in_reply_to_user_id": "1930852263708487680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "从未经历苦痛是怎么得出的，世卫组织明确了将自杀列为精神健康的一部分。有自杀倾向和行为的人在精神上并不是时分健康，需要干预。我在这里也仅仅是关注他究竟有没有自杀倾向和行为。一个人是出于何种目的，无论是炒作自我伤害，后天被伤害或先天性问题等各种性质都不妨碍一个人需要在医学上得到帮助和治疗。\n医者仁心，仅仅就因为某个人的某些原因拒绝给别人提供治疗和帮助是十分不道德的。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101248664421442036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@April0424444444 @0xA672 @Moningmeng 从未经历苦痛是怎么得出的，世卫组织明确了将自杀列为精神健康的一部分。有自杀倾向和行为的人在精神上并不是时分健康，需要干预。我在这里也仅仅是关注他究竟有没有自杀倾向和行为。一个人是出于何种目的，无论是炒作自我伤害，后天被伤害或先天性问题等各种性质都不妨碍一个人需要在医学上得到帮助和"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2100849698101944352",
+        "created_at": "2026-09-19T11:27:31.000Z",
+        "display_text_range": [
+          37,
+          177
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101271967274050014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1930852263708487680",
+              "start": 0,
+              "username": "April0424444444"
+            },
+            {
+              "end": 24,
+              "id": "2038748247754162176",
+              "start": 17,
+              "username": "0xA672"
+            },
+            {
+              "end": 36,
+              "id": "1684788633797287936",
+              "start": 25,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101271967274050014",
+        "in_reply_to_user_id": "1930852263708487680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从未经历苦痛是怎么得出的，世卫组织明确了将自杀列为精神健康的一部分。有自杀倾向和行为的人在精神上并不是时分健康，需要干预。我在这里也仅仅是关注他究竟有没有自杀倾向和行为。一个人是出于何种目的，无论是炒作自我伤害，后天被伤害或先天性问题等各种性质都不妨碍一个人需要在医学上得到帮助和治疗。\n医者仁心，仅仅就因为某个人的某些原因拒绝给别人提供治疗和帮助是十分不道德的。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101248664421442036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@April0424444444 @0xA672 @Moningmeng 从未经历苦痛是怎么得出的，世卫组织明确了将自杀列为精神健康的一部分。有自杀倾向和行为的人在精神上并不是时分健康，需要干预。我在这里也仅仅是关注他究竟有没有自杀倾向和行为。一个人是出于何种目的，无论是炒作自我伤害，后天被伤害或先天性问题等各种性质都不妨碍一个人需要在医学上得到帮助和"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930852263708487680",
+        "conversation_id": "2100849698101944352",
+        "created_at": "2026-09-19T09:54:55.000Z",
+        "display_text_range": [
+          28,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101248664421442036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2038748247754162176",
+              "start": 0,
+              "username": "0xA672"
+            },
+            {
+              "end": 15,
+              "id": "2032037309219315712",
+              "start": 8,
+              "username": "fcjdfb"
+            },
+            {
+              "end": 27,
+              "id": "1684788633797287936",
+              "start": 16,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101248664421442036",
+        "in_reply_to_user_id": "2038748247754162176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101155926590075200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xA672 @fcjdfb @Moningmeng 不论男女跨男跨女都会有这样的人存在，这我承认，而我的表达是在从未经历苦痛而控诉生活不公的人是可耻的，这就是我的想法。简单来说你今天和我说原生家庭痛苦明天就换上iPhone18了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101271967274050014",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 77,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 986
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-06T05:00:35.000Z",
+        "description": "其实世界很温柔",
+        "id": "1930852263708487680",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101248664421442036",
+        "name": "勺女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1930852263708487680/1787692013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092358071624642560/hxxTciip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "April0424444444",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-30T22:40:45.000Z",
+        "description": "Type-checking failure only means the program isn’t typable in that system—it may be a real type error or a limitation of the system’s expressiveness/proof power",
+        "id": "2038748247754162176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101269596166836497",
+        "name": "0xA672🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038748247754162176/1788612978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096220873003065344/uGCFC8X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 732,
+          "like_count": 4056,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "0xA672",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2100962499788964080",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789398871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30439,
+          "following_count": 12157,
+          "like_count": 99546,
+          "listed_count": 104,
+          "media_count": 5891,
+          "tweet_count": 20859
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104572429796331922",
+    "created_at": "2026-09-28T17:56:26.000Z",
+    "display_text_range": [
+      28,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T18:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104631331716317281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1983359600238964736",
+          "start": 0,
+          "username": "OvO_wwwwwww"
+        },
+        {
+          "end": 27,
+          "id": "1884745808605818880",
+          "start": 13,
+          "username": "Bunbohue40037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104631331716317281",
+    "in_reply_to_user_id": "1983359600238964736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104594901660778720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO_wwwwwww @Bunbohue40037 对的，老恶心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104572429796331922",
+        "created_at": "2026-09-28T17:56:26.000Z",
+        "display_text_range": [
+          28,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T18:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104631331716317281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1983359600238964736",
+              "start": 0,
+              "username": "OvO_wwwwwww"
+            },
+            {
+              "end": 27,
+              "id": "1884745808605818880",
+              "start": 13,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104631331716317281",
+        "in_reply_to_user_id": "1983359600238964736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104594901660778720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO_wwwwwww @Bunbohue40037 对的，老恶心了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983359600238964736",
+        "conversation_id": "2104572429796331922",
+        "created_at": "2026-09-28T15:31:40.000Z",
+        "display_text_range": [
+          15,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T16:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104594901660778720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884745808605818880",
+              "start": 0,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104594901660778720",
+        "in_reply_to_user_id": "1884745808605818880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104572429796331922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunbohue40037 开蓝微纯粹是因为不开有发帖上限"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104631331716317281",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 65,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1570
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-29T02:26:06.000Z",
+        "description": "Unus pro omnibus, omnes pro uno",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/OvO_wwwwwww",
+                "end": 23,
+                "expanded_url": "http://t.me/OvO_wwwwwww",
+                "start": 0,
+                "url": "https://t.co/RLRzXwiPAK"
+              }
+            ]
+          }
+        },
+        "id": "1983359600238964736",
+        "is_identity_verified": false,
+        "location": "加拿大留子，bio太长是男同的象征，所以写在这",
+        "most_recent_tweet_id": "2104628140815335843",
+        "name": "清淼",
+        "pinned_tweet_id": "2032817409736732786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983359600238964736/1773864487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089789004510093312/QoQ5GKlT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 3886,
+          "like_count": 11440,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1259
+        },
+        "url": "https://t.co/RLRzXwiPAK",
+        "username": "OvO_wwwwwww",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104613994564555161",
+        "name": "Bún bò Huế 🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884745808605818880/1759586488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 658,
+          "like_count": 216480,
+          "listed_count": 5,
+          "media_count": 1690,
+          "tweet_count": 24088
+        },
+        "url": "",
+        "username": "Bunbohue40037",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

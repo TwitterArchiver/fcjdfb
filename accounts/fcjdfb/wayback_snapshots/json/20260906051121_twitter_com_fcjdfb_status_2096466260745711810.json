@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2095883932885770480",
+    "created_at": "2026-09-06T05:11:21.000Z",
+    "display_text_range": [
+      28,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T06:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096466260745711810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 27,
+          "id": "1510447851507261445",
+          "start": 16,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096466260745711810",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "b23.tv/XgA0Y5r",
+            "end": 56,
+            "expanded_url": "https://b23.tv/XgA0Y5r",
+            "start": 33,
+            "url": "https://t.co/fPwmquMPz5"
+          }
+        ]
+      },
+      "text": "可以看看这个博主【宽肩男生穿女装，不要硬装小骨架少女-哔哩哔哩】 https://t.co/fPwmquMPz5对思路打开挺有帮助的。化妆的话我因为对硫酸钠过敏，洗发水沐浴乳常见牌子型号都有这玩意，就基本没研究过化妆。美宝莲的粉饼可以看看。就画个简单素装。我买东西的思路就是看他隶属于哪个集团，如果这个集团不错再看他每个牌子定位，定位符合我就买了。美宝莲就是欧莱雅的，欧莱雅有四个部门，他的皮肤科学美容部比较适合我这种过敏易感人群，我对硫酸钠过敏。我所以就全部用了欧莱雅集团的适乐肤牌子和薇姿洗发水。适乐肤的洗面奶来当沐浴乳用。然后洗完澡之后擦个身体乳。水杨酸这个材质价格挺平民的，作为日常护肤手段可以多选择这个。你搜这个牌子在xhs或者b站肯定找不到几个人推荐，但你如果去问皮肤科医生说不定会有不一样答案🙃。我避开营销的方式就是这样"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096310836151378271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Rain_Antar1121 @LanziiLove 可以看看这个博主【宽肩男生穿女装，不要硬装小骨架少女-哔哩哔哩】"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2095883932885770480",
+        "created_at": "2026-09-06T05:11:21.000Z",
+        "display_text_range": [
+          28,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096466260745711810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 27,
+              "id": "1510447851507261445",
+              "start": 16,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096466260745711810",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "b23.tv/XgA0Y5r",
+                "end": 56,
+                "expanded_url": "https://b23.tv/XgA0Y5r",
+                "start": 33,
+                "url": "https://t.co/fPwmquMPz5"
+              }
+            ]
+          },
+          "text": "可以看看这个博主【宽肩男生穿女装，不要硬装小骨架少女-哔哩哔哩】 https://t.co/fPwmquMPz5对思路打开挺有帮助的。化妆的话我因为对硫酸钠过敏，洗发水沐浴乳常见牌子型号都有这玩意，就基本没研究过化妆。美宝莲的粉饼可以看看。就画个简单素装。我买东西的思路就是看他隶属于哪个集团，如果这个集团不错再看他每个牌子定位，定位符合我就买了。美宝莲就是欧莱雅的，欧莱雅有四个部门，他的皮肤科学美容部比较适合我这种过敏易感人群，我对硫酸钠过敏。我所以就全部用了欧莱雅集团的适乐肤牌子和薇姿洗发水。适乐肤的洗面奶来当沐浴乳用。然后洗完澡之后擦个身体乳。水杨酸这个材质价格挺平民的，作为日常护肤手段可以多选择这个。你搜这个牌子在xhs或者b站肯定找不到几个人推荐，但你如果去问皮肤科医生说不定会有不一样答案🙃。我避开营销的方式就是这样"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096310836151378271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Rain_Antar1121 @LanziiLove 可以看看这个博主【宽肩男生穿女装，不要硬装小骨架少女-哔哩哔哩】"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2095883932885770480",
+        "created_at": "2026-09-05T18:53:45.000Z",
+        "display_text_range": [
+          20,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T19:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096310836151378271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            },
+            {
+              "end": 19,
+              "id": "1510447851507261445",
+              "start": 8,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096310836151378271",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096307368284086387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@fcjdfb @LanziiLove 谢谢谢谢！呜…感觉小红书之类的社区也全是广告😵‍💫那有什么社区推荐嘛呜呜呜呜…\n\n每次要选衣服和化妆品日用品之类的东西，都会发现大平台全被推广淹没的趋势，感觉到头来在这个时代还是需要活人推荐，又是某种防自学机制了…而现实里根本不会有活人教咱穿搭啊，窝到现在可能也没脱离你说的那个状态😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096466260745711810",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 44,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2096454303682879797",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5190,
+          "following_count": 7135,
+          "like_count": 20490,
+          "listed_count": 12,
+          "media_count": 449,
+          "tweet_count": 6003
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向 无门槛无黄无业务｜我的未来的丈夫然桑@dexy0306❤️｜常驻成都 大三计科摆烂老登｜高P不pass丑逼 ｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 92,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 69,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2096213280092192928",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30617,
+          "following_count": 1638,
+          "like_count": 3915,
+          "listed_count": 89,
+          "media_count": 544,
+          "tweet_count": 3496
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

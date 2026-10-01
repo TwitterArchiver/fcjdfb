@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101368590830358528"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2101368610094792844",
+    "created_at": "2026-09-19T17:51:32.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T18:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101368610094792844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w5i0hjjIRD",
+          "end": 27,
+          "expanded_url": "https://x.com/fcjdfb/status/2101368610094792844/photo/1",
+          "media_key": "3_2101368590830358528",
+          "start": 4,
+          "url": "https://t.co/w5i0hjjIRD"
+        },
+        {
+          "display_url": "x.com/yb4928/status/…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/yb4928/status/2101278708342706669",
+          "start": 28,
+          "url": "https://t.co/Rla7VW3aG2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101368610094792844",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101368590830358528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101278708342706669",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是否 https://t.co/w5i0hjjIRD https://t.co/Rla7VW3aG2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2688,
+        "media_key": "3_2101368590830358528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSmPmY6bUAAeK2a.jpg",
+        "width": 1216
+      },
+      {
+        "duration_ms": 10250,
+        "height": 1280,
+        "media_key": "13_2101278641640570881",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101278641640570881/img/nXZMCcZMJ67OlFmT.jpg",
+        "public_metrics": {
+          "view_count": 213
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101278641640570881/vid/avc1/320x568/flXAGKDMidXJf7ds.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101278641640570881/vid/avc1/480x852/Q1Ea5k23_4Fzsvnb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101278641640570881/vid/avc1/720x1280/vZmuKi16r1T60O7e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101278641640570881/pl/KvASsmLTAIaIaShJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101368590830358528"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2101368610094792844",
+        "created_at": "2026-09-19T17:51:32.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101368610094792844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w5i0hjjIRD",
+              "end": 27,
+              "expanded_url": "https://x.com/fcjdfb/status/2101368610094792844/photo/1",
+              "media_key": "3_2101368590830358528",
+              "start": 4,
+              "url": "https://t.co/w5i0hjjIRD"
+            },
+            {
+              "display_url": "x.com/yb4928/status/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/yb4928/status/2101278708342706669",
+              "start": 28,
+              "url": "https://t.co/Rla7VW3aG2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101368610094792844",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101368590830358528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101278708342706669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是否 https://t.co/w5i0hjjIRD https://t.co/Rla7VW3aG2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101278641640570881"
+          ]
+        },
+        "author_id": "1844765088722694144",
+        "conversation_id": "2101278708342706669",
+        "created_at": "2026-09-19T11:54:18.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101278708342706669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7gvED9mev",
+              "end": 40,
+              "expanded_url": "https://x.com/yb4928/status/2101278708342706669/video/1",
+              "media_key": "13_2101278641640570881",
+              "start": 17,
+              "url": "https://t.co/t7gvED9mev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101278708342706669",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101278641640570881"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别回来兄弟怎么见到我就跑了？ https://t.co/t7gvED9mev"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101368610094792844",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 77,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1014
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-11T15:40:54.000Z",
+        "description": "双性人一只，在B站直播，过门送清凉图包2个月份的，🚪槛费B站上舰长，企鹅号2300639479(可加联系方式解锁更多套餐) 需要的直接私信我即可",
+        "id": "1844765088722694144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101278708342706669",
+        "name": "羊喵娘",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844765088722694144/1773220597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031660388593672192/cVUUB4V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 11,
+          "like_count": 112,
+          "listed_count": 7,
+          "media_count": 68,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "yb4928",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

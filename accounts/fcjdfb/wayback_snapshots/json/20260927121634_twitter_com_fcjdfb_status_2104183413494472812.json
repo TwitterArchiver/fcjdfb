@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104183374005059584",
+        "3_2104183389842714624",
+        "3_2104183403096768512"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104183413494472812",
+    "created_at": "2026-09-27T12:16:34.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104183413494472812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zsplnew3nG",
+          "end": 156,
+          "expanded_url": "https://x.com/fcjdfb/status/2104183413494472812/photo/1",
+          "media_key": "3_2104183374005059584",
+          "start": 133,
+          "url": "https://t.co/zsplnew3nG"
+        },
+        {
+          "display_url": "pic.x.com/zsplnew3nG",
+          "end": 156,
+          "expanded_url": "https://x.com/fcjdfb/status/2104183413494472812/photo/1",
+          "media_key": "3_2104183389842714624",
+          "start": 133,
+          "url": "https://t.co/zsplnew3nG"
+        },
+        {
+          "display_url": "pic.x.com/zsplnew3nG",
+          "end": 156,
+          "expanded_url": "https://x.com/fcjdfb/status/2104183413494472812/photo/1",
+          "media_key": "3_2104183403096768512",
+          "start": 133,
+          "url": "https://t.co/zsplnew3nG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104183413494472812",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104183374005059584"
+      },
+      {
+        "media_key": "3_2104183389842714624"
+      },
+      {
+        "media_key": "3_2104183403096768512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟推友出来玩了捏  本来还想打个舞萌最后，排队人太多就没玩了\n然后看了下摄影展...只能说很风景照特色了\n个人自拍和今天着装放图三了，考虑到很多人不想刷帖子突然出现真人内容（比如我）一开始是想内容标记成敏感需要手动点开，但搞的所有图都被隐藏了..所以就移到最后去了 https://t.co/zsplnew3nG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3064,
+        "media_key": "3_2104183374005059584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOPoVXawAAzZga.jpg",
+        "width": 3064
+      },
+      {
+        "height": 2298,
+        "media_key": "3_2104183389842714624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOPpQXaMAABu8I.jpg",
+        "width": 4084
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2104183403096768512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOPqBvbAAAjm1O.jpg",
+        "width": 2835
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104183374005059584",
+            "3_2104183389842714624",
+            "3_2104183403096768512"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104183413494472812",
+        "created_at": "2026-09-27T12:16:34.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104183413494472812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zsplnew3nG",
+              "end": 156,
+              "expanded_url": "https://x.com/fcjdfb/status/2104183413494472812/photo/1",
+              "media_key": "3_2104183374005059584",
+              "start": 133,
+              "url": "https://t.co/zsplnew3nG"
+            },
+            {
+              "display_url": "pic.x.com/zsplnew3nG",
+              "end": 156,
+              "expanded_url": "https://x.com/fcjdfb/status/2104183413494472812/photo/1",
+              "media_key": "3_2104183389842714624",
+              "start": 133,
+              "url": "https://t.co/zsplnew3nG"
+            },
+            {
+              "display_url": "pic.x.com/zsplnew3nG",
+              "end": 156,
+              "expanded_url": "https://x.com/fcjdfb/status/2104183413494472812/photo/1",
+              "media_key": "3_2104183403096768512",
+              "start": 133,
+              "url": "https://t.co/zsplnew3nG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104183413494472812",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104183374005059584"
+          },
+          {
+            "media_key": "3_2104183389842714624"
+          },
+          {
+            "media_key": "3_2104183403096768512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟推友出来玩了捏  本来还想打个舞萌最后，排队人太多就没玩了\n然后看了下摄影展...只能说很风景照特色了\n个人自拍和今天着装放图三了，考虑到很多人不想刷帖子突然出现真人内容（比如我）一开始是想内容标记成敏感需要手动点开，但搞的所有图都被隐藏了..所以就移到最后去了 https://t.co/zsplnew3nG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104183413494472812",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 67,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1401
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

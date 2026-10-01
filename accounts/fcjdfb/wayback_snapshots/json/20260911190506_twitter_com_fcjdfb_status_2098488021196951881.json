@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098488003358580736",
+        "3_2098488016868356096"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098488021196951881",
+    "created_at": "2026-09-11T19:05:06.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098488021196951881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RjIeZHDWGr",
+          "end": 132,
+          "expanded_url": "https://x.com/fcjdfb/status/2098488021196951881/photo/1",
+          "media_key": "3_2098488003358580736",
+          "start": 109,
+          "url": "https://t.co/RjIeZHDWGr"
+        },
+        {
+          "display_url": "pic.x.com/RjIeZHDWGr",
+          "end": 132,
+          "expanded_url": "https://x.com/fcjdfb/status/2098488021196951881/photo/1",
+          "media_key": "3_2098488016868356096",
+          "start": 109,
+          "url": "https://t.co/RjIeZHDWGr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098488021196951881",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098488003358580736"
+      },
+      {
+        "media_key": "3_2098488016868356096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天塌了😭今天骑自行车的时候好像不知什么意外划到了一下手机后壳，结果京东买加购保障的时候自信自己天天摔得都是屏幕（我几乎每年都会坏一次手机屏,稳定坏屏不知道说什么）。刚刚一看才发现买的是屏幕保不是机器保，只能付费维修了 https://t.co/RjIeZHDWGr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2098488003358580736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9TuIWbYAAdwRq.jpg",
+        "width": 3072
+      },
+      {
+        "height": 385,
+        "media_key": "3_2098488016868356096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9Tu6raMAAYbLL.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098488003358580736",
+            "3_2098488016868356096"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098488021196951881",
+        "created_at": "2026-09-11T19:05:06.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098488021196951881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RjIeZHDWGr",
+              "end": 132,
+              "expanded_url": "https://x.com/fcjdfb/status/2098488021196951881/photo/1",
+              "media_key": "3_2098488003358580736",
+              "start": 109,
+              "url": "https://t.co/RjIeZHDWGr"
+            },
+            {
+              "display_url": "pic.x.com/RjIeZHDWGr",
+              "end": 132,
+              "expanded_url": "https://x.com/fcjdfb/status/2098488021196951881/photo/1",
+              "media_key": "3_2098488016868356096",
+              "start": 109,
+              "url": "https://t.co/RjIeZHDWGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098488021196951881",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098488003358580736"
+          },
+          {
+            "media_key": "3_2098488016868356096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天塌了😭今天骑自行车的时候好像不知什么意外划到了一下手机后壳，结果京东买加购保障的时候自信自己天天摔得都是屏幕（我几乎每年都会坏一次手机屏,稳定坏屏不知道说什么）。刚刚一看才发现买的是屏幕保不是机器保，只能付费维修了 https://t.co/RjIeZHDWGr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098488021196951881",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 64,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 525
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

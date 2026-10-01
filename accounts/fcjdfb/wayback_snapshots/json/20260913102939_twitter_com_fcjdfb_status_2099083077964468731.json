@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098779396572393472"
+      ],
+      "media_source_tweet_id": [
+        "2098779403698471385"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099083077964468731",
+    "created_at": "2026-09-13T10:29:39.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T11:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099083077964468731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1874901736303046656",
+          "start": 3,
+          "username": "jiubudiebeizi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ixu8I7i5wk",
+          "end": 48,
+          "expanded_url": "https://x.com/jiubudiebeizi/status/2098779403698471385/photo/1",
+          "media_key": "3_2098779396572393472",
+          "start": 25,
+          "url": "https://t.co/ixu8I7i5wk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099083077964468731",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098779396572393472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098779403698471385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiubudiebeizi: 王牌对王牌 https://t.co/ixu8I7i5wk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_2098779396572393472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBcvcqbMAAfBjZ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098779396572393472"
+          ],
+          "media_source_tweet_id": [
+            "2098779403698471385"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099083077964468731",
+        "created_at": "2026-09-13T10:29:39.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099083077964468731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1874901736303046656",
+              "start": 3,
+              "username": "jiubudiebeizi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixu8I7i5wk",
+              "end": 48,
+              "expanded_url": "https://x.com/jiubudiebeizi/status/2098779403698471385/photo/1",
+              "media_key": "3_2098779396572393472",
+              "start": 25,
+              "url": "https://t.co/ixu8I7i5wk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099083077964468731",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098779396572393472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098779403698471385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiubudiebeizi: 王牌对王牌 https://t.co/ixu8I7i5wk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098779396572393472"
+          ]
+        },
+        "author_id": "1874901736303046656",
+        "conversation_id": "2098779403698471385",
+        "created_at": "2026-09-12T14:22:57.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098779403698471385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixu8I7i5wk",
+              "end": 29,
+              "expanded_url": "https://x.com/jiubudiebeizi/status/2098779403698471385/photo/1",
+              "media_key": "3_2098779396572393472",
+              "start": 6,
+              "url": "https://t.co/ixu8I7i5wk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098779403698471385",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098779396572393472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 15788,
+          "like_count": 237,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "王牌对王牌 https://t.co/ixu8I7i5wk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099083077964468731",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 65,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-02T19:33:42.000Z",
+        "description": "一些碎片",
+        "id": "1874901736303046656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099074725964394984",
+        "name": "记得叠被子",
+        "pinned_tweet_id": "2053357564080128283",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874909613201772544/cETc1g2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 26,
+          "like_count": 1288,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 353
+        },
+        "url": "",
+        "username": "jiubudiebeizi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

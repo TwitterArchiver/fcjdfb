@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2038933773908348991",
+    "created_at": "2026-03-31T10:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038933773908348991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2026223126212915200",
+          "start": 3,
+          "username": "SwRH6Yo8S289008"
+        },
+        {
+          "end": 32,
+          "id": "1650117929378410496",
+          "start": 21,
+          "username": "smislovely"
+        },
+        {
+          "end": 42,
+          "id": "1828632343680294916",
+          "start": 33,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038933773908348991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038796072907428175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SwRH6Yo8S289008: @smislovely @jianlvya 10元就可以了，你买个打火机去后山找堆树叶把自己埋起来然后一把火点了，你麻痹的直接烧成灰就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2038933773908348991",
+        "created_at": "2026-03-31T10:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038933773908348991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2026223126212915200",
+              "start": 3,
+              "username": "SwRH6Yo8S289008"
+            },
+            {
+              "end": 32,
+              "id": "1650117929378410496",
+              "start": 21,
+              "username": "smislovely"
+            },
+            {
+              "end": 42,
+              "id": "1828632343680294916",
+              "start": 33,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038933773908348991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038796072907428175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SwRH6Yo8S289008: @smislovely @jianlvya 10元就可以了，你买个打火机去后山找堆树叶把自己埋起来然后一把火点了，你麻痹的直接烧成灰就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026223126212915200",
+        "conversation_id": "2038756551981441212",
+        "created_at": "2026-03-31T01:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038796072907428175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1650117929378410496",
+              "start": 0,
+              "username": "smislovely"
+            },
+            {
+              "end": 21,
+              "id": "1828632343680294916",
+              "start": 12,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038796072907428175",
+        "in_reply_to_user_id": "1650117929378410496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1335,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038766533904916777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smislovely @jianlvya 10元就可以了，你买个打火机去后山找堆树叶把自己埋起来然后一把火点了，你麻痹的直接烧成灰就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 29,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 126
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T09:10:35.000Z",
+        "description": "",
+        "id": "2026223126212915200",
+        "name": "原神高手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026493531909722112/dkV7imlM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 32,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "SwRH6Yo8S289008",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T12:42:55.000Z",
+        "description": "日常发点段子，输出点观点。爱好美股｜币圈｜足球。\n张雪峰没了，我张子彪替他走下去。",
+        "id": "1650117929378410496",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "张子彪",
+        "pinned_tweet_id": "2036423674119725317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992656321741754368/INWXjeRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3523,
+          "following_count": 3592,
+          "like_count": 1730,
+          "listed_count": 1,
+          "media_count": 845,
+          "tweet_count": 6799
+        },
+        "username": "smislovely",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 私信互关\n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律",
+        "pinned_tweet_id": "2038511545672683801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4860,
+          "following_count": 982,
+          "like_count": 15947,
+          "listed_count": 12,
+          "media_count": 629,
+          "tweet_count": 1259
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

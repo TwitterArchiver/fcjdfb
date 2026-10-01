@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2101825141768658986",
+    "created_at": "2026-09-21T00:06:35.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T01:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101825382932779450"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2101825382932779450",
+    "in_reply_to_user_id": "2032037309219315712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101825141768658986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "写的时候很困，吃了安眠药打字意识都强撑着。后面再补吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2688,
+        "media_key": "3_2101825121925451776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSsuz_xb0AAy6J3.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2101825141768658986",
+        "created_at": "2026-09-21T00:06:35.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T01:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101825382932779450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101825382932779450",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101825141768658986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "写的时候很困，吃了安眠药打字意识都强撑着。后面再补吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101825121925451776"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2101825141768658986",
+        "created_at": "2026-09-21T00:05:38.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T01:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101825141768658986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vSfJjRxMql",
+              "end": 170,
+              "expanded_url": "https://x.com/fcjdfb/status/2101825141768658986/photo/1",
+              "media_key": "3_2101825121925451776",
+              "start": 147,
+              "url": "https://t.co/vSfJjRxMql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101825141768658986",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101825121925451776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "中文用户不管在哪都好像很难避免玩社交媒体背离了初衷（我审贴的时候觉得不太合适这个说话，就说是近距离内的社媒构成吧）这件事情，我记得非常深刻关于我第一次看美区的lgbt帖子。当时是关于一个大学的lgbt权益争取和骚扰lgbt本地机构等内容，这就是当地人讨论的核心，而中文区，要不就是营业写些低质量和带高吸引力曝光设计的的恰米。又或者是隔了极远的距离"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中文用户不管在哪都好像很难避免玩社交媒体背离了初衷（我审贴的时候觉得不太合适这个说话，就说是近距离内的社媒构成吧）这件事情，我记得非常深刻关于我第一次看美区的lgbt帖子。当时是关于一个大学的lgbt权益争取和骚扰lgbt本地机构等内容，这就是当地人讨论的核心，而中文区，要不就是营业写些低质 https://t.co/vSfJjRxMql"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材（简介施工中）\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101825382932779450",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 64,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1088
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

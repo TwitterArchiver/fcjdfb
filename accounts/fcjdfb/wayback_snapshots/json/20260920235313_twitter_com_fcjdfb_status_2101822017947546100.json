@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096717646557577693",
+    "created_at": "2026-09-20T23:53:13.000Z",
+    "display_text_range": [
+      15,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T00:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101822017947546100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026329109308325888",
+          "start": 0,
+          "username": "xiaonaihenxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101822017947546100",
+    "in_reply_to_user_id": "2026329109308325888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101601531594502243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaonaihenxiu 那我不太清楚了，不是很喜欢去漫展"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096717646557577693",
+        "created_at": "2026-09-20T23:53:13.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T00:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101822017947546100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026329109308325888",
+              "start": 0,
+              "username": "xiaonaihenxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101822017947546100",
+        "in_reply_to_user_id": "2026329109308325888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101601531594502243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaonaihenxiu 那我不太清楚了，不是很喜欢去漫展"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026329109308325888",
+        "conversation_id": "2096717646557577693",
+        "created_at": "2026-09-20T09:17:05.000Z",
+        "display_text_range": [
+          8,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T10:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101601531594502243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101601531594502243",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101545058948579740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb 其实我认为国内漫展管的其实也不严，主要是节奏施压，网上管控是为了未成年，线下很多小地方漫展还是挺放的开的，大漫展就怕节奏和舆论了，节奏一起来媒体又要追热度，恶心循环了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材（简介施工中）\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101822017947546100",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 64,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1086
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T16:12:22.000Z",
+        "description": "我是小奈",
+        "id": "2026329109308325888",
+        "is_identity_verified": false,
+        "location": "中国安徽",
+        "most_recent_tweet_id": "2101601531594502243",
+        "name": "小奈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026329109308325888/1771952142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026329826207174656/bESWfHFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 86,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "xiaonaihenxiu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

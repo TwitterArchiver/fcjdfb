@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2101366753637109986",
+    "created_at": "2026-09-19T17:44:10.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T18:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101366753637109986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shigure8964a/s…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/shigure8964a/status/2101222480358903890",
+          "start": 107,
+          "url": "https://t.co/eD5IRw19mM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101366753637109986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101222480358903890",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "克隆是我唯一一个真正生理和心理上感到不安和恐惧，想到这个我这会毛骨悚然。人类拿到了上帝的权能，一个人的记忆具体的神经元也能克隆的话。如果这个事情真正存在到世上一天我就觉得我是在每时每刻受到某种考验和煎熬，生不如死 https://t.co/eD5IRw19mM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2101366753637109986",
+        "created_at": "2026-09-19T17:44:10.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101366753637109986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shigure8964a/s…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/shigure8964a/status/2101222480358903890",
+              "start": 107,
+              "url": "https://t.co/eD5IRw19mM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101366753637109986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101222480358903890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "克隆是我唯一一个真正生理和心理上感到不安和恐惧，想到这个我这会毛骨悚然。人类拿到了上帝的权能，一个人的记忆具体的神经元也能克隆的话。如果这个事情真正存在到世上一天我就觉得我是在每时每刻受到某种考验和煎熬，生不如死 https://t.co/eD5IRw19mM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986828541930119168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "847869481888096256",
+              "name": "Gambling"
+            }
+          }
+        ],
+        "conversation_id": "2101222480358903890",
+        "created_at": "2026-09-19T08:10:52.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101222480358903890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NationalPureVF…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/NationalPureVF4/status/2101196671833325893",
+              "start": 117,
+              "url": "https://t.co/SUGpWhJmLK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101222480358903890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2098,
+          "like_count": 22,
+          "quote_count": 9,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101196671833325893",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你认为什么在道德上是可接受的  \n🟩 堕胎  \n🟩 安乐死\n🟩 同性恋  \n🟩 性别转换  \n🟩 色情制品 (人性使然)\n🟩 离婚  \n🟩 避孕药  \n🟩 婚前性行为 \n🟩 多元恋爱 \n🟥 赌博  \n🟩 死刑\n🟩 动物实验\n🟩 克隆 https://t.co/SUGpWhJmLK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101366753637109986",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 77,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1012
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "📕🌈|INTP-A|自发毛主义|左翼共产主义|反资本主义|反帝国主义|反修正主义|无神论|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "is_identity_verified": false,
+        "location": "中华公社",
+        "most_recent_tweet_id": "2101334559417848009",
+        "name": "時雨☭🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986828541930119168/1773817315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098459667295010816/QUzqGoEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 713,
+          "like_count": 8929,
+          "listed_count": 8,
+          "media_count": 773,
+          "tweet_count": 10322
+        },
+        "url": "",
+        "username": "shigure8964a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

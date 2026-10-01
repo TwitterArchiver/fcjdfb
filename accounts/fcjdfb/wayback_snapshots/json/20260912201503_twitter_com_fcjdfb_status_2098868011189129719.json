@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2098866738557493500",
+    "created_at": "2026-09-12T20:15:03.000Z",
+    "display_text_range": [
+      11,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T21:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098868011189129719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847157285337866240",
+          "start": 0,
+          "username": "jiuqiudev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098868011189129719",
+    "in_reply_to_user_id": "1847157285337866240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098866738557493500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuqiudev 唉这个限制好恶心，我唯一想开蓝v的原因。每次要打长篇大论就超了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 723,
+        "media_key": "3_2093642289709285376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4ckeTbgAAkwuo.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2098866738557493500",
+        "created_at": "2026-09-12T20:15:03.000Z",
+        "display_text_range": [
+          11,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T21:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098868011189129719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847157285337866240",
+              "start": 0,
+              "username": "jiuqiudev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098868011189129719",
+        "in_reply_to_user_id": "1847157285337866240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098866738557493500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuqiudev 唉这个限制好恶心，我唯一想开蓝v的原因。每次要打长篇大论就超了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093642289709285376"
+          ]
+        },
+        "author_id": "1847157285337866240",
+        "conversation_id": "2098866738557493500",
+        "created_at": "2026-09-12T20:10:00.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T21:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098866738557493500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qjMLAmyNlP",
+              "end": 175,
+              "expanded_url": "https://x.com/jiuqiudev/status/2098866738557493500/photo/1",
+              "media_key": "3_2093642289709285376",
+              "start": 152,
+              "url": "https://t.co/qjMLAmyNlP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098866738557493500",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093642289709285376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家里人说：“你性格内向，不适合做那个。” 老师说：“你成绩一般，选个稳妥的专业吧。” 朋友说：“你就是这样的人，想那么多干嘛。” 他们好像都比我更了解我。 但我自己呢？ 有效沟通窗口期一直在流逝。 我还没开口确认，就被贴好了标签。 我遇见你，交流触及心跳—— 那是我第一次觉得：我可能不只是...... https://t.co/qjMLAmyNlP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2098868011189129719",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 65,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 577
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-18T06:07:31.000Z",
+        "description": "你好啊，我是玖秋（不是秋玖（你猜猜）），一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！\n这是我@devqiujiu @qiujiudev @jiuqiudev @devjiuqiu\nTG:https://t.co/rJxUg8NWIg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "devqiujiu"
+              },
+              {
+                "end": 111,
+                "start": 101,
+                "username": "qiujiudev"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "jiuqiudev"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "devjiuqiu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 160,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 137,
+                "url": "https://t.co/rJxUg8NWIg"
+              }
+            ]
+          }
+        },
+        "id": "1847157285337866240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098866738557493500",
+        "name": "玖秋（寻回推友版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847157285337866240/1787388942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090333966616465409/SjGBH4vM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 361,
+          "like_count": 1253,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 463
+        },
+        "url": "",
+        "username": "jiuqiudev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

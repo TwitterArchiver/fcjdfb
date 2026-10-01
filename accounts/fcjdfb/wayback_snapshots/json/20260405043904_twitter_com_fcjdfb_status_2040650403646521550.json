@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040373090513829888"
+      ],
+      "media_source_tweet_id": [
+        "2040373101649617063"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2040650403646521550",
+    "created_at": "2026-04-05T04:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T05:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040650403646521550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758324617838788608",
+          "start": 3,
+          "username": "axzamyzed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/csMBkHZvML",
+          "end": 63,
+          "expanded_url": "https://x.com/axzamyzed/status/2040373101649617063/photo/1",
+          "media_key": "3_2040373090513829888",
+          "start": 40,
+          "url": "https://t.co/csMBkHZvML"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040650403646521550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040373101649617063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axzamyzed: 培养出一大批没有主见的小镇做题家，又有什么用呢… https://t.co/csMBkHZvML"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2040373090513829888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFDcg_VXwAAHCxo.jpg",
+        "width": 459
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040373090513829888"
+          ],
+          "media_source_tweet_id": [
+            "2040373101649617063"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2040650403646521550",
+        "created_at": "2026-04-05T04:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T05:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040650403646521550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758324617838788608",
+              "start": 3,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/csMBkHZvML",
+              "end": 63,
+              "expanded_url": "https://x.com/axzamyzed/status/2040373101649617063/photo/1",
+              "media_key": "3_2040373090513829888",
+              "start": 40,
+              "url": "https://t.co/csMBkHZvML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040650403646521550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040373101649617063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @axzamyzed: 培养出一大批没有主见的小镇做题家，又有什么用呢… https://t.co/csMBkHZvML"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040373090513829888"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2040373101649617063",
+        "created_at": "2026-04-04T10:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040373101649617063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/csMBkHZvML",
+              "end": 48,
+              "expanded_url": "https://x.com/axzamyzed/status/2040373101649617063/photo/1",
+              "media_key": "3_2040373090513829888",
+              "start": 25,
+              "url": "https://t.co/csMBkHZvML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040373101649617063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 27063,
+          "like_count": 347,
+          "quote_count": 2,
+          "reply_count": 56,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "培养出一大批没有主见的小镇做题家，又有什么用呢… https://t.co/csMBkHZvML"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 33,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 168
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 930,
+          "like_count": 8350,
+          "listed_count": 4,
+          "media_count": 591,
+          "tweet_count": 5033
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

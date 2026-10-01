@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039957535160225792"
+      ],
+      "media_source_tweet_id": [
+        "2039957544253415596"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2040107788735832349",
+    "created_at": "2026-04-03T16:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T17:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040107788735832349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "126581934",
+          "start": 3,
+          "username": "dearemon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GCeOrSF5aE",
+          "end": 58,
+          "expanded_url": "https://x.com/dearemon/status/2039957544253415596/photo/1",
+          "media_key": "3_2039957535160225792",
+          "start": 35,
+          "url": "https://t.co/GCeOrSF5aE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040107788735832349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039957544253415596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dearemon: 家长托遍了关系也没问出这个秦老师什么背景 https://t.co/GCeOrSF5aE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1597,
+        "media_key": "3_2039957535160225792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9ikfAbUAA9KTz.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039957535160225792"
+          ],
+          "media_source_tweet_id": [
+            "2039957544253415596"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2040107788735832349",
+        "created_at": "2026-04-03T16:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040107788735832349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "126581934",
+              "start": 3,
+              "username": "dearemon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GCeOrSF5aE",
+              "end": 58,
+              "expanded_url": "https://x.com/dearemon/status/2039957544253415596/photo/1",
+              "media_key": "3_2039957535160225792",
+              "start": 35,
+              "url": "https://t.co/GCeOrSF5aE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040107788735832349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039957544253415596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dearemon: 家长托遍了关系也没问出这个秦老师什么背景 https://t.co/GCeOrSF5aE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039957535160225792"
+          ]
+        },
+        "author_id": "126581934",
+        "conversation_id": "2039957544253415596",
+        "created_at": "2026-04-03T06:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039957544253415596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GCeOrSF5aE",
+              "end": 44,
+              "expanded_url": "https://x.com/dearemon/status/2039957544253415596/photo/1",
+              "media_key": "3_2039957535160225792",
+              "start": 21,
+              "url": "https://t.co/GCeOrSF5aE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039957544253415596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 307747,
+          "like_count": 909,
+          "quote_count": 3,
+          "reply_count": 76,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "家长托遍了关系也没问出这个秦老师什么背景 https://t.co/GCeOrSF5aE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 31,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 145
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49370,
+          "following_count": 633,
+          "like_count": 5615,
+          "listed_count": 197,
+          "media_count": 26522,
+          "tweet_count": 378058
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

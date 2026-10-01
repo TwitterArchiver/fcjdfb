@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100475522761347469",
+    "created_at": "2026-09-17T15:19:24.000Z",
+    "display_text_range": [
+      17,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100605547792011609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2095353872005087232",
+          "start": 0,
+          "username": "ParisBaguette37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100605547792011609",
+    "in_reply_to_user_id": "2095353872005087232",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100475525391155636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ParisBaguette37 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100475522761347469",
+        "created_at": "2026-09-17T15:19:24.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100605547792011609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2095353872005087232",
+              "start": 0,
+              "username": "ParisBaguette37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100605547792011609",
+        "in_reply_to_user_id": "2095353872005087232",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100475525391155636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ParisBaguette37 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095353872005087232",
+        "conversation_id": "2100475522761347469",
+        "created_at": "2026-09-17T06:42:44.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T07:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100475525391155636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100475525391155636",
+        "in_reply_to_user_id": "2095353872005087232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2233,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100475522761347469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而Amber正在做的事就是建立起一个桥梁，让他们意识到中国性少数真实的生存处境。一个典型的例子就是当我说哪怕是国外的学历，在国内想要正常使用的话就必须通过教育部认证，而这个认证出来的性别是按照入学年份时的性别伴随终生时，白左几乎无法理解这其中的逻辑（2/2）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2100605547792011609",
+        "name": "windigo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099879631554027520/jep7lkPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 74,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 840
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T03:36:26.000Z",
+        "description": "ある未来への星の旅人",
+        "id": "2095353872005087232",
+        "is_identity_verified": false,
+        "location": "Strasbourg, France",
+        "most_recent_tweet_id": "2100604825339658258",
+        "name": "エルフリンデ✨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095353872005087232/1788585782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096106759471693824/GCTO7HVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 99,
+          "like_count": 1237,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "ParisBaguette37",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

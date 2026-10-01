@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041163535074697216",
+        "3_2041163535074672641",
+        "3_2041163534202228736",
+        "7_2041163535082991616"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2041163546705473936",
+    "created_at": "2026-04-06T14:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041163546705473936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yILUhdxLpk",
+          "end": 167,
+          "expanded_url": "https://x.com/fcjdfb/status/2041163546705473936/video/1",
+          "media_key": "3_2041163535074697216",
+          "start": 144,
+          "url": "https://t.co/yILUhdxLpk"
+        },
+        {
+          "display_url": "pic.x.com/yILUhdxLpk",
+          "end": 167,
+          "expanded_url": "https://x.com/fcjdfb/status/2041163546705473936/video/1",
+          "media_key": "3_2041163535074672641",
+          "start": 144,
+          "url": "https://t.co/yILUhdxLpk"
+        },
+        {
+          "display_url": "pic.x.com/yILUhdxLpk",
+          "end": 167,
+          "expanded_url": "https://x.com/fcjdfb/status/2041163546705473936/video/1",
+          "media_key": "3_2041163534202228736",
+          "start": 144,
+          "url": "https://t.co/yILUhdxLpk"
+        },
+        {
+          "display_url": "pic.x.com/yILUhdxLpk",
+          "end": 167,
+          "expanded_url": "https://x.com/fcjdfb/status/2041163546705473936/video/1",
+          "media_key": "7_2041163535082991616",
+          "start": 144,
+          "url": "https://t.co/yILUhdxLpk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041163546705473936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "华为新版本ui竟然大改了，还加了动效。\n最明显的就是vpn图标从安卓版改成了苹果版，有点土了感觉。还不如好好搞自研，到头来还是抄苹果。图三\n然后图一的音乐app排班改的挺明显的，试了下还不错\n图二视频剪辑改成了二级菜单了，按功能分一级菜单然后再细分，没必要我认为\n最后视频是改完后的动效 https://t.co/yILUhdxLpk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2041163535074697216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOra6yboAAZGgw.jpg",
+        "width": 578
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2041163535074672641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOra6ybQAEaWWa.jpg",
+        "width": 578
+      },
+      {
+        "height": 143,
+        "media_key": "3_2041163534202228736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOra3ia0AAaXFj.jpg",
+        "width": 1008
+      },
+      {
+        "duration_ms": 1216,
+        "height": 1280,
+        "media_key": "7_2041163535082991616",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2041163535082991616/pu/img/jbMJ9OAjK6YwfFRY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041163535082991616/pu/vid/avc1/320x706/O0c7UdYfglExnzD9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041163535082991616/pu/vid/avc1/480x1058/15cTMPca3yuv8kkl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041163535082991616/pu/vid/avc1/580x1280/dtEamqzHzBsdqBzf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2041163535082991616/pu/pl/PVTRH26ezz_hyFWH.m3u8?tag=12"
+          }
+        ],
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041163535074697216",
+            "3_2041163535074672641",
+            "3_2041163534202228736",
+            "7_2041163535082991616"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2041163546705473936",
+        "created_at": "2026-04-06T14:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041163546705473936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yILUhdxLpk",
+              "end": 167,
+              "expanded_url": "https://x.com/fcjdfb/status/2041163546705473936/video/1",
+              "media_key": "3_2041163535074697216",
+              "start": 144,
+              "url": "https://t.co/yILUhdxLpk"
+            },
+            {
+              "display_url": "pic.x.com/yILUhdxLpk",
+              "end": 167,
+              "expanded_url": "https://x.com/fcjdfb/status/2041163546705473936/video/1",
+              "media_key": "3_2041163535074672641",
+              "start": 144,
+              "url": "https://t.co/yILUhdxLpk"
+            },
+            {
+              "display_url": "pic.x.com/yILUhdxLpk",
+              "end": 167,
+              "expanded_url": "https://x.com/fcjdfb/status/2041163546705473936/video/1",
+              "media_key": "3_2041163534202228736",
+              "start": 144,
+              "url": "https://t.co/yILUhdxLpk"
+            },
+            {
+              "display_url": "pic.x.com/yILUhdxLpk",
+              "end": 167,
+              "expanded_url": "https://x.com/fcjdfb/status/2041163546705473936/video/1",
+              "media_key": "7_2041163535082991616",
+              "start": 144,
+              "url": "https://t.co/yILUhdxLpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041163546705473936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "华为新版本ui竟然大改了，还加了动效。\n最明显的就是vpn图标从安卓版改成了苹果版，有点土了感觉。还不如好好搞自研，到头来还是抄苹果。图三\n然后图一的音乐app排班改的挺明显的，试了下还不错\n图二视频剪辑改成了二级菜单了，按功能分一级菜单然后再细分，没必要我认为\n最后视频是改完后的动效 https://t.co/yILUhdxLpk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 34,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 176
+        },
+        "username": "fcjdfb",
+        "verified": false
+      }
+    ]
+  }
+}

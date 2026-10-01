@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098123857462960129"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2098123863817335256",
+    "created_at": "2026-09-10T18:58:05.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T19:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098123863817335256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/odq1NSBKEz",
+          "end": 34,
+          "expanded_url": "https://x.com/fcjdfb/status/2098123863817335256/photo/1",
+          "media_key": "3_2098123857462960129",
+          "start": 11,
+          "url": "https://t.co/odq1NSBKEz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098123863817335256",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098123857462960129"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "看到今天日期有点哭了\n中国是仅少数几个在精神健康领域有能力但没有进行完整的现代化精神健康体系推进，永远是缺乏重视。仅仅就是对于治安进行管控软性监控。许多医院小医生水平甚至还停留在dsm4的水平，根本没系统更进到dsm5。在国内早期因为匮乏很多医生还是别的科室转岗。哪怕现在也是，中国是仅有的一亿多需要临床干预但许多人无法得到任何干预和治疗的地方。\n的确今年将抑郁焦虑等药物纳入医保对患者是好事，但对疗效和医生呢？精神科或许死于2026。集采药物根本得不到保障，精神科是唯一一个药物不完全参考生物等效性试验的。吸收辅料配比的波动起伏等设计会极大影响效果，以及患者情绪波动等。这些根本没有一个合适指标评判，精神科许多原研药已经被逼退市。说回医生，心理咨询在纳入医保后督导费呢？培训费呢？医生从中连一个合适的收入都不会得到，究竟谁会愿意在医院进行咨询呢。哪怕转到个人，国内缺乏合适的平台和监管。学科也不成体系，市面上还充斥着大量精神分析或者解梦这种伪科学未受过培训的人。除了无奈我说不出什么"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到今天日期有点哭了 https://t.co/odq1NSBKEz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1287,
+        "media_key": "3_2098123857462960129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR4IiDLaIAErEBh.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098123857462960129"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2098123863817335256",
+        "created_at": "2026-09-10T18:58:05.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098123863817335256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/odq1NSBKEz",
+              "end": 34,
+              "expanded_url": "https://x.com/fcjdfb/status/2098123863817335256/photo/1",
+              "media_key": "3_2098123857462960129",
+              "start": 11,
+              "url": "https://t.co/odq1NSBKEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098123863817335256",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098123857462960129"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "看到今天日期有点哭了\n中国是仅少数几个在精神健康领域有能力但没有进行完整的现代化精神健康体系推进，永远是缺乏重视。仅仅就是对于治安进行管控软性监控。许多医院小医生水平甚至还停留在dsm4的水平，根本没系统更进到dsm5。在国内早期因为匮乏很多医生还是别的科室转岗。哪怕现在也是，中国是仅有的一亿多需要临床干预但许多人无法得到任何干预和治疗的地方。\n的确今年将抑郁焦虑等药物纳入医保对患者是好事，但对疗效和医生呢？精神科或许死于2026。集采药物根本得不到保障，精神科是唯一一个药物不完全参考生物等效性试验的。吸收辅料配比的波动起伏等设计会极大影响效果，以及患者情绪波动等。这些根本没有一个合适指标评判，精神科许多原研药已经被逼退市。说回医生，心理咨询在纳入医保后督导费呢？培训费呢？医生从中连一个合适的收入都不会得到，究竟谁会愿意在医院进行咨询呢。哪怕转到个人，国内缺乏合适的平台和监管。学科也不成体系，市面上还充斥着大量精神分析或者解梦这种伪科学未受过培训的人。除了无奈我说不出什么"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到今天日期有点哭了 https://t.co/odq1NSBKEz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098123863817335256",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 63,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 487
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

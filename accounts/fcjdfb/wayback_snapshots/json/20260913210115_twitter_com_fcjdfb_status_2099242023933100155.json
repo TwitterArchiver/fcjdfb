@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099090706845602081",
+    "created_at": "2026-09-13T21:01:15.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T22:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099242023933100155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989517742127652866",
+          "start": 0,
+          "username": "AGNK_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099242023933100155",
+    "in_reply_to_user_id": "1989517742127652866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099090706845602081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGNK_553 这我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 735,
+        "media_key": "3_2099090699337744384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSF33p1aQAAmxiB.jpg",
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099090706845602081",
+        "created_at": "2026-09-13T21:01:15.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T22:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099242023933100155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989517742127652866",
+              "start": 0,
+              "username": "AGNK_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099242023933100155",
+        "in_reply_to_user_id": "1989517742127652866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099090706845602081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGNK_553 这我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099090699337744384"
+          ]
+        },
+        "author_id": "1989517742127652866",
+        "conversation_id": "2099090706845602081",
+        "created_at": "2026-09-13T10:59:58.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099090706845602081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fch2PLu3A0",
+              "end": 78,
+              "expanded_url": "https://x.com/AGNK_553/status/2099090706845602081/photo/1",
+              "media_key": "3_2099090699337744384",
+              "start": 55,
+              "url": "https://t.co/Fch2PLu3A0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099090706845602081",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099090699337744384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 274,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看你像是那种用着默认头像 一个帖子和评论都没发过 整天截中推帖子往墙内发 然后炫耀自己会用“黑叉”的小盆友😊 https://t.co/Fch2PLu3A0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099242023933100155",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 68,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 685
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "求回fo喵wwww\n2025.11 重生喵~\n一般路过 553/Ag/any\n09.12 MTX\n音ゲー/Minecraft/VRC/DTM(初心者)/FPV(痛苦禁飞中）\n（负能量预警）\n喵就是心情好\nCN/EN 欢迎私信www\n查成分通过/回fo 没回可私信\n粉红/卖的/看黄男勿扰\n备用@agsg_553",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "agsg_553"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "https://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/uQ1odbxVfM"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "is_identity_verified": false,
+        "location": "✝️昇天✝️",
+        "most_recent_tweet_id": "2099173102026727752",
+        "name": "AG553",
+        "pinned_tweet_id": "2090464501372211394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989517742127652866/1781934414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074846041879511040/MyFS7zss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 1685,
+          "like_count": 45706,
+          "listed_count": 2,
+          "media_count": 326,
+          "tweet_count": 4160
+        },
+        "url": "https://t.co/uQ1odbxVfM",
+        "username": "AGNK_553",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104132915072544954",
+    "created_at": "2026-09-27T08:55:54.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104132915072544954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zza2ku/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/zza2ku/status/2104106949365145689",
+          "start": 8,
+          "url": "https://t.co/vnGpkNYZao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104132915072544954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104106949365145689",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一章好像门将 https://t.co/vnGpkNYZao"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_2104106918016962560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNKGAnX0AAgAo3.jpg",
+        "width": 730
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2104106931803615232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNKGz-XcAAGw9-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104132915072544954",
+        "created_at": "2026-09-27T08:55:54.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104132915072544954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zza2ku/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/zza2ku/status/2104106949365145689",
+              "start": 8,
+              "url": "https://t.co/vnGpkNYZao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104132915072544954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104106949365145689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一章好像门将 https://t.co/vnGpkNYZao"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104106918016962560",
+            "3_2104106931803615232"
+          ]
+        },
+        "author_id": "2092971438521077760",
+        "conversation_id": "2104106949365145689",
+        "created_at": "2026-09-27T07:12:43.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104106949365145689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZPownYA1yT",
+              "end": 32,
+              "expanded_url": "https://x.com/zza2ku/status/2104106949365145689/photo/1",
+              "media_key": "3_2104106918016962560",
+              "start": 9,
+              "url": "https://t.co/ZPownYA1yT"
+            },
+            {
+              "display_url": "pic.x.com/ZPownYA1yT",
+              "end": 32,
+              "expanded_url": "https://x.com/zza2ku/status/2104106949365145689/photo/1",
+              "media_key": "3_2104106931803615232",
+              "start": 9,
+              "url": "https://t.co/ZPownYA1yT"
+            },
+            {
+              "display_url": "x.com/Yzmtsky6666/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Yzmtsky6666/status/2103719626962075917",
+              "start": 33,
+              "url": "https://t.co/gsZY8FRoD1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104106949365145689",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104106918016962560"
+          },
+          {
+            "media_key": "3_2104106931803615232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 620,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103719626962075917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雌二醇确实能美容 https://t.co/ZPownYA1yT https://t.co/gsZY8FRoD1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104132915072544954",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 68,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1390
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "民社，无糖mtf\n女友：@Box3_jilil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Box3_jilil"
+              }
+            ]
+          }
+        },
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104120683525517312",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2102647711380197847",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1789967218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 142,
+          "like_count": 251,
+          "listed_count": 2,
+          "media_count": 472,
+          "tweet_count": 992
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

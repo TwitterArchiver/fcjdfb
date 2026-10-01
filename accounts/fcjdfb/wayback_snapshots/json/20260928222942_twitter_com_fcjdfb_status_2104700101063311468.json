@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104700101063311468",
+    "created_at": "2026-09-28T22:29:42.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T23:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104700101063311468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1567614348708691968",
+          "start": 3,
+          "username": "Disastrpiece666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104700101063311468",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14639
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104146244088037855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Disastrpiece666: Siete hombres vertieron ketamina sobre su pene y violaron durante siete horas a una estudiante. Ella tuvo que abandona…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_2104146228980109312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNt2NXWUAAMJA6.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1547,
+        "media_key": "3_2104146237633056768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNt2tmX0AAK-FR.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104700101063311468",
+        "created_at": "2026-09-28T22:29:42.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T23:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104700101063311468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1567614348708691968",
+              "start": 3,
+              "username": "Disastrpiece666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104700101063311468",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14639
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104146244088037855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Disastrpiece666: Siete hombres vertieron ketamina sobre su pene y violaron durante siete horas a una estudiante. Ella tuvo que abandona…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104146228980109312",
+            "3_2104146237633056768"
+          ]
+        },
+        "author_id": "1567614348708691968",
+        "conversation_id": "2104146244088037855",
+        "created_at": "2026-09-27T09:48:52.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104146244088037855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNd7IatgUW",
+              "end": 299,
+              "expanded_url": "https://x.com/Disastrpiece666/status/2104146244088037855/photo/1",
+              "media_key": "3_2104146228980109312",
+              "start": 276,
+              "url": "https://t.co/SNd7IatgUW"
+            },
+            {
+              "display_url": "pic.x.com/SNd7IatgUW",
+              "end": 299,
+              "expanded_url": "https://x.com/Disastrpiece666/status/2104146244088037855/photo/1",
+              "media_key": "3_2104146237633056768",
+              "start": 276,
+              "url": "https://t.co/SNd7IatgUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104146244088037855",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2104146228980109312"
+          },
+          {
+            "media_key": "3_2104146237633056768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2583,
+          "impression_count": 1751453,
+          "like_count": 63138,
+          "quote_count": 337,
+          "reply_count": 281,
+          "retweet_count": 14639
+        },
+        "reply_settings": "everyone",
+        "text": "Siete hombres vertieron ketamina sobre su pene y violaron durante siete horas a una estudiante. Ella tuvo que abandonar la universidad por lo que le hicieron, ellos tuvieron que escribir un ensayo como castigo.\nFoto de los 7 violadores y el señoro que impuso el castigo. (🇺🇸) https://t.co/SNd7IatgUW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104700101063311468",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 65,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1597
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-07T20:43:13.000Z",
+        "description": "Aquí no pinto nah!\n                                                                 QUÉ ASCO DA TODO 💀🔥",
+        "id": "1567614348708691968",
+        "is_identity_verified": false,
+        "location": "Inframundo ",
+        "most_recent_tweet_id": "2104607438968131834",
+        "name": "𝕃𝕒𝔻𝕣𝕒𝕨𝕚𝕟𝕘💀🌙",
+        "pinned_tweet_id": "2040061915607482575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567614348708691968/1767380675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011565844883509248/AU1ZspUo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 1022,
+          "like_count": 95485,
+          "listed_count": 7,
+          "media_count": 2522,
+          "tweet_count": 20928
+        },
+        "url": "",
+        "username": "Disastrpiece666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2042112209724305717",
+    "created_at": "2026-04-09T05:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042112209724305717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1690356626434453504",
+          "start": 3,
+          "username": "DavidzhuLife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042112209724305717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041810104547471504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DavidzhuLife: 我一个朋友是胸科大夫，曾经接诊过一个男患者，当时他的肺部阴影高度怀疑恶性。\n\n穿刺手术需要家属签字，可陪他来的是他女朋友，得直系亲属才行。\n俩人对视一眼，转身就就走了。\n\n都以为这姑娘要跑路，毕竟谁愿意刚谈恋爱就接个药罐子？…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2042112209724305717",
+        "created_at": "2026-04-09T05:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042112209724305717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1690356626434453504",
+              "start": 3,
+              "username": "DavidzhuLife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042112209724305717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041810104547471504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DavidzhuLife: 我一个朋友是胸科大夫，曾经接诊过一个男患者，当时他的肺部阴影高度怀疑恶性。\n\n穿刺手术需要家属签字，可陪他来的是他女朋友，得直系亲属才行。\n俩人对视一眼，转身就就走了。\n\n都以为这姑娘要跑路，毕竟谁愿意刚谈恋爱就接个药罐子？…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690356626434453504",
+        "conversation_id": "2041810104547471504",
+        "created_at": "2026-04-08T09:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041810104547471504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041810104547471504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我一个朋友是胸科大夫，曾经接诊过一个男患者，当时他的肺部阴影高度怀疑恶性。\n\n穿刺手术需要家属签字，可陪他来的是他女朋友，得直系亲属才行。\n俩人对视一眼，转身就就走了。\n\n都以为这姑娘要跑路，毕竟谁愿意刚谈恋爱就接个药罐子？\n\n结果下午三点，俩人回来了，女孩手心攥着两个红本本，直接拍在导诊台，眼睛通红一个字一个字地说：现在，我是他老婆了，我签！\n\n后来的穿刺结果出来了，良性。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 212219,
+          "like_count": 849,
+          "quote_count": 3,
+          "reply_count": 63,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "我一个朋友是胸科大夫，曾经接诊过一个男患者，当时他的肺部阴影高度怀疑恶性。\n\n穿刺手术需要家属签字，可陪他来的是他女朋友，得直系亲属才行。\n俩人对视一眼，转身就就走了。\n\n都以为这姑娘要跑路，毕竟谁愿意刚谈恋爱就接个药罐子？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "上个账号怎么又被封了",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 35,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 208
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T13:36:50.000Z",
+        "description": "我只做一件事：把现实里比狗血剧还离谱的夜晚和瞬间，原封不动地写成故事。",
+        "id": "1690356626434453504",
+        "name": "Davidzhu",
+        "pinned_tweet_id": "2039991889202758053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005847877160165376/khiGaYlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5891,
+          "following_count": 2917,
+          "like_count": 19906,
+          "listed_count": 17,
+          "media_count": 104,
+          "tweet_count": 8824
+        },
+        "username": "DavidzhuLife",
+        "verified": true
+      }
+    ]
+  }
+}

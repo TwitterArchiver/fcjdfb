@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101571437580668928"
+      ],
+      "media_source_tweet_id": [
+        "2101571486964408794"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2101821842558476508",
+    "created_at": "2026-09-20T23:52:31.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T00:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101821842558476508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "12055542",
+          "start": 3,
+          "username": "lihuihui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wzzQaxkxV6",
+          "end": 93,
+          "expanded_url": "https://x.com/lihuihui/status/2101571486964408794/photo/1",
+          "media_key": "3_2101571437580668928",
+          "start": 70,
+          "url": "https://t.co/wzzQaxkxV6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101821842558476508",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2101571437580668928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101571486964408794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @lihuihui: The New Division of Labor on the Internet in the AI Age https://t.co/wzzQaxkxV6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2101571437580668928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSpIFn8aUAAP0q7.jpg",
+        "width": 1341
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101571437580668928"
+          ],
+          "media_source_tweet_id": [
+            "2101571486964408794"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101821842558476508",
+        "created_at": "2026-09-20T23:52:31.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T00:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101821842558476508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "12055542",
+              "start": 3,
+              "username": "lihuihui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzzQaxkxV6",
+              "end": 93,
+              "expanded_url": "https://x.com/lihuihui/status/2101571486964408794/photo/1",
+              "media_key": "3_2101571437580668928",
+              "start": 70,
+              "url": "https://t.co/wzzQaxkxV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101821842558476508",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2101571437580668928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101571486964408794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @lihuihui: The New Division of Labor on the Internet in the AI Age https://t.co/wzzQaxkxV6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101571437580668928"
+          ]
+        },
+        "author_id": "12055542",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101571486964408794",
+        "created_at": "2026-09-20T07:17:42.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101571486964408794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzzQaxkxV6",
+              "end": 79,
+              "expanded_url": "https://x.com/lihuihui/status/2101571486964408794/photo/1",
+              "media_key": "3_2101571437580668928",
+              "start": 56,
+              "url": "https://t.co/wzzQaxkxV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101571486964408794",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2101571437580668928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8755,
+          "like_count": 263,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "reply_settings": "other",
+        "text": "The New Division of Labor on the Internet in the AI Age https://t.co/wzzQaxkxV6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材（简介施工中）\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101821842558476508",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 64,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1085
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-01-10T02:50:04.000Z",
+        "description": "",
+        "id": "12055542",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101688651356983427",
+        "name": "Huihui Li",
+        "pinned_tweet_id": "1713089197584843173",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12055542/1723464131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871006605179043840/9yb0Z7bg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 1933,
+          "like_count": 117702,
+          "listed_count": 13,
+          "media_count": 1784,
+          "tweet_count": 14688
+        },
+        "url": "",
+        "username": "lihuihui",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

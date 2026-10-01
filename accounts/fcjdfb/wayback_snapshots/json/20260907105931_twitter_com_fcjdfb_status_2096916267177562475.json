@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096916173623566605",
+    "created_at": "2026-09-07T10:59:31.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096916267177562475"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2096916267177562475",
+    "in_reply_to_user_id": "2032037309219315712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096916173623566605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "并且，这个服务是不含港澳台的🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3894,
+        "media_key": "3_2096916149850296320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRm-INubUAA5nlU.jpg",
+        "width": 1850
+      },
+      {
+        "height": 3882,
+        "media_key": "3_2096916162412158976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRm-I8haIAA2nb8.jpg",
+        "width": 1850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096916173623566605",
+        "created_at": "2026-09-07T10:59:31.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096916267177562475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096916267177562475",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096916173623566605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并且，这个服务是不含港澳台的🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096916149850296320",
+            "3_2096916162412158976"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096916173623566605",
+        "created_at": "2026-09-07T10:59:09.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:57:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096915740062367772",
+          "2096916173623566605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOIYzifZ0x",
+              "end": 41,
+              "expanded_url": "https://x.com/fcjdfb/status/2096916173623566605/photo/1",
+              "media_key": "3_2096916149850296320",
+              "start": 18,
+              "url": "https://t.co/pOIYzifZ0x"
+            },
+            {
+              "display_url": "pic.x.com/pOIYzifZ0x",
+              "end": 41,
+              "expanded_url": "https://x.com/fcjdfb/status/2096916173623566605/photo/1",
+              "media_key": "3_2096916162412158976",
+              "start": 18,
+              "url": "https://t.co/pOIYzifZ0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096916173623566605",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096916149850296320"
+          },
+          {
+            "media_key": "3_2096916162412158976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "说个买了三折叠这些才知道的幽默事情\n华为为了“尊享”用户推出了管家服务，也就是企微客服联系你，不需要专门去打电话或者我的华为联系。这个服务期限只有一年，如果你还想继续享受这个企微服务的话。你要么就只能每年都换新一个新的华为手机购入，反之就会被停止服务🤣跟其他用户一样。我目前还没有见到别的大企业是这样子的。不每年都换新手机给华为上供？那不好意思你就不是我们的尊享客户。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说个买了三折叠这些才知道的幽默事情 https://t.co/pOIYzifZ0x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096916267177562475",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 55,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

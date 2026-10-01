@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2033521657210609791",
+    "created_at": "2026-03-16T12:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T13:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033521657210609791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1798017061131874304",
+          "start": 3,
+          "username": "cupric_oxide_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033521657210609791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033408293406937088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cupric_oxide_: 很难不认为家中那位状元去北大没有变他妈的femboy😅\n谁家正常男生的房间里会有各种女用qq玩具呢😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2033521657210609791",
+        "created_at": "2026-03-16T12:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033521657210609791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1798017061131874304",
+              "start": 3,
+              "username": "cupric_oxide_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033521657210609791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033408293406937088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cupric_oxide_: 很难不认为家中那位状元去北大没有变他妈的femboy😅\n谁家正常男生的房间里会有各种女用qq玩具呢😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798017061131874304",
+        "conversation_id": "2033408293406937088",
+        "created_at": "2026-03-16T05:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033408293406937088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033408293406937088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 20510,
+          "like_count": 108,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很难不认为家中那位状元去北大没有变他妈的femboy😅\n谁家正常男生的房间里会有各种女用qq玩具呢😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T15:40:59.000Z",
+        "description": "wept injection developer\nKarlen client developer\nhrisito+ moderator\njava/c++/php/html/js/py\nhe/him/she/her\n\njust kill myself then :D",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freedom.gov",
+                "end": 23,
+                "expanded_url": "https://freedom.gov/",
+                "start": 0,
+                "url": "https://t.co/02X8uAv2G4"
+              }
+            ]
+          }
+        },
+        "id": "1798017061131874304",
+        "location": "马来西亚 霹雳 怡保",
+        "name": "氧化铜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029859899728089089/TqMWnJS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 1314,
+          "like_count": 26709,
+          "listed_count": 6,
+          "media_count": 942,
+          "tweet_count": 5546
+        },
+        "url": "https://t.co/02X8uAv2G4",
+        "username": "cupric_oxide_",
+        "verified": false
+      }
+    ]
+  }
+}

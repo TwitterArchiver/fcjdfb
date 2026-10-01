@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099243202918404096",
+        "3_2099243202914250752"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099299087522926658",
+    "created_at": "2026-09-14T00:48:00.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T01:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099299087522926658"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4b12eVSmMg",
+          "end": 30,
+          "expanded_url": "https://x.com/fcjdfb/status/2099299087522926658/photo/1",
+          "media_key": "3_2099243202918404096",
+          "start": 7,
+          "url": "https://t.co/4b12eVSmMg"
+        },
+        {
+          "display_url": "pic.x.com/4b12eVSmMg",
+          "end": 30,
+          "expanded_url": "https://x.com/fcjdfb/status/2099299087522926658/photo/1",
+          "media_key": "3_2099243202914250752",
+          "start": 7,
+          "url": "https://t.co/4b12eVSmMg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099299087522926658",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099243202918404096"
+      },
+      {
+        "media_key": "3_2099243202914250752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抱歉我想歪了 https://t.co/4b12eVSmMg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2184,
+        "media_key": "3_2099243202918404096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSICkh8a0AA0h6x.jpg",
+        "width": 1215
+      },
+      {
+        "height": 2153,
+        "media_key": "3_2099243202914250752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSICkh7bcAAf8dU.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099243202918404096",
+            "3_2099243202914250752"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099299087522926658",
+        "created_at": "2026-09-14T00:48:00.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T01:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099299087522926658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4b12eVSmMg",
+              "end": 30,
+              "expanded_url": "https://x.com/fcjdfb/status/2099299087522926658/photo/1",
+              "media_key": "3_2099243202918404096",
+              "start": 7,
+              "url": "https://t.co/4b12eVSmMg"
+            },
+            {
+              "display_url": "pic.x.com/4b12eVSmMg",
+              "end": 30,
+              "expanded_url": "https://x.com/fcjdfb/status/2099299087522926658/photo/1",
+              "media_key": "3_2099243202914250752",
+              "start": 7,
+              "url": "https://t.co/4b12eVSmMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099299087522926658",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099243202918404096"
+          },
+          {
+            "media_key": "3_2099243202914250752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉我想歪了 https://t.co/4b12eVSmMg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099299087522926658",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 68,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 686
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

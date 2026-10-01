@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096717629008519169",
+        "3_2096717638584131584"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096717646557577693",
+    "created_at": "2026-09-06T21:50:16.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T22:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096717646557577693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9tnwBoQIDL",
+          "end": 90,
+          "expanded_url": "https://x.com/fcjdfb/status/2096717646557577693/photo/1",
+          "media_key": "3_2096717629008519169",
+          "start": 67,
+          "url": "https://t.co/9tnwBoQIDL"
+        },
+        {
+          "display_url": "pic.x.com/9tnwBoQIDL",
+          "end": 90,
+          "expanded_url": "https://x.com/fcjdfb/status/2096717646557577693/photo/1",
+          "media_key": "3_2096717638584131584",
+          "start": 67,
+          "url": "https://t.co/9tnwBoQIDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096717646557577693",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096717629008519169"
+      },
+      {
+        "media_key": "3_2096717638584131584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这还是国内吗😨给我干台湾来了呢这是\n这些漫展鸡的暴露程度感觉跟没遮已经没啥区别了，竟然能在线下办起来没被找麻烦？国男也是真的性压抑了 https://t.co/9tnwBoQIDL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2096717629008519169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkJkx9aIAEnWYx.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2096717638584131584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkJlVoaYAA3i6s.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096717629008519169",
+            "3_2096717638584131584"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096717646557577693",
+        "created_at": "2026-09-06T21:50:16.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T22:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096717646557577693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9tnwBoQIDL",
+              "end": 90,
+              "expanded_url": "https://x.com/fcjdfb/status/2096717646557577693/photo/1",
+              "media_key": "3_2096717629008519169",
+              "start": 67,
+              "url": "https://t.co/9tnwBoQIDL"
+            },
+            {
+              "display_url": "pic.x.com/9tnwBoQIDL",
+              "end": 90,
+              "expanded_url": "https://x.com/fcjdfb/status/2096717646557577693/photo/1",
+              "media_key": "3_2096717638584131584",
+              "start": 67,
+              "url": "https://t.co/9tnwBoQIDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096717646557577693",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096717629008519169"
+          },
+          {
+            "media_key": "3_2096717638584131584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这还是国内吗😨给我干台湾来了呢这是\n这些漫展鸡的暴露程度感觉跟没遮已经没啥区别了，竟然能在线下办起来没被找麻烦？国男也是真的性压抑了 https://t.co/9tnwBoQIDL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096717646557577693",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 55,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097911733956530176"
+      ],
+      "media_source_tweet_id": [
+        "2097911753124594155"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2098269030239068282",
+    "created_at": "2026-09-11T04:34:55.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T05:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098269030239068282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721895937357004800",
+          "start": 3,
+          "username": "Strf_9040C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eJ75P0Nry6",
+          "end": 44,
+          "expanded_url": "https://x.com/Strf_9040C/status/2097911753124594155/video/1",
+          "media_key": "13_2097911733956530176",
+          "start": 21,
+          "url": "https://t.co/eJ75P0Nry6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098269030239068282",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2097911733956530176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097911753124594155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Strf_9040C: 有点奇异 https://t.co/eJ75P0Nry6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3552,
+        "height": 1280,
+        "media_key": "13_2097911733956530176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097911733956530176/img/5FdgWxFgv7jAfArt.jpg",
+        "public_metrics": {
+          "view_count": 11666
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097911733956530176/vid/avc1/320x568/48o8QU6m0xvPQ-uW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097911733956530176/vid/avc1/480x852/O4pfG_yBx0PyNcl5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097911733956530176/vid/avc1/720x1280/_BTpteYShhdcV909.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097911733956530176/pl/HC_Zf9WRCfxVw6-z.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097911733956530176"
+          ],
+          "media_source_tweet_id": [
+            "2097911753124594155"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098269030239068282",
+        "created_at": "2026-09-11T04:34:55.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098269030239068282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721895937357004800",
+              "start": 3,
+              "username": "Strf_9040C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eJ75P0Nry6",
+              "end": 44,
+              "expanded_url": "https://x.com/Strf_9040C/status/2097911753124594155/video/1",
+              "media_key": "13_2097911733956530176",
+              "start": 21,
+              "url": "https://t.co/eJ75P0Nry6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098269030239068282",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097911733956530176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097911753124594155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Strf_9040C: 有点奇异 https://t.co/eJ75P0Nry6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097911733956530176"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2097911753124594155",
+        "created_at": "2026-09-10T04:55:13.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097911753124594155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eJ75P0Nry6",
+              "end": 28,
+              "expanded_url": "https://x.com/Strf_9040C/status/2097911753124594155/video/1",
+              "media_key": "13_2097911733956530176",
+              "start": 5,
+              "url": "https://t.co/eJ75P0Nry6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097911753124594155",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097911733956530176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 19960,
+          "like_count": 173,
+          "quote_count": 1,
+          "reply_count": 131,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "有点奇异 https://t.co/eJ75P0Nry6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098269030239068282",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 63,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2097911753124594155",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 2547,
+          "like_count": 16431,
+          "listed_count": 2,
+          "media_count": 731,
+          "tweet_count": 1254
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

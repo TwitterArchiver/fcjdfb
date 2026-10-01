@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2037807685769548066",
+    "created_at": "2026-03-28T08:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037807685769548066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593588333997076482",
+          "start": 3,
+          "username": "d44190139"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037807685769548066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037749930081599678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d44190139: 一个中国留学生和美国本地学生吵架\n\n留学生骂：“草泥马！”\n\n美国学生一脸懵逼。\n\n旁边另一个中国留学生“好心”翻译：\n\n“他说他跟你妈妈睡觉。”\n\n美国学生瞬间道歉：\n\n“对不起，我不知道你是我妈妈的男朋友……”\n😂😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2037807685769548066",
+        "created_at": "2026-03-28T08:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037807685769548066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593588333997076482",
+              "start": 3,
+              "username": "d44190139"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037807685769548066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037749930081599678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d44190139: 一个中国留学生和美国本地学生吵架\n\n留学生骂：“草泥马！”\n\n美国学生一脸懵逼。\n\n旁边另一个中国留学生“好心”翻译：\n\n“他说他跟你妈妈睡觉。”\n\n美国学生瞬间道歉：\n\n“对不起，我不知道你是我妈妈的男朋友……”\n😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593588333997076482",
+        "conversation_id": "2037749930081599678",
+        "created_at": "2026-03-28T04:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037749930081599678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037749930081599678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 82964,
+          "like_count": 466,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "一个中国留学生和美国本地学生吵架\n\n留学生骂：“草泥马！”\n\n美国学生一脸懵逼。\n\n旁边另一个中国留学生“好心”翻译：\n\n“他说他跟你妈妈睡觉。”\n\n美国学生瞬间道歉：\n\n“对不起，我不知道你是我妈妈的男朋友……”\n😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 112
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T12:54:12.000Z",
+        "description": "烟火蹿上人间，也得先问今晚吃啥😂\n99.9%发长段子 / 灵魂拷问 / 抽象小作文\n0.1%偶尔真情流露（然后被现实继续打脸）\n欢迎围观我的烟火人间🆙🖤",
+        "id": "1593588333997076482",
+        "location": "Hong Kong",
+        "name": "烟火小作文",
+        "pinned_tweet_id": "2035355701967720626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030438761235185665/APm8zXbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 1938,
+          "like_count": 4955,
+          "listed_count": 6,
+          "media_count": 645,
+          "tweet_count": 9181
+        },
+        "username": "d44190139",
+        "verified": true
+      }
+    ]
+  }
+}

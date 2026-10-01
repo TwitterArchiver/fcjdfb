@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096277574385311744",
+        "3_2096277588109037568",
+        "3_2096277597835702273",
+        "3_2096277609869156352"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2096277619327287586",
+    "created_at": "2026-09-05T16:41:46.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096277619327287586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UGeNYWJrjw",
+          "end": 131,
+          "expanded_url": "https://x.com/fcjdfb/status/2096277619327287586/photo/1",
+          "media_key": "3_2096277574385311744",
+          "start": 108,
+          "url": "https://t.co/UGeNYWJrjw"
+        },
+        {
+          "display_url": "pic.x.com/UGeNYWJrjw",
+          "end": 131,
+          "expanded_url": "https://x.com/fcjdfb/status/2096277619327287586/photo/1",
+          "media_key": "3_2096277588109037568",
+          "start": 108,
+          "url": "https://t.co/UGeNYWJrjw"
+        },
+        {
+          "display_url": "pic.x.com/UGeNYWJrjw",
+          "end": 131,
+          "expanded_url": "https://x.com/fcjdfb/status/2096277619327287586/photo/1",
+          "media_key": "3_2096277597835702273",
+          "start": 108,
+          "url": "https://t.co/UGeNYWJrjw"
+        },
+        {
+          "display_url": "pic.x.com/UGeNYWJrjw",
+          "end": 131,
+          "expanded_url": "https://x.com/fcjdfb/status/2096277619327287586/photo/1",
+          "media_key": "3_2096277609869156352",
+          "start": 108,
+          "url": "https://t.co/UGeNYWJrjw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096277619327287586",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096277574385311744"
+      },
+      {
+        "media_key": "3_2096277588109037568"
+      },
+      {
+        "media_key": "3_2096277597835702273"
+      },
+      {
+        "media_key": "3_2096277609869156352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "法文（法国文化中心）竟然对我今年最喜欢的游戏开设活动了，法文有品🥰可以都来玩玩啊。顺带一提法文是国内唯一一个仅存的放映lgbt骄傲周电影的地方，但很可惜前两个月好像被制止了。目前法文的票只能线下提早几十分钟买票观影 https://t.co/UGeNYWJrjw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3912,
+        "media_key": "3_2096277574385311744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd5WOvaoAAA9jr.jpg",
+        "width": 1853
+      },
+      {
+        "height": 3869,
+        "media_key": "3_2096277588109037568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd5XB3aEAAA0UW.jpg",
+        "width": 1853
+      },
+      {
+        "height": 3859,
+        "media_key": "3_2096277597835702273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd5XmGbMAEPQvp.jpg",
+        "width": 1853
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096277609869156352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd5YS7bIAAXkGs.jpg",
+        "width": 414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096277574385311744",
+            "3_2096277588109037568",
+            "3_2096277597835702273",
+            "3_2096277609869156352"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2096277619327287586",
+        "created_at": "2026-09-05T16:41:46.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096277619327287586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UGeNYWJrjw",
+              "end": 131,
+              "expanded_url": "https://x.com/fcjdfb/status/2096277619327287586/photo/1",
+              "media_key": "3_2096277574385311744",
+              "start": 108,
+              "url": "https://t.co/UGeNYWJrjw"
+            },
+            {
+              "display_url": "pic.x.com/UGeNYWJrjw",
+              "end": 131,
+              "expanded_url": "https://x.com/fcjdfb/status/2096277619327287586/photo/1",
+              "media_key": "3_2096277588109037568",
+              "start": 108,
+              "url": "https://t.co/UGeNYWJrjw"
+            },
+            {
+              "display_url": "pic.x.com/UGeNYWJrjw",
+              "end": 131,
+              "expanded_url": "https://x.com/fcjdfb/status/2096277619327287586/photo/1",
+              "media_key": "3_2096277597835702273",
+              "start": 108,
+              "url": "https://t.co/UGeNYWJrjw"
+            },
+            {
+              "display_url": "pic.x.com/UGeNYWJrjw",
+              "end": 131,
+              "expanded_url": "https://x.com/fcjdfb/status/2096277619327287586/photo/1",
+              "media_key": "3_2096277609869156352",
+              "start": 108,
+              "url": "https://t.co/UGeNYWJrjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096277619327287586",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096277574385311744"
+          },
+          {
+            "media_key": "3_2096277588109037568"
+          },
+          {
+            "media_key": "3_2096277597835702273"
+          },
+          {
+            "media_key": "3_2096277609869156352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "法文（法国文化中心）竟然对我今年最喜欢的游戏开设活动了，法文有品🥰可以都来玩玩啊。顺带一提法文是国内唯一一个仅存的放映lgbt骄傲周电影的地方，但很可惜前两个月好像被制止了。目前法文的票只能线下提早几十分钟买票观影 https://t.co/UGeNYWJrjw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096277619327287586",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

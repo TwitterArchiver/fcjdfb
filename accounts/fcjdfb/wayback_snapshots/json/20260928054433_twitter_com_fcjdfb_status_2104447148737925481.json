@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104430287681994998",
+    "created_at": "2026-09-28T05:44:33.000Z",
+    "display_text_range": [
+      12,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104447148737925481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2062937911729991680",
+          "start": 0,
+          "username": "DingSam92t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104447148737925481",
+    "in_reply_to_user_id": "2062937911729991680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104430287681994998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DingSam92t 这个感叹号和顿句，感觉已经能想象到了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2104430167645118464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRwFnUaYAAirB-.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2104430167846449152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRwFoEacAADEzW.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2104430167838064640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRwFoCagAAlRta.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2104430167640965120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRwFnTbAAAFGIG.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104430287681994998",
+        "created_at": "2026-09-28T05:44:33.000Z",
+        "display_text_range": [
+          12,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104447148737925481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2062937911729991680",
+              "start": 0,
+              "username": "DingSam92t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104447148737925481",
+        "in_reply_to_user_id": "2062937911729991680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104430287681994998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingSam92t 这个感叹号和顿句，感觉已经能想象到了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104430167645118464",
+            "3_2104430167846449152",
+            "3_2104430167838064640",
+            "3_2104430167640965120"
+          ]
+        },
+        "author_id": "2062937911729991680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104430287681994998",
+        "created_at": "2026-09-28T04:37:33.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T05:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104430287681994998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWI1mHUhC4",
+              "end": 33,
+              "expanded_url": "https://x.com/DingSam92t/status/2104430287681994998/photo/1",
+              "media_key": "3_2104430167645118464",
+              "start": 10,
+              "url": "https://t.co/RWI1mHUhC4"
+            },
+            {
+              "display_url": "pic.x.com/RWI1mHUhC4",
+              "end": 33,
+              "expanded_url": "https://x.com/DingSam92t/status/2104430287681994998/photo/1",
+              "media_key": "3_2104430167846449152",
+              "start": 10,
+              "url": "https://t.co/RWI1mHUhC4"
+            },
+            {
+              "display_url": "pic.x.com/RWI1mHUhC4",
+              "end": 33,
+              "expanded_url": "https://x.com/DingSam92t/status/2104430287681994998/photo/1",
+              "media_key": "3_2104430167838064640",
+              "start": 10,
+              "url": "https://t.co/RWI1mHUhC4"
+            },
+            {
+              "display_url": "pic.x.com/RWI1mHUhC4",
+              "end": 33,
+              "expanded_url": "https://x.com/DingSam92t/status/2104430287681994998/photo/1",
+              "media_key": "3_2104430167640965120",
+              "start": 10,
+              "url": "https://t.co/RWI1mHUhC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104430287681994998",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104430167645118464"
+          },
+          {
+            "media_key": "3_2104430167846449152"
+          },
+          {
+            "media_key": "3_2104430167838064640"
+          },
+          {
+            "media_key": "3_2104430167640965120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 275,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请求逃离原生家庭～ https://t.co/RWI1mHUhC4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104447148737925481",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 66,
+          "like_count": 819,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1486
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-05T16:43:26.000Z",
+        "description": "|14岁|准初三 | mtf|172cm65kg | 家暴党|抑郁|焦虑|双相|精神分裂？|hrt：26.9.8喵～|生产日期2012.4.10|喵～有一只姐姐@Refac7_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "Refac7_"
+              }
+            ]
+          }
+        },
+        "id": "2062937911729991680",
+        "is_identity_verified": false,
+        "location": "德州",
+        "most_recent_tweet_id": "2104430287681994998",
+        "name": "秋白🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062937911729991680/1785633281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085690957694197760/3KjCZsVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 744,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "DingSam92t",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

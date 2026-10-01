@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2041931092694069556",
+    "created_at": "2026-04-08T17:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T18:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041931092694069556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041931092694069556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855236870734758200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 如果 LGBT 都像顺直男宝一样说话会怎么样。\n\nL：上个网都能看到你们低学历逼。\nG：你操过屁眼子吗，没操过别说话。\nB：单一取向本身就是一种病。\nmtf：男的都喜欢胸小的。\nftm：迷你鸡这么大还不算大吗？哪有那么多大的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2041931092694069556",
+        "created_at": "2026-04-08T17:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041931092694069556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041931092694069556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855236870734758200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 如果 LGBT 都像顺直男宝一样说话会怎么样。\n\nL：上个网都能看到你们低学历逼。\nG：你操过屁眼子吗，没操过别说话。\nB：单一取向本身就是一种病。\nmtf：男的都喜欢胸小的。\nftm：迷你鸡这么大还不算大吗？哪有那么多大的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1855236870734758200",
+        "created_at": "2024-11-09T13:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T14:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855236870734758200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855236870734758200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 27468,
+          "like_count": 310,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "如果 LGBT 都像顺直男宝一样说话会怎么样。\n\nL：上个网都能看到你们低学历逼。\nG：你操过屁眼子吗，没操过别说话。\nB：单一取向本身就是一种病。\nmtf：男的都喜欢胸小的。\nftm：迷你鸡这么大还不算大吗？哪有那么多大的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "上个账号怎么又被封了",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 35,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 202
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22097,
+          "following_count": 197,
+          "like_count": 712,
+          "listed_count": 72,
+          "media_count": 103,
+          "tweet_count": 23024
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

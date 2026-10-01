@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096784727705534464"
+      ],
+      "media_source_tweet_id": [
+        "2096784946958631296"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096972641852920299",
+    "created_at": "2026-09-07T14:43:32.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096972641852920299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2026283442259017729",
+          "start": 3,
+          "username": "bigjusir"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9RwJWdKAV3",
+          "end": 59,
+          "expanded_url": "https://x.com/bigjusir/status/2096784946958631296/photo/1",
+          "media_key": "3_2096784727705534464",
+          "start": 36,
+          "url": "https://t.co/9RwJWdKAV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096972641852920299",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096784727705534464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096784946958631296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bigjusir: 民警：什么叫做我宣传诈骗的时候被诈骗了…… https://t.co/9RwJWdKAV3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 330,
+        "media_key": "3_2096784727705534464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlGmcFaQAAPcdf.jpg",
+        "width": 442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096784727705534464"
+          ],
+          "media_source_tweet_id": [
+            "2096784946958631296"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096972641852920299",
+        "created_at": "2026-09-07T14:43:32.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096972641852920299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2026283442259017729",
+              "start": 3,
+              "username": "bigjusir"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9RwJWdKAV3",
+              "end": 59,
+              "expanded_url": "https://x.com/bigjusir/status/2096784946958631296/photo/1",
+              "media_key": "3_2096784727705534464",
+              "start": 36,
+              "url": "https://t.co/9RwJWdKAV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096972641852920299",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096784727705534464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096784946958631296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bigjusir: 民警：什么叫做我宣传诈骗的时候被诈骗了…… https://t.co/9RwJWdKAV3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096784727705534464"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2096784946958631296",
+        "created_at": "2026-09-07T02:17:42.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096784946958631296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9RwJWdKAV3",
+              "end": 45,
+              "expanded_url": "https://x.com/bigjusir/status/2096784946958631296/photo/1",
+              "media_key": "3_2096784727705534464",
+              "start": 22,
+              "url": "https://t.co/9RwJWdKAV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096784946958631296",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096784727705534464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7084,
+          "like_count": 338,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "民警：什么叫做我宣传诈骗的时候被诈骗了…… https://t.co/9RwJWdKAV3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096972641852920299",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 55,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 370
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "内容创作者，二次元爱好者，时政评论",
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096942608979529959",
+        "name": "jusir",
+        "pinned_tweet_id": "2087100350092181848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5941,
+          "following_count": 4430,
+          "like_count": 8810,
+          "listed_count": 14,
+          "media_count": 1205,
+          "tweet_count": 4763
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2098524841980944613",
+    "created_at": "2026-09-11T21:31:25.000Z",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T22:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098524841980944613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/credits18118/s…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/credits18118/status/2097869809237311834",
+          "start": 148,
+          "url": "https://t.co/fmbgV9zK67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098524841980944613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "唉，感觉精神疾病还是太自证预言了。尤其是神经相关adhd和asd。抑郁或者双相因为是状态确诊还能确定是你因为有了某些问题具有相似性给你归类成了一类精神疾病。区别更多说是一些比如双相的躁狂形态表现在什么。至少我会明确感受到我好想打人家里人还容易激怒我，结果换到asd或者adhd上面，几乎全都是特制辨别adhd还分内在多动外在多动一大堆，asd还有什么社交区别，感知区别，说话表述区别...最抽象的是asd可能有某些又可能没有某些，那我到底是有还是没有...如果认为自己有但是原本没有不是越搞越自我套进去，如果认为没有但是有又会影响我自己判断\n有点碎碎念了说回帖子，这种自我否定低落想法本身就比较符合抑郁症患者了。而且再说抑郁本来也是说长期的抑郁状态而不是说全天候都这样，我觉得包括我在内害怕的更还是精神疾病算是某种程度上的挡箭牌了，如果能被其他人抓出所谓你不是精神疾病就会更理直气壮的攻击。对于我怀疑诊断？我觉得应该没有"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097869809237311834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉，感觉精神疾病还是太自证预言了。尤其是神经相关adhd和asd。抑郁或者双相因为是状态确诊还能确定是你因为有了某些问题具有相似性给你归类成了一类精神疾病。区别更多说是一些比如双相的躁狂形态表现在什么。至少我会明确感受到我好想打人家里人还容易激怒我，结果换到asd或者adhd上面，几乎全都是特 https://t.co/fmbgV9zK67"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2098524841980944613",
+        "created_at": "2026-09-11T21:31:25.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T22:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098524841980944613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/credits18118/s…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/credits18118/status/2097869809237311834",
+              "start": 148,
+              "url": "https://t.co/fmbgV9zK67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098524841980944613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唉，感觉精神疾病还是太自证预言了。尤其是神经相关adhd和asd。抑郁或者双相因为是状态确诊还能确定是你因为有了某些问题具有相似性给你归类成了一类精神疾病。区别更多说是一些比如双相的躁狂形态表现在什么。至少我会明确感受到我好想打人家里人还容易激怒我，结果换到asd或者adhd上面，几乎全都是特制辨别adhd还分内在多动外在多动一大堆，asd还有什么社交区别，感知区别，说话表述区别...最抽象的是asd可能有某些又可能没有某些，那我到底是有还是没有...如果认为自己有但是原本没有不是越搞越自我套进去，如果认为没有但是有又会影响我自己判断\n有点碎碎念了说回帖子，这种自我否定低落想法本身就比较符合抑郁症患者了。而且再说抑郁本来也是说长期的抑郁状态而不是说全天候都这样，我觉得包括我在内害怕的更还是精神疾病算是某种程度上的挡箭牌了，如果能被其他人抓出所谓你不是精神疾病就会更理直气壮的攻击。对于我怀疑诊断？我觉得应该没有"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097869809237311834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，感觉精神疾病还是太自证预言了。尤其是神经相关adhd和asd。抑郁或者双相因为是状态确诊还能确定是你因为有了某些问题具有相似性给你归类成了一类精神疾病。区别更多说是一些比如双相的躁狂形态表现在什么。至少我会明确感受到我好想打人家里人还容易激怒我，结果换到asd或者adhd上面，几乎全都是特 https://t.co/fmbgV9zK67"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942111360420290561",
+        "conversation_id": "2097869809237311834",
+        "created_at": "2026-09-10T02:08:33.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097869809237311834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097869809237311834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像一直在拿一些我认为“抑郁症应有的状态”来审视自己，体现为当我感觉开心的时候，我就会不由自主地出现不安感。我想可能是我潜意识里非常害怕被别人怀疑我是在装病，因此我就会不停审视、怀疑自己有没有在装病，这就解释了为什么我在感到快乐时反而有种不安感，就是我认为抑郁的我不配享受这份快乐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2098524841980944613",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 65,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 549
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T06:40:56.000Z",
+        "description": "10年高中在读丨INFP-T丨重抑中焦+双相二型治疗中丨不🚬/🍺/🔪/od/键政丨音游重度依赖丨指派性别男，性别认同探索中(或许是非二元偏女?丨萨福式取向丨人称代词所有都可丨可互fo看成分回关丨很内向但渴望能找到朋友 请私信找我聊天！",
+        "id": "1942111360420290561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098403230321709165",
+        "name": "Phony",
+        "pinned_tweet_id": "2097107549623570562",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091115941690318848/bHlDpJb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 561,
+          "like_count": 3606,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 945
+        },
+        "url": "",
+        "username": "credits18118",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

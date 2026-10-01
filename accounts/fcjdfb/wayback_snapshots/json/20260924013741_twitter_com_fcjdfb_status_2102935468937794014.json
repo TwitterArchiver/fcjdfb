@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2102745686022447554",
+    "created_at": "2026-09-24T01:37:41.000Z",
+    "display_text_range": [
+      16,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T02:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102935468937794014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Unlock Ultimate Browsing Experience with AI.",
+          "display_url": "edgemobileapp.microsoft.com/?adjustId=1t1h…",
+          "end": 79,
+          "expanded_url": "https://edgemobileapp.microsoft.com/?adjustId=1t1h6scl_1tc1psf8&extensionId=cgomddpedljmgbdcmiiemiaanejaaohe",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2102935471592738816/1IVcU054?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2102935471592738816/1IVcU054?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 56,
+          "status": 200,
+          "title": "Microsoft Edge - AI-Powered Browser",
+          "unwound_url": "https://edgemobileapp.microsoft.com/?adjustId=1t1h6scl_1tc1psf8&extensionId=cgomddpedljmgbdcmiiemiaanejaaohe",
+          "url": "https://t.co/43ko924L9r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102935468937794014",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102747678572691702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 做完了喵，只需要edge浏览器打开这个扩展器商店下载就行了。手机edge也可以\nhttps://t.co/43ko924L9r"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2102745686022447554",
+        "created_at": "2026-09-24T01:37:41.000Z",
+        "display_text_range": [
+          16,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T02:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102935468937794014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Unlock Ultimate Browsing Experience with AI.",
+              "display_url": "edgemobileapp.microsoft.com/?adjustId=1t1h…",
+              "end": 79,
+              "expanded_url": "https://edgemobileapp.microsoft.com/?adjustId=1t1h6scl_1tc1psf8&extensionId=cgomddpedljmgbdcmiiemiaanejaaohe",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2102935471592738816/1IVcU054?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102935471592738816/1IVcU054?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 56,
+              "status": 200,
+              "title": "Microsoft Edge - AI-Powered Browser",
+              "unwound_url": "https://edgemobileapp.microsoft.com/?adjustId=1t1h6scl_1tc1psf8&extensionId=cgomddpedljmgbdcmiiemiaanejaaohe",
+              "url": "https://t.co/43ko924L9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102935468937794014",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102747678572691702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 做完了喵，只需要edge浏览器打开这个扩展器商店下载就行了。手机edge也可以\nhttps://t.co/43ko924L9r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2102745686022447554",
+        "created_at": "2026-09-23T13:11:28.000Z",
+        "display_text_range": [
+          8,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102747678572691702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102747678572691702",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102746032262295562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb 喵喵喵呜！好厉害好厉害好厉害！等咱闲下来去试试哦🥰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影录像（简介施工中）嗯对我懒得写等我写的时候吧）09\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2102935468937794014",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 63,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1254
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2102811282588287233",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5369,
+          "following_count": 7329,
+          "like_count": 22540,
+          "listed_count": 12,
+          "media_count": 491,
+          "tweet_count": 6771
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

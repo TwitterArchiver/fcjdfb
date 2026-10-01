@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2102983774040690760",
+    "created_at": "2026-09-24T04:49:37.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T05:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102983774040690760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "923010104479252480",
+          "start": 3,
+          "username": "GoogleColab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102983774040690760",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 371
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102459388040790496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GoogleColab: Colab is now part of Google AI plans! Subscribers get priority access to faster accelerators and more powerful machines, U…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2102983774040690760",
+        "created_at": "2026-09-24T04:49:37.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T05:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102983774040690760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "923010104479252480",
+              "start": 3,
+              "username": "GoogleColab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102983774040690760",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 371
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102459388040790496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GoogleColab: Colab is now part of Google AI plans! Subscribers get priority access to faster accelerators and more powerful machines, U…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "923010104479252480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2102459388040790496",
+        "created_at": "2026-09-22T18:05:54.000Z",
+        "display_text_range": [
+          0,
+          252
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T19:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102459388040790496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Google AI subscribers now get premium Colab benefits! Unlock faster accelerators, Premium GPUs, and uninterrupted background execution for long training runs.",
+              "display_url": "developers.googleblog.com/colab-is-now-p…",
+              "end": 252,
+              "expanded_url": "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2102458446608228352/tj2IkJJQ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102458446608228352/tj2IkJJQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 229,
+              "status": 200,
+              "title": "Google for Developers Blog - News about Web, Mobile, AI and Cloud",
+              "unwound_url": "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
+              "url": "https://t.co/zeUeqjVOVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102459388040790496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1389,
+          "impression_count": 513538,
+          "like_count": 2719,
+          "quote_count": 206,
+          "reply_count": 94,
+          "retweet_count": 371
+        },
+        "reply_settings": "everyone",
+        "text": "Colab is now part of Google AI plans! Subscribers get priority access to faster accelerators and more powerful machines, Ultra users also get access to longer running background execution and Premium GPU access.\nLearn more here:\nhttps://t.co/zeUeqjVOVg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影录像（简介施工中）嗯对我懒得写等我写的时候吧）09\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2102983774040690760",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 64,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1279
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-25T02:15:32.000Z",
+        "description": "Colab is the tool Google uses to build Gemini, the easiest way to access TPUs and NVIDIA GPUs, and the best way to learn how to program in Python.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "colab.google.com",
+                "end": 23,
+                "expanded_url": "https://colab.google.com",
+                "start": 0,
+                "url": "https://t.co/v9xapzaapA"
+              }
+            ]
+          }
+        },
+        "id": "923010104479252480",
+        "is_identity_verified": false,
+        "location": "Seattle, WA",
+        "most_recent_tweet_id": "2102857126268096557",
+        "name": "Colaboratory",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/923010104479252480/1737057420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1330956917951270912/DyIZtTA8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73631,
+          "following_count": 9,
+          "like_count": 235,
+          "listed_count": 1086,
+          "media_count": 73,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/v9xapzaapA",
+        "username": "GoogleColab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

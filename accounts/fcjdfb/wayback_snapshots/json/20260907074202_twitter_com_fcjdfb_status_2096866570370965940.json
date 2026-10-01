@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096866570370965940",
+    "created_at": "2026-09-07T07:42:02.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T08:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096866570370965940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NataliyaRo4040…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/NataliyaRo4040/status/2096751390307860805",
+          "start": 40,
+          "url": "https://t.co/3kAccovjCV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096866570370965940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096751390307860805",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人一生改不掉为了某个被设定的东西去当累死累活的思想，根本做不到无意义的放松 https://t.co/3kAccovjCV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096751319499558913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkoN00aUAEEhUa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096751319508033536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkoN02boAA8IpN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096751319503777792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkoN01asAA6t3t.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096751319512231936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkoN03bsAAff-3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096866570370965940",
+        "created_at": "2026-09-07T07:42:02.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096866570370965940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NataliyaRo4040…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/NataliyaRo4040/status/2096751390307860805",
+              "start": 40,
+              "url": "https://t.co/3kAccovjCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096866570370965940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096751390307860805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人一生改不掉为了某个被设定的东西去当累死累活的思想，根本做不到无意义的放松 https://t.co/3kAccovjCV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096751319499558913",
+            "3_2096751319508033536",
+            "3_2096751319503777792",
+            "3_2096751319512231936"
+          ]
+        },
+        "author_id": "1940941765944778752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096751390307860805",
+        "created_at": "2026-09-07T00:04:21.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096751390307860805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3UGzy7u2D",
+              "end": 144,
+              "expanded_url": "https://x.com/NataliyaRo4040/status/2096751390307860805/photo/1",
+              "media_key": "3_2096751319499558913",
+              "start": 121,
+              "url": "https://t.co/N3UGzy7u2D"
+            },
+            {
+              "display_url": "pic.x.com/N3UGzy7u2D",
+              "end": 144,
+              "expanded_url": "https://x.com/NataliyaRo4040/status/2096751390307860805/photo/1",
+              "media_key": "3_2096751319508033536",
+              "start": 121,
+              "url": "https://t.co/N3UGzy7u2D"
+            },
+            {
+              "display_url": "pic.x.com/N3UGzy7u2D",
+              "end": 144,
+              "expanded_url": "https://x.com/NataliyaRo4040/status/2096751390307860805/photo/1",
+              "media_key": "3_2096751319503777792",
+              "start": 121,
+              "url": "https://t.co/N3UGzy7u2D"
+            },
+            {
+              "display_url": "pic.x.com/N3UGzy7u2D",
+              "end": 144,
+              "expanded_url": "https://x.com/NataliyaRo4040/status/2096751390307860805/photo/1",
+              "media_key": "3_2096751319512231936",
+              "start": 121,
+              "url": "https://t.co/N3UGzy7u2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096751390307860805",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096751319499558913"
+          },
+          {
+            "media_key": "3_2096751319508033536"
+          },
+          {
+            "media_key": "3_2096751319503777792"
+          },
+          {
+            "media_key": "3_2096751319512231936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "香港迪士尼的经验分享帖来了。\n\n1. 港澳通行证\n找地图上最近的自注签注机，单次15RMB/人。\n\n2. 入关选择\n直接买深圳北（福田）—西九龙的高铁，20分钟就到了，进站即入关，下车即港铁，非常方便，单程75RMB/人。\n\n3. 住宿花费\n我是提前一天去，在阿姨家住了一晚，其实完全可以当天早上出发，省一晚酒店的钱。\n因为迪士尼10:00才开园，西九龙到迪士尼，坐地铁40分钟左右，倒推到深圳，9:00出发够用了，所以住宿0元。\n\n4. 门票购买\n我是在飞猪上找的双人票套餐，内容和官网一样，但便宜100多，含两张园区餐厅的80优惠券，550RMB/人。\n\n5. 地铁花费\n微信/支付宝搜 香港地铁乘车码，直接扫码进站，单程20RMB/人。\n\n6. 园区消费\n迪士尼里面最多的，是各种IP的周边，可爱但真的贵，最小的挂件都要150左右，我都是只拍不买，消费0元。\n园区一瓶矿泉水30，我带了一个空的矿泉水瓶，进去接直饮水喝，补水消费0元。\n前面说门票附赠了两张80优惠券，一个套餐的价格大概160港币，相当于打五折，午饭人均80RMB。\n\n7. 推荐项目\n最不能错过的，当然是我上个帖子分享的好朋友花车巡游，看着记忆里的主角，蹦蹦跳跳着走出屏幕，真的有让人短暂忘记现实生活的残酷的魔力，只想享受最简单美好的快乐。\n冒险项目的话，推荐灰熊山的过山车，比较有特色。先是正常的往前冲，爬上坡突然停止往后退，以为结束了的时候，伴随头顶灰熊的出现，一声咆哮声后，又猝不及防极速向前，是很有节奏感的刺激。\n还有一个，过山车隔壁的 迷离大院，听名字很像鬼屋，其实很适合小朋友，我十几年前第一次玩，真的非常惊艳，像走进了惊悚奇幻主题的电影里。\n旋转木马不要玩，排半天队，上去转一圈就结束了，不如欢乐谷。\n\n8. 返程时间\n我这次到的晚了，入园和找米妮拍照花了很长时间，没玩太多项目。\n如果10点多入园，下午5点之前，正常是可以体验完所有项目和打卡点的。因为香港迪士尼真的非常非常小，面积连上海迪士尼的一半都不到，走得快不爱拍照的，两个小时就能逛完。\n喜欢体验项目的，可以下载一个官方App，实时查看各个项目的位置和排队时间，一般最长也就40分钟。\n买返程18:00左右，西九龙出发的高铁票是很安全的，而且亲测这个点还没什么人排队，秒过海关。\n\n9. 必带物品\n港澳通行证/身份证/手机就够了，现金都用不上，但是防晒伞和防晒霜，必须要！我和我妹在太阳底下裸奔了一天，直接晒伤了😅\n\n综上，从深圳出发到香港迪士尼，人均消费大概15+75x2+550+20x2+80=835 RMB。\n\n原图直出，夹带私货（为什么X只能发四张图，我拍了几百张😌"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 10755,
+          "like_count": 137,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "香港迪士尼的经验分享帖来了。\n\n1. 港澳通行证\n找地图上最近的自注签注机，单次15RMB/人。\n\n2. 入关选择\n直接买深圳北（福田）—西九龙的高铁，20分钟就到了，进站即入关，下车即港铁，非常方便，单程75RMB/人。\n\n3. 住宿花费 https://t.co/N3UGzy7u2D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096866570370965940",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 54,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-04T01:12:44.000Z",
+        "description": "一切发生皆有利于我",
+        "id": "1940941765944778752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096850913315205598",
+        "name": "NataliyaRose",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940942201175134211/WIddXCOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5127,
+          "following_count": 71,
+          "like_count": 3532,
+          "listed_count": 13,
+          "media_count": 80,
+          "tweet_count": 1466
+        },
+        "url": "",
+        "username": "NataliyaRo4040",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

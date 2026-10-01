@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096928773648290065",
+    "created_at": "2026-09-10T12:21:44.000Z",
+    "display_text_range": [
+      30,
+      170
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T13:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098024120298651919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942111360420290561",
+          "start": 0,
+          "username": "credits18118"
+        },
+        {
+          "end": 29,
+          "id": "1378376814389694468",
+          "start": 14,
+          "username": "Aoki_Asuka2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098024120298651919",
+    "in_reply_to_user_id": "1942111360420290561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "并不会，前者只是阻断乳房发育，不是外源性激素相关药物，后者是阻断雄激素特定受体。人类骨骼其实是由雌激素控制的，男性也是把雄激素转化为雌激素来控制。比卡鲁胺是特定阻断性质的药物，不会影响雄雌激素转化。只是影响部分比如毛发等发育，油脂，肌肉量。此时甚至会因为引入比卡鲁胺阻断中枢受体。大脑会误以为体内缺少雄激素而导致雄激素相比此前增大，此时转换的雌激素反而会更高导致骨密度相应升高。需要注意的是比卡鲁胺极有可能导致乳房发育，如果有需要要配合雷洛"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098018922935341502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@credits18118 @Aoki_Asuka2000 并不会，前者只是阻断乳房发育，不是外源性激素相关药物，后者是阻断雄激素特定受体。人类骨骼其实是由雌激素控制的，男性也是把雄激素转化为雌激素来控制。比卡鲁胺是特定阻断性质的药物，不会影响雄雌激素转化。只是影响部分比如毛发等发育，油脂，肌肉量。此时甚至会因为引入比卡鲁胺阻断中枢受体。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096928773648290065",
+        "created_at": "2026-09-10T12:21:44.000Z",
+        "display_text_range": [
+          30,
+          170
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098024120298651919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942111360420290561",
+              "start": 0,
+              "username": "credits18118"
+            },
+            {
+              "end": 29,
+              "id": "1378376814389694468",
+              "start": 14,
+              "username": "Aoki_Asuka2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098024120298651919",
+        "in_reply_to_user_id": "1942111360420290561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "并不会，前者只是阻断乳房发育，不是外源性激素相关药物，后者是阻断雄激素特定受体。人类骨骼其实是由雌激素控制的，男性也是把雄激素转化为雌激素来控制。比卡鲁胺是特定阻断性质的药物，不会影响雄雌激素转化。只是影响部分比如毛发等发育，油脂，肌肉量。此时甚至会因为引入比卡鲁胺阻断中枢受体。大脑会误以为体内缺少雄激素而导致雄激素相比此前增大，此时转换的雌激素反而会更高导致骨密度相应升高。需要注意的是比卡鲁胺极有可能导致乳房发育，如果有需要要配合雷洛"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098018922935341502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@credits18118 @Aoki_Asuka2000 并不会，前者只是阻断乳房发育，不是外源性激素相关药物，后者是阻断雄激素特定受体。人类骨骼其实是由雌激素控制的，男性也是把雄激素转化为雌激素来控制。比卡鲁胺是特定阻断性质的药物，不会影响雄雌激素转化。只是影响部分比如毛发等发育，油脂，肌肉量。此时甚至会因为引入比卡鲁胺阻断中枢受体。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942111360420290561",
+        "conversation_id": "2096928773648290065",
+        "created_at": "2026-09-10T12:01:05.000Z",
+        "display_text_range": [
+          24,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098018922935341502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "Aoki_Asuka2000"
+            },
+            {
+              "end": 23,
+              "id": "2032037309219315712",
+              "start": 16,
+              "username": "fcjdfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098018922935341502",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097245899793854845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aoki_Asuka2000 @fcjdfb 但是这样雌雄双低好像会导致骨密度低？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098024120298651919",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 62,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 474
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T06:40:56.000Z",
+        "description": "10年高中在读丨INFP-T丨重抑中焦+双相二型治疗中丨不🚬/🍺/🔪/od/键政丨音游重度依赖丨指派性别男，性别认同探索中(或许是非二元偏女?丨萨福式取向丨人称代词所有都可丨可互fo看成分回关丨很内向但渴望能找到朋友 请私信找我聊天！",
+        "id": "1942111360420290561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098022466581070038",
+        "name": "Phony",
+        "pinned_tweet_id": "2097107549623570562",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091115941690318848/bHlDpJb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 550,
+          "like_count": 3475,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 926
+        },
+        "url": "",
+        "username": "credits18118",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "Agender Trans/Aroace/唯一目标是SRS",
+        "id": "1378376814389694468",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098013212486795277",
+        "name": "Pie",
+        "pinned_tweet_id": "2097350027538735133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378376814389694468/1784865215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097688654584188928/VLlnjyzO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 7344,
+          "like_count": 176364,
+          "listed_count": 3,
+          "media_count": 903,
+          "tweet_count": 29686
+        },
+        "url": "",
+        "username": "Aoki_Asuka2000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

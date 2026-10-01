@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100826141170790649",
+    "created_at": "2026-09-18T17:48:14.000Z",
+    "display_text_range": [
+      19,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T18:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101005390339359159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2092667492531605504",
+          "start": 0,
+          "username": "aginlab64"
+        },
+        {
+          "end": 18,
+          "id": "2092971438521077760",
+          "start": 11,
+          "username": "zza2ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101005390339359159",
+    "in_reply_to_user_id": "2092667492531605504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100879105168433298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aginlab64 @zza2ku 男又不完全跟激素相关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100826141170790649",
+        "created_at": "2026-09-18T17:48:14.000Z",
+        "display_text_range": [
+          19,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101005390339359159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2092667492531605504",
+              "start": 0,
+              "username": "aginlab64"
+            },
+            {
+              "end": 18,
+              "id": "2092971438521077760",
+              "start": 11,
+              "username": "zza2ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101005390339359159",
+        "in_reply_to_user_id": "2092667492531605504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100879105168433298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aginlab64 @zza2ku 男又不完全跟激素相关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092667492531605504",
+        "conversation_id": "2100826141170790649",
+        "created_at": "2026-09-18T09:26:25.000Z",
+        "display_text_range": [
+          8,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100879105168433298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092971438521077760",
+              "start": 0,
+              "username": "zza2ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100879105168433298",
+        "in_reply_to_user_id": "2092971438521077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100826141170790649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zza2ku 那为什么我天天通宵还是好男😢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2101005390339359159",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 75,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 928
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T17:37:45.000Z",
+        "description": "自由左｜MtX/F•non-binary🍥｜泛性恋｜LGBTQIA➕｜容貌焦虑中😭｜民国99年出厂\n无证hrt26.6.16｜人称代词偏向she/her｜想要互fo｜ACGN享受者｜坐标沪\n民社|卢森堡｜粉蛆劳保右逼你们的🐎怎么死了｜有限接纳毛左\n不发表大量政治言论",
+        "id": "2092667492531605504",
+        "is_identity_verified": false,
+        "location": "康米天国",
+        "most_recent_tweet_id": "2101004076918145365",
+        "name": "兰比密西西🏳️‍⚧️☭🏳️‍🌈",
+        "pinned_tweet_id": "2100987491260235954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092667492531605504/1788786684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100603444621094912/gBFsVr6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 860,
+          "like_count": 6082,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 886
+        },
+        "url": "",
+        "username": "aginlab64",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "民主社会主义",
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100975795585818963",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2092974029145886789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1787838823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 113,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 641
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

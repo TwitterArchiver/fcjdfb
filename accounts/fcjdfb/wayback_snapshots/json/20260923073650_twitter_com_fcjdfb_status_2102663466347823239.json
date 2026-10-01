@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "1841433059213914138",
+    "created_at": "2026-09-23T07:36:50.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T08:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102663466347823239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102663466347823239",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841433059213914138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 唉，不解决问题难道还不会解决你？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "1841433059213914138",
+        "created_at": "2026-09-23T07:36:50.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102663466347823239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102663466347823239",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841433059213914138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 唉，不解决问题难道还不会解决你？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1841433059213914138",
+        "created_at": "2024-10-02T11:00:28.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2024-10-02T11:58:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841432632472826040",
+          "1841433059213914138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hjjgdf134918/s…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/hjjgdf134918/status/1841352884417614161",
+              "start": 132,
+              "url": "https://t.co/h5s2ESKzxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841433059213914138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/question/21796…",
+                "end": 542,
+                "expanded_url": "https://www.zhihu.com/question/21796554/answer/3202039241?utm_psn=1824885552022970368",
+                "start": 519,
+                "url": "https://t.co/a90024Td1V"
+              }
+            ]
+          },
+          "text": "清华北大，C9，还有众多头部985院校，经常会出现跨性别者在学校里自杀的情况。\n\n而在很多大专院校，尤其是山河四省等地的警校，很少会有学生在学校自杀。\n\n为什么？\n\n2020年，苏州托普信息职业技术学院，仅因为一位跨性别女性学生，被报警自杀，就决定将其直接开除。\n\n把所有有自杀倾向的学生全部开除，就没有学生在学校里自杀了。\n\n至于学生被开除后死亡率会更高，只要不死在学校里就行！\n\n而真正为学生的未来综合考虑，给学生好好做心理咨询和督促看诊的学校，往往都是清北复交，人大附中，深圳中学这样的好学校。\n\n我有两任女友，一个曾经在人大附中，一个曾经在深圳中学。抑郁和自杀，家暴等情况极为严重，学校都给予了极大支持。她们有时也会自叹，换在任何一个普通院校，她们几乎不可能读完高中，人也大概率早没了！\n\n世人只看到了人大附中，深圳中学，清北复交，每年都有自杀的学生，却没看到这些好学校，好老师，好校长给无数抑郁自杀的孩子巨大的关爱，巨大的帮助，甚至改变了他们的一生！\n\n世人只看到一堆大专院校，好像没什么学生在里面自杀，却没看到无数抑郁的孩子被这些学校全部强制休学和开除，全部死在了学校外边！\n\n那现在你猜猜，为什么中国和美国的数据不一样？\n\nhttps://t.co/a90024Td1V"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 122904,
+          "like_count": 733,
+          "quote_count": 12,
+          "reply_count": 41,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841352884417614161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "清华北大，C9，还有众多头部985院校，经常会出现跨性别者在学校里自杀的情况。\n\n而在很多大专院校，尤其是山河四省等地的警校，很少会有学生在学校自杀。\n\n为什么？\n\n2020年，苏州托普信息职业技术学院，仅因为一位跨性别女性学生，被报警自杀，就决定将其直接开除。 https://t.co/h5s2ESKzxj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发，电影游戏精神病学心理学性别烦躁音乐器材（简介施工中）嗯对我懒得写等我写的时候吧）\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2102663466347823239",
+        "name": "cjy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 64,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1209
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2102541003970543827",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42778,
+          "following_count": 4167,
+          "like_count": 2329,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 3164
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

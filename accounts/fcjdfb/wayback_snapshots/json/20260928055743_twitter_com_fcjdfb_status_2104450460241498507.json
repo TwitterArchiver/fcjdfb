@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104177279131852800"
+      ],
+      "media_source_tweet_id": [
+        "2104177323750928643"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104450460241498507",
+    "created_at": "2026-09-28T05:57:43.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104450460241498507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1528798633168347137",
+          "start": 3,
+          "username": "TomoriNao2022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zWRiMDrTgH",
+          "end": 57,
+          "expanded_url": "https://x.com/TomoriNao2022/status/2104177323750928643/photo/1",
+          "media_key": "3_2104177279131852800",
+          "start": 34,
+          "url": "https://t.co/zWRiMDrTgH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104450460241498507",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104177279131852800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104177323750928643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TomoriNao2022: 崩坏星穹铁道：你直接点我名吧 https://t.co/zWRiMDrTgH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1239,
+        "media_key": "3_2104177279131852800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOKFkMaIAA9s_r.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104177279131852800"
+          ],
+          "media_source_tweet_id": [
+            "2104177323750928643"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104450460241498507",
+        "created_at": "2026-09-28T05:57:43.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104450460241498507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1528798633168347137",
+              "start": 3,
+              "username": "TomoriNao2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWRiMDrTgH",
+              "end": 57,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2104177323750928643/photo/1",
+              "media_key": "3_2104177279131852800",
+              "start": 34,
+              "url": "https://t.co/zWRiMDrTgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104450460241498507",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104177279131852800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104177323750928643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TomoriNao2022: 崩坏星穹铁道：你直接点我名吧 https://t.co/zWRiMDrTgH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104177279131852800"
+          ]
+        },
+        "author_id": "1528798633168347137",
+        "conversation_id": "2104177323750928643",
+        "created_at": "2026-09-27T11:52:22.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104177323750928643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWRiMDrTgH",
+              "end": 38,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2104177323750928643/photo/1",
+              "media_key": "3_2104177279131852800",
+              "start": 15,
+              "url": "https://t.co/zWRiMDrTgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104177323750928643",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104177279131852800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 51594,
+          "like_count": 777,
+          "quote_count": 6,
+          "reply_count": 69,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "崩坏星穹铁道：你直接点我名吧 https://t.co/zWRiMDrTgH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104450460241498507",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 66,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1489
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！\ntelegram：https://t.co/K8jioEkL4s\ndiscord：https://t.co/ZFHCRnHUMK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 48,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 25,
+                "url": "https://t.co/K8jioEkL4s"
+              },
+              {
+                "display_url": "discord.gg/RXmHUMUdGN",
+                "end": 80,
+                "expanded_url": "https://discord.gg/RXmHUMUdGN",
+                "start": 57,
+                "url": "https://t.co/ZFHCRnHUMK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 0,
+                "url": "https://t.co/K8jioEkL4s"
+              }
+            ]
+          }
+        },
+        "id": "1528798633168347137",
+        "is_identity_verified": false,
+        "location": "神奈川県",
+        "most_recent_tweet_id": "2104433687240794502",
+        "name": "なおNaO",
+        "pinned_tweet_id": "2073983646399365630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1528798633168347137/1653500269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23729,
+          "following_count": 5553,
+          "like_count": 13118,
+          "listed_count": 71,
+          "media_count": 3797,
+          "tweet_count": 12773
+        },
+        "url": "https://t.co/K8jioEkL4s",
+        "username": "TomoriNao2022",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

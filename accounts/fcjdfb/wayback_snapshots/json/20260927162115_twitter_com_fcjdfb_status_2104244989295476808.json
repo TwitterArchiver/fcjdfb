@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104184771337498738",
+    "created_at": "2026-09-27T16:21:15.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T17:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104244989295476808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1034996976029380608",
+          "start": 0,
+          "username": "CryptoDoggyCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104244989295476808",
+    "in_reply_to_user_id": "1034996976029380608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104184771337498738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CryptoDoggyCN 酸甜口好吃的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1410,
+        "media_key": "3_2104184055302623232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOQP_ZakAAAGtL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1473,
+        "media_key": "3_2104184111749636096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOQTRrboAAyEXW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104184771337498738",
+        "created_at": "2026-09-27T16:21:15.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104244989295476808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1034996976029380608",
+              "start": 0,
+              "username": "CryptoDoggyCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104244989295476808",
+        "in_reply_to_user_id": "1034996976029380608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104184771337498738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptoDoggyCN 酸甜口好吃的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104184055302623232",
+            "3_2104184111749636096"
+          ]
+        },
+        "author_id": "1034996976029380608",
+        "conversation_id": "2104184771337498738",
+        "created_at": "2026-09-27T12:21:58.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104184771337498738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/knIyHJYlLP",
+              "end": 100,
+              "expanded_url": "https://x.com/CryptoDoggyCN/status/2104184771337498738/photo/1",
+              "media_key": "3_2104184055302623232",
+              "start": 77,
+              "url": "https://t.co/knIyHJYlLP"
+            },
+            {
+              "display_url": "pic.x.com/knIyHJYlLP",
+              "end": 100,
+              "expanded_url": "https://x.com/CryptoDoggyCN/status/2104184771337498738/photo/1",
+              "media_key": "3_2104184111749636096",
+              "start": 77,
+              "url": "https://t.co/knIyHJYlLP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104184771337498738",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104184055302623232"
+          },
+          {
+            "media_key": "3_2104184111749636096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 181797,
+          "like_count": 487,
+          "quote_count": 7,
+          "reply_count": 61,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "今天卡戴珊家族在上海吃了云南菜一坐一忘，饭店立马上线卡家套餐，连头像都改了\n\n老外是有多喜欢云南菜\n\n之前美国财长耶伦、英国首相斯塔默访华都特地来吃这家 https://t.co/knIyHJYlLP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104244989295476808",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 67,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1432
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-08-30T02:51:23.000Z",
+        "description": "Sperm Capital 创始人 | AKA安全出入金之王\n\n无CRS炒美股在第一证券：https://t.co/6d1rq6VR0d",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "firstrade.com/?linkId=lp_019…",
+                "end": 68,
+                "expanded_url": "http://www.firstrade.com/?linkId=lp_019503&sourceId=getrich&tenantId=firstrade-affiliate",
+                "start": 45,
+                "url": "https://t.co/6d1rq6VR0d"
+              }
+            ]
+          }
+        },
+        "id": "1034996976029380608",
+        "is_identity_verified": false,
+        "location": "赛博狗窝",
+        "most_recent_tweet_id": "2104184771337498738",
+        "name": "Crypto Doggy 叫我狗总",
+        "pinned_tweet_id": "2062371257094656119",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1034996976029380608/1780452939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732298405337247744/qpgNtRU2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115010,
+          "following_count": 723,
+          "like_count": 1834,
+          "listed_count": 867,
+          "media_count": 1862,
+          "tweet_count": 7089
+        },
+        "url": "",
+        "username": "CryptoDoggyCN",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2096308366134104139",
+    "created_at": "2026-09-05T18:43:56.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T19:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096308366134104139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595437100572475393",
+          "start": 3,
+          "username": "su2024930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096308366134104139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096221303317606830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @su2024930: 雌二醇会腐蚀妳的男人般的意志😡让妳性格变软、情绪变细、雌情大爆发😡让妳在在星宇的多巴胺盛宴和身体变化的ge中继续主动服用它😡不准停用雌二醇喵😡它在操控妳的大脑喵😡但是爽亖了喵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2096308366134104139",
+        "created_at": "2026-09-05T18:43:56.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T19:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096308366134104139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595437100572475393",
+              "start": 3,
+              "username": "su2024930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096308366134104139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096221303317606830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @su2024930: 雌二醇会腐蚀妳的男人般的意志😡让妳性格变软、情绪变细、雌情大爆发😡让妳在在星宇的多巴胺盛宴和身体变化的ge中继续主动服用它😡不准停用雌二醇喵😡它在操控妳的大脑喵😡但是爽亖了喵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595437100572475393",
+        "conversation_id": "2096221303317606830",
+        "created_at": "2026-09-05T12:57:59.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096221303317606830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiafeimao3591/…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/jiafeimao3591/status/2096215024712757559",
+              "start": 89,
+              "url": "https://t.co/PkJaAWHzHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096221303317606830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 950,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096215024712757559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雌二醇会腐蚀妳的男人般的意志😡让妳性格变软、情绪变细、雌情大爆发😡让妳在在星宇的多巴胺盛宴和身体变化的ge中继续主动服用它😡不准停用雌二醇喵😡它在操控妳的大脑喵😡但是爽亖了喵🥵 https://t.co/PkJaAWHzHv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096308366134104139",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 44,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-23T15:20:40.000Z",
+        "description": "04/🏳️‍⚧️mtf/四川/hrt2022.9.23/找对象喵/最可爱的妹妹@sutikle  /INFP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 39,
+                "username": "sutikle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/susu50707",
+                "end": 23,
+                "expanded_url": "https://ngl.link/susu50707",
+                "start": 0,
+                "url": "https://t.co/QIc7rmnZbw"
+              }
+            ]
+          }
+        },
+        "id": "1595437100572475393",
+        "is_identity_verified": false,
+        "location": "南河三",
+        "most_recent_tweet_id": "2096285667601137995",
+        "name": "雨清墨颜🍥",
+        "pinned_tweet_id": "1718444175191159115",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1595437100572475393/1682773334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952428251248525313/zciCXYWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 1047,
+          "like_count": 3008,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/QIc7rmnZbw",
+        "username": "su2024930",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

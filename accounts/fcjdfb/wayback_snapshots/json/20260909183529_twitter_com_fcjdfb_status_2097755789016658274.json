@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2097669919273840707",
+    "created_at": "2026-09-09T18:35:29.000Z",
+    "display_text_range": [
+      11,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T19:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097755789016658274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830111977391472640",
+          "start": 0,
+          "username": "qym932026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097755789016658274",
+    "in_reply_to_user_id": "2032037309219315712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097754535301353773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qym932026 没有实际研究证实醋酸环丙孕酮 低剂量对于抗雄有多大作用。还是推荐常规做法，螺内酯加补佳乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2097669919273840707",
+        "created_at": "2026-09-09T18:35:29.000Z",
+        "display_text_range": [
+          11,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097755789016658274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830111977391472640",
+              "start": 0,
+              "username": "qym932026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097755789016658274",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097754535301353773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qym932026 没有实际研究证实醋酸环丙孕酮 低剂量对于抗雄有多大作用。还是推荐常规做法，螺内酯加补佳乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2097669919273840707",
+        "created_at": "2026-09-09T18:30:30.000Z",
+        "display_text_range": [
+          11,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097754535301353773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830111977391472640",
+              "start": 0,
+              "username": "qym932026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097754535301353773",
+        "in_reply_to_user_id": "1830111977391472640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097669919273840707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qym932026 你要拿初始激素测量和一个月稳定来对比啊，每个人体质不一样。螺内酯其实可以多一点"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097755789016658274",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 62,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-01T05:14:47.000Z",
+        "description": "有什么事情私信我吧，聊聊天也可以喵",
+        "id": "1830111977391472640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097702344217460837",
+        "name": "浅阳猫🍥🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095413161159471110/_oPhvBkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 44,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "qym932026",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

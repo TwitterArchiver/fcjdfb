@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2098437323620774253",
+    "created_at": "2026-09-11T19:53:51.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098500287711633523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1987387349785821184",
+          "start": 0,
+          "username": "episodesew3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098500287711633523",
+    "in_reply_to_user_id": "1987387349785821184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098437323620774253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@episodesew3 🤮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2098437323620774253",
+        "created_at": "2026-09-11T19:53:51.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098500287711633523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1987387349785821184",
+              "start": 0,
+              "username": "episodesew3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098500287711633523",
+        "in_reply_to_user_id": "1987387349785821184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098437323620774253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@episodesew3 🤮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987387349785821184",
+        "conversation_id": "2098437323620774253",
+        "created_at": "2026-09-11T15:43:39.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T16:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098437323620774253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098437323620774253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6558,
+          "like_count": 38,
+          "quote_count": 3,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要被我们同城学校的人们吓晕了\n在食堂里女生给她男朋友口角然后还把不明液体拌饭一起吃了。到底想干啥🤮"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098500287711633523",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 65,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 540
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-09T05:18:56.000Z",
+        "description": "我一点都不好相处。知道吧。\n再给我发jj你就养胃( -᷅_-᷄ )世界上最没耐心之人。",
+        "id": "1987387349785821184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098437793143750911",
+        "name": "episode",
+        "pinned_tweet_id": "2070576430937723107",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987387349785821184/1787946416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091917945924694016/b8kc_igz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2399,
+          "following_count": 13,
+          "like_count": 2508,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 1093
+        },
+        "url": "",
+        "username": "episodesew3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

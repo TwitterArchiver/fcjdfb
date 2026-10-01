@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104860347266183168"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2104860370951422075",
+    "created_at": "2026-09-29T09:06:33.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T10:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104860370951422075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uoXUe2m5Cm",
+          "end": 80,
+          "expanded_url": "https://x.com/fcjdfb/status/2104860370951422075/photo/1",
+          "media_key": "3_2104860347266183168",
+          "start": 57,
+          "url": "https://t.co/uoXUe2m5Cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104860370951422075",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104860347266183168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟朋友出去玩很朋友去吃了滨寿司\n感觉挺好吃的就是米有点散\n以前滨寿司还不是很火就没吃过，作为连锁不踩坑来说太好了 https://t.co/uoXUe2m5Cm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3414,
+        "media_key": "3_2104860347266183168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTX3VXSbMAAsMOI.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104860347266183168"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2104860370951422075",
+        "created_at": "2026-09-29T09:06:33.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104860370951422075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uoXUe2m5Cm",
+              "end": 80,
+              "expanded_url": "https://x.com/fcjdfb/status/2104860370951422075/photo/1",
+              "media_key": "3_2104860347266183168",
+              "start": 57,
+              "url": "https://t.co/uoXUe2m5Cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104860370951422075",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104860347266183168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟朋友出去玩很朋友去吃了滨寿司\n感觉挺好吃的就是米有点散\n以前滨寿司还不是很火就没吃过，作为连锁不踩坑来说太好了 https://t.co/uoXUe2m5Cm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104860370951422075",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 65,
+          "like_count": 911,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1617
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

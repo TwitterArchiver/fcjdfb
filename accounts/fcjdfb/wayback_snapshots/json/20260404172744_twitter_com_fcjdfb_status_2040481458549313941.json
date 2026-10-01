@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040066876257230848"
+      ],
+      "media_source_tweet_id": [
+        "2040066878799044632"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2040481458549313941",
+    "created_at": "2026-04-04T17:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040481458549313941"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 70,
+          "tag": "男娘"
+        },
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "伪娘"
+        },
+        {
+          "end": 82,
+          "start": 78,
+          "tag": "mtf"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "TS"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2023057595817418753",
+          "start": 3,
+          "username": "mengyuzhizhu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ci2mewWTvv",
+          "end": 110,
+          "expanded_url": "https://x.com/mengyuzhizhu/status/2040066878799044632/photo/1",
+          "media_key": "3_2040066876257230848",
+          "start": 87,
+          "url": "https://t.co/Ci2mewWTvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040481458549313941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040066878799044632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mengyuzhizhu: 如果你认识了好长时间的女友终于答应和你线下了，但是到酒店脱了裙子却发现下面是个小棍棍，你会怎么办→_→\n#男娘 #伪娘 #mtf #TS https://t.co/Ci2mewWTvv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040066876257230848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_GA-VaYAAFRxU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040066876257230848"
+          ],
+          "media_source_tweet_id": [
+            "2040066878799044632"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2040481458549313941",
+        "created_at": "2026-04-04T17:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040481458549313941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "男娘"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "伪娘"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "mtf"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "TS"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2023057595817418753",
+              "start": 3,
+              "username": "mengyuzhizhu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ci2mewWTvv",
+              "end": 110,
+              "expanded_url": "https://x.com/mengyuzhizhu/status/2040066878799044632/photo/1",
+              "media_key": "3_2040066876257230848",
+              "start": 87,
+              "url": "https://t.co/Ci2mewWTvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040481458549313941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040066878799044632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mengyuzhizhu: 如果你认识了好长时间的女友终于答应和你线下了，但是到酒店脱了裙子却发现下面是个小棍棍，你会怎么办→_→\n#男娘 #伪娘 #mtf #TS https://t.co/Ci2mewWTvv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040066876257230848"
+          ]
+        },
+        "author_id": "2023057595817418753",
+        "conversation_id": "2040066878799044632",
+        "created_at": "2026-04-03T14:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040066878799044632"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "男娘"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "伪娘"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "mtf"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "TS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ci2mewWTvv",
+              "end": 92,
+              "expanded_url": "https://x.com/mengyuzhizhu/status/2040066878799044632/photo/1",
+              "media_key": "3_2040066876257230848",
+              "start": 69,
+              "url": "https://t.co/Ci2mewWTvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040066878799044632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 20656,
+          "like_count": 353,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "如果你认识了好长时间的女友终于答应和你线下了，但是到酒店脱了裙子却发现下面是个小棍棍，你会怎么办→_→\n#男娘 #伪娘 #mtf #TS https://t.co/Ci2mewWTvv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "",
+        "id": "2032037309219315712",
+        "name": "cjydfb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 33,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 149
+        },
+        "username": "fcjdfb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T15:31:48.000Z",
+        "description": "mtf生理男心理女//🚪52/66/152有福利/520解锁超级无敌promax福利+无线更新！/高二（已成年！）//讨好型人格//想变可爱//日常抑郁//想白嫖的勿扰→_→\n情绪稳定从来没有发过脾气🥺熟了以后可能会成天粘着你♥",
+        "id": "2023057595817418753",
+        "location": "中国-上海",
+        "name": "萌羽之主",
+        "pinned_tweet_id": "2040267738053009637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037465367019409409/ltGBBVBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 5,
+          "like_count": 14,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 218
+        },
+        "username": "mengyuzhizhu",
+        "verified": false
+      }
+    ]
+  }
+}

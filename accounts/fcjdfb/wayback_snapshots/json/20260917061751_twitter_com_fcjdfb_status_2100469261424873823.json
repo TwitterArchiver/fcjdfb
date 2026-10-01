@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2100410399934078989",
+    "created_at": "2026-09-17T06:17:51.000Z",
+    "display_text_range": [
+      8,
+      149
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T07:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100469261424873823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092971438521077760",
+          "start": 0,
+          "username": "zza2ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100469261424873823",
+    "in_reply_to_user_id": "2092971438521077760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "抑郁症更多是跟先天基因因子有关，干什么都更有可能触发抑郁症。我不觉得她是什么感受社会不公原本可以xx，我认为王只是自己现实生活无法社交缺乏社交从而选择这样。当然她能这样炒作确实比很多推友智商好，我自己是内心非常抵触这样干的。据我观察王家教和家庭并不是特别好，我这里指的是她家庭更像是一个恰好赶上社会方向外加运气积攒了一些财富的中等收入无产/新型依附于大资本主义的新型资产阶级。不然有点无法解释王烟洛为何生活的这么反常，除了零花钱多点跟其他推友没啥区别"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100410399934078989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zza2ku 抑郁症更多是跟先天基因因子有关，干什么都更有可能触发抑郁症。我不觉得她是什么感受社会不公原本可以xx，我认为王只是自己现实生活无法社交缺乏社交从而选择这样。当然她能这样炒作确实比很多推友智商好，我自己是内心非常抵触这样干的。据我观察王家教和家庭并不是特别好，我这里指的是她家庭更像是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 855,
+        "media_key": "3_2100410392820555776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYoH7KboAACXX1.jpg",
+        "width": 1043
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2100410399934078989",
+        "created_at": "2026-09-17T06:17:51.000Z",
+        "display_text_range": [
+          8,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T07:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100469261424873823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092971438521077760",
+              "start": 0,
+              "username": "zza2ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100469261424873823",
+        "in_reply_to_user_id": "2092971438521077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "抑郁症更多是跟先天基因因子有关，干什么都更有可能触发抑郁症。我不觉得她是什么感受社会不公原本可以xx，我认为王只是自己现实生活无法社交缺乏社交从而选择这样。当然她能这样炒作确实比很多推友智商好，我自己是内心非常抵触这样干的。据我观察王家教和家庭并不是特别好，我这里指的是她家庭更像是一个恰好赶上社会方向外加运气积攒了一些财富的中等收入无产/新型依附于大资本主义的新型资产阶级。不然有点无法解释王烟洛为何生活的这么反常，除了零花钱多点跟其他推友没啥区别"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100410399934078989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zza2ku 抑郁症更多是跟先天基因因子有关，干什么都更有可能触发抑郁症。我不觉得她是什么感受社会不公原本可以xx，我认为王只是自己现实生活无法社交缺乏社交从而选择这样。当然她能这样炒作确实比很多推友智商好，我自己是内心非常抵触这样干的。据我观察王家教和家庭并不是特别好，我这里指的是她家庭更像是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100410392820555776"
+          ]
+        },
+        "author_id": "2092971438521077760",
+        "conversation_id": "2100410399934078989",
+        "created_at": "2026-09-17T02:23:57.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T03:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100410399934078989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6P7hKHIr5",
+              "end": 31,
+              "expanded_url": "https://x.com/zza2ku/status/2100410399934078989/photo/1",
+              "media_key": "3_2100410392820555776",
+              "start": 8,
+              "url": "https://t.co/x6P7hKHIr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100410399934078989",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100410392820555776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 499,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我评价唐毓文： https://t.co/x6P7hKHIr5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2100469261424873823",
+        "name": "windigo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099879631554027520/jep7lkPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 73,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 818
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "民主社会主义",
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100464175415693729",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2092974029145886789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1787838823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 110,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 584
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

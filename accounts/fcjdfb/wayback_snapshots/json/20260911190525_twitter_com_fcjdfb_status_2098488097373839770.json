@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2098477965587681335",
+    "created_at": "2026-09-11T19:05:25.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098488097373839770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2002576775872983041",
+          "start": 0,
+          "username": "kb0715hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098488097373839770",
+    "in_reply_to_user_id": "2002576775872983041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098477965587681335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kb0715hh 唉国内啥时候能有监督..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2098477965587681335",
+        "created_at": "2026-09-11T19:05:25.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098488097373839770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2002576775872983041",
+              "start": 0,
+              "username": "kb0715hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098488097373839770",
+        "in_reply_to_user_id": "2002576775872983041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098477965587681335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kb0715hh 唉国内啥时候能有监督..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002576775872983041",
+        "conversation_id": "2098477965587681335",
+        "created_at": "2026-09-11T18:25:09.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T19:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098477965587681335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098477965587681335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你母的，气死老子了，我他妈都进医院了我生物爹也不来医院找我，我刚才给他打电话，他和我说他吃面条呢吃完再来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098488097373839770",
+        "name": "cjydfb",
+        "pinned_tweet_id": "2097269600945934436",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 64,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T03:10:09.000Z",
+        "description": "另一个我@kbkb0715",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "kbkb0715"
+              }
+            ]
+          }
+        },
+        "id": "2002576775872983041",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098484047269839070",
+        "name": "空白",
+        "pinned_tweet_id": "2096919274510328300",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002576775872983041/1787974043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096374848494931968/gPs1CQ18_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 185,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "kb0715hh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

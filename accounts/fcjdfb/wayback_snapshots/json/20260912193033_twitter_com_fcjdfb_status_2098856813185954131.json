@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2098658937222635987",
+    "created_at": "2026-09-12T19:30:33.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T20:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098856813185954131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2012526137155424256",
+          "start": 0,
+          "username": "sxl105"
+        },
+        {
+          "end": 16,
+          "id": "1690570637499154432",
+          "start": 8,
+          "username": "zhwevea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098856813185954131",
+    "in_reply_to_user_id": "2012526137155424256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098704011184726275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxl105 @zhwevea 天天搁着男女对立"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2098658937222635987",
+        "created_at": "2026-09-12T19:30:33.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T20:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098856813185954131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2012526137155424256",
+              "start": 0,
+              "username": "sxl105"
+            },
+            {
+              "end": 16,
+              "id": "1690570637499154432",
+              "start": 8,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098856813185954131",
+        "in_reply_to_user_id": "2012526137155424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098704011184726275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxl105 @zhwevea 天天搁着男女对立"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012526137155424256",
+        "conversation_id": "2098658937222635987",
+        "created_at": "2026-09-12T09:23:22.000Z",
+        "display_text_range": [
+          9,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098704011184726275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098704011184726275",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3349,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098658937222635987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhwevea 争议主要来自关于政治擦边帖和这种帖子底下的逆天人群吧？\n发meme之类的东西还是很喜欢看的\n我现在还能看到见证帖有一半功劳归ta（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2098856813185954131",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 65,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T14:03:28.000Z",
+        "description": "（ぐ・ω・）ぐ   ゞ（・ω・ゞ）\nI’m baka\n不能随时回复消息抱歉了哦\n\n交朋友=v=\n生日：与《ジャバヲッキー・ジャバヲッカ》同年同月同日awa\n圈子：（可能啥都沾点？）\n\nins：@sxl_105\n（好像放了也没啥用的说…）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 96,
+                "username": "sxl_105"
+              }
+            ]
+          }
+        },
+        "id": "2012526137155424256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098712176328622549",
+        "name": "sxl 105",
+        "pinned_tweet_id": "2077007237927805334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012526137155424256/1768673697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012596046589796353/ZMlvRny__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 280,
+          "like_count": 3154,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 619
+        },
+        "url": "",
+        "username": "sxl105",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌏🌐",
+        "most_recent_tweet_id": "2098742802704408861",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2091021352287535331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1788581275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7949,
+          "following_count": 428,
+          "like_count": 33597,
+          "listed_count": 26,
+          "media_count": 2864,
+          "tweet_count": 21880
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

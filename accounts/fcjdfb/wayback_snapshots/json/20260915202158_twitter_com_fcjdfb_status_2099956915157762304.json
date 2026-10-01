@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099956915157762304",
+    "created_at": "2026-09-15T20:21:58.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T21:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099956915157762304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anblk984/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/anblk984/status/2099530328251785650",
+          "start": 8,
+          "url": "https://t.co/1QYXu7qI6n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099956915157762304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099530328251785650",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傅首尔 吐了🤮 https://t.co/1QYXu7qI6n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2300,
+        "media_key": "3_2099530322044141568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSMHtECaQAAb1CD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099956915157762304",
+        "created_at": "2026-09-15T20:21:58.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T21:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099956915157762304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anblk984/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/anblk984/status/2099530328251785650",
+              "start": 8,
+              "url": "https://t.co/1QYXu7qI6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099956915157762304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099530328251785650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傅首尔 吐了🤮 https://t.co/1QYXu7qI6n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099530322044141568"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2099530328251785650",
+        "created_at": "2026-09-14T16:06:52.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099530328251785650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PKZ9TnUmxO",
+              "end": 30,
+              "expanded_url": "https://x.com/anblk984/status/2099530328251785650/photo/1",
+              "media_key": "3_2099530322044141568",
+              "start": 7,
+              "url": "https://t.co/PKZ9TnUmxO"
+            },
+            {
+              "display_url": "x.com/L0OKMe3/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/L0OKMe3/status/2099014601581166887",
+              "start": 31,
+              "url": "https://t.co/1lg2HfHywQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099530328251785650",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099530322044141568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8129,
+          "like_count": 95,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099014601581166887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "网友高雅创作 https://t.co/PKZ9TnUmxO https://t.co/1lg2HfHywQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099956915157762304",
+        "name": "windigo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099879631554027520/jep7lkPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 72,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 790
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/数学家教接单中/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真/最后感谢大爹画窝头像@data_syuxchu/小游戏网站@losb555置顶\ntg频道：https://t.co/H2pejl6igE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "losb555"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 107,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 84,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/q688tpr899yu2t…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/q688tpr899yu2td?t=kdJeZO&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/pJcmtWQ5Rs"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "is_identity_verified": false,
+        "location": "梁家河冲浪里          下面是解答世间万物",
+        "most_recent_tweet_id": "2099907390376480802",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1103830967163117568/1782207138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091015106889166848/J7fbT7o7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18168,
+          "following_count": 1080,
+          "like_count": 135372,
+          "listed_count": 82,
+          "media_count": 3777,
+          "tweet_count": 32532
+        },
+        "url": "https://t.co/pJcmtWQ5Rs",
+        "username": "anblk984",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

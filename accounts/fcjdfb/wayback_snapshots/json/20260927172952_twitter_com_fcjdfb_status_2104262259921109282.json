@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2104222244855549999",
+    "created_at": "2026-09-27T17:29:52.000Z",
+    "display_text_range": [
+      17,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T18:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104262259921109282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822663743895113728",
+          "start": 0,
+          "username": "keikurosawa0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104262259921109282",
+    "in_reply_to_user_id": "1822663743895113728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104222244855549999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keikurosawa0721 我还以为收入那里要按网红文来写"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2104221108207783936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOx8wOakAA68LG.jpg",
+        "width": 1132
+      },
+      {
+        "height": 1518,
+        "media_key": "3_2104221165443317760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOyAFcbgAAMEgN.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2104222244855549999",
+        "created_at": "2026-09-27T17:29:52.000Z",
+        "display_text_range": [
+          17,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104262259921109282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822663743895113728",
+              "start": 0,
+              "username": "keikurosawa0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104262259921109282",
+        "in_reply_to_user_id": "1822663743895113728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104222244855549999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keikurosawa0721 我还以为收入那里要按网红文来写"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104221108207783936",
+            "3_2104221165443317760"
+          ]
+        },
+        "author_id": "1822663743895113728",
+        "conversation_id": "2104222244855549999",
+        "created_at": "2026-09-27T14:50:52.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104222244855549999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SCu5GmVqSa",
+              "end": 182,
+              "expanded_url": "https://x.com/keikurosawa0721/status/2104222244855549999/photo/1",
+              "media_key": "3_2104221108207783936",
+              "start": 159,
+              "url": "https://t.co/SCu5GmVqSa"
+            },
+            {
+              "display_url": "pic.x.com/SCu5GmVqSa",
+              "end": 182,
+              "expanded_url": "https://x.com/keikurosawa0721/status/2104222244855549999/photo/1",
+              "media_key": "3_2104221165443317760",
+              "start": 159,
+              "url": "https://t.co/SCu5GmVqSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104222244855549999",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104221108207783936"
+          },
+          {
+            "media_key": "3_2104221165443317760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "搞 ds 拟人形象投票把小红薯集美气得把我挂了： \n好吧，那我学学户晨风搞一下收入公示： \n《暗里着迷》 music on！\n投入： 28 CNY(用于 ds-vs-ds 域名购买）+x(取决于cloudflare月底寄给我的账单） \n收入：200 CNY（isacai. space 中转站广告费）+ 200 fo +大量笑容（克姐各种来源的收入的九牛一毛，但能开心一整年） \n还给 x 上的各位演示了生动的一场实战： \n· 网络事件发生（两个 ds 拟人圈吵架） \n· 发表个人意见（初步验证流量是否够爆，决定是否继续开发） \n· 开发产品（cf 购买一个有趣的域名+vibe 简约无门槛的产品） \n· 产品发布推文（看你的产品是否适合裂变） \n· 接广告（看运气和社交能力可以自己主动去要） \n· 以上操作在2个小时内完成（除接广告）。\n现在流量基本上不怎么增长了，那么 ds-vs-ds 生命周期也就快结束了，那么小克老师今天的课就上到这里，同学们，下课！\nps：事实上我根本没有有意引发骂战，是男D粉丝宣布统一度量衡，主动跳脸大肥鱼才把我们大肥鱼粉丝惹急了，你们不是说男D流量更大吗，我倒要看看谁流量大，况且我没有在投票网页里面包含任何拉踩内容，更没有去原作者评论区网暴，不过我确实不喜欢男D，不要搞得我是蓄意而为，我只是顺手恰一点米玩玩，不差这点钱奥。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4307,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "搞 ds 拟人形象投票把小红薯集美气得把我挂了： \n好吧，那我学学户晨风搞一下收入公示： \n《暗里着迷》 music on！\n投入： 28 CNY(用于 ds-vs-ds 域名购买）+x(取决于cloudflare月底寄给我的账单） \n收入：200 CNY（isacai. space 中转站广告费）+ 200 fo https://t.co/SCu5GmVqSa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2104262259921109282",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 67,
+          "like_count": 794,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1439
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-11T15:58:18.000Z",
+        "description": "Modaleap 开放平台主管/开发者生态负责人，前dify产品工程师；夜莺开放平台主管（manus 前身）；前 vtber 月流水60k；开发者和 FDE 最好的朋友；AI4Porn华科本国科大硕士退学；纯手敲推文；绝不装傻钓鱼；来 X 纯图一乐；全X最犀利的男娘。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/KurosawaGeeker",
+                "end": 23,
+                "expanded_url": "https://github.com/KurosawaGeeker",
+                "start": 0,
+                "url": "https://t.co/rEROn3lO9W"
+              }
+            ]
+          }
+        },
+        "id": "1822663743895113728",
+        "is_identity_verified": false,
+        "location": "Wuhan",
+        "most_recent_tweet_id": "2104262273720283152",
+        "name": "武汉AI王小克",
+        "pinned_tweet_id": "2104204474424193032",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822663743895113728/1790341530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103472374616313856/2LtAt7QF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 171,
+          "like_count": 296,
+          "listed_count": 6,
+          "media_count": 69,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/rEROn3lO9W",
+        "username": "keikurosawa0721",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

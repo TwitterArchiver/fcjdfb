@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098873991587102720"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      }
+    ],
+    "conversation_id": "2098873999090651390",
+    "created_at": "2026-09-12T20:38:51.000Z",
+    "display_text_range": [
+      0,
+      277
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T21:38:32.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098873922309837005",
+      "2098873999090651390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b2qhWfDAgh",
+          "end": 301,
+          "expanded_url": "https://x.com/fcjdfb/status/2098873999090651390/photo/1",
+          "media_key": "3_2098873991587102720",
+          "start": 278,
+          "url": "https://t.co/b2qhWfDAgh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098873999090651390",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2098873991587102720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "Sony pony only cries once in a lifetime\npicture is china sony \"shill\"\n\nA: If it were up to me, Kojima would’ve been gone long ago.\nA: He backstabbed Sony on the first game by exploiting a loophole to get someone else to publish the PC version.\nB: The sales of the sequel aren't even as good as Astro Bot.\nB: Third-party tracking puts Astro Bot's sales at 4.3 million.\nA: And the budget was one-tenth of both DS games.\nA: Sony still let Kojima develop a sequel.\nA: They’ve already been more than generous."
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Sony pony only cries once in a lifetime\npicture is china sony \"shill\"\n\nA: If it were up to me, Kojima would’ve been gone long ago.\nA: He backstabbed Sony on the first game by exploiting a loophole to get someone else to publish the PC version.\nB: The sales of the sequel aren't https://t.co/b2qhWfDAgh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2072,
+        "media_key": "3_2098873915351384064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSCytKjaQAAg9ek.jpg",
+        "width": 1050
+      },
+      {
+        "height": 2072,
+        "media_key": "3_2098873991587102720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSCyxmjbAAAz6IW.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098873915351384064"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          }
+        ],
+        "conversation_id": "2098873922309837005",
+        "created_at": "2026-09-12T20:38:32.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T21:38:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098873922309837005",
+          "2098873999090651390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t8wE2YR1ec",
+              "end": 93,
+              "expanded_url": "https://x.com/fcjdfb/status/2098873922309837005/photo/1",
+              "media_key": "3_2098873915351384064",
+              "start": 70,
+              "url": "https://t.co/t8wE2YR1ec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098873922309837005",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098873915351384064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Sony pony only cries once in a lifetime\npicture is china sony \"shill\" https://t.co/t8wE2YR1ec"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098873991587102720"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          }
+        ],
+        "conversation_id": "2098873999090651390",
+        "created_at": "2026-09-12T20:38:51.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T21:38:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098873922309837005",
+          "2098873999090651390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b2qhWfDAgh",
+              "end": 301,
+              "expanded_url": "https://x.com/fcjdfb/status/2098873999090651390/photo/1",
+              "media_key": "3_2098873991587102720",
+              "start": 278,
+              "url": "https://t.co/b2qhWfDAgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098873999090651390",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098873991587102720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Sony pony only cries once in a lifetime\npicture is china sony \"shill\"\n\nA: If it were up to me, Kojima would’ve been gone long ago.\nA: He backstabbed Sony on the first game by exploiting a loophole to get someone else to publish the PC version.\nB: The sales of the sequel aren't even as good as Astro Bot.\nB: Third-party tracking puts Astro Bot's sales at 4.3 million.\nA: And the budget was one-tenth of both DS games.\nA: Sony still let Kojima develop a sequel.\nA: They’ve already been more than generous."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Sony pony only cries once in a lifetime\npicture is china sony \"shill\"\n\nA: If it were up to me, Kojima would’ve been gone long ago.\nA: He backstabbed Sony on the first game by exploiting a loophole to get someone else to publish the PC version.\nB: The sales of the sequel aren't https://t.co/b2qhWfDAgh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "cjy家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2098873999090651390",
+        "name": "cjydfb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038934852175810560/tnvlvyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 65,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 587
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
