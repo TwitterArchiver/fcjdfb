@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2106433784321339678",
+    "created_at": "2026-10-04T10:59:26.000Z",
+    "display_text_range": [
+      11,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T11:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106700719558688988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893109107034574848",
+          "start": 0,
+          "username": "4rcadia__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106700719558688988",
+    "in_reply_to_user_id": "1893109107034574848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106573848359612599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rcadia__ 还没找到机子，现在看到试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106433784321339678",
+        "created_at": "2026-10-04T10:59:26.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106700719558688988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893109107034574848",
+              "start": 0,
+              "username": "4rcadia__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106700719558688988",
+        "in_reply_to_user_id": "1893109107034574848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106573848359612599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rcadia__ 还没找到机子，现在看到试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893109107034574848",
+        "conversation_id": "2106433784321339678",
+        "created_at": "2026-10-04T02:35:18.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T03:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106573848359612599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106573848359612599",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106433784321339678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb 来试试中二节奏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106700719558688988",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 67,
+          "like_count": 1119,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1825
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-22T01:22:49.000Z",
+        "description": "这里是可雯\n高中生/萌新kiger/mc/sensei/友跨🏳‍⚧/不是mtf\n简/繁/En \n不抽烟/不喝酒/不od/不自残\n有什么烦心事欢迎找我倾诉\n欢迎互fo聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kewen.moe",
+                "end": 23,
+                "expanded_url": "http://kewen.moe",
+                "start": 0,
+                "url": "https://t.co/kkQMQI6voL"
+              }
+            ]
+          }
+        },
+        "id": "1893109107034574848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106689988087980302",
+        "name": "🧊🥥Wei Zhi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1893109107034574848/1788456272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102311897081294848/fQ8357kO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 186,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 624
+        },
+        "url": "https://t.co/kkQMQI6voL",
+        "username": "4rcadia__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

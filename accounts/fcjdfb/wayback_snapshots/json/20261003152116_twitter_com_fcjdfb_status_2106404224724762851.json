@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2106387739365306647",
+    "created_at": "2026-10-03T15:21:16.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T16:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106404224724762851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1378376814389694468",
+          "start": 0,
+          "username": "McFlurry_1222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106404224724762851",
+    "in_reply_to_user_id": "2032037309219315712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106387739365306647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McFlurry_1222 来吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106387739365306647",
+        "created_at": "2026-10-03T15:21:16.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106404224724762851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "McFlurry_1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106404224724762851",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106387739365306647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McFlurry_1222 来吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106387739365306647",
+        "created_at": "2026-10-03T14:15:46.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106387739365306647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "cjy's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1qxvv…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1qxvvegwpOpxB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2106387741261139968/d2XP7prk?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2106387741261139968/d2XP7prk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 语音喵（在打太鼓中等我打完说话） / X",
+              "unwound_url": "https://x.com/i/spaces/1qxvvegwpOpxB",
+              "url": "https://t.co/wpLRbrNapn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106387739365306647",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wpLRbrNapn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106404224724762851",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 66,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1769
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "Enby Trans· They/Them · Aroace",
+        "id": "1378376814389694468",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106383890806116374",
+        "name": "可乐麦旋风",
+        "pinned_tweet_id": "2106167777883234646",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378376814389694468/1790357152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106163177050505216/k8iZjz4S_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 7242,
+          "like_count": 183306,
+          "listed_count": 3,
+          "media_count": 891,
+          "tweet_count": 30645
+        },
+        "url": "",
+        "username": "McFlurry_1222",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

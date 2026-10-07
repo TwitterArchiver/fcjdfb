@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2106447200457007104"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2106429528675660214",
+    "created_at": "2026-10-03T18:12:06.000Z",
+    "display_text_range": [
+      14,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T19:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106447214306619685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060050991370891265",
+          "start": 0,
+          "username": "Shioochicqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nN1fFeMtFm",
+          "end": 58,
+          "expanded_url": "https://x.com/fcjdfb/status/2106447214306619685/photo/1",
+          "media_key": "16_2106447200457007104",
+          "start": 35,
+          "url": "https://t.co/nN1fFeMtFm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106447214306619685",
+    "in_reply_to_user_id": "2060050991370891265",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2106447200457007104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106429528675660214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq 但刷到你的时间线基本没几个ai圈有个问题 https://t.co/nN1fFeMtFm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2106447200457007104",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HTuakYFbIAAszLg.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HTuakYFbIAAszLg.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2106447200457007104"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106429528675660214",
+        "created_at": "2026-10-03T18:12:06.000Z",
+        "display_text_range": [
+          14,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106447214306619685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060050991370891265",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nN1fFeMtFm",
+              "end": 58,
+              "expanded_url": "https://x.com/fcjdfb/status/2106447214306619685/photo/1",
+              "media_key": "16_2106447200457007104",
+              "start": 35,
+              "url": "https://t.co/nN1fFeMtFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106447214306619685",
+        "in_reply_to_user_id": "2060050991370891265",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2106447200457007104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106429528675660214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq 但刷到你的时间线基本没几个ai圈有个问题 https://t.co/nN1fFeMtFm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060050991370891265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2106429528675660214",
+        "created_at": "2026-10-03T17:01:49.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106429528675660214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106429528675660214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懒得搬屎的时候我要 cosplay ai 圈营销号了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106447214306619685",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 66,
+          "like_count": 1082,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1797
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "0819阻止了那一天的到来，所以我要努力找回去",
+        "id": "2060050991370891265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106446519943737747",
+        "name": "汐落",
+        "pinned_tweet_id": "2096454987463197004",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060050991370891265/1789803040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 708,
+          "like_count": 1856,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1852
+        },
+        "url": "",
+        "username": "Shioochicqwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

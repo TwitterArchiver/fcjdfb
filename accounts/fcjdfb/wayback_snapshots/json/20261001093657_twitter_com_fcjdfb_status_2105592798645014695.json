@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2105448850626683119",
+    "created_at": "2026-10-01T09:36:57.000Z",
+    "display_text_range": [
+      16,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T10:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105592798645014695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105592798645014695",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "一个是他貌似是按照名字来归类帖子属于某个人，如果改名就会算成两个人。但我还没确定找到例子\n第二个是他那个数据抓取走了一个弯路，本来不需要这么大占用消耗的。而且还有一些数据没列出来，github对于一个仓库要求是最好最好不超过5gb。建议保持1gb以内，他现在数据暴涨上来已经有几个人账户是超了的，github采取某些行动无非是时间问题。比如禁止开新仓库之类"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105568437045264553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 一个是他貌似是按照名字来归类帖子属于某个人，如果改名就会算成两个人。但我还没确定找到例子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2105448850626683119",
+        "created_at": "2026-10-01T09:36:57.000Z",
+        "display_text_range": [
+          16,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105592798645014695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105592798645014695",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个是他貌似是按照名字来归类帖子属于某个人，如果改名就会算成两个人。但我还没确定找到例子\n第二个是他那个数据抓取走了一个弯路，本来不需要这么大占用消耗的。而且还有一些数据没列出来，github对于一个仓库要求是最好最好不超过5gb。建议保持1gb以内，他现在数据暴涨上来已经有几个人账户是超了的，github采取某些行动无非是时间问题。比如禁止开新仓库之类"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105568437045264553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 一个是他貌似是按照名字来归类帖子属于某个人，如果改名就会算成两个人。但我还没确定找到例子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2105448850626683119",
+        "created_at": "2026-10-01T08:00:09.000Z",
+        "display_text_range": [
+          8,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105568437045264553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105568437045264553",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105449298829918238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb 哇咕哇咕（晕晕）比如有啥问题喵🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2105592798645014695",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 65,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1686
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2105588463760531476",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5408,
+          "following_count": 7364,
+          "like_count": 23069,
+          "listed_count": 11,
+          "media_count": 507,
+          "tweet_count": 7015
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

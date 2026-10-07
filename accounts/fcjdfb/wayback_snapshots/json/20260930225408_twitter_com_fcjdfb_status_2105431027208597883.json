@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2105431027208597883",
+    "created_at": "2026-09-30T22:54:08.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T23:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105431027208597883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "简介：国服千星奇域就能玩 ↓ 千星奇域搜索：Gemi狸 关卡GUI；已有5557名原神玩家向您推荐本视频，点击前往哔哩哔哩bilibili一起观看；更多实用攻略教学，爆笑沙雕集锦，你所不知道的游戏知识，热门游戏视频7*24小时持续更新,尽在哔哩哔哩bilibili 视频播放量 89207、弹幕量 120、点赞数 5557、投硬币枚数 1632、收藏人数 1683、转发人数 1049, 视频作者 柚子漂流中, 作者简介 偶尔走神，偶尔认真～ 试玩交流QQ群：728550104，相关视频：我在千星奇域还原了Windows操作系统【原神千星奇域创体服】，【原神】在千星奇域中运行200万参数的语言模型，以防你不知道千星奇域已经干成4399了，在千星奇域完美还原了DOOM？！克苟大受震撼：这是怎么做到的？太还原了吧！，我把 DOOM 伪3D FPS 做进了千星奇域，原神不给导图片，我用6万个方块字造了台红白机跑马里奥，或许，千星奇域可以成为一款动画软件，原神7.1千星奇域革命性更新，年轻人的第一款lua编辑器，支持全新UI补间动画与2D玩法，，协作模式更新，以防你不知道，从下个版本开始，千星奇域可以敲代码了！，在千星奇域中部署1千万参数的AI模型，完全手机本地运行",
+          "display_url": "b23.tv/uGeCfe6",
+          "end": 72,
+          "expanded_url": "https://b23.tv/uGeCfe6",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2105431033483255808/mvbzofJt?format=jpg&name=orig",
+              "width": 1120
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2105431033483255808/mvbzofJt?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 49,
+          "status": 200,
+          "title": "原神千星奇域能玩电脑了？还塞了个246万参数的离线AI，一字一顿真在算_游戏热门视频",
+          "unwound_url": "https://www.bilibili.com/video/BV1Ceh96qErs/?buvid=XUEBC1AEEB1A9C76CBE62CD0A82CA9300F7DA&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=a4UmCtMlGaNFeZ%2BzMsLqtX8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=c2d4fc96-a9b4-4c52-a00b-06cb52e81762&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1790808834&unique_k=uGeCfe6&up_id=417673186",
+          "url": "https://t.co/aKSRW4omIW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105431027208597883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "比信创好用\n【原神千星奇域能玩电脑了？还塞了个246万参数的离线AI，一字一顿真在算-哔哩哔哩】 https://t.co/aKSRW4omIW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2105431027208597883",
+        "created_at": "2026-09-30T22:54:08.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T23:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105431027208597883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "简介：国服千星奇域就能玩 ↓ 千星奇域搜索：Gemi狸 关卡GUI；已有5557名原神玩家向您推荐本视频，点击前往哔哩哔哩bilibili一起观看；更多实用攻略教学，爆笑沙雕集锦，你所不知道的游戏知识，热门游戏视频7*24小时持续更新,尽在哔哩哔哩bilibili 视频播放量 89207、弹幕量 120、点赞数 5557、投硬币枚数 1632、收藏人数 1683、转发人数 1049, 视频作者 柚子漂流中, 作者简介 偶尔走神，偶尔认真～ 试玩交流QQ群：728550104，相关视频：我在千星奇域还原了Windows操作系统【原神千星奇域创体服】，【原神】在千星奇域中运行200万参数的语言模型，以防你不知道千星奇域已经干成4399了，在千星奇域完美还原了DOOM？！克苟大受震撼：这是怎么做到的？太还原了吧！，我把 DOOM 伪3D FPS 做进了千星奇域，原神不给导图片，我用6万个方块字造了台红白机跑马里奥，或许，千星奇域可以成为一款动画软件，原神7.1千星奇域革命性更新，年轻人的第一款lua编辑器，支持全新UI补间动画与2D玩法，，协作模式更新，以防你不知道，从下个版本开始，千星奇域可以敲代码了！，在千星奇域中部署1千万参数的AI模型，完全手机本地运行",
+              "display_url": "b23.tv/uGeCfe6",
+              "end": 72,
+              "expanded_url": "https://b23.tv/uGeCfe6",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2105431033483255808/mvbzofJt?format=jpg&name=orig",
+                  "width": 1120
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105431033483255808/mvbzofJt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 49,
+              "status": 200,
+              "title": "原神千星奇域能玩电脑了？还塞了个246万参数的离线AI，一字一顿真在算_游戏热门视频",
+              "unwound_url": "https://www.bilibili.com/video/BV1Ceh96qErs/?buvid=XUEBC1AEEB1A9C76CBE62CD0A82CA9300F7DA&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=a4UmCtMlGaNFeZ%2BzMsLqtX8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=c2d4fc96-a9b4-4c52-a00b-06cb52e81762&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1790808834&unique_k=uGeCfe6&up_id=417673186",
+              "url": "https://t.co/aKSRW4omIW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105431027208597883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比信创好用\n【原神千星奇域能玩电脑了？还塞了个246万参数的离线AI，一字一顿真在算-哔哩哔哩】 https://t.co/aKSRW4omIW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2105431027208597883",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 64,
+          "like_count": 963,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1672
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

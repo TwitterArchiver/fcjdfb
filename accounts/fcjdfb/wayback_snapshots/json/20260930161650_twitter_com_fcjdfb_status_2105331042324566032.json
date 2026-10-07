@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2105316696940753261",
+    "created_at": "2026-09-30T16:16:50.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T17:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105331042324566032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105331042324566032",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105316696940753261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae 🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1810,
+        "media_key": "3_2105316666821500928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeWWqGa4AAkGZE.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2105316696940753261",
+        "created_at": "2026-09-30T16:16:50.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T17:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105331042324566032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105331042324566032",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105316696940753261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105316666821500928"
+          ]
+        },
+        "author_id": "1813768883540725760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105316696940753261",
+        "created_at": "2026-09-30T15:19:50.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T16:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105316696940753261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSbVbeQcb7",
+              "end": 164,
+              "expanded_url": "https://x.com/ye_and_yae/status/2105316696940753261/photo/1",
+              "media_key": "3_2105316666821500928",
+              "start": 141,
+              "url": "https://t.co/ZSbVbeQcb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105316696940753261",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105316666821500928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "诶嘿，这里是爱晔和可爱的小白~\n正如你所见，我们决定共用一个账号哦\n我们将共同负责运营账号，分享日常，发些梗图（），目标是拿马斯克工资！我相信小白的能力，我们肯定会做到的\n有什么事的话，我们两个都是一样的，随时来找我们倾诉\n亲爱的阿这和懒勤酱，也感谢你们的支持！你们都是我的翅膀哦\n新的简介如下~"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶嘿，这里是爱晔和可爱的小白~\n正如你所见，我们决定共用一个账号哦\n我们将共同负责运营账号，分享日常，发些梗图（），目标是拿马斯克工资！我相信小白的能力，我们肯定会做到的\n有什么事的话，我们两个都是一样的，随时来找我们倾诉\n亲爱的阿这和懒勤酱，也感谢你们的支持！你们都是我的翅膀哦 https://t.co/ZSbVbeQcb7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2105331042324566032",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 64,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1649
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "0126 ║不会编程的机器人学习者\n170/55 ║ 没出版过作品的小说家\n不可爱的男娘 ║退圈的正化副吧\n不会画画的画家 ║可爱的一枚CD\n没有知识的星舰爱好者 ║175/75\n不会说日语的日语学习者 ║0708\n爱晔最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 117,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/cd2rHaLqOI"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2105321866676339064",
+        "name": "🚀爱晔&禾木白🍥",
+        "pinned_tweet_id": "2099339418234736908",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 1542,
+          "like_count": 14789,
+          "listed_count": 2,
+          "media_count": 788,
+          "tweet_count": 6208
+        },
+        "url": "https://t.co/cd2rHaLqOI",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

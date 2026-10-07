@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105440513663074304"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2105448605381533752",
+    "created_at": "2026-10-01T00:03:59.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T01:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105448605381533752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8gavcTr8TX",
+          "end": 109,
+          "expanded_url": "https://x.com/fcjdfb/status/2105448605381533752/photo/1",
+          "media_key": "3_2105440513663074304",
+          "start": 86,
+          "url": "https://t.co/8gavcTr8TX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105448605381533752",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105440513663074304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "推文保存这个事情加新功能了\nv3.0 把互联网档案馆内已有的推文都可以在同一个扩展下合并了，解封禁和老言论的问题。是的也就是说我现在还可以动动手指把我列表的都一起拉下来了\n这个扩展仅仅是用来给自己单机版使用和收集捕获自己浏览器上的数据用的，你如果需求够我觉得用这个也够了。如果需要更多人的推文查看和合并多人以及推特类似的ui。那就需要我现在正在写的一个专门的查看器。\n这回应该真不会再动插件了\n我心路历程：我一开始是知道某个人做了档案馆提取的项目，但我走的是浏览器捕获数据的方式。我不是在写查看器吗，然后我就想要不合并一下他那里的数据吧。这样才符合社交这个本质，不仅仅是抓取自己。结果看完他写的实在有被抽象到先查清单然后去抓档案馆为了给json查看用的html然后抓媒体最后洗一下自己固定html和建总表。那你为何不直接拿json数据渲染过于抽象结果选择了抓取网页还直接拿网页来渲染，我已气晕。最终结果就是丢失了好多数据以及占用量过大，给人看的网页和json都存下来了...\n那原本不是说可以把他们的转成我的在我这里看，结果就发现一个极其抽象问题。索引是按照名字来的不是id，我是按照id来的名字一改就算成不同账号了所以不太可用。结果就出现上述了我发现档案馆的api给了json完全不需要自己去快照一次，那我直接跳过他合并档案馆的数据就行了不太需要去管那个项目，那个项目属实有点抽象过于灾难级了"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推文保存这个事情加新功能了\nv3.0 把互联网档案馆内已有的推文都可以在同一个扩展下合并了，解封禁和老言论的问题。是的也就是说我现在还可以动动手指把我列表的都一起拉下来了 https://t.co/8gavcTr8TX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2105440513663074304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTgG_fiagAAPNSr.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105440513663074304"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2105448605381533752",
+        "created_at": "2026-10-01T00:03:59.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T01:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105448605381533752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gavcTr8TX",
+              "end": 109,
+              "expanded_url": "https://x.com/fcjdfb/status/2105448605381533752/photo/1",
+              "media_key": "3_2105440513663074304",
+              "start": 86,
+              "url": "https://t.co/8gavcTr8TX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105448605381533752",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105440513663074304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "推文保存这个事情加新功能了\nv3.0 把互联网档案馆内已有的推文都可以在同一个扩展下合并了，解封禁和老言论的问题。是的也就是说我现在还可以动动手指把我列表的都一起拉下来了\n这个扩展仅仅是用来给自己单机版使用和收集捕获自己浏览器上的数据用的，你如果需求够我觉得用这个也够了。如果需要更多人的推文查看和合并多人以及推特类似的ui。那就需要我现在正在写的一个专门的查看器。\n这回应该真不会再动插件了\n我心路历程：我一开始是知道某个人做了档案馆提取的项目，但我走的是浏览器捕获数据的方式。我不是在写查看器吗，然后我就想要不合并一下他那里的数据吧。这样才符合社交这个本质，不仅仅是抓取自己。结果看完他写的实在有被抽象到先查清单然后去抓档案馆为了给json查看用的html然后抓媒体最后洗一下自己固定html和建总表。那你为何不直接拿json数据渲染过于抽象结果选择了抓取网页还直接拿网页来渲染，我已气晕。最终结果就是丢失了好多数据以及占用量过大，给人看的网页和json都存下来了...\n那原本不是说可以把他们的转成我的在我这里看，结果就发现一个极其抽象问题。索引是按照名字来的不是id，我是按照id来的名字一改就算成不同账号了所以不太可用。结果就出现上述了我发现档案馆的api给了json完全不需要自己去快照一次，那我直接跳过他合并档案馆的数据就行了不太需要去管那个项目，那个项目属实有点抽象过于灾难级了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推文保存这个事情加新功能了\nv3.0 把互联网档案馆内已有的推文都可以在同一个扩展下合并了，解封禁和老言论的问题。是的也就是说我现在还可以动动手指把我列表的都一起拉下来了 https://t.co/8gavcTr8TX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2105448605381533752",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 65,
+          "like_count": 965,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1677
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

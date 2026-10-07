@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2106423781329973560",
+    "created_at": "2026-10-03T18:06:41.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T19:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106445853141700610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060050991370891265",
+          "start": 0,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106445853141700610",
+    "in_reply_to_user_id": "2060050991370891265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106423781329973560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq 没开联网搜索吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "3_2106423775902552064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuFQ40b0AAB9eJ.jpg",
+        "width": 979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106423781329973560",
+        "created_at": "2026-10-03T18:06:41.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106445853141700610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060050991370891265",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106445853141700610",
+        "in_reply_to_user_id": "2060050991370891265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106423781329973560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq 没开联网搜索吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106423775902552064"
+          ]
+        },
+        "author_id": "2060050991370891265",
+        "conversation_id": "2106423781329973560",
+        "created_at": "2026-10-03T16:38:59.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106423781329973560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5TD6I0683f",
+              "end": 144,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2106423781329973560/photo/1",
+              "media_key": "3_2106423775902552064",
+              "start": 121,
+              "url": "https://t.co/5TD6I0683f"
+            },
+            {
+              "display_url": "x.com/Shioochicqwq/s…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/Shioochicqwq/status/2106309882081354154",
+              "start": 145,
+              "url": "https://t.co/mqhrxpxZTE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106423781329973560",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106423775902552064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 145,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106309882081354154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重大发现🤯🤯🤯\n\n我在 antigravity 中没有办法选择 opus 5.5，只能选择 opus 4.6\n\n然而使用 CPA 也就是 CLIProxyAPI 反代却可以反代出 opus 5.5，并且我尝试调用 opus 4.6 反而不通 https://t.co/5TD6I0683f https://t.co/mqhrxpxZTE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106445853141700610",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 66,
+          "like_count": 1082,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1796
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "0819阻止了那一天的到来，所以我要努力找回去",
+        "id": "2060050991370891265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106435894911910338",
+        "name": "汐落",
+        "pinned_tweet_id": "2096454987463197004",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060050991370891265/1789803040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 708,
+          "like_count": 1856,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1851
+        },
+        "url": "",
+        "username": "Shioochicqwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

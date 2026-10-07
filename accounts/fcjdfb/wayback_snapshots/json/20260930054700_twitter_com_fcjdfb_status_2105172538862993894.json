@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2105172538862993894",
+    "created_at": "2026-09-30T05:47:00.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T06:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105172538862993894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JiaRanToday/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/JiaRanToday/status/2104842490415305143",
+          "start": 16,
+          "url": "https://t.co/ciL7BvQcJB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105172538862993894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104842490415305143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幽默 自划体系自我代入等级这块 https://t.co/ciL7BvQcJB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2105172538862993894",
+        "created_at": "2026-09-30T05:47:00.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T06:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105172538862993894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JiaRanToday/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/JiaRanToday/status/2104842490415305143",
+              "start": 16,
+              "url": "https://t.co/ciL7BvQcJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105172538862993894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104842490415305143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幽默 自划体系自我代入等级这块 https://t.co/ciL7BvQcJB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747064134490066944",
+        "conversation_id": "2104842490415305143",
+        "created_at": "2026-09-29T07:55:30.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T08:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104842490415305143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiarantoday/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/jiarantoday/status/2104833638315782551",
+              "start": 61,
+              "url": "https://t.co/O4y2oqZ95P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104842490415305143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1088,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104833638315782551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我现在只有2600粉丝\n我也要保护善待自己的粉丝\n不打骂粉丝\n一个高阶跨女\n应该做到力所能及地\n传递正向积极的价值观 https://t.co/O4y2oqZ95P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2105172538862993894",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 63,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1639
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-16T01:12:21.000Z",
+        "description": "📦 𝙋𝙞𝙣𝙠𝙍𝙤𝙗𝙤𝙩\n┣ 😻 168Cm | 49Kg\n┣ 💊 我不是MTF \n┣ 🤖🤖 程序媛 | 接单\n┣ 🫦👀 饥渴 | 💄👠👜🕶️🙈🐔",
+        "id": "1747064134490066944",
+        "is_identity_verified": false,
+        "location": "成都/🚪",
+        "most_recent_tweet_id": "2105167309925163452",
+        "name": "✟艾晚晴✟ 🍥PINK",
+        "pinned_tweet_id": "2074206446317879629",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747064134490066944/1777476894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049503080597917697/69QkTC_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 580,
+          "like_count": 1914,
+          "listed_count": 14,
+          "media_count": 157,
+          "tweet_count": 2122
+        },
+        "url": "",
+        "username": "JiaRanToday",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

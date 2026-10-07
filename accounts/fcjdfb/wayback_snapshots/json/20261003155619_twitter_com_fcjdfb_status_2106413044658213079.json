@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2106123304335503824",
+    "created_at": "2026-10-03T15:56:19.000Z",
+    "display_text_range": [
+      22,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T16:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106413044658213079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1978419603538685952",
+          "start": 0,
+          "username": "yuho112235"
+        },
+        {
+          "end": 21,
+          "id": "1775715233371410432",
+          "start": 12,
+          "username": "youyuy88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106413044658213079",
+    "in_reply_to_user_id": "1978419603538685952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106250901254291644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuho112235 @youyuy88 原来那种不是大语言模型，不过也是差不多思路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106123304335503824",
+        "created_at": "2026-10-03T15:56:19.000Z",
+        "display_text_range": [
+          22,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106413044658213079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1978419603538685952",
+              "start": 0,
+              "username": "yuho112235"
+            },
+            {
+              "end": 21,
+              "id": "1775715233371410432",
+              "start": 12,
+              "username": "youyuy88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106413044658213079",
+        "in_reply_to_user_id": "1978419603538685952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106250901254291644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuho112235 @youyuy88 原来那种不是大语言模型，不过也是差不多思路"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978419603538685952",
+        "conversation_id": "2106123304335503824",
+        "created_at": "2026-10-03T05:12:01.000Z",
+        "display_text_range": [
+          10,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106250901254291644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1775715233371410432",
+              "start": 0,
+              "username": "youyuy88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106250901254291644",
+        "in_reply_to_user_id": "1775715233371410432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5749,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106123304335503824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youyuy88 我和Claude聊过这方面的问题。它认为无论是中美在ai上的应用远早于GPT。只不过未开放商用民用而已。而之所以开放商用，它认为大概率是因为ai靠实验室单独对齐越来越困难以及数据太窄了。所以需要靠广大的用户来进行对齐和提升。也就是说目前的ai很可能本质上就是中美之前的老本。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106413044658213079",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 66,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1781
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T11:16:16.000Z",
+        "description": "",
+        "id": "1978419603538685952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106306685329703207",
+        "name": "kemmamg",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978419783222919168/0mCVVMpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 7,
+          "like_count": 50,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "yuho112235",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2008452174083485698/WaDlss-k_bigger.jpg",
+          "description": "KITE AI ✈️ KBW🇰🇷",
+          "url": "https://twitter.com/GoKiteAI",
+          "user_id": [
+            "1841881477371592704"
+          ]
+        },
+        "created_at": "2024-04-04T02:41:29.000Z",
+        "description": "互联网重度玩家、币圈实事、资金流温度及风险提醒！",
+        "id": "1775715233371410432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106408936760803379",
+        "name": "陈有鱼",
+        "pinned_tweet_id": "2062548338621505911",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103668810289160192/KkzVsZFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29521,
+          "following_count": 5095,
+          "like_count": 45,
+          "listed_count": 133,
+          "media_count": 2825,
+          "tweet_count": 3393
+        },
+        "url": "",
+        "username": "youyuy88",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2105483355743772715",
+    "created_at": "2026-10-01T02:30:57.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T03:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105485590640885827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1576083963713503232",
+          "start": 0,
+          "username": "Whatlimbo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105485590640885827",
+    "in_reply_to_user_id": "1576083963713503232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105483355743772715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Whatlimbo 又在黑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2105471724720668672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTgjYNyawAAH8qI.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2105483355743772715",
+        "created_at": "2026-10-01T02:30:57.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T03:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105485590640885827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1576083963713503232",
+              "start": 0,
+              "username": "Whatlimbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105485590640885827",
+        "in_reply_to_user_id": "1576083963713503232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105483355743772715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Whatlimbo 又在黑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105471724720668672"
+          ]
+        },
+        "author_id": "1576083963713503232",
+        "conversation_id": "2105483355743772715",
+        "created_at": "2026-10-01T02:22:04.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T03:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105483355743772715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vLOWn5jTxl",
+              "end": 84,
+              "expanded_url": "https://x.com/Whatlimbo/status/2105483355743772715/photo/1",
+              "media_key": "3_2105471724720668672",
+              "start": 61,
+              "url": "https://t.co/vLOWn5jTxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105483355743772715",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105471724720668672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谷神降临。\nArena 也真是谷歌御用野榜。2.5 Pro / 3 Pro 刚出的时候都是遥遥领先的 Text #1 。 https://t.co/vLOWn5jTxl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2105485590640885827",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 65,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1684
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-01T05:37:59.000Z",
+        "description": "「CARRiER WAVE.」Comming Soon.",
+        "id": "1576083963713503232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105483355743772715",
+        "name": "limbo.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1576083963713503232/1780411169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093601604570333184/W3G9njpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 120,
+          "like_count": 1341,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 866
+        },
+        "url": "",
+        "username": "Whatlimbo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

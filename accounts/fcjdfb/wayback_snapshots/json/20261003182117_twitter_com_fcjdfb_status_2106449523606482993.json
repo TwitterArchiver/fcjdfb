@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2106449523606482993",
+    "created_at": "2026-10-03T18:21:17.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T19:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106449523606482993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1141188565340045312",
+          "start": 3,
+          "username": "LTRTABXY"
+        },
+        {
+          "end": 26,
+          "id": "996556236404346880",
+          "start": 14,
+          "username": "crypto_daha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106449523606482993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106045854788583686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LTRTABXY: @crypto_daha 这完全误解了资本主义社会的运作机制。\n分给穷人这件事是由NGO做的，而不是由奶企，企业会定期把滞销库存赠送给NGO，比如教会、慈善会，由NGO负担运费、保存费。\n因为企业确信NGO不会倒卖捐赠品，受赠人也会是NGO挑选的无购…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106449523606482993",
+        "created_at": "2026-10-03T18:21:17.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106449523606482993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1141188565340045312",
+              "start": 3,
+              "username": "LTRTABXY"
+            },
+            {
+              "end": 26,
+              "id": "996556236404346880",
+              "start": 14,
+              "username": "crypto_daha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106449523606482993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106045854788583686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LTRTABXY: @crypto_daha 这完全误解了资本主义社会的运作机制。\n分给穷人这件事是由NGO做的，而不是由奶企，企业会定期把滞销库存赠送给NGO，比如教会、慈善会，由NGO负担运费、保存费。\n因为企业确信NGO不会倒卖捐赠品，受赠人也会是NGO挑选的无购…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141188565340045312",
+        "conversation_id": "2105939090294321375",
+        "created_at": "2026-10-02T15:37:14.000Z",
+        "display_text_range": [
+          13,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106045854788583686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "996556236404346880",
+              "start": 0,
+              "username": "crypto_daha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106045854788583686",
+        "in_reply_to_user_id": "996556236404346880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2519,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105939090294321375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crypto_daha 这完全误解了资本主义社会的运作机制。\n分给穷人这件事是由NGO做的，而不是由奶企，企业会定期把滞销库存赠送给NGO，比如教会、慈善会，由NGO负担运费、保存费。\n因为企业确信NGO不会倒卖捐赠品，受赠人也会是NGO挑选的无购买力人群，不影响销售。\n然而在中共国，仅看红十字会你就明白两种社会的差距。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106449523606482993",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 66,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1798
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-19T03:38:51.000Z",
+        "description": "中共国要死了，欧耶，亡党亡国不当奴🤣",
+        "id": "1141188565340045312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106348417312317445",
+        "name": "vonstenpeter",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223389770136481792/vf1OykTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 1768,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 7397
+        },
+        "url": "",
+        "username": "LTRTABXY",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-16T01:01:36.000Z",
+        "description": "哈哈哥 | 分享有趣人生、历史趣闻、生活meme、实用干货 | 每天一笑一悟",
+        "id": "996556236404346880",
+        "is_identity_verified": false,
+        "location": "宇宙",
+        "most_recent_tweet_id": "2106388804122583412",
+        "name": "哈哈哥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/996556236404346880/1701871937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996826608326660102/Mnc9uuzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35490,
+          "following_count": 7626,
+          "like_count": 7812,
+          "listed_count": 211,
+          "media_count": 1894,
+          "tweet_count": 10873
+        },
+        "url": "",
+        "username": "crypto_daha",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

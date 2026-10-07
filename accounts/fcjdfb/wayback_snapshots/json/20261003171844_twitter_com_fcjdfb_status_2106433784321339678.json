@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106433777778212864"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106433784321339678",
+    "created_at": "2026-10-03T17:18:44.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T18:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106433784321339678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sLKUMpXAd5",
+          "end": 125,
+          "expanded_url": "https://x.com/fcjdfb/status/2106433784321339678/photo/1",
+          "media_key": "3_2106433777778212864",
+          "start": 102,
+          "url": "https://t.co/sLKUMpXAd5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106433784321339678",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106433777778212864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "跟对象出来玩了一晚上音游\n没想到这里还有舞立方和太鼓🫨\n恰好今天状态不太好就全试了一遍\n一致认为：\n舞萌选歌都非常垃圾极其无品味，但是在这种全盘类音游中打歌方式和解法都很有意思。歌曲极其无感，打歌很舒服\n太鼓选歌很有品位，可惜稍微歌少了一点。打歌方式也很有意思。就是入坑难度有点大，如果不好分辨蓝红很容易手和眼各干各的。而且频率底力要求稍微有点高。判定需要适应一下\n舞立方：几乎就是华语和欧美流行，爱国音游这块。都没日文歌，华语比较闹麻。欧美就是流行算能听，但前提是你是听欧美流行的。歌曲在这方面很全\n但打歌做的很无感，玩起来不舒服。打鼓和拍打按键我都很有感觉打得很舒服。舞立方打起来没有乐趣\n总结：\n歌曲品味：太鼓>舞立方>舞萌\n音游设计：太鼓>舞萌>舞立方"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟对象出来玩了一晚上音游\n没想到这里还有舞立方和太鼓🫨\n恰好今天状态不太好就全试了一遍\n一致认为：\n舞萌选歌都非常垃圾极其无品味，但是在这种全盘类音游中打歌方式和解法都很有意思。歌曲极其无感，打歌很舒服 https://t.co/sLKUMpXAd5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 693,
+        "media_key": "3_2106433777778212864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuOXEtawAADPkf.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106433777778212864"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106433784321339678",
+        "created_at": "2026-10-03T17:18:44.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106433784321339678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sLKUMpXAd5",
+              "end": 125,
+              "expanded_url": "https://x.com/fcjdfb/status/2106433784321339678/photo/1",
+              "media_key": "3_2106433777778212864",
+              "start": 102,
+              "url": "https://t.co/sLKUMpXAd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106433784321339678",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106433777778212864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "跟对象出来玩了一晚上音游\n没想到这里还有舞立方和太鼓🫨\n恰好今天状态不太好就全试了一遍\n一致认为：\n舞萌选歌都非常垃圾极其无品味，但是在这种全盘类音游中打歌方式和解法都很有意思。歌曲极其无感，打歌很舒服\n太鼓选歌很有品位，可惜稍微歌少了一点。打歌方式也很有意思。就是入坑难度有点大，如果不好分辨蓝红很容易手和眼各干各的。而且频率底力要求稍微有点高。判定需要适应一下\n舞立方：几乎就是华语和欧美流行，爱国音游这块。都没日文歌，华语比较闹麻。欧美就是流行算能听，但前提是你是听欧美流行的。歌曲在这方面很全\n但打歌做的很无感，玩起来不舒服。打鼓和拍打按键我都很有感觉打得很舒服。舞立方打起来没有乐趣\n总结：\n歌曲品味：太鼓>舞立方>舞萌\n音游设计：太鼓>舞萌>舞立方"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟对象出来玩了一晚上音游\n没想到这里还有舞立方和太鼓🫨\n恰好今天状态不太好就全试了一遍\n一致认为：\n舞萌选歌都非常垃圾极其无品味，但是在这种全盘类音游中打歌方式和解法都很有意思。歌曲极其无感，打歌很舒服 https://t.co/sLKUMpXAd5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106433784321339678",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 66,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1790
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

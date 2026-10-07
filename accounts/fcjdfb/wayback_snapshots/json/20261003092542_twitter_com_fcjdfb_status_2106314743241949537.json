@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2106314743241949537",
+    "created_at": "2026-10-03T09:25:42.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106314743241949537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "17235228",
+          "start": 3,
+          "username": "INP1458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106314743241949537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106279069293944918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @INP1458: 画中人既可以是跨女，也完全可以是按出生性别使用空间的跨男。两种政策相反的情境能共享同一套恐惧意象，说明它真正煽动的并非对偷窥或骚扰等具体行为的警惕，而是对“男性化身体出现在女性空间”的洁净焦虑。画中的女性也因此不再是空间的使用主体，而是被塑造成了赤裸…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106314743241949537",
+        "created_at": "2026-10-03T09:25:42.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106314743241949537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "17235228",
+              "start": 3,
+              "username": "INP1458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106314743241949537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106279069293944918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @INP1458: 画中人既可以是跨女，也完全可以是按出生性别使用空间的跨男。两种政策相反的情境能共享同一套恐惧意象，说明它真正煽动的并非对偷窥或骚扰等具体行为的警惕，而是对“男性化身体出现在女性空间”的洁净焦虑。画中的女性也因此不再是空间的使用主体，而是被塑造成了赤裸…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17235228",
+        "conversation_id": "2106279069293944918",
+        "created_at": "2026-10-03T07:03:57.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:02:02.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106278584977600564",
+          "2106279069293944918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thewyterabbit1…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/thewyterabbit1/status/2105909142833791139",
+              "start": 129,
+              "url": "https://t.co/Twd2v1qCo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106279069293944918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "画中人既可以是跨女，也完全可以是按出生性别使用空间的跨男。两种政策相反的情境能共享同一套恐惧意象，说明它真正煽动的并非对偷窥或骚扰等具体行为的警惕，而是对“男性化身体出现在女性空间”的洁净焦虑。画中的女性也因此不再是空间的使用主体，而是被塑造成了赤裸 脆弱 等待被侵犯和被保护的景观。到底是在维护女性安全，还是在借保护之名，在沿用父权逻辑，为被客体化的女性守贞😂"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1313,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105909142833791139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "画中人既可以是跨女，也完全可以是按出生性别使用空间的跨男。两种政策相反的情境能共享同一套恐惧意象，说明它真正煽动的并非对偷窥或骚扰等具体行为的警惕，而是对“男性化身体出现在女性空间”的洁净焦虑。画中的女性也因此不再是空间的使用主体，而是被塑造成了赤裸 脆弱 https://t.co/Twd2v1qCo0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106314743241949537",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 66,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1751
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-11-07T17:53:43.000Z",
+        "description": "🧡🤍🩷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "inp.la",
+                "end": 23,
+                "expanded_url": "http://inp.la",
+                "start": 0,
+                "url": "https://t.co/J0R7fygDUG"
+              }
+            ]
+          }
+        },
+        "id": "17235228",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106311841937002882",
+        "name": "inp 🎀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17235228/1766937845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004956808784609283/2Nfex4yM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 534,
+          "like_count": 5082,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 2590
+        },
+        "url": "https://t.co/J0R7fygDUG",
+        "username": "INP1458",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

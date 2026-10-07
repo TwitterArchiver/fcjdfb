@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2105335726732894611",
+    "created_at": "2026-09-30T22:48:20.000Z",
+    "display_text_range": [
+      14,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T23:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105429568526197069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105429568526197069",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105335726732894611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 唉，我建议还是开一个高防护的硬性模式吧。这样在这种情况下还是能先警示"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2105335691429433344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTenqCSaUAAweHj.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2105335706822606851",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTenq7obgAM_zxc.jpg",
+        "width": 701
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2105335713709654016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTenrVSbgAAOlp3.jpg",
+        "width": 1154
+      },
+      {
+        "height": 671,
+        "media_key": "3_2105335720529555456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTenrusa8AAeInQ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2105335726732894611",
+        "created_at": "2026-09-30T22:48:20.000Z",
+        "display_text_range": [
+          14,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T23:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105429568526197069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105429568526197069",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105335726732894611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 唉，我建议还是开一个高防护的硬性模式吧。这样在这种情况下还是能先警示"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105335691429433344",
+            "3_2105335706822606851",
+            "3_2105335713709654016",
+            "3_2105335720529555456"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105335726732894611",
+        "created_at": "2026-09-30T16:35:27.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T17:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105335726732894611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vmFyNCdvit",
+              "end": 151,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2105335726732894611/photo/1",
+              "media_key": "3_2105335691429433344",
+              "start": 128,
+              "url": "https://t.co/vmFyNCdvit"
+            },
+            {
+              "display_url": "pic.x.com/vmFyNCdvit",
+              "end": 151,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2105335726732894611/photo/1",
+              "media_key": "3_2105335706822606851",
+              "start": 128,
+              "url": "https://t.co/vmFyNCdvit"
+            },
+            {
+              "display_url": "pic.x.com/vmFyNCdvit",
+              "end": 151,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2105335726732894611/photo/1",
+              "media_key": "3_2105335713709654016",
+              "start": 128,
+              "url": "https://t.co/vmFyNCdvit"
+            },
+            {
+              "display_url": "pic.x.com/vmFyNCdvit",
+              "end": 151,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2105335726732894611/photo/1",
+              "media_key": "3_2105335720529555456",
+              "start": 128,
+              "url": "https://t.co/vmFyNCdvit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105335726732894611",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105335691429433344"
+          },
+          {
+            "media_key": "3_2105335706822606851"
+          },
+          {
+            "media_key": "3_2105335713709654016"
+          },
+          {
+            "media_key": "3_2105335720529555456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "一名25岁自由画师，先被以约稿为诱饵的电信诈骗骗走约4万元，几天后从租住房32层坠亡\n\n圈内人都叫她「西柚」或「不吃西柚」。25岁，在佛山租房，靠约稿平台接单为生，也加入了画社。同事说她上色清透、唯美、绚丽，平时爱拍风景、流浪猫和小鸟，是个很热爱生活的人\n\n收入很薄。一张半身插画标价250元，通常要画6到7个小时，平台和画社还要抽成，到手更少。她自己在求助帖里写过：花呗欠款、房租和杂费加在一起，每个月至少要8000元才能周转。\n\n9月13日到14日，骗子先假装要约稿。先用「客户」身份建立信任，让对方进入接单状态\n\n聊了一段后，骗子改口冒充闲鱼客服，声称她的账户被冻结，必须「刷流水」才能解冻。所谓刷流水，就是让你按对方指令反复转账、扫码、操作账户，看起来像在配合平台核验，实际是把钱转出或把借贷额度掏空\n\n她被带到会议软件（她自己写的是 Teams），对方用公屏/共享屏幕指挥她扫码、开通借贷软件。结果是：自己大约1万元本金没了，又被诱导借了约2.4万元，合计被骗4万余元。她事后说「现在想来追悔莫及」\n\n同社另一名画师告诉记者，自己上个月遇到过几乎一样的开场白、约稿话术，以及「加闲鱼、扫微信二维码」的要求，因为起疑才没上当。说明这不是孤立案件，而是针对接单画师的产业链式话术。\n\n为什么容易中招？因为整件事被包装成「解决问题」：账户冻结是假问题，刷流水是假解决方案，会议软件和扫码是把人带离平台、脱离担保环境。一旦离开官方App，真正的客服不会用这种方式联系你。\n\n被骗之后的四天\n\n她没有立刻崩溃到停摆。她报了警，拿到了佛山市公安局南海分局的报警回执，也知道钱很难立刻追回。\n\n接下来几天，她用最笨也最熟悉的办法自救：画画还钱。同事说她几乎一天更新三四条评论，拼命接稿。9月17日，她在米画师发动态，写自己高强度画了两天，精神已经很差，希望有人约稿；同一天下午，她在画社群发出最后一条消息：开放最近画的三张半身，每张250元。社长还帮她在群里宣传过一轮。看起来她很急着用钱，但仍在撑。\n\n9月18日凌晨约1点，她从佛山租住的32层坠亡。父亲后来在群里发了墓碑照片，感谢大家对女儿的关心。一名自称姐姐的网友在她账号下留言，说这件事来得非常突然，对家人像晴天霹雳。\n\n家属从外地赶来处理后事，当时已经安葬\n诈骗案仍在侦办，钱的事还在查，但公开报道里没有看到已追回赃款或抓获嫌疑人的通报\n\n单看数字，4万在很多人眼里「还能缓」。但对她这种靠接稿吃饭、每月固定开支约8000、一张画只卖250的人来说，4万大约等于一百多张半身稿、将近一千小时的纯绘画时间，而且还叠加了借贷。钱没了，债务还在按月长；她选择的出路几乎只剩「画得更快、接得更多」。高强度赶稿本身就会把精神状态拖垮，再叠上自责和「钱追不回来」的预期，短短几天就从自救滑向绝望"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6456,
+          "like_count": 122,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "一名25岁自由画师，先被以约稿为诱饵的电信诈骗骗走约4万元，几天后从租住房32层坠亡\n\n圈内人都叫她「西柚」或「不吃西柚」。25岁，在佛山租房，靠约稿平台接单为生，也加入了画社。同事说她上色清透、唯美、绚丽，平时爱拍风景、流浪猫和小鸟，是个很热爱生活的人 https://t.co/vmFyNCdvit"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2105429568526197069",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 64,
+          "like_count": 963,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1671
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女性｜01年｜艺术学本科毕业、法学在读｜约十年危机干预和救助经历，曾为此散尽了个人的所有青春和财富\n\n我会写下十多年来中国的跨性别女性群体是如何生存的，她们又是如何燃尽自己的生命帮助其他人的。还有我自己的见闻和救助经历，如果想了解，可以查看我的很多早期的历史推文\n\n如果想了解我的详细情况，可以查看我的置顶推文",
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2105392033871597864",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42952,
+          "following_count": 4249,
+          "like_count": 2489,
+          "listed_count": 3,
+          "media_count": 421,
+          "tweet_count": 3295
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

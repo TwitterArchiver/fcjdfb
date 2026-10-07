@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2106314001743577482",
+    "created_at": "2026-10-03T09:22:46.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106314001743577482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1849859626055106566",
+          "start": 3,
+          "username": "jngjng349977"
+        },
+        {
+          "end": 29,
+          "id": "1134614241103581184",
+          "start": 18,
+          "username": "huang3feng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106314001743577482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105982765145501861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jngjng349977: @huang3feng 周围的学生只会哈哈大笑，因此又多了一天假期。恁国老老少少全是披着人皮的鬼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106314001743577482",
+        "created_at": "2026-10-03T09:22:46.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106314001743577482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1849859626055106566",
+              "start": 3,
+              "username": "jngjng349977"
+            },
+            {
+              "end": 29,
+              "id": "1134614241103581184",
+              "start": 18,
+              "username": "huang3feng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106314001743577482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105982765145501861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jngjng349977: @huang3feng 周围的学生只会哈哈大笑，因此又多了一天假期。恁国老老少少全是披着人皮的鬼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849859626055106566",
+        "conversation_id": "2105961693583171772",
+        "created_at": "2026-10-02T11:26:33.000Z",
+        "display_text_range": [
+          12,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T12:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105982765145501861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1134614241103581184",
+              "start": 0,
+              "username": "huang3feng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105982765145501861",
+        "in_reply_to_user_id": "1134614241103581184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13874,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105961693583171772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huang3feng 周围的学生只会哈哈大笑，因此又多了一天假期。恁国老老少少全是披着人皮的鬼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106314001743577482",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 66,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1750
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-25T17:04:48.000Z",
+        "description": "",
+        "id": "1849859626055106566",
+        "is_identity_verified": false,
+        "location": "苏黎世",
+        "most_recent_tweet_id": "2106259969058160722",
+        "name": "Leah",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849859626055106566/1772361640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028057534485913600/pM247AAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 577,
+          "like_count": 2776,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "jngjng349977",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-01T00:14:49.000Z",
+        "description": "試上高峰窺皓月 偶開天眼覷紅塵 可憐身是眼中人 歷史與人文、美學博主    想听那些历史上大咖的糗事吗？咱们聊聊",
+        "id": "1134614241103581184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106311783346794940",
+        "name": "文雍",
+        "pinned_tweet_id": "2105500346751861086",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1134614241103581184/1676761992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627234268324978689/5dM0tONk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20932,
+          "following_count": 2414,
+          "like_count": 33014,
+          "listed_count": 67,
+          "media_count": 7505,
+          "tweet_count": 28393
+        },
+        "url": "",
+        "username": "huang3feng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

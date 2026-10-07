@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2099895150956937519",
+    "created_at": "2026-09-15T16:16:32.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099895150956937519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suekageseikiyo…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/suekageseikiyo/status/2099715085807894920",
+          "start": 142,
+          "url": "https://t.co/supDTPVWQg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099895150956937519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我觉得真不是因为刻板印象去穿这种服装的，只是生活从小到大没有接触过女装。于是在选择上并没有那么多看法想法，那最容易了解和见到的就是jk水色系了。并且买的时候也能先满足自己要的可爱这一点，可能经验上来了才会去思考穿衣服是一个要考虑身材，脸型，骨骼，发型，季节等等。顺女也不是一开始就知道什么穿搭适合自己，慢慢来不急"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099715085807894920",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得真不是因为刻板印象去穿这种服装的，只是生活从小到大没有接触过女装。于是在选择上并没有那么多看法想法，那最容易了解和见到的就是jk水色系了。并且买的时候也能先满足自己要的可爱这一点，可能经验上来了才会去思考穿衣服是一个要考虑身材，脸型，骨骼，发型，季节等等。顺女也不是一开始就知 https://t.co/supDTPVWQg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2099895150956937519",
+        "created_at": "2026-09-15T16:16:32.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099895150956937519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suekageseikiyo…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/suekageseikiyo/status/2099715085807894920",
+              "start": 142,
+              "url": "https://t.co/supDTPVWQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099895150956937519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得真不是因为刻板印象去穿这种服装的，只是生活从小到大没有接触过女装。于是在选择上并没有那么多看法想法，那最容易了解和见到的就是jk水色系了。并且买的时候也能先满足自己要的可爱这一点，可能经验上来了才会去思考穿衣服是一个要考虑身材，脸型，骨骼，发型，季节等等。顺女也不是一开始就知道什么穿搭适合自己，慢慢来不急"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099715085807894920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得真不是因为刻板印象去穿这种服装的，只是生活从小到大没有接触过女装。于是在选择上并没有那么多看法想法，那最容易了解和见到的就是jk水色系了。并且买的时候也能先满足自己要的可爱这一点，可能经验上来了才会去思考穿衣服是一个要考虑身材，脸型，骨骼，发型，季节等等。顺女也不是一开始就知 https://t.co/supDTPVWQg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605093608910381056",
+        "conversation_id": "2099715085807894920",
+        "created_at": "2026-09-15T04:21:01.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099715085807894920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ApplerinQAQ/st…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/ApplerinQAQ/status/2099651260018507917",
+              "start": 121,
+              "url": "https://t.co/dfis0xeymF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099715085807894920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "每隔一段时间就有这种认为自己很懂时尚的人出来指点江山，实际上0人是为了你们所谓的「刻板印象」才去穿JK水手服的。\n而且这种服装的受众群体本来就是小孩子啊，我在北京也能时不时看见年纪小的顺女穿JK。在十七八岁的年纪不穿难道要等七八十岁再穿🐴？\n你指责别人穿JK是为了迎合刻板印象，可你自己又依照自己的喜好去规范别人的行为，怎么这么双标呢，土逼登味藏不住了😅\n更令人作呕的是在顺女积极提倡穿衣自由的今天这种狗哨言论还有一堆人跪舔，哦只许女的搞中性风把身体曲线抹平不许男的用可爱元素装饰自己，我呸，一群土包子，你们懂个屁的时尚，你们只是在侵犯别人择衣自由的权利来满足自己对于弱势群体的优越感"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4467,
+          "like_count": 88,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099651260018507917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每隔一段时间就有这种认为自己很懂时尚的人出来指点江山，实际上0人是为了你们所谓的「刻板印象」才去穿JK水手服的。\n而且这种服装的受众群体本来就是小孩子啊，我在北京也能时不时看见年纪小的顺女穿JK。在十七八岁的年纪不穿难道要等七八十岁再穿🐴？ https://t.co/dfis0xeymF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号\n什么都发比较日常，电影游戏精神病学心理学性别烦躁音乐器材比较日常\nnon-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2099895150956937519",
+        "name": "windigo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099879631554027520/jep7lkPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 72,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 781
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "私がモテないのはどう考えてもお前らが悪い",
+        "id": "1605093608910381056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099889157493620771",
+        "name": "末末",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605093608910381056/1771945016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093319654760730624/_iXwuaNH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 633,
+          "like_count": 13556,
+          "listed_count": 7,
+          "media_count": 314,
+          "tweet_count": 2446
+        },
+        "url": "",
+        "username": "suekageseikiyo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2106264662769885473",
+    "created_at": "2026-10-03T06:15:35.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T07:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106266896773636136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1576083963713503232",
+          "start": 0,
+          "username": "Whatlimbo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106266896773636136",
+    "in_reply_to_user_id": "1576083963713503232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106264662769885473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Whatlimbo 谷没毛病，太容易薅了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 804,
+        "media_key": "3_2106264654137974785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTr0iyDa4AEtm3H.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106264662769885473",
+        "created_at": "2026-10-03T06:15:35.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T07:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106266896773636136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1576083963713503232",
+              "start": 0,
+              "username": "Whatlimbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106266896773636136",
+        "in_reply_to_user_id": "1576083963713503232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106264662769885473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Whatlimbo 谷没毛病，太容易薅了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106264654137974785"
+          ]
+        },
+        "author_id": "1576083963713503232",
+        "conversation_id": "2106264662769885473",
+        "created_at": "2026-10-03T06:06:42.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T07:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106264662769885473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I6Aacucq9O",
+              "end": 81,
+              "expanded_url": "https://x.com/Whatlimbo/status/2106264662769885473/photo/1",
+              "media_key": "3_2106264654137974785",
+              "start": 58,
+              "url": "https://t.co/I6Aacucq9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106264662769885473",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106264654137974785"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谷圣变谷➗，只需要一纸通告。\n反观 Claude 免费用户能用 Sonnet 5.5，竟然是国外模型厂商里最圣的。 https://t.co/I6Aacucq9O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106266896773636136",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 66,
+          "like_count": 1031,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1743
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-01T05:37:59.000Z",
+        "description": "「CARRiER WAVE.」Comming Soon.",
+        "id": "1576083963713503232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106264662769885473",
+        "name": "limbo.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1576083963713503232/1780411169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093601604570333184/W3G9njpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 120,
+          "like_count": 1369,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "Whatlimbo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

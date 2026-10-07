@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105903044135456769",
+        "3_2105903058354143232",
+        "3_2105903070643462144"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2105903077408838050",
+    "created_at": "2026-10-02T06:09:54.000Z",
+    "display_text_range": [
+      0,
+      150
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T07:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105903077408838050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aRlPG1jBD2",
+          "end": 174,
+          "expanded_url": "https://x.com/fcjdfb/status/2105903077408838050/photo/1",
+          "media_key": "3_2105903044135456769",
+          "start": 151,
+          "url": "https://t.co/aRlPG1jBD2"
+        },
+        {
+          "display_url": "pic.x.com/aRlPG1jBD2",
+          "end": 174,
+          "expanded_url": "https://x.com/fcjdfb/status/2105903077408838050/photo/1",
+          "media_key": "3_2105903058354143232",
+          "start": 151,
+          "url": "https://t.co/aRlPG1jBD2"
+        },
+        {
+          "display_url": "pic.x.com/aRlPG1jBD2",
+          "end": 174,
+          "expanded_url": "https://x.com/fcjdfb/status/2105903077408838050/photo/1",
+          "media_key": "3_2105903070643462144",
+          "start": 151,
+          "url": "https://t.co/aRlPG1jBD2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105903077408838050",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105903044135456769"
+      },
+      {
+        "media_key": "3_2105903058354143232"
+      },
+      {
+        "media_key": "3_2105903070643462144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上飞机了ing 临时定了一张\n每次如果需要托运的我都建议跟柜台说一下自己懂和会做到什么协助乘务组xxx就可以获得一张跟商务舱差不多大小的位置\n我上机才发现这趟有wifi，好像也就国航会给wifi了。其他几家b航司国内根本不开wifi，前几次遇到wifi也都是在国航。希望国航早日推进飞机wifi改革吧 https://t.co/aRlPG1jBD2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3414,
+        "media_key": "3_2105903044135456769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmrqT0bkAEETS9.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2105903058354143232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmrrIybgAAkyQp.jpg",
+        "width": 2835
+      },
+      {
+        "height": 2688,
+        "media_key": "3_2105903070643462144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmrr2kboAAUh3M.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105903044135456769",
+            "3_2105903058354143232",
+            "3_2105903070643462144"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105903077408838050",
+        "created_at": "2026-10-02T06:09:54.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105903077408838050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRlPG1jBD2",
+              "end": 174,
+              "expanded_url": "https://x.com/fcjdfb/status/2105903077408838050/photo/1",
+              "media_key": "3_2105903044135456769",
+              "start": 151,
+              "url": "https://t.co/aRlPG1jBD2"
+            },
+            {
+              "display_url": "pic.x.com/aRlPG1jBD2",
+              "end": 174,
+              "expanded_url": "https://x.com/fcjdfb/status/2105903077408838050/photo/1",
+              "media_key": "3_2105903058354143232",
+              "start": 151,
+              "url": "https://t.co/aRlPG1jBD2"
+            },
+            {
+              "display_url": "pic.x.com/aRlPG1jBD2",
+              "end": 174,
+              "expanded_url": "https://x.com/fcjdfb/status/2105903077408838050/photo/1",
+              "media_key": "3_2105903070643462144",
+              "start": 151,
+              "url": "https://t.co/aRlPG1jBD2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105903077408838050",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105903044135456769"
+          },
+          {
+            "media_key": "3_2105903058354143232"
+          },
+          {
+            "media_key": "3_2105903070643462144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上飞机了ing 临时定了一张\n每次如果需要托运的我都建议跟柜台说一下自己懂和会做到什么协助乘务组xxx就可以获得一张跟商务舱差不多大小的位置\n我上机才发现这趟有wifi，好像也就国航会给wifi了。其他几家b航司国内根本不开wifi，前几次遇到wifi也都是在国航。希望国航早日推进飞机wifi改革吧 https://t.co/aRlPG1jBD2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2105903077408838050",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 66,
+          "like_count": 995,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1721
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

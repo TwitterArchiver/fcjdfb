@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2105690207198777391",
+    "created_at": "2026-10-01T19:21:45.000Z",
+    "display_text_range": [
+      8,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T20:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105739966328213581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "899470193776140289",
+          "start": 0,
+          "username": "hzqsns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105739966328213581",
+    "in_reply_to_user_id": "899470193776140289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105690207198777391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzqsns 这不是挺好的吗，那浴巾毛巾擦卫生间新闻你可能没看过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2105690141314719744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjqBvAbIAA9yxK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105690141327335424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjqBvDboAAnNSm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2105690207198777391",
+        "created_at": "2026-10-01T19:21:45.000Z",
+        "display_text_range": [
+          8,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T20:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105739966328213581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "899470193776140289",
+              "start": 0,
+              "username": "hzqsns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105739966328213581",
+        "in_reply_to_user_id": "899470193776140289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105690207198777391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzqsns 这不是挺好的吗，那浴巾毛巾擦卫生间新闻你可能没看过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105690141314719744",
+            "3_2105690141327335424"
+          ]
+        },
+        "author_id": "899470193776140289",
+        "conversation_id": "2105690207198777391",
+        "created_at": "2026-10-01T16:04:01.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105690207198777391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7f40IQJ7na",
+              "end": 89,
+              "expanded_url": "https://x.com/hzqsns/status/2105690207198777391/photo/1",
+              "media_key": "3_2105690141314719744",
+              "start": 66,
+              "url": "https://t.co/7f40IQJ7na"
+            },
+            {
+              "display_url": "pic.x.com/7f40IQJ7na",
+              "end": 89,
+              "expanded_url": "https://x.com/hzqsns/status/2105690207198777391/photo/1",
+              "media_key": "3_2105690141327335424",
+              "start": 66,
+              "url": "https://t.co/7f40IQJ7na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105690207198777391",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105690141314719744"
+          },
+          {
+            "media_key": "3_2105690141327335424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2290,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然这电竞酒店200不到环境很好配置很新，但是准备去洗澡看到一次性毛巾和浴巾真的没绷住。。。。\n\n这辈子第一次住酒店只提供这个的😀 https://t.co/7f40IQJ7na"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2105739966328213581",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 66,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1716
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-21T03:16:20.000Z",
+        "description": "ex-KS | ex-Baidu | 好男孩喵 | 逃生舱@snshzq23658\nISFJ | mtx | 奇迹和魔法并不是免费的\n🐧：第40542075个质数(动动你聪明的脑袋瓜算一下) \n匿名提问箱：https://t.co/m2nyyclarh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "snshzq23658"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/0kg37l",
+                "end": 126,
+                "expanded_url": "https://reurl.cc/0kg37l",
+                "start": 103,
+                "url": "https://t.co/m2nyyclarh"
+              }
+            ]
+          }
+        },
+        "id": "899470193776140289",
+        "is_identity_verified": false,
+        "location": "M87",
+        "most_recent_tweet_id": "2105690207198777391",
+        "name": "Sakura🜃",
+        "pinned_tweet_id": "2061076825389019435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/899470193776140289/1744911350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091812334377590784/j73hf8Dk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 637,
+          "like_count": 4203,
+          "listed_count": 4,
+          "media_count": 658,
+          "tweet_count": 2843
+        },
+        "url": "",
+        "username": "hzqsns",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

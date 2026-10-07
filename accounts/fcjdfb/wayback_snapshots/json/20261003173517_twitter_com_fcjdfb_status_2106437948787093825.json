@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2106387739365306647",
+    "created_at": "2026-10-03T17:35:17.000Z",
+    "display_text_range": [
+      18,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T18:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106437948787093825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2083196399211200512",
+          "start": 0,
+          "username": "kuukiwfn"
+        },
+        {
+          "end": 17,
+          "id": "2103508842424553472",
+          "start": 10,
+          "username": "wu1kog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106437948787093825",
+    "in_reply_to_user_id": "2083196399211200512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106432862732042360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwfn @wu1kog 进不来吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106387739365306647",
+        "created_at": "2026-10-03T17:35:17.000Z",
+        "display_text_range": [
+          18,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106437948787093825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2083196399211200512",
+              "start": 0,
+              "username": "kuukiwfn"
+            },
+            {
+              "end": 17,
+              "id": "2103508842424553472",
+              "start": 10,
+              "username": "wu1kog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106437948787093825",
+        "in_reply_to_user_id": "2083196399211200512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106432862732042360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwfn @wu1kog 进不来吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083196399211200512",
+        "conversation_id": "2106387739365306647",
+        "created_at": "2026-10-03T17:15:04.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106432862732042360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2103508842424553472",
+              "start": 0,
+              "username": "wu1kog"
+            },
+            {
+              "end": 15,
+              "id": "2032037309219315712",
+              "start": 8,
+              "username": "fcjdfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106432862732042360",
+        "in_reply_to_user_id": "2103508842424553472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106427680115904535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu1kog @fcjdfb 我我我🤍🤍"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106437948787093825",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 66,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1791
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T14:22:20.000Z",
+        "description": "ｋｕｕｋｉ　\nAGENDER | AROMANTIC ASEXUAL \nsh/od twt\njoined 31/7/26 (5th acc\n\n████████████████████\n6th acc @kksama77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 100,
+                "username": "kksama77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.twitch.tv/kuukiwtf/home",
+                "end": 23,
+                "expanded_url": "http://m.twitch.tv/kuukiwtf/home",
+                "start": 0,
+                "url": "https://t.co/LHYKUSR2AI"
+              }
+            ]
+          }
+        },
+        "id": "2083196399211200512",
+        "is_identity_verified": true,
+        "location": "ｉｎｔｅｒｎｅｔ",
+        "most_recent_tweet_id": "2106436232914051185",
+        "name": "kuuki",
+        "pinned_tweet_id": "2091204360248381856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083196399211200512/1785509200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083202604855926784/BKn2wpol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 301,
+          "like_count": 12646,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 1982
+        },
+        "url": "https://t.co/LHYKUSR2AI",
+        "username": "kuukiwfn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T15:49:06.000Z",
+        "description": "不知道活着的意义，也不知道什么时候该死\n17Ⅱ双相ⅡMTXⅡ精分Ⅱ社恐Ⅱ悲观主义Ⅱ重度抑郁\n爱玩三角洲Ⅱ双性恋（像我这种路过都能让别人感到压抑的人真的有人爱吗）",
+        "id": "2103508842424553472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106437253140717907",
+        "name": "最开心的抑郁患者🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103508842424553472/1790374981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103512438012514304/JlNHiarH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 55,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "wu1kog",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2106374675140124728",
+    "created_at": "2026-10-03T13:23:51.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T14:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106374675140124728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060007568009793538",
+          "start": 3,
+          "username": "tuzhibisai"
+        },
+        {
+          "end": 27,
+          "id": "1637395614055952384",
+          "start": 16,
+          "username": "Furinanatw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106374675140124728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106028853512774039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuzhibisai: @Furinanatw 寓意共产党带牠下地狱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106374675140124728",
+        "created_at": "2026-10-03T13:23:51.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106374675140124728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060007568009793538",
+              "start": 3,
+              "username": "tuzhibisai"
+            },
+            {
+              "end": 27,
+              "id": "1637395614055952384",
+              "start": 16,
+              "username": "Furinanatw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106374675140124728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106028853512774039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuzhibisai: @Furinanatw 寓意共产党带牠下地狱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060007568009793538",
+        "conversation_id": "2106000495479505072",
+        "created_at": "2026-10-02T14:29:41.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106028853512774039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1637395614055952384",
+              "start": 0,
+              "username": "Furinanatw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106028853512774039",
+        "in_reply_to_user_id": "1637395614055952384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10182,
+          "like_count": 339,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106000495479505072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Furinanatw 寓意共产党带牠下地狱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106374675140124728",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 66,
+          "like_count": 1044,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1761
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T14:39:56.000Z",
+        "description": "🎌大日本図支万岁",
+        "id": "2060007568009793538",
+        "is_identity_verified": false,
+        "location": "🎌全球図支中心",
+        "most_recent_tweet_id": "2106290279401599144",
+        "name": "感谢日本図支",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060007568009793538/1779979759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068875665580109824/q1fjxE-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 135,
+          "like_count": 2115,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 657
+        },
+        "url": "",
+        "username": "tuzhibisai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-19T10:09:17.000Z",
+        "description": "专业梗图制作20年。",
+        "id": "1637395614055952384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106368635061289400",
+        "name": "芙宁娜娜💙(2号）",
+        "pinned_tweet_id": "2053853925543997648",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637395614055952384/1787821976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034353403413815296/jobxBFGx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4409,
+          "following_count": 494,
+          "like_count": 872,
+          "listed_count": 16,
+          "media_count": 239,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "Furinanatw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

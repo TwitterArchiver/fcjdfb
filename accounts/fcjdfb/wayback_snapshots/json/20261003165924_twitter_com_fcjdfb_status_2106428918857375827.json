@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2106304471232139469",
+    "created_at": "2026-10-03T16:59:24.000Z",
+    "display_text_range": [
+      28,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T17:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106428918857375827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "IchinichiNagi"
+        },
+        {
+          "end": 27,
+          "id": "2038547314835705856",
+          "start": 15,
+          "username": "asaltfishes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106428918857375827",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106428730088517926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IchinichiNagi @asaltfishes 那你要问她愿不愿意🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106304471232139469",
+        "created_at": "2026-10-03T16:59:24.000Z",
+        "display_text_range": [
+          28,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106428918857375827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "IchinichiNagi"
+            },
+            {
+              "end": 27,
+              "id": "2038547314835705856",
+              "start": 15,
+              "username": "asaltfishes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106428918857375827",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106428730088517926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IchinichiNagi @asaltfishes 那你要问她愿不愿意🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2106304471232139469",
+        "created_at": "2026-10-03T16:58:39.000Z",
+        "display_text_range": [
+          21,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106428730088517926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            },
+            {
+              "end": 20,
+              "id": "2038547314835705856",
+              "start": 8,
+              "username": "asaltfishes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106428730088517926",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106428542322119073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb @asaltfishes 有没有作战记录🥵🥵🥵\n我要看帅哥美女"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106428918857375827",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 66,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1789
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "我没有\n我都没做过爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "is_identity_verified": false,
+        "location": "冉家坝",
+        "most_recent_tweet_id": "2106428730088517926",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2103883997646598570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754494415152766976/1782808002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106056396168957953/83QyVMpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6228,
+          "following_count": 2291,
+          "like_count": 33977,
+          "listed_count": 9,
+          "media_count": 3205,
+          "tweet_count": 29479
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "IchinichiNagi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-03-30T09:22:54.000Z",
+        "description": "這裡是saltfish喵～\nFrom 110｜090928｜简/繁/En｜欢迎互fo \n妹妹&恋人@meowania_Fan\nMtFtX | HRT 2026.7.9｜社恐!!｜ISFP-T \nAnother @asaltfishMeow｜Loading…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "meowania_Fan"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "asaltfishMeow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/asaltfishes",
+                "end": 23,
+                "expanded_url": "http://ngl.link/asaltfishes",
+                "start": 0,
+                "url": "https://t.co/5ihgjUgzux"
+              }
+            ]
+          }
+        },
+        "id": "2038547314835705856",
+        "is_identity_verified": false,
+        "location": "Heaven Forever",
+        "most_recent_tweet_id": "2106426557887860747",
+        "name": "saltfish🏳️‍⚧️",
+        "pinned_tweet_id": "2094206779135815920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038547314835705856/1785291915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096215303781056512/3vu2t4do_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 1596,
+          "like_count": 6664,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 1427
+        },
+        "url": "https://t.co/5ihgjUgzux",
+        "username": "asaltfishes",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

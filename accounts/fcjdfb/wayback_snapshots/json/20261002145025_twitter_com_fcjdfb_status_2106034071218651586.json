@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2106007319129870698",
+    "created_at": "2026-10-02T14:50:25.000Z",
+    "display_text_range": [
+      11,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T15:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106034071218651586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1816148552764252169",
+          "start": 0,
+          "username": "chedis1qu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106034071218651586",
+    "in_reply_to_user_id": "1816148552764252169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106007319129870698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chedis1qu 我是感觉p4r美术问题太严重了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106007319129870698",
+        "created_at": "2026-10-02T14:50:25.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106034071218651586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816148552764252169",
+              "start": 0,
+              "username": "chedis1qu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106034071218651586",
+        "in_reply_to_user_id": "1816148552764252169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106007319129870698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chedis1qu 我是感觉p4r美术问题太严重了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816148552764252169",
+        "conversation_id": "2106007319129870698",
+        "created_at": "2026-10-02T13:04:07.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106007319129870698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106007319129870698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "27年年初一个弹丸2*2一个p4r真可以玩爽了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106034071218651586",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 66,
+          "like_count": 1006,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1726
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-07-24T16:29:11.000Z",
+        "description": "超越？——超越！",
+        "id": "1816148552764252169",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106022234238378453",
+        "name": "nothingtolose",
+        "pinned_tweet_id": "2059677830490038306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816148552764252169/1783398007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092822203691937792/eDv-Evrp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 833,
+          "like_count": 29554,
+          "listed_count": 3,
+          "media_count": 617,
+          "tweet_count": 13503
+        },
+        "url": "",
+        "username": "chedis1qu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

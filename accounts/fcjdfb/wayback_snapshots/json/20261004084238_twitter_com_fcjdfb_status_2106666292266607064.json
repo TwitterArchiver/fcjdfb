@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106666286562582528"
+      ]
+    },
+    "author_id": "2032037309219315712",
+    "conversation_id": "2106663803069010141",
+    "created_at": "2026-10-04T08:42:38.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T09:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106666292266607064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KoSVw2vSUs",
+          "end": 48,
+          "expanded_url": "https://x.com/fcjdfb/status/2106666292266607064/photo/1",
+          "media_key": "3_2106666286562582528",
+          "start": 25,
+          "url": "https://t.co/KoSVw2vSUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106666292266607064",
+    "in_reply_to_user_id": "2032037309219315712",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106666286562582528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106663803069010141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我做完笔录的时候也有录音🤓我会选择也都发出来 https://t.co/KoSVw2vSUs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 329,
+        "media_key": "3_2106666286562582528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxh03baoAARveU.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 71600,
+        "height": 1080,
+        "media_key": "13_2106663778515611648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106663778515611648/img/fqRbdoW8DLZDXQXy.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106663778515611648/vid/avc1/540x540/cb1xSM5Me2BxKHBt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106663778515611648/pl/u9QQzBQCAKFnP7PR.m3u8"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106663778515611648/vid/avc1/320x320/zRofbg_2h5R8TUgB.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106663778515611648/vid/avc1/1080x1080/3ck687LXKK9iQ8tG.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106663778515611648/vid/avc1/720x720/d7_gB65spZnwuDjl.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106666286562582528"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106663803069010141",
+        "created_at": "2026-10-04T08:42:38.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T09:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106666292266607064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KoSVw2vSUs",
+              "end": 48,
+              "expanded_url": "https://x.com/fcjdfb/status/2106666292266607064/photo/1",
+              "media_key": "3_2106666286562582528",
+              "start": 25,
+              "url": "https://t.co/KoSVw2vSUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106666292266607064",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106666286562582528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106663803069010141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我做完笔录的时候也有录音🤓我会选择也都发出来 https://t.co/KoSVw2vSUs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106663778515611648"
+          ]
+        },
+        "author_id": "2032037309219315712",
+        "conversation_id": "2106663803069010141",
+        "created_at": "2026-10-04T08:32:45.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T09:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106663803069010141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dA2guHSW3q",
+              "end": 92,
+              "expanded_url": "https://x.com/fcjdfb/status/2106663803069010141/video/1",
+              "media_key": "13_2106663778515611648",
+              "start": 69,
+              "url": "https://t.co/dA2guHSW3q"
+            },
+            {
+              "display_url": "x.com/fcjdfb/status/…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/fcjdfb/status/2106580082143695058",
+              "start": 93,
+              "url": "https://t.co/PpGBnNV20o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106663803069010141",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2106663778515611648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 193,
+                "id": "1843201902550634496",
+                "start": 177,
+                "username": "LwrDHYyuxR22499"
+              }
+            ]
+          },
+          "text": "民警还试图把我直接拖拽出派出所的座椅上到派出所外面去，这还是有监控的情况下... 实在不太敢想当时要是脱离了派出所有监控和执法仪下会干嘛\n且在此事情越闹越大之后临时成立专案组处理如是书院此事后，找我做笔录的民警在笔录记录中只口不提此事。并在笔录结束关掉执法记录仪之后直接开始威胁我对于此事和相关录音等不要放到媒体上，我作为受害者不要给自己惹太多“麻烦”\n@LwrDHYyuxR22499"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106580082143695058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "民警还试图把我直接拖拽出派出所的座椅上到派出所外面去，这还是有监控的情况下... 实在不太敢想当时要是脱离了派出所有监控和执法仪下会干嘛 https://t.co/dA2guHSW3q https://t.co/PpGBnNV20o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106666292266607064",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 67,
+          "like_count": 1112,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1819
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

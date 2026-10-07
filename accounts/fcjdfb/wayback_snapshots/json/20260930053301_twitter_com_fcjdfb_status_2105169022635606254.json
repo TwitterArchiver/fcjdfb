@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032037309219315712",
+    "conversation_id": "2105169022635606254",
+    "created_at": "2026-09-30T05:33:01.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T06:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105169022635606254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634191229310341121",
+          "start": 3,
+          "username": "jkhh_kkj"
+        },
+        {
+          "end": 30,
+          "id": "1788485889225834496",
+          "start": 14,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105169022635606254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105140287546749223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jkhh_kkj: @YesterdayOrange 之前我还在看B站的时候，发现有一群人真挺牛逼。\n性压抑了，不嫖娼,不打飞机,也不靠娱乐缓解；就爱看点牢A说全世界女的都喜欢中国男人。\n很久没看B站了，也不知道牢A现在在发什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2105169022635606254",
+        "created_at": "2026-09-30T05:33:01.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T06:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105169022635606254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634191229310341121",
+              "start": 3,
+              "username": "jkhh_kkj"
+            },
+            {
+              "end": 30,
+              "id": "1788485889225834496",
+              "start": 14,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105169022635606254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105140287546749223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jkhh_kkj: @YesterdayOrange 之前我还在看B站的时候，发现有一群人真挺牛逼。\n性压抑了，不嫖娼,不打飞机,也不靠娱乐缓解；就爱看点牢A说全世界女的都喜欢中国男人。\n很久没看B站了，也不知道牢A现在在发什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191229310341121",
+        "conversation_id": "2105111586126069905",
+        "created_at": "2026-09-30T03:38:50.000Z",
+        "display_text_range": [
+          17,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T04:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105140287546749223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105140287546749223",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105111586126069905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 之前我还在看B站的时候，发现有一群人真挺牛逼。\n性压抑了，不嫖娼,不打飞机,也不靠娱乐缓解；就爱看点牢A说全世界女的都喜欢中国男人。\n很久没看B站了，也不知道牢A现在在发什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2105169022635606254",
+        "name": "cjy",
+        "pinned_tweet_id": "2102788085704794409",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 63,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1636
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-10T13:55:34.000Z",
+        "description": "Disappointment is like a coin that always saves enough tickets to leave.\n\npan",
+        "id": "1634191229310341121",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2105160937909133386",
+        "name": "jxmy bsp",
+        "pinned_tweet_id": "2077092861506682988",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932786553782480905/Xl76b5ly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 431,
+          "like_count": 17985,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 5245
+        },
+        "url": "",
+        "username": "jkhh_kkj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105161051398607243",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2105117767020187938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12685,
+          "following_count": 5604,
+          "like_count": 106775,
+          "listed_count": 24,
+          "media_count": 2713,
+          "tweet_count": 22675
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
